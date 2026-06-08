@@ -765,7 +765,7 @@
       },
       {
         "name": "ESPN 7",
-        "url": "http://148.222.230.197:8000/play/a0hz/index.m3u8?hls",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/369709.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
         "type": "HLS",
         "drm_license_uri": ""
