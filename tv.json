@@ -400,9 +400,9 @@
       },
       {
         "name": "ABC TV",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8SdYD3SmuPZBkBWGU1HQHYnR9dydPRwWrYaHT5_tSgC1ZV29VJDN8hx5dr4b1qsre2gqE3-fE2ldmDavQKejM3rukYXZGioJDhHqzreX4pm3xnNpcUC_x4rKbrEai-gP)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9skr3m.m3u8?sec=Qtge4aVh4zot9JZccvDR0k4GDYSAqhEB5a3vV3QrwlR9Gx3T8_QkKwAQ4RKrHIqXXduzUh0s7Nhi2zZeVmuxds33IsEll9xYmHTjTnatZxQ&dmTs=86348&dmV1st=506c4fc5-01a4-378f-acec-511239ac362e",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
