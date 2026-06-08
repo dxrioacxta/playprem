@@ -639,7 +639,7 @@
       },
       {
         "name": "C5N",
-        "url": "http://200.219.40.1:8000/play/a01p/index.m3u8",
+        "url": "http://rlatinop.com:8880/live/panchoenlared/qf6JEgTypQFn/490448.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c5n_9a561a6129734698a76daa9bb556d6a1.png",
         "type": "HLS",
         "drm_license_uri": ""
