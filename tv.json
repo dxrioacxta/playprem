@@ -840,7 +840,7 @@
       },
       {
         "name": "DIRECTV SPORT 2",
-        "url": "http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/316084.m3u8",
         "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
         "type": "HLS",
         "drm_license_uri": ""
