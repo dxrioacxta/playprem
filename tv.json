@@ -348,6 +348,13 @@
           "Referer": "https://api.goleafutbol.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Proko",
+        "url": "http://redworld.pro:8880/live/vztqwdscia/TrNzWZfqVuQF/167732.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
