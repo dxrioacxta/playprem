@@ -2030,18 +2030,6 @@
         "icono": "https://i.ibb.co/PZB0q2Sz/Sony-Movies-Logo-svg.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Europa Europa",
-        "url": "https://edge-live32-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwODA1NjgxIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuY18vIiwic2Vzc2lvbl9jZG5faWQiOiJjYTFkYzZmMDY2MzNlNjk3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjU5Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.UqJPFWDt-RYbWDQnsA-CMVF7QsPEfwu1nRQs_qyNwbqsa197gFnUuzOKeVab2cYZNgYCZ43pvQ44agL9p12kJw==/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
-        "type": "CLEARKEY",
-        "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
