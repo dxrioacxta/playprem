@@ -793,7 +793,7 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/369708.m3u8",
         "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
         "type": "HLS",
         "drm_license_uri": ""
