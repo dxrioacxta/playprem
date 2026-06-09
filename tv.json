@@ -2229,7 +2229,7 @@
       },
       {
         "name": "HGTV",
-        "url": "http://190.104.67.8:234/play/a06o/index.m3u8",
+        "url": "http://179.60.51.134:8888/HGTV/tracks-v1a1/mono.m3u8",
         "icono": "https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png",
         "type": "HLS",
         "drm_license_uri": ""
