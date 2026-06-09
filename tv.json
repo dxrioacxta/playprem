@@ -15,6 +15,13 @@
         "icono": "https://i.ibb.co/Vpx4S1Ky/9n-TR3-BXb-W-1290x650-1.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "1",
+        "url": "https://megaezz.site/app/extract.php?stream=espn&ext=.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
