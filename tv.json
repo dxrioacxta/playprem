@@ -30,9 +30,9 @@
       },
       {
         "name": "TRECE PY2",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=IDwhuxxKIfaDDRmtLOv5lw4RBsoVI79QzHkpJfrecvS8Jdvfl_05vOD9uPQgZKcsnKr70U1tRf6XlfecizSE-KvyZ_Ro-p4-GKUAIlMgpY4&dmV1st=506c4fc5-01a4-378f-acec-511239ac362e&dmTs=86348",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9ksaba.m3u8?sec=IDwhuxxKIfaDDRmtLOv5l4OpoRFCF3n4QqqK9KXZ_5xlMo-MRYcf4ykRwl7WLN9kOGPBjXeCoWXFJ1NAHGKmqJprK4cuaSP3PsPMMj5r5J8&dmV1st=506c4fc5-01a4-378f-acec-511239ac362e&dmTs=86348",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
