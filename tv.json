@@ -144,6 +144,13 @@
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Tigo",
+        "url": "http://restreamlatam.online:80/live/Arieljara@/20262026py/908779.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
