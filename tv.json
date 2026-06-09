@@ -356,9 +356,9 @@
     "samples": [
       {
         "name": "AMERICA TV PY",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(oJszOHdSh_egLwJ2fnzEdpofbDhUCBCYtdetflr_GxVxyQAHEmzhAMyR9sNGauP6whVTC2SY5-CTs1sq-bjJm5Wi6FFdPPBbh7Fgx6z8hXZWl4IxbloukJJJqgxLVpHC)/cloud/3/x9lh4mu/d/live-480.m3u8#cell=lcf2-eu-north-1b",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8?sec=yAWgD656VKaly0SNwnJ_G_ewa0ZL6CwBKCafpb3G9eYX_rzwcYBtejCxtWm1dheiwyluZ9NB6RZgqsh5odoQhmvf57k7RTUC2oQvf6fzZFA&dmTs=86348&dmV1st=506c4fc5-01a4-378f-acec-511239ac362e",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": ""
       },
       {
