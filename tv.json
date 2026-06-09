@@ -3,10 +3,10 @@
     "name": "🇦🇷Argentina 🆚 Islandia🇮🇸 (Martes a las 21:00hs)",
     "samples": [
       {
-        "name": "Se activará 2 horas antes",
-        "url": "https://api.goleafutbol.com/api/proxy/manifest?s=5-GY5p-v78hyKIdUbzGeYpwmF1fus4Rz",
+        "name": "EN VIVO 🟢",
+        "url": "https://restreamlatam.online:80/live/Arieljara@/20262026py/550811.ts",
         "icono": "https://i.ibb.co/Vpx4S1Ky/9n-TR3-BXb-W-1290x650-1.jpg",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
