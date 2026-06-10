@@ -800,9 +800,9 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "url": "https://streamtp-x-y-z.ws/global1.php?stream=espnpremium",
+        "url": "http://restreamlatam.online:80/live/Arieljara@/20262026py/991280.ts",
         "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
