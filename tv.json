@@ -141,10 +141,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Pruebapy",
+        "name": "PruebaULTI",
         "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
         "icono": "",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       }
     ]
