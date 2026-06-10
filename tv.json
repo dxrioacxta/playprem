@@ -141,11 +141,16 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Pruebafox",
+        "name": "Pruebafoxagent",
         "url": "https://www.telegratishd.com/fox-sports-premium-en-vivo.php",
         "icono": "",
         "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
+        }
       }
     ]
   },
