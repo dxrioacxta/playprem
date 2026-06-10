@@ -148,10 +148,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "SntQ",
-        "url": "https://www.snt.com.py/envivo/?source=Internal&ref=Signals+Menu",
+        "name": "Snt",
+        "url": "https://www.snt.com.py/envivo/",
         "icono": "",
-        "type": "sniff",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       }
     ]
