@@ -144,7 +144,7 @@
         "name": "Pruebatv",
         "url": "https://www.telegratishd.com/golden-edge-en-vivo.php",
         "icono": "",
-        "type": "",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       }
     ]
