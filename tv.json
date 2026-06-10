@@ -418,6 +418,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "ÑANDUTI TV",
+        "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EOxV-nirJlF_UpHHCq1F71viH5OEHluEOg&s",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN TV",
         "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
