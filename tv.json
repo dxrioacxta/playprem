@@ -145,12 +145,7 @@
         "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
         "icono": "",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://la18hd.com/",
-          "Referer": "https://la18hd.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       }
     ]
   },
