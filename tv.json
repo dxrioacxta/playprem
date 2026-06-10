@@ -151,6 +151,13 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36"
         }
+      },
+      {
+        "name": "Snt",
+        "url": "https://www.snt.com.py/envivo/?source=Internal&ref=Signals+Menu",
+        "icono": "",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
       }
     ]
   },
