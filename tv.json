@@ -146,13 +146,6 @@
         "icono": "",
         "type": "WEBVIEW",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Pruebampgts",
-        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/316084.mpegts",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
