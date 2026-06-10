@@ -141,17 +141,17 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Pruebafoxagent",
-        "url": "https://www.telegratishd.com/fox-sports-premium-en-vivo.php",
+        "name": "Pruebasnift",
+        "url": "https://www.telegratishd.com/tnt-sports-en-vivo.php",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "SNIFF",
         "drm_license_uri": ""
       },
       {
-        "name": "Snt",
+        "name": "SntQ",
         "url": "https://www.snt.com.py/envivo/?source=Internal&ref=Signals+Menu",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "sniff",
         "drm_license_uri": ""
       }
     ]
