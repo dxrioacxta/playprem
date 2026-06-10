@@ -856,7 +856,7 @@
       },
       {
         "name": "DIRECTV SPORT 2",
-        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/316084.m3u8",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/316084.ts",
         "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
         "type": "HLS",
         "drm_license_uri": ""
