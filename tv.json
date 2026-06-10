@@ -779,9 +779,9 @@
       },
       {
         "name": "ESPN 5",
-        "url": "https://la18hd.com/vivo/canales.php?stream=espn5",
+        "url": "http://restreamlatam.online:80/live/Arieljara@/20262026py/556295.ts",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
