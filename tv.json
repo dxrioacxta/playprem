@@ -779,9 +779,9 @@
       },
       {
         "name": "ESPN 4",
-        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/369712.m3u8",
+        "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn4",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       },
       {
