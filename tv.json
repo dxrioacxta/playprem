@@ -160,11 +160,16 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba",
+        "name": "Prueba32",
         "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
         "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K Smart TV Build/QTG3.201103.001.A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Safari/537.36"
+        }
       }
     ]
   },
