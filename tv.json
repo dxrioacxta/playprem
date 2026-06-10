@@ -811,6 +811,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "ESPN PREMIUM",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/369708.m3u8",
+        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FOX SPORTS",
         "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/316060.m3u8",
         "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
@@ -828,13 +835,6 @@
         "name": "FOX SPORTS 3",
         "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/316064.m3u8",
         "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN PREMIUM",
-        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/369708.m3u8",
-        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
