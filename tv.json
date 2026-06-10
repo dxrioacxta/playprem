@@ -818,6 +818,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "ESPN DEPORTES",
+        "url": "https://tvorb.net/ZTV/10945-live.m3u8",
+        "icono": "https://i.ibb.co/Jw1zcLkC/330px-ESPN-Deportes-svg.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FOX SPORTS",
         "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/316060.m3u8",
         "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
