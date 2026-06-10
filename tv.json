@@ -158,6 +158,13 @@
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Prueba",
+        "url": "http://200.112.174.230:80/mtcast_tychd/mpegts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
