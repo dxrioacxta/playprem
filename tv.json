@@ -146,13 +146,6 @@
         "icono": "",
         "type": "WEBVIEW",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Snt",
-        "url": "https://www.snt.com.py/envivo/",
-        "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
       }
     ]
   },
