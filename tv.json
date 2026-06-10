@@ -160,8 +160,8 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba",
-        "url": "http://200.112.174.230:80/mtcast_tychd/mpegts",
+        "name": "Prueba2",
+        "url": "http://restreamlatam.online:80/live/Arieljara@/20262026py/571303/mpegts",
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
