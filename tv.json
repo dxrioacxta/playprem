@@ -514,7 +514,7 @@
       {
         "name": "COLMENAR TV",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
-        "icono": "logos/1781148997_179931.jpg",
+        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
