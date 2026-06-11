@@ -191,6 +191,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "Tigo Sports ON🟢",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/locotigo/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS 1",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a1cbca79a/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
