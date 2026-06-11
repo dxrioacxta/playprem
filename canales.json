@@ -153,6 +153,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "UNIVERSO",
+        "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+        "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TELEMUNDO 52",
         "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
@@ -464,13 +471,6 @@
   {
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
-      {
-        "name": "UNIVERSO",
-        "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-        "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "CANAL 5 MX",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
