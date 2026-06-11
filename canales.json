@@ -77,6 +77,13 @@
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TRECE PY",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -383,13 +390,6 @@
   {
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
-      {
-        "name": "TRECE PY",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "DIRECTV 1",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
