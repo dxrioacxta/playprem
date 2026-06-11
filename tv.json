@@ -52,19 +52,19 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba cam2",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "name": "Prueba camar",
+        "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": "",
         "drm": {
-          "kid": "49eb924ba998ca7fbbaee30dcef1ecb4",
-          "key": "6e131b04b2e87598fb588ac205673698"
+          "kid": "789387a3f449419d9b6e2f6c910e0861",
+          "key": "a78b627380a43ef610485082ee91277a"
         },
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": ""
         }
       }
     ]
