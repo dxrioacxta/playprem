@@ -4,15 +4,10 @@
     "samples": [
       {
         "name": "LATRIBU TV",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9zkxlu.m3u8?sec=LGW-Eelm5qPt6opoAn4nEiyHx16MIUmT75-g_x2yJ1bUwrYFF1-P0Jk78IHEOLw9Fq7_Tf5awZmAKVe_xRKetvaNEBwq6VsvoHE2X35qqE0&dmV1st=506c4fc5-01a4-378f-acec-511239ac362e&dmTs=86348",
+        "url": "https://la18hd.com/vivo/canales.php?stream=caracol",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781199733_180694.webp",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://latribu.stream/",
-          "Referer": "https://latribu.stream/",
-          "User-Agent": ""
-        }
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
       },
       {
         "name": "GEN TV",
