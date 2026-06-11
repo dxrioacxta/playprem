@@ -514,7 +514,7 @@
       {
         "name": "COLMENAR TV",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
-        "icono": "https://radiocolmenar.com.py/logo-radio-colmenar.jpg",
+        "icono": "logos/1781148997_179931.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
