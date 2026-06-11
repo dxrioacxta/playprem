@@ -141,16 +141,11 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Pruebaflow",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "name": "Pruebatigo",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/327538.m3u8",
         "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": ""
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
