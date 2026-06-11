@@ -47,7 +47,7 @@
       {
         "name": "DIRECTV PLUS",
         "url": "https://la18hd.com/vivo/canales.php?stream=dsportsplus",
-        "icono": "",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "type": "WEBVIEW",
         "drm_license_uri": ""
       }
