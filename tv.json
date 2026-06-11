@@ -903,9 +903,9 @@
       },
       {
         "name": "DIRECTV SPORT",
-        "url": "http://38.224.175.2:8000/play/a0l4/index.m3u8",
+        "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       },
       {
