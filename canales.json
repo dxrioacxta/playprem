@@ -5,6 +5,13 @@
       {
         "name": "LATRIBU TV",
         "url": "https://la18hd.com/vivo/canales.php?stream=caracol",
+        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781204121_180929.jpg",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LATRIBU TV",
+        "url": "https://la18hd.com/vivo/canales.php?stream=caracol",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781199733_180694.webp",
         "type": "WEBVIEW",
         "drm_license_uri": ""
