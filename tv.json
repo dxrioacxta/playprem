@@ -889,7 +889,7 @@
       },
       {
         "name": "DIRECTV SPORT +",
-        "url": "http://38.224.175.2:8000/play/a011/index.m3u8",
+        "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
         "icono": "http://miarea.vip:8080/images/f0d5e6d2ffddd56c53d3e2ad57261b00.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
