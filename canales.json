@@ -3,6 +3,13 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
+        "name": "TRECE PY OPC 2",
+        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TRECE PY",
         "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjg2MjM2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiMDg3YThlMTZiNTFjNzE2Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODExMTM0MzYtMzExIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.tsvGGCzeX8YU6oCs8b-BC43iBU8I3qQP0Y2bK8gf_PvIpI8FPYL2qLcCQI84S3t3fxrsHlc6WrqhgLU_CYBmRg==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
@@ -338,13 +345,6 @@
   {
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
-      {
-        "name": "TRECE PY OPC 2",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "UNICANAL",
         "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjg2MjM2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiMDg3YThlMTZiNTFjNzE2Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODExMTM0MzYtMzExIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.tsvGGCzeX8YU6oCs8b-BC43iBU8I3qQP0Y2bK8gf_PvIpI8FPYL2qLcCQI84S3t3fxrsHlc6WrqhgLU_CYBmRg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
