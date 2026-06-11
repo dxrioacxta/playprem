@@ -226,6 +226,13 @@
         "icono": "https://i.ibb.co/NgMrTfYB/WA-1779839477836.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TyC prueba",
+        "url": "http://ts4.tvcluboficial.com:80/ts/TycSports/_599323.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
