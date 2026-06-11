@@ -472,18 +472,6 @@
         "icono": "https://i.ibb.co/yFP5Ldf1/large-white.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": ".1",
-        "url": "https://api.goleafutbol.com/api/proxy/manifest?s=DKMafciTE22QkMYX0_7yIt8jDafwEkMr",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://api.goleafutbol.com/",
-          "Referer": "https://api.goleafutbol.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
