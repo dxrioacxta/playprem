@@ -38,13 +38,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "DIRECTV 1 OPC 2",
-        "url": "http://38.224.175.2:8000/play/a011/index.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "DIRECTV 2",
         "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
