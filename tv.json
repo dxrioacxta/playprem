@@ -50,6 +50,13 @@
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "type": "WEBVIEW",
         "drm_license_uri": ""
+      },
+      {
+        "name": "UNIVERSO",
+        "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+        "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
