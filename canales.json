@@ -273,13 +273,6 @@
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Prueba cine",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/400256.ts",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
@@ -926,7 +919,15 @@
   },
   {
     "name": "🍿CINE 24/7",
-    "samples": []
+    "samples": [
+      {
+        "name": "CINE 1 PREMIUM",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/400256.ts",
+        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781220852_181465.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": " ARGENTINA🇦🇷",
