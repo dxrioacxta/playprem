@@ -62,22 +62,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": ""
         }
-      },
-      {
-        "name": "Prueba camar",
-        "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "drm": {
-          "kid": "789387a3f449419d9b6e2f6c910e0861",
-          "key": "a78b627380a43ef610485082ee91277a"
-        },
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": ""
-        }
       }
     ]
   },
