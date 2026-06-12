@@ -379,10 +379,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba",
+        "name": "Prueba1",
         "url": "https://mpd.r2img-stock709.workers.dev/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
         "icono": "",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       }
     ]
