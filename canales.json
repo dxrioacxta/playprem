@@ -15,6 +15,18 @@
         }
       },
       {
+        "name": "FLOW CAM 2",
+        "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjg2MjM2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiMDg3YThlMTZiNTFjNzE2Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODExMTM0MzYtMzExIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.tsvGGCzeX8YU6oCs8b-BC43iBU8I3qQP0Y2bK8gf_PvIpI8FPYL2qLcCQI84S3t3fxrsHlc6WrqhgLU_CYBmRg==live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "icono": "https://i.ibb.co/RT7jDCQf/Picsart-26-06-08-22-29-50-780.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=97a46697db7524c76d47de9bed5b7f8a&key=8a0a08da423fca679702b4632a90f333",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "EVENTO DEPORTIVOS",
         "url": "https://la18hd.com/vivo/canales.php?stream=caracol",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781204121_180929.jpg",
@@ -51,18 +63,6 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "FLOW CAM 2",
-        "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxMjg2MjM2Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiMDg3YThlMTZiNTFjNzE2Iiwic2Vzc2lvbl9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiLTE3ODExMTM0MzYtMzExIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYyNDM0NGNhY2VkMDdiNGZjNWYyNzU1YTZkMjI2MzdiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.tsvGGCzeX8YU6oCs8b-BC43iBU8I3qQP0Y2bK8gf_PvIpI8FPYL2qLcCQI84S3t3fxrsHlc6WrqhgLU_CYBmRg==live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
-        "icono": "https://i.ibb.co/RT7jDCQf/Picsart-26-06-08-22-29-50-780.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=97a46697db7524c76d47de9bed5b7f8a&key=8a0a08da423fca679702b4632a90f333",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py/",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "TRECE PY",
