@@ -22,6 +22,13 @@
         }
       },
       {
+        "name": "FLOW MULTICAMARA",
+        "url": ".",
+        "icono": "https://i.ibb.co/0VBQxTf6/Picsart-26-06-08-22-32-57-086.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=f0d61c011c3343c630d66a55681ec0e9&key=f6fb66ae915cd5043864d821eacbae03"
+      },
+      {
         "name": "GEN TV OPC 2",
         "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
