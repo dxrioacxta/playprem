@@ -1002,6 +1002,13 @@
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 5",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/369711.ts",
+        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
