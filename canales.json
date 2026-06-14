@@ -974,7 +974,15 @@
   },
   {
     "name": "🏆 DISNEY + ✅",
-    "samples": []
+    "samples": [
+      {
+        "name": "ESPN",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/369715.ts",
+        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": " ARGENTINA🇦🇷",
