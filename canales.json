@@ -372,10 +372,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba html",
+        "name": "Prueba hls",
         "url": "https://embed.ksdjugfsddeports.com/embed/cinemax.html",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
