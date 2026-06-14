@@ -384,11 +384,16 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba hls",
-        "url": "https://embed.ksdjugfsddeports.com/embed/cinemax.html",
+        "name": "Prueba vss spo",
+        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
         "icono": "",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://no.gendigi.net",
+          "Referer": "https://no.gendigi.net",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
