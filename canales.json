@@ -981,6 +981,13 @@
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 2",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/369714.ts",
+        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
