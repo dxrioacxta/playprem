@@ -218,7 +218,15 @@
   },
   {
     "name": "UFC - [Ilia Topuria vs Justin Gaethje]",
-    "samples": []
+    "samples": [
+      {
+        "name": "UFC🟢",
+        "url": "https://streamtpday1.xyz/global2.php?stream=paramount1",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "EVENTOS PY",
