@@ -242,13 +242,6 @@
           "Referer": "https://ep10.online",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "UFC🟢",
-        "url": "https://streamtpday1.xyz/global2.php?stream=paramount1",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
       }
     ]
   },
@@ -343,6 +336,13 @@
         "icono": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "type": "HLS",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+      },
+      {
+        "name": "UFC🟢",
+        "url": "https://streamtpday1.xyz/global2.php?stream=paramount1",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg",
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "EVENTOS 2",
