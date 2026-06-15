@@ -249,6 +249,13 @@
         "icono": "https://1000marcas.net/wp-content/uploads/2020/03/Logo-UFC.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTO 3 EN VIVO🟢",
+        "url": "https://prope04b7009.airspace-cdn.cbsivideo.com/stream_1/manifest.m3u8",
+        "icono": "https://1000marcas.net/wp-content/uploads/2020/03/Logo-UFC.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
