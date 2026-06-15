@@ -415,14 +415,14 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba2",
+        "name": "Prueba3",
         "url": "https://dai.google.com/linear/hls/event/Cc4MFGe4SemytpVSMJYYbg/master.m3u8",
         "icono": "",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "https://streamtp10.com/",
-          "Referer": "https://streamtp10.com/",
+          "Origin": "https://sudamericaplay2.com/",
+          "Referer": "https://sudamericaplay2.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       }
