@@ -346,10 +346,10 @@
     "samples": [
       {
         "name": "EVENTOS 1",
-        "url": "https://megaezz.duckdns.org/app/extract.php?stream=dsports&ext=.m3u8",
+        "url": "https://tvorb.net/ZTV/8823-live.m3u8",
         "icono": "https://i.ibb.co/bjF2wkHf/EVENTOS1.png",
         "type": "HLS",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+        "drm_license_uri": ""
       },
       {
         "name": "EVENTOS 2",
