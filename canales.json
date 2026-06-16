@@ -225,6 +225,13 @@
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Pruebaameri",
+        "url": "https://dmxleo.dailymotion.com/cdn/manifest/video/x9lh4mu.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
