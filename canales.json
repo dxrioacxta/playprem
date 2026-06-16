@@ -227,8 +227,8 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Pruebaameri1",
-        "url": "https://dmxleo.dailymotion.com/cdn/manifest/video/x9lh4mu.m3u8",
+        "name": "Pruebaameri2",
+        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8",
         "icono": "",
         "type": "HLS",
         "drm_license_uri": "",
