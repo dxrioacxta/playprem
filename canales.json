@@ -225,18 +225,6 @@
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Pruebaameri2",
-        "url": "https://cdndirector.dailymotion.com/cdn/live/video/x9lh4mu.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://geo.dailymotion.com/",
-          "Referer": "https://geo.dailymotion.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
