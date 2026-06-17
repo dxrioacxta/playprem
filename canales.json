@@ -422,6 +422,13 @@
         "icono": "",
         "type": "WEBVIEW",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Cine 2024",
+        "url": "http://ts7.tvcluboficial.com:80/ts/Cine247_2024/_1909118.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
