@@ -3324,11 +3324,16 @@
         "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
       },
       {
-        "name": "TLNOVELA HD",
-        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/202690.m3u8",
+        "name": "TLNOVELA",
+        "url": "http://168.228.44.241:9997/play/a076/index.m3u8",
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "NOVELAS TV",
