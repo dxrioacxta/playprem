@@ -3331,6 +3331,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "NOVELAS TV",
+        "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png",
+        "type": "HLS",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0"
+      },
+      {
         "name": "Canal De Las Estrellas",
         "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "type": "HLS",
