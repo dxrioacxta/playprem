@@ -3,10 +3,10 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
-        "name": "EVENTO MUNDIAL 2026",
-        "url": "http://205.235.6.29:8000/play/a0y3/index.m3u8",
+        "name": "EVENTO MUNDIAL 2026 HD",
+        "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
         "icono": "https://i.ibb.co/MDwZdzxG/1781741615190.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       },
       {
