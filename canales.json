@@ -693,13 +693,6 @@
     "name": "CANALES PARAGUAY OP2",
     "samples": [
       {
-        "name": "E40 TV",
-        "url": "http://138.59.227.20:8000/play/a0fp/index.m3u8",
-        "icono": "https://i.ibb.co/tpcPQ437/ab67706c0000da8407a311c188c8e3debf30d1ea.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "SNT",
         "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
