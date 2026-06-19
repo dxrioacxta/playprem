@@ -714,6 +714,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "MOTOR SUR TV",
+        "url": "https://edge.enhdtv.com:443/8116/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/ynLhfK6h/1781890447907.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "HEI",
         "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
