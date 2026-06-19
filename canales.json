@@ -232,6 +232,13 @@
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Prueba",
+        "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=3_",
+        "icono": "",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
       }
     ]
   },
