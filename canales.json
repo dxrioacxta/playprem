@@ -801,6 +801,13 @@
     "name": "PARAGUAY INTERIORES 🇵🇾",
     "samples": [
       {
+        "name": "VISION VILLARICA",
+        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+        "icono": "https://i.ibb.co/XfQqVrLQ/VISION-TV.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DEL REY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
