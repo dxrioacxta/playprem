@@ -22,7 +22,7 @@
         }
       },
       {
-        "name": "CAM FLOW 1",
+        "name": "CAM FLOW",
         "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMDYxNzUxIiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FU1BOMkhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDdiZWFmODBhYzk2Y2I3ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.XYGMNuj3nHtNgAHMOiHgSb0BpM8uaPknaJbPOHaCM7CMyXhqRlSTHkbO6ItDz-Mc5voiUS7QEl2oWOl7AuZHVg==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "https://i.ibb.co/RT7jDCQf/Picsart-26-06-08-22-29-50-780.png",
         "type": "CLEARKEY",
@@ -30,7 +30,7 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.py/",
           "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0"
         }
       },
       {
