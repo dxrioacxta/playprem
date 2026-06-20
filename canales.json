@@ -3,13 +3,6 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
-        "name": "EVENTO FIFA HD",
-        "url": "http://191.97.59.33:8000/play/a09t/index.m3u8",
-        "icono": "https://i.ibb.co/XxdL9FWG/2026-FIFA-World-Cup-emblem-svg.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "VS SPORTS HD",
         "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781481117_186953.jpg",
