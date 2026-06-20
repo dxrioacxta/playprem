@@ -952,9 +952,9 @@
       },
       {
         "name": "ESPN 3",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/369713.ts",
+        "url": "https://la18hd.com/vivo/canales.php?stream=disney3",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       },
       {
