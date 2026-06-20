@@ -940,7 +940,7 @@
         "name": "ESPN",
         "url": "https://la18hd.com/vivo/canales.php?stream=disney1",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       },
       {
