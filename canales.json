@@ -3255,14 +3255,14 @@
       },
       {
         "name": "TLNOVELA",
-        "url": "http://168.228.44.241:9997/play/a076/index.m3u8",
+        "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=12_",
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
           "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0"
         }
       },
       {
