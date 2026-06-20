@@ -15,13 +15,6 @@
         }
       },
       {
-        "name": "DSPORTS SD",
-        "url": "https://tv1.strm2234.xyz/dsports0/index.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "Mundia | Cam 1",
         "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMDgwNzE1Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImFlMDRiMDdmN2NiOWI2MTQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.fYL3FEmG2r-vOFRQOm9A44Fu8VifS6H6CuJqMi5JTCn6MuDyWGP0nfTL348avWunh0CqAk3WXyFYzb17dGfF6Q==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "https://i.ibb.co/h1C7MqNS/250px-2026-FIFA-World-Cup-emblem-svg.png",
