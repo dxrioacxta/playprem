@@ -7,7 +7,12 @@
         "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0"
+        }
       },
       {
         "name": "DSPORTS SD",
