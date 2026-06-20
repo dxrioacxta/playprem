@@ -230,6 +230,18 @@
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Mundial  | Bein",
+        "url": "https://streamxyz.shop/bein4k/index.m3u8",
+        "icono": "https://i.ibb.co/h1C7MqNS/250px-2026-FIFA-World-Cup-emblem-svg.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://xyzstreams.shop",
+          "Referer": "https://xyzstreams.shop/",
+          "User-Agent": ""
+        }
       }
     ]
   },
