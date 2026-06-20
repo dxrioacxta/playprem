@@ -232,10 +232,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Mundial hls",
+        "name": "Mundial",
         "url": "https://deportes.ksdjugfsddeports.com/tvporinternet.php?stream=3_",
         "icono": "https://i.ibb.co/h1C7MqNS/250px-2026-FIFA-World-Cup-emblem-svg.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       }
     ]
