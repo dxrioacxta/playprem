@@ -4,15 +4,10 @@
     "samples": [
       {
         "name": "DSPORTS SD",
-        "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=3_",
+        "url": "https://tv1.strm2234.xyz/dsports0/index.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "Mundia | Cam 1",
