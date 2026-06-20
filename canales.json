@@ -3,6 +3,13 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
+        "name": "DSPORTS HD⚽",
+        "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DSPORTS SD",
         "url": "https://tv1.strm2234.xyz/dsports0/index.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
