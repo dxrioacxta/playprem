@@ -332,7 +332,12 @@
         "url": "http://ts6.tvcluboficial.com:80/ts/Eventos6/_43984.ts",
         "icono": "",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "http://ts6.tvcluboficial.com/",
+          "Referer": "http://ts6.tvcluboficial.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
