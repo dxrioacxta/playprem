@@ -958,7 +958,12 @@
         "url": "https://la18hd.com/vivo/canales.php?stream=disney2",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
         "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0"
+        }
       },
       {
         "name": "ESPN 3",
