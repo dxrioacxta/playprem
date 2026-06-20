@@ -15,18 +15,6 @@
         }
       },
       {
-        "name": "VS SPORTS HD",
-        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
-        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781481117_186953.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://no.gendigi.net",
-          "Referer": "https://no.gendigi.net",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "CAM FLOW",
         "url": "https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMDY2MTQ1Iiwic2lwIjoiMTc5LjI3LjIwMC4zMCIsInBhdGgiOiIvbGl2ZS9jM2Vkcy9FU1BOMkhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTZiODZjMGY1ZGUzNWUwZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiI1OCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.8uYQAa7C1FW2cwLDTHr6-pftI2TN9kC0tWj87jXLX3jAeTwykRYpFR9zaSx8qKq7evTUyYabemLtouJfPJJyHQ==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "https://i.ibb.co/RT7jDCQf/Picsart-26-06-08-22-29-50-780.png",
@@ -83,6 +71,18 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GEN TV OPC 2",
+        "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://no.gendigi.net",
+          "Referer": "https://no.gendigi.net",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
