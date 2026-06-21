@@ -9,9 +9,9 @@
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0"
+          "Origin": "http://redworld.pro:8880/",
+          "Referer": "http://redworld.pro:8880/",
+          "User-Agent": "IPTVSmarters o Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
         }
       },
       {
