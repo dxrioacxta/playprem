@@ -11,7 +11,7 @@
         "headers": {
           "Origin": "http://redworld.pro:8880/",
           "Referer": "http://redworld.pro:8880/",
-          "User-Agent": "IPTVSmarters o Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+          "User-Agent": "IPTVSmarters"
         }
       },
       {
