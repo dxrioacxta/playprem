@@ -1098,13 +1098,13 @@
       },
       {
         "name": "ESPN 6",
-        "url": "https://la18hd.com/vivo/canales.php?stream=disney6",
+        "url": "https://streamtpday1.xyz/global2.php?stream=disney6",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
         "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "https://la18hd.com/",
-          "Referer": "https://la18hd.com/",
+          "Origin": "https://streamtpday1.xyz/",
+          "Referer": "https://streamtpday1.xyz/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
