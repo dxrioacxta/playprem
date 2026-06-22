@@ -4,14 +4,14 @@
     "samples": [
       {
         "name": "WIN SPORTS PLUS",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/413759.m3u8",
+        "url": "https://la18hd.com/vivo/canales.php?stream=winsports2",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Win_Sports.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://dalive.site:8080/",
-          "Referer": "http://dalive.site:8080/",
-          "User-Agent": "IPTVSmarters"
+          "Origin": "https://la18hd.com/",
+          "Referer": "https://la18hd.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
       {
