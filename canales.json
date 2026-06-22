@@ -3,18 +3,6 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
-        "name": "Mundial | FS1",
-        "url": "https://streamxyz.shop/fs14k/index.m3u8",
-        "icono": "https://i.ibb.co/h1C7MqNS/250px-2026-FIFA-World-Cup-emblem-svg.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://xyzstreams.shop/",
-          "Referer": "https://xyzstreams.shop",
-          "User-Agent": ""
-        }
-      },
-      {
         "name": "WIN SPORTS PLUS",
         "url": "https://la18hd.com/vivo/canales.php?stream=winsports2",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Win_Sports.png",
