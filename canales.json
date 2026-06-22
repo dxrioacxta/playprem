@@ -280,8 +280,8 @@
         }
       },
       {
-        "name": "Prueba",
-        "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMDcxODczIiwic2lwIjoiODQuMjUyLjExNC41IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0FtZXJpY2EyNC9TQV9MaXZlX2Rhc2hfZW5jXy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjE4YTgwNWE5YjY5OTBmZjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzQxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.e22q-ozpAwAXU8ZfzAqeqv-LkDJ61QuCmD0bS5xD1EFYYg_fBwVua4Q53tz4CDtxae4o9OQ4FAb62_HVDpxWWQ==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "name": "Prueba2",
+        "url": "https://edge-live18-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyMjcwODAyIiwic2lwIjoiMTgxLjEyNC4xMjkuNDIiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDlmODFlZDE0Yzk1NzliNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyMzEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.GysKkr3UByY95JFi8Fx0XVS4lrM2VzEYh7OtBVooRPOGyVCk5i-pe-AK6zRBYco0rw0_JF41nbLvBdOn8_mmLw==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV-mp4a_145200_spa=20001-scale=48000-p=359352451076366-17377330352849.mp4",
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": "",
