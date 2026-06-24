@@ -290,6 +290,13 @@
           "Referer": "https://la18hd.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Prueba",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=da81f7165f73c884fc1dcf0bf3bd4bb5&key=3f8d519997196db76631dd4b427f53f6"
       }
     ]
   },
