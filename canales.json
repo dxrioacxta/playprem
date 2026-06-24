@@ -292,8 +292,8 @@
         }
       },
       {
-        "name": "Prueba2",
-        "url": "https://pelisjuanita.com/tv/trece-py",
+        "name": "Prueba3",
+        "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
         "icono": "",
         "type": "WEBVIEW",
         "drm_license_uri": "",
