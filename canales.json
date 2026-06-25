@@ -292,16 +292,11 @@
         }
       },
       {
-        "name": "Prueba4",
+        "name": "Prueba4hls",
         "url": "https://deportes.ksdjugfsddeports.com/tvporinternet.php?stream=1_",
         "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://deportes.ksdjugfsddeports.com/",
-          "Referer": "https://deportes.ksdjugfsddeports.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
