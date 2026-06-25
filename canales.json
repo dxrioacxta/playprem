@@ -292,11 +292,16 @@
         }
       },
       {
-        "name": "Prueba4hls",
-        "url": "https://deportes.ksdjugfsddeports.com/tvporinternet.php?stream=1_",
+        "name": "Prueba4",
+        "url": "https://rojaplayapp2026.blogspot.com/p/dsports-tvtv.html",
         "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://rojaplayapp2026.blogspot.com/",
+          "Referer": "https://rojaplayapp2026.blogspot.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
