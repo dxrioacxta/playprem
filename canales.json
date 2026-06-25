@@ -292,16 +292,11 @@
         }
       },
       {
-        "name": "Prueba4",
+        "name": "Prueba4no",
         "url": "https://rojaplayapp2026.blogspot.com/p/dsports-tvtv.html",
         "icono": "",
         "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://rojaplayapp2026.blogspot.com/",
-          "Referer": "https://rojaplayapp2026.blogspot.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       }
     ]
   },
