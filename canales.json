@@ -3362,14 +3362,14 @@
       },
       {
         "name": "TLNOVELA",
-        "url": "http://redworld.pro:8880/live/vztqwdscia/TrNzWZfqVuQF/135436.m3u8",
+        "url": "https://edge-live05-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTIzNDgwIiwic2lwIjoiMTgxLjEyNC4xMjguNjgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOWI1ZmQxMDY3OGUwMWNkNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.CC2XOaEp66bMTou0-zypl9j2N6N2EKbe2znujrtz4D8iseGntqgy6Tyg0T7w1fvNMoBlXzIdKonCoq9u2GiRvA==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://redworld.pro:8880/",
-          "Referer": "http://redworld.pro:8880/",
-          "User-Agent": "IPTVSmarters"
+          "Origin": "https://portal.app.flow.com.ar/",
+          "Referer": "https://portal.app.flow.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
         }
       },
       {
