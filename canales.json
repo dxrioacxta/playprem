@@ -292,14 +292,14 @@
         }
       },
       {
-        "name": "Prueba3",
-        "url": "https://pelisjuanita.com/tv/embed.html?r=aHR0cHM6Ly90dnR2aGQuY29tL2NhbmFsZXMucGhwP3N0cmVhbT1kc3BvcnRz",
+        "name": "Prueba4",
+        "url": "https://deportes.ksdjugfsddeports.com/tvporinternet.php?stream=1_",
         "icono": "",
         "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "https://pelisjuanita.com/",
-          "Referer": "https://pelisjuanita.com/",
+          "Origin": "https://deportes.ksdjugfsddeports.com/",
+          "Referer": "https://deportes.ksdjugfsddeports.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
       }
