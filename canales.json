@@ -292,11 +292,16 @@
         }
       },
       {
-        "name": "Prueba4no",
-        "url": "https://rojaplayapp2026.blogspot.com/p/dsports-tvtv.html",
+        "name": "Prueba4",
+        "url": "https://panel-kaciketv.kesug.com/dsports.m3u8",
         "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://rojaplayapp2026.blogspot.com/",
+          "Referer": "https://rojaplayapp2026.blogspot.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
