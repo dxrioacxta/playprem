@@ -292,11 +292,16 @@
         }
       },
       {
-        "name": "Prueba88",
-        "url": "https://futbollibrehd.com.pe/embed/eventos.html?r=aHR0cHM6Ly90dmhkMi5jb20vb25saW5lL2NhbmFsZXMucGhwP3N0cmVhbT1ldmVuMQ==",
+        "name": "Pruebaññ",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187293.ts",
         "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "http://dalive.site:8080/",
+          "Referer": "http://dalive.site:8080/",
+          "User-Agent": "com.ibopro.apptv24/42 (Linux; U; Android 15; es_US; 23028RA60L; Build/AQ3A.240829.003; Cronet/149.0.7827.22)"
+        }
       }
     ]
   },
