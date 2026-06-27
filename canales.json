@@ -4,13 +4,13 @@
     "samples": [
       {
         "name": "TYC SPORTS HD",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187371.ts",
+        "url": "http://redworld.pro:8880/live/Swq25as/tLHnZxGNqd3c/327918.ts",
         "icono": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://dalive.site:8080/",
-          "Referer": "http://dalive.site:8080/",
+          "Origin": "http://redworld.pro:8880/",
+          "Referer": "http://redworld.pro:8880/",
           "User-Agent": "IPTVSmartersPlayer"
         }
       },
