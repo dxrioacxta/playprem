@@ -16,13 +16,13 @@
       },
       {
         "name": "WIN SPORTS",
-        "url": "http://flexlive.lat:8080/live/dagopineda/DAeVXavdtYjx/102461.ts",
+        "url": "http://redworld.pro:8880/live/Swq25as/tLHnZxGNqd3c/167739.ts",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Win_Sports.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://flexlive.lat:8080/",
-          "Referer": "http://flexlive.lat:8080/",
+          "Origin": "http://redworld.pro:8880/",
+          "Referer": "http://redworld.pro:8880/",
           "User-Agent": "IPTVSmartersPlayer"
         }
       },
