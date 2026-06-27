@@ -15,15 +15,15 @@
         }
       },
       {
-        "name": "WIN SPORTS PLUS",
-        "url": "https://la18hd.com/vivo/canales.php?stream=winsports2",
+        "name": "WIN SPORTS HD",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187387.ts",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Win_Sports.png",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "https://la18hd.com/",
-          "Referer": "https://la18hd.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          "Origin": "http://dalive.site:8080/",
+          "Referer": "http://dalive.site:8080/",
+          "User-Agent": "com.ibopro.apptv24/42 (Linux; U; Android 15; es_US; 23028RA60L; Build/AQ3A.240829.003; Cronet/149.0.7827.22)"
         }
       },
       {
