@@ -292,11 +292,16 @@
         }
       },
       {
-        "name": "Pruebahls",
-        "url": "https://la16hd.com/dsports2ar.php",
+        "name": "Pruebashaka",
+        "url": "https://roxiestreams.info/soccer-streams-2",
         "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://roxiestreams.info/",
+          "Referer": "https://roxiestreams.info/",
+          "User-Agent": "shakaplayer"
+        }
       }
     ]
   },
