@@ -292,10 +292,10 @@
         }
       },
       {
-        "name": "Pruebashaka",
+        "name": "Pruebashaka1",
         "url": "https://roxiestreams.info/soccer-streams-2",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://roxiestreams.info/",
