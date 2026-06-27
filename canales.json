@@ -11,7 +11,7 @@
         "headers": {
           "Origin": "http://dalive.site:8080/",
           "Referer": "http://dalive.site:8080/",
-          "User-Agent": "com.ibopro.apptv24/42 (Linux; U; Android 15; es_US; 23028RA60L; Build/AQ3A.240829.003; Cronet/149.0.7827.22)"
+          "User-Agent": "IPTVSmartersPlayer"
         }
       },
       {
