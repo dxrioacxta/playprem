@@ -2816,14 +2816,14 @@
       },
       {
         "name": "TNT HD",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODQzOTgyIiwic2lwIjoiMTgxLjEyNC4xNDIuMTM4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU2NGRmMGVkMGU0OTJkNWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.BRf5h3PjVXLMpNb-HcYJ1n12uafroMSaJPMrs-Th0bBLYsZdmw-n0J29TzzInUjFvtpEw5swhQIMrP3dK_Av7g==/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=faad1722a575f4d9ec7b774db63c879c&key=51f4e62827c128f7210b79a11587661a",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187182.ts",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
+        "type": "HLS",
+        "drm_license_uri": "",
         "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "Origin": "http://dalive.site:8080",
+          "Referer": "http://dalive.site:8080/",
+          "User-Agent": "IPTVSmartersPlayer"
         }
       },
       {
