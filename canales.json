@@ -3225,6 +3225,18 @@
         }
       },
       {
+        "name": "LOVE NATURE",
+        "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
+        "headers": {
+          "Origin": "https://webclient.axsbolivia.com",
+          "Referer": "https://webclient.axsbolivia.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "DISCOVERY H&H",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODUxNTgxIiwic2lwIjoiMTgxLjEyNC4xMzUuMjEwIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU0M2FkMGQ1MGZlMmFjYmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.yYQh2yKGKcUdf8wsUbaqBzR2aX0lsauQQrb_NrOGJ_xD3zAxuhwdY8ygnNtByoTolid7KMyhm-9ecKSrlY89nQ==/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
         "type": "CLEARKEY",
