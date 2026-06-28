@@ -1356,6 +1356,13 @@
         "icono": "https://commons.wikimedia.org/wiki/Category:Cubavisi%C3%B3n#/media/File%3ACvinternacional.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TVI",
+        "url": "https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI2IDk6Njo3IEFNJmhhc2hfdmFsdWU9L0ExTHpRYlBIVzBBZHdoOUxEK2c4QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWUzNDA5MGM5LWUxYzctNGU1ZC04MGU4LWU4NzIyODY1ZDgyNQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
