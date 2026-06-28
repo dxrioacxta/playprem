@@ -1349,6 +1349,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CUBAVISION INTERNACIONAL",
+        "url": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8",
+        "icono": "https://commons.wikimedia.org/wiki/Category:Cubavisi%C3%B3n#/media/File%3ACvinternacional.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
