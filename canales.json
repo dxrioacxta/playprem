@@ -1321,6 +1321,13 @@
         "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RT NEWS",
+        "url": "https://rt-glb.rttv.com/live/rtnews/playlist_800Kb.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/RT_Arabic.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
