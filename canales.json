@@ -3226,14 +3226,14 @@
       },
       {
         "name": "LOVE NATURE",
-        "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/269979.ts",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
+        "type": "HLS",
+        "drm_license_uri": "",
         "headers": {
-          "Origin": "https://webclient.axsbolivia.com",
-          "Referer": "https://webclient.axsbolivia.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "Origin": "http://dalive.site:8080",
+          "Referer": "http://dalive.site:8080/",
+          "User-Agent": "IPTVSmartersPlayer"
         }
       },
       {
