@@ -1342,6 +1342,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TELESUR VENEZUELA",
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
