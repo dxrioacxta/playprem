@@ -1345,6 +1345,18 @@
         }
       },
       {
+        "name": "LA 2 TVE HD",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/138495.ts",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "http://dalive.site:8080",
+          "Referer": "http://dalive.site:8080/",
+          "User-Agent": "IPTVSmartersPlayer"
+        }
+      },
+      {
         "name": "BOLIVIA TV HD",
         "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/271338.ts",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nuevo_Logo_BTV.png",
