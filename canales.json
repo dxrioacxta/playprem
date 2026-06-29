@@ -3,13 +3,6 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
-        "name": "TV CANINDEYÚ",
-        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
-        "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TYC SPORTS HD",
         "url": "http://redworld.pro:8880/live/Swq25as/tLHnZxGNqd3c/327918.ts",
         "icono": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
@@ -899,6 +892,13 @@
   {
     "name": "PARAGUAY INTERIORES 🇵🇾",
     "samples": [
+      {
+        "name": "TV CANINDEYÚ",
+        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+        "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
       {
         "name": "OCCIDENTAL TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
