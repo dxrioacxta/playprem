@@ -900,6 +900,13 @@
     "name": "PARAGUAY INTERIORES 🇵🇾",
     "samples": [
       {
+        "name": "OCCIDENTAL TV",
+        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "icono": "https://i.ibb.co/Fk29mNQp/images-1.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ALCANCE TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "icono": "https://i.ibb.co/JJqMDjf/alcance-tv-logo-dc44471b.png",
