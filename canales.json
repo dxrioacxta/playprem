@@ -1368,6 +1368,18 @@
     "name": "INTERNACIONALES🌎📺",
     "samples": [
       {
+        "name": "NTN24 COLOMBIA",
+        "url": "http://flexlive.lat:8080/live/dagopineda/DAeVXavdtYjx/142663.ts",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "http://flexlive.lat:8080",
+          "Referer": "http://flexlive.lat:8080/",
+          "User-Agent": "IPTVSmartersPlayer"
+        }
+      },
+      {
         "name": "ANTENA 3",
         "url": "https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8",
         "icono": "https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png",
