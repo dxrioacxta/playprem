@@ -3433,9 +3433,9 @@
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODY1NTc4Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiN2IyOWYzNWM3NTNlMTFjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.IZBAOC-k4B6_JwEDg2BaMDsVHxh5emRcNzrtLYmiAZ0dM0dGmfKbPB-TqRjV433gqatjD9gzijMPayHZhb1OFA==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "",
+        "drm_license_uri": "https://oikoapp.xyz/selvanegra/results.php?keyid=60cb38a05880cd0eb429f71398609540&key=c251aac7943c0d1324aa9a4129f3afd4",
         "headers": {
-          "Origin": "https://portal.app.flow.com.ar/",
+          "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
         }
