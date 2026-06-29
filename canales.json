@@ -1473,7 +1473,7 @@
       },
       {
         "name": "CUBAVISION INTERNACIONAL",
-        "url": "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8",
+        "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
         "icono": "https://commons.wikimedia.org/wiki/Category:Cubavisi%C3%B3n#/media/File%3ACvinternacional.png",
         "type": "HLS",
         "drm_license_uri": ""
