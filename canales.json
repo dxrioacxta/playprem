@@ -1333,6 +1333,18 @@
     "name": "INTERNACIONALES🌎📺",
     "samples": [
       {
+        "name": "LA 1 TVE HD",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/138494.ts",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "http://dalive.site:8080",
+          "Referer": "http://dalive.site:8080/",
+          "User-Agent": "IPTVSmartersPlayer"
+        }
+      },
+      {
         "name": "BOLIVIA TV HD",
         "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/271338.ts",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nuevo_Logo_BTV.png",
