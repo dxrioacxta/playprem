@@ -321,15 +321,15 @@
         }
       },
       {
-        "name": "Tigo Sports🟢",
-        "url": "http://185.194.204.72:8260/live/tv3/index.m3u8",
+        "name": "TIGO SPORTS OPC 2",
+        "url": "http://weibplus.is:80/Arturoadams/uX2guG5uFD/153286",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "https://player.angelthump.com",
-          "Referer": "https://player.angelthump.com/",
-          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          "Origin": "http://weibplus.is:80",
+          "Referer": "http://weibplus.is:80/",
+          "User-Agent": "IPTVSmartersPlayer"
         }
       },
       {
