@@ -357,13 +357,6 @@
         }
       },
       {
-        "name": "EVENTOS 4",
-        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "4",
         "url": "http://ts6.tvcluboficial.com:80/ts/Eventos6/_43984.ts",
         "icono": "",
