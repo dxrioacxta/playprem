@@ -302,6 +302,18 @@
           "Referer": "http://dalive.site:8080/",
           "User-Agent": "com.ibopro.apptv24/42 (Linux; U; Android 15; es_US; 23028RA60L; Build/AQ3A.240829.003; Cronet/149.0.7827.22)"
         }
+      },
+      {
+        "name": "Uni prueba",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://unicanal.com.py/",
+          "Referer": "https://unicanal.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
