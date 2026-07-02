@@ -357,13 +357,6 @@
         }
       },
       {
-        "name": "EVENTOS 2 OPC 2",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/09_1610033638/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS 2 OPC 3",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/09_1610033638/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
