@@ -357,13 +357,6 @@
         }
       },
       {
-        "name": "EVENTOS 1",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a1cbca79a/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
-      },
-      {
         "name": "EVENTOS 1 OPC 2",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/01_2541780502/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://i.postimg.cc/VvVnM76s/photo-4974733346650917875-y.jpg",
