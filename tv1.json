@@ -63,13 +63,6 @@
         }
       },
       {
-        "name": "TRECE PY OPC 2",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/el-trece_3d05af6c134140ae8c4674d1c26fa937.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "UNICANAL",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMjQ4NDM3Iiwic2lwIjoiMTgxLjEyNC4xMzkuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTBjZTAzZTI0YjJlYTRhMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.v5e-_hfjV6xVYC3JZNrGNLZHM8FpsC_Y-la7Q2fhdswZPhcy5oD3Mpo5DkjRehw6sPyOBy_vV1JAW7B9d_SDCA==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/unicanal_400d422fe95f40ff8d32d2442cb47d21.png",
