@@ -212,6 +212,18 @@
     "name": "PARAGUAY🇵🇾",
     "samples": [
       {
+        "name": "NANDUTI TV",
+        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c4eds/Nanduti_Py/SA_Live_dash_enc/Nanduti_Py.mpd",
+        "icono": "https://i.postimg.cc/FH8fmntV/NANDUTI-LOGO.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=46c3d8c42bb9799e5de5792e3fb45de4&key=aed06fd292d278aa464da44752b9c313",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "AMERICA TV PY",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMjYzODA2Iiwic2lwIjoiMTgxLjEyNC4xMzkuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOWEzNjFiYjg5NDUyNDhkZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.AxOBBq7W9TY6JjxdaZuioqVu1J6KVEyVVbPE2T_QrYfaGm9eUes34yjzkwTVQyWbhK8b7TtUJRlLL32-HaHlUw==/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd",
         "icono": "https://i.ibb.co/nqLSGRzs/R.png",
