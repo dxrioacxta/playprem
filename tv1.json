@@ -75,13 +75,6 @@
         }
       },
       {
-        "name": "UNICANAL OPC 2",
-        "url": "http://24.152.42.29:8000/play/a0bs/index.m3u8?hls",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/unicanal_400d422fe95f40ff8d32d2442cb47d21.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "POPU TV",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMjQ4NDM3Iiwic2lwIjoiMTgxLjEyNC4xMzkuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTBjZTAzZTI0YjJlYTRhMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.v5e-_hfjV6xVYC3JZNrGNLZHM8FpsC_Y-la7Q2fhdswZPhcy5oD3Mpo5DkjRehw6sPyOBy_vV1JAW7B9d_SDCA==/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
         "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
