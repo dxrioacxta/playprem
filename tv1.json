@@ -1599,60 +1599,6 @@
     ]
   },
   {
-    "name": "DEPORTE COLOMBIA🇨🇴",
-    "samples": [
-      {
-        "name": "ESPN 1",
-        "url": "http://181.118.158.103:8000/play/a038/index.m3u8?hls",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 2",
-        "url": "http://181.118.158.103:8000/play/a039/index.m3u8?hls",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 3",
-        "url": "http://181.118.158.103:8000/play/a03a/index.m3u8?hls",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 4",
-        "url": "http://38.134.250.110:8000/play/a01a/index.m3u8",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 5",
-        "url": "http://38.134.250.110:8000/play/a00s/index.m3u8",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 6",
-        "url": "http://38.134.250.110:8000/play/a017/index.m3u8",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 7",
-        "url": "http://38.134.250.110:8000/play/a018/index.m3u8",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "DEPORTE ECUADOR🇪🇨",
     "samples": [
       {
