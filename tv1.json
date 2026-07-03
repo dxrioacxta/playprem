@@ -3,6 +3,18 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
+        "name": "TIGO SPORTS",
+        "url": "http://:80/Arturoadams/uX2guG5uFD/314018.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "http://weibplus.is:80",
+          "Referer": "http://weibplus.is:80/",
+          "User-Agent": "IPTVSmartersPlayer"
+        }
+      },
+      {
         "name": "TYC SPORTS HD",
         "url": "http://redworld.pro:8880/live/Swq25as/tLHnZxGNqd3c/327918.ts",
         "icono": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
