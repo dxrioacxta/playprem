@@ -219,6 +219,13 @@
         "icono": "https://i.postimg.cc/V5PS6QfP/tigo-seleccion.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TIGO SD 2",
+        "url": "http://185.194.204.72:8260/live/tv3/index.m3u8",
+        "icono": "https://i.postimg.cc/V5PS6QfP/tigo-seleccion.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
