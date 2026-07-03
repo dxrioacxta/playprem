@@ -3,18 +3,6 @@
     "name": "🏆MUNDIAL 2026🏆",
     "samples": [
       {
-        "name": "TIGO SPORTS OPC 1",
-        "url": "http://:80/Arturoadams/uX2guG5uFD/314018.ts",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "http://weibplus.is:80",
-          "Referer": "http://weibplus.is:80/",
-          "User-Agent": "IPTVSmartersPlayer"
-        }
-      },
-      {
         "name": "Mundial | Cam 1",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMjQ4NDM3Iiwic2lwIjoiMTgxLjEyNC4xMzkuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTBjZTAzZTI0YjJlYTRhMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.v5e-_hfjV6xVYC3JZNrGNLZHM8FpsC_Y-la7Q2fhdswZPhcy5oD3Mpo5DkjRehw6sPyOBy_vV1JAW7B9d_SDCA==/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
         "icono": "https://i.ibb.co/h1C7MqNS/250px-2026-FIFA-World-Cup-emblem-svg.png",
