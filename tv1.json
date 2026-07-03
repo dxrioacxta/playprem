@@ -292,18 +292,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Mundial | PRUEBA1",
-        "url": "https://la18hd.com/vivo/canales.php?stream=espn5",
-        "icono": "https://i.ibb.co/h1C7MqNS/250px-2026-FIFA-World-Cup-emblem-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://la18hd.com/",
-          "Referer": "https://la18hd.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "prueba",
         "url": "http://:80/Arturoadams/uX2guG5uFD/314018.m3u8",
         "icono": "",
