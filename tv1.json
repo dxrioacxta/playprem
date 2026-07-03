@@ -171,18 +171,6 @@
     "name": "EVENTOS PY",
     "samples": [
       {
-        "name": "TIGO SPORTS OPC 2",
-        "url": "http://:80/Arturoadams/uX2guG5uFD/153286",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "http://weibplus.is:80",
-          "Referer": "http://weibplus.is:80/",
-          "User-Agent": "IPTVSmartersPlayer"
-        }
-      },
-      {
         "name": "TIGO SPORTS OPC 3",
         "url": "http://:80/Arturoadams/uX2guG5uFD/314018",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
