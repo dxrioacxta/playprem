@@ -1733,67 +1733,6 @@
     ]
   },
   {
-    "name": "DEPORTE CHILE🇨🇱",
-    "samples": [
-      {
-        "name": "ESPN 1",
-        "url": "http://128.201.227.251:4000/play/a0dw",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 2",
-        "url": "http://128.201.227.251:4000/play/a0dx",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 3",
-        "url": "http://38.7.195.44:8000/play/a029",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 4",
-        "url": "http://38.7.195.44:8000/play/a06n",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 5",
-        "url": "http://38.7.195.44:8000/play/a024",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 6",
-        "url": "http://38.7.195.44:8000/play/a01z",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 7",
-        "url": "http://38.7.195.44:8000/play/a014",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN PREMIUM",
-        "url": "http://38.7.195.44:8000/play/a04g",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "BRASIL DEPORTE",
     "samples": [
       {
