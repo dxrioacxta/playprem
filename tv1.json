@@ -344,11 +344,6 @@
         }
       },
       {
-        "name": "ÑANDUTI TV",
-        "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
-        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png"
-      },
-      {
         "name": "SUR TV",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMjYzODA2Iiwic2lwIjoiMTgxLjEyNC4xMzkuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOWEzNjFiYjg5NDUyNDhkZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.AxOBBq7W9TY6JjxdaZuioqVu1J6KVEyVVbPE2T_QrYfaGm9eUes34yjzkwTVQyWbhK8b7TtUJRlLL32-HaHlUw==/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
         "type": "CLEARKEY",
