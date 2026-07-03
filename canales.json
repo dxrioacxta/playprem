@@ -842,6 +842,13 @@
     "name": "PARAGUAY INTERIORES 🇵🇾",
     "samples": [
       {
+        "name": "RED INTERIOR TV",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+        "icono": "https://i.ibb.co/Ng4cH0wF/1783065166476.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TELEQUINCE",
         "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
         "icono": "https://i.ibb.co/BVLvsCPC/logo-telequince-transparente-1.png",
