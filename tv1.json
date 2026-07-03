@@ -154,13 +154,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "UNIVERSO",
-        "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-        "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "CANAL 5 MX",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMjQ4NDM3Iiwic2lwIjoiMTgxLjEyNC4xMzkuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMTBjZTAzZTI0YjJlYTRhMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIyMTkiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.v5e-_hfjV6xVYC3JZNrGNLZHM8FpsC_Y-la7Q2fhdswZPhcy5oD3Mpo5DkjRehw6sPyOBy_vV1JAW7B9d_SDCA==/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "icono": "https://i.postimg.cc/ZKbRcwFq/descarga-(5).jpg",
