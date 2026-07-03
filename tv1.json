@@ -1599,67 +1599,6 @@
     ]
   },
   {
-    "name": "DEPORTE ECUADOR🇪🇨",
-    "samples": [
-      {
-        "name": "ESPN 1 ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a0f7/index.m3u8?hls",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 2 ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a0ey/index.m3u8?hls",
-        "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 3 ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a06j/index.m3u8?hls",
-        "icono": "http://miarea.vip:8080/images/6db6ffc04eb02e7cfdf49291aced4303.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 4 ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a081/index.m3u8?hls",
-        "icono": "http://miarea.vip:8080/images/ab58cdb49829e50448eddbd3461ed4da.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 5 ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a067/index.m3u8?hls",
-        "icono": "https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN5HD/EXPORTACION_WEB/SS/ESPN5HD_t-290x163.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 6 ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a061/index.m3u8?hls",
-        "icono": "https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 7 ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a07e/index.m3u8?hls",
-        "icono": "https://static.flow.com.ar/images/9017/CH_LOGO/60/40/0/0/12041360073463.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN PREMIUM ECUADOR",
-        "url": "http://190.83.15.112:8000/play/a0fa/index.m3u8?hls",
-        "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "DEPORTE CHILE🇨🇱",
     "samples": [
       {
