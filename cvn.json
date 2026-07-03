@@ -27,18 +27,6 @@
         }
       },
       {
-        "name": "UNICANAL SD",
-        "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(zyIOkP1Vk96UMBxtKUFKHEplY-PAeIYS8gwlQzzRdY6rpFGX4PSoy0JicKwAeI4RlVu4RvcM036Oh3dDj2BwLrlJC-nzl2lRGNAprEi1mybbltm8VpHIVWOTj_R54HzZuvpxRZglKN7jFn2i6UNuUA)/cloud/3/xak2lou/s/live-480.m3u8#cell=lcf2-eu-north-1a",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": ""
-        }
-      },
-      {
         "name": "VS SPORTS",
         "url": "https://nam.vssports.com.py/stable-proxy/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/747/pOTN07.png",
