@@ -217,18 +217,6 @@
           "Referer": "http://:80/",
           "User-Agent": "IPTVSmartersPlayer"
         }
-      },
-      {
-        "name": "EVENTO PLAY PY",
-        "url": "http://icomplay.net:80/play/LiKvMeCdFF0dRERlL5_2sfvS78dmKd1yiM4i-DUlU_aZ5cu9ebTNLKWlyxwVPAof/ts",
-        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781618618_188990.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "http://icomplay.net:80/",
-          "Referer": "http://icomplay.net:80/",
-          "User-Agent": "IPTVSmartersPlayer"
-        }
       }
     ]
   },
