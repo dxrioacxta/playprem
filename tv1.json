@@ -304,18 +304,6 @@
         }
       },
       {
-        "name": "Uni prueba",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://unicanal.com.py/",
-          "Referer": "https://unicanal.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "prueba",
         "url": "http://:80/Arturoadams/uX2guG5uFD/314018.m3u8",
         "icono": "",
