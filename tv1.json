@@ -152,9 +152,9 @@
     "name": "📺EVENTOS PY",
     "samples": [
       {
-        "name": "TIGO SD",
+        "name": "TIGO SPORTS",
         "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ghvdSnQ8sgTqjWN6rhrtIq12IbvGCgfE0_OcPecqlQ&s",
+        "icono": "https://i.postimg.cc/V5PS6QfP/tigo-seleccion.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
