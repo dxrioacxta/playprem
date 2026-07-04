@@ -420,7 +420,7 @@
       {
         "name": "MAS TV",
         "url": "http://129.80.85.171:8082/hls/0/stream.m3u8",
-        "icono": "https://i.postimg.cc/t4HN354H/mas-tv.jpg",
+        "icono": "https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/tv/images/logo.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
