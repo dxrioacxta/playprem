@@ -2824,32 +2824,6 @@
     ]
   },
   {
-    "name": "EVENTOS PRUEBAS⚽️",
-    "samples": [
-      {
-        "name": "Evento 1",
-        "url": "http://177.53.152.117:8000/play/a07t/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "Evento 2",
-        "url": "http://177.53.152.117:8000/play/a07l/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "Evento 3",
-        "url": "http://177.53.152.117:8000/play/a07h/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Disney_plus_icon.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "MÚSICALES",
     "samples": [
       {
