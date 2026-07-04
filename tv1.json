@@ -495,6 +495,18 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "VENUS MEDIA",
+        "url": "https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMzY1MDI4Iiwic2lwIjoiMTcwLjg0LjE3Mi4yNyIsInBhdGgiOiIvbGl2ZS9jNGVkcy9VTklDQU5BTF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjFiNmQ4MDFkMWM5MjI0MSIsInNlc3Npb25faWQiOiJlOWUwNTQ2OGFmMGEwNDYxZGQwMmY2YWI2ZDlkMDc1OC0xNzgzMTkyMjI4LTk2OSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlAiLCJkZXZpY2VfaWQiOiJlOWUwNTQ2OGFmMGEwNDYxZGQwMmY2YWI2ZDlkMDc1OCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjM0MiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.bYoPwCPArcMw5f6kJ24BKW95Dzmwg2tIPSddIt-y0eqJM5K1gQVX8TGRJvWgQD8QsGX0szHJuMY4YWzlyp5ojA==/live/c7eds/Venus_Media/SA_Live_dash_enc/Venus_Media.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/_RbJzekAMO-zl3cXbaCpYw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=835af7d77bd13621ba044ab931e5e89f&key=753ed98985b348ab7bf3c0a2b24930eb",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
