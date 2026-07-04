@@ -181,6 +181,13 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "SPORT TV",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+        "icono": "https://i.ibb.co/s9v0mW7j/Picsart-26-06-09-23-00-55-307.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0"
       }
     ]
   },
