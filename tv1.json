@@ -77,7 +77,7 @@
       {
         "name": "POPU TV",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMzM0MTQ5Iiwic2lwIjoiMTgxLjEyNC4xMzAuOTciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOTE5ODZmOWNiNGMxY2UyZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.b1xAn0qoA_AjgwxXCQKGcVlkYZtF0DYoSWM1gda25suiDxW0lecVVT2JP41-acoka_idKnX_Q4cLcMJtWDfo3A==/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
-        "icono": "https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2025/04/logo-popu-tv-white.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/1EeXJWR282kYddP5ibYPjw?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
         "headers": {
