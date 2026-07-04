@@ -1483,53 +1483,6 @@
     ]
   },
   {
-    "name": "DEPORTE URUGUAY🇺🇾",
-    "samples": [
-      {
-        "name": "ESPN 1 ",
-        "url": "http://190.95.60.228:8500/play/a013",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 2",
-        "url": "http://190.95.60.228:8500/play/a00f",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 3",
-        "url": "http://190.95.60.228:8500/play/a00h",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 4",
-        "url": "http://190.95.60.228:8500/play/a03w",
-        "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN PREMIUM",
-        "url": "http://190.95.60.228:8500/play/a09v",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "DSPORT URUGUAY",
-        "url": "http://190.95.60.228:8500/play/a0b4",
-        "icono": "http://miarea.vip:8080/images/51abdfdebab3e86579aaf359774a55e6.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "DEPORTE GUATEMALA🇬🇹",
     "samples": [
       {
