@@ -303,9 +303,9 @@
         }
       },
       {
-        "name": "MEGA TV  PY",
+        "name": "MEGA TV",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMzQyOTc2Iiwic2lwIjoiMTgxLjEyNC4xMzAuOTciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNWMxM2E3OWI2MjJmNTVmZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.B1Y1JnqyTUDL6LMjZZmX7TYtnP0RtQKqSHHliXpde0Jr7kL7DwNFFTBjH4ksw4jY55n1aDSENyVtJ0ZGc3KnpA==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/S7RwrsD0XudfdEtSjP2tpw?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
         "headers": {
