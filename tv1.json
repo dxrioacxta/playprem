@@ -389,7 +389,9 @@
       {
         "name": "UNION TV",
         "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/chJQN4vCKj4ES1GahqHkPg?tags=CH_LOGO",
+        "type": "",
+        "drm_license_uri": ""
       },
       {
         "name": "FARRA PLAY",
