@@ -147,13 +147,6 @@
         }
       },
       {
-        "name": "SBT BR",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "CANAL 5 MX",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMzQyOTc2Iiwic2lwIjoiMTgxLjEyNC4xMzAuOTciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNWMxM2E3OWI2MjJmNTVmZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.B1Y1JnqyTUDL6LMjZZmX7TYtnP0RtQKqSHHliXpde0Jr7kL7DwNFFTBjH4ksw4jY55n1aDSENyVtJ0ZGc3KnpA==/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "icono": "https://i.postimg.cc/ZKbRcwFq/descarga-(5).jpg",
