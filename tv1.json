@@ -687,6 +687,13 @@
         "icono": "https://imagizer.imageshack.com/img921/223/QiEK5I.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RED DIGITAL",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
