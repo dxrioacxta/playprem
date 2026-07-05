@@ -722,6 +722,13 @@
         "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ROCK & POP",
+        "url": "https://rockandpop.b-cdn.net/720p.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
