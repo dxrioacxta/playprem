@@ -736,6 +736,13 @@
         "icono": "https://imagizer.imageshack.com/img923/573/ZJAPK9.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "GO",
+        "url": "https://copacogen.desdeparaguay.net/gotv/gotv/chunklist_w984478980.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/5273/WpMo25.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
