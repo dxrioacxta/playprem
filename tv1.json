@@ -729,6 +729,13 @@
         "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "DISMAR",
+        "url": "https://copacogen.desdeparaguay.net/dismartv/dismartv/chunklist_w1778163002.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/573/ZJAPK9.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
