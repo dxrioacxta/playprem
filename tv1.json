@@ -673,6 +673,13 @@
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FIERA TV 2",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/pyeventos/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/9616/Vz97f6.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
