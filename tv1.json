@@ -708,6 +708,13 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "COSMOS TV",
+        "url": "https://scontent.fasu10-1.fna.fbcdn.net/v/t39.30808-6/364106223_263159516473042_1757969443338909274_n.jpg?stp=dst-jpg_tt6&cstp=mx960x960&ctp=s960x960&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=rZxnR1nRVmIQ7kNvwEC4wyl&_nc_oc=Adp2NUAsbEgvkKmv0hnFEF2eiF9PZax1-ZBUXy4aMKHR-y8B0yQugdF4GnEeDjsa_eg&_nc_zt=23&_nc_ht=scontent.fasu10-1.fna&_nc_gid=YkXgppyoUFe8WElKG90JBg&_nc_ss=7b289&oh=00_Af_qxBM-H8EmC40cYC9UL_mqIMORXTEnu-yNhBpMXkrY6w&oe=6A47B91A",
+        "icono": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
