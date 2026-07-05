@@ -743,6 +743,13 @@
         "icono": "https://imagizer.imageshack.com/img923/5273/WpMo25.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "VILLA ELISA TV",
+        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/chunklist_w690060243.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhLIXHLDwQWokcuGINBA7WgMJzGM3tUUirIigtE_uDHNCemi_ruljvJpT&s=10",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
