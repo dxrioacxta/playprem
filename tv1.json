@@ -712,7 +712,7 @@
       {
         "name": "E40 TV",
         "url": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
-        "icono": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/chunklist_w1078118874.m3u8?admin=tvaccion",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
