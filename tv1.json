@@ -2688,11 +2688,11 @@
         }
       },
       {
-        "name": "Tooncast",
+        "name": "TOONCAST",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDMzNjQwIiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhkZTI4ODZiOTI1YzY0OWEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.bEsZtrWFI-dM7QnM1uNsguaW5CoGPqeJHc02gQfiaQaQPmltPOdRo36D-kN-WKjteUsoKuEx0MSki3sCqQtF9A==/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Prkn-200c1L8pLHnVjDkRg?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/0xc5qcf2i323w4bk7tid4/clearkey_tooncast.json?rlkey=2kbkdopm4yc14j9p2ltj7hn3w&st=0csvdeig&dl=0",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
