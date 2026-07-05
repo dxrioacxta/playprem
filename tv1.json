@@ -694,6 +694,20 @@
         "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RED DIGITAL",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "MONUMENTAL TV",
+        "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
