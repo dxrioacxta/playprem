@@ -666,6 +666,13 @@
         "icono": "https://i.postimg.cc/g0sjjzbg/Whats-App-Image-2026-04-26-at-4-42-16-PM.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FIERA TV",
+        "url": "https://fieratvhd.com/hls/fieratv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
