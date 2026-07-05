@@ -715,6 +715,13 @@
         "icono": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FARRA PLAY",
+        "url": "http://159.203.148.226/live/farra_src.m3u8",
+        "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
