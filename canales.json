@@ -28,14 +28,14 @@
       },
       {
         "name": "DSPORTS HD⚽",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187374.ts",
+        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187374.m3u8",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "http://dalive.site:8080/",
-          "Referer": "Ñhttp://dalive.site:8080/",
-          "User-Agent": "com.ibopro.apptv24/42 (Linux; U; Android 15; es_US; 23028RA60L; Build/AQ3A.240829.003; Cronet/149.0.7827.22)"
+          "Referer": "http://dalive.site:8080/",
+          "User-Agent": "IPTVSmartersPlayer"
         }
       },
       {
