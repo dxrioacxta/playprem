@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "TYC SPORTS HD",
-        "url": "http://redworld.pro:8880/live/Swq25as/tLHnZxGNqd3c/327918.ts",
+        "url": "http://redworld.pro:8880/live/Swq25as/tLHnZxGNqd3c/327918.m3u8",
         "icono": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
         "type": "HLS",
         "drm_license_uri": "",
