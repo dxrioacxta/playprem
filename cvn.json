@@ -37,13 +37,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "DSPORTS",
-        "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
