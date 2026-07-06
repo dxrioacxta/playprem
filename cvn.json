@@ -115,9 +115,9 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS PY 2",
+        "name": "EVENTOS 2",
         "url": "http://185.194.204.72:8260/live/tv3/index.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "icono": "http://185.194.204.72:8260/live/tv3/index.m3u8",
         "type": "HLS",
         "drm_license_uri": ""
       },
