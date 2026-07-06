@@ -2903,6 +2903,18 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "RAI ITALIA",
+        "url": "https://edge-live01-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNTQzMDY2Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImExMTVlZDA1YWZmOWVkNTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjQ1Iiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.fFd-Wo-nIGtUlY8TGL9OrWZCVqaZcx1eA7SXhMVMqtQszbnA95lfFoJBf7AxsaO3CjtEo5neKtfd7oeSxeJOwA==/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/QpZNmvX6uNlMLfxFfQXUSA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   }
