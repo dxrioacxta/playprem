@@ -257,7 +257,7 @@
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/S7RwrsD0XudfdEtSjP2tpw?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "🔑 https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
