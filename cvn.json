@@ -46,13 +46,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "DSPORTS 2",
-        "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/9596/Ozw0rY.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "FIFA + BR",
         "url": "https://c2657533.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/f6599ca7-e886-4433-880e-e7e438b89973/1.m3u8",
         "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png",
