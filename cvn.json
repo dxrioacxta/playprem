@@ -164,7 +164,7 @@
       {
         "name": "ABC TV",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Kh2c074ubwBnNJTFm13ovQ?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
         "headers": {
@@ -174,9 +174,9 @@
         }
       },
       {
-        "name": "TELEFUTURO HD",
+        "name": "TELEFUTURO",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-        "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/-bnHtfXDLsZqhGgrb6QmHQ?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
         "headers": {
@@ -186,9 +186,9 @@
         }
       },
       {
-        "name": "SNT HD",
+        "name": "SNT",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
         "headers": {
@@ -198,9 +198,9 @@
         }
       },
       {
-        "name": "GEN HD",
+        "name": "GEN",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/grYXL67oyhc1jJENljX7bQ?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
         "headers": {
@@ -212,7 +212,7 @@
       {
         "name": "NPY",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
-        "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/ZWXIZh7VZVebUVQ7zxLWzg?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
         "headers": {
@@ -224,7 +224,7 @@
       {
         "name": "C9N",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/JjPveWDvYoCiOrMlkZWlhg?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
         "headers": {
@@ -246,6 +246,18 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MEGA TV",
+        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNDkxNDg3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTI5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJlYTAxY2UwYzc5MGZjOTYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzUxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.rchQpUlgZwGeaWyxX4S9rm9NnlVBZyf3zTA3kxipVd8bZ2mGTHifty6_BaE_ctnSCdJVrhgRxqDH41TjmrvQOA==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/S7RwrsD0XudfdEtSjP2tpw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "🔑 https://mundodeportes.online/pandatv/flow/keys.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
