@@ -108,13 +108,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "FOX SPORTS",
-        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://imagizer.imageshack.com/img922/9356/8Ke1xn.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS 2",
         "url": "http://185.194.204.72:8260/live/tv3/index.m3u8",
         "icono": "https://i.postimg.cc/3NfRt3Vc/tigo-tv.jpg",
