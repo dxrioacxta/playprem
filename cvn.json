@@ -117,7 +117,7 @@
       {
         "name": "EVENTOS 2",
         "url": "http://185.194.204.72:8260/live/tv3/index.m3u8",
-        "icono": "http://185.194.204.72:8260/live/tv3/index.m3u8",
+        "icono": "https://i.postimg.cc/3NfRt3Vc/tigo-tv.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       },
