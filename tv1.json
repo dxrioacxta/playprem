@@ -2592,11 +2592,11 @@
         }
       },
       {
-        "name": "BABY TV",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNTkzNTU0Iiwic2lwIjoiMTgxLjEyNC4xMzYuODAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2E0YmRiODc0Y2M5NDJjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.JJEid7w8e9-xSCi2MQm-xGr_FsRaK2UQa0FKyzpJloR_JOCW1PdgVCzkdCEBhPgdfr5Q03tyv4Yc_g5IVKpzSQ==/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/PidsWNhfr_UvjHI_pVHK8A?tags=CH_LOGO",
+        "name": "DISNEY JUNIOR",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNTkzNTU0Iiwic2lwIjoiMTgxLjEyNC4xMzYuODAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2E0YmRiODc0Y2M5NDJjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.JJEid7w8e9-xSCi2MQm-xGr_FsRaK2UQa0FKyzpJloR_JOCW1PdgVCzkdCEBhPgdfr5Q03tyv4Yc_g5IVKpzSQ==/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/buoo9IJLHiHWlwsIXmsCfg?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=9e09f0a3ecb932582e0f3bc6a6194c8d&key=6d2363b7ba7680ea3bf6dcbad1efa5bf",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
