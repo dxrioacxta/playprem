@@ -1930,15 +1930,15 @@
         }
       },
       {
-        "name": "TNT HD",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187182.ts",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt_5faca2ef01284f67a0c07d263f71b194.png",
-        "type": "HLS",
-        "drm_license_uri": "",
+        "name": "TNT",
+        "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNjI4MDc4Iiwic2lwIjoiMTgxLjEyNC4xNDIuMjA4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRmMjc4NWVlMDBjMzNiMjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.7OLCIL8C1WZ8bRWfsaXYAFlNBTs52Aa3ZMmQAy5MTv8Bw9f-lLwM9MUoe8XXv4UgFeQoQ0RO-dJHiyvpIaElrA==/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/HOsbHOrwv4b-eMrGQHgLLw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0",
         "headers": {
-          "Origin": "http://dalive.site:8080",
-          "Referer": "http://dalive.site:8080/",
-          "User-Agent": "IPTVSmartersPlayer"
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
