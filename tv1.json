@@ -2496,10 +2496,10 @@
         }
       },
       {
-        "name": "National Geographic",
+        "name": "NATIONAL GEOGRAPHIC",
         "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNjI4MDc4Iiwic2lwIjoiMTgxLjEyNC4xNDIuMjA4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRmMjc4NWVlMDBjMzNiMjIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.7OLCIL8C1WZ8bRWfsaXYAFlNBTs52Aa3ZMmQAy5MTv8Bw9f-lLwM9MUoe8XXv4UgFeQoQ0RO-dJHiyvpIaElrA==/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/l1d77znunhRLOy6hvZYZ_A?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
