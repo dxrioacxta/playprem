@@ -1366,44 +1366,6 @@
     ]
   },
   {
-    "name": "📺DEPORTE MOTOR",
-    "samples": [
-      {
-        "name": "DAZN F1",
-        "url": "http://128.201.227.251:4000/play/a0cm",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "SKY F1 ",
-        "url": "https://vt-ip.vodep39240327.workers.dev/288.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "SKY SPORT F1 EVENTOS FHD",
-        "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
-        "icono": "https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=ae7f16191e2adfaacd9b536ed58a298a&key=3319b3ca5cd6f0af2f3d4bd9a7630a8b",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SKY F1 OPC2",
-        "url": "http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/97863.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f2/New_era_F1_logo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "📺DEPORTES VARIADOS",
     "samples": [
       {
