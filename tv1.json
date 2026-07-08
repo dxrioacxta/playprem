@@ -1484,7 +1484,7 @@
       {
         "name": "DIRECTV FLOW",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNjg1OTE4Iiwic2lwIjoiMTgxLjEyNC4xMjguMTc5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImVkNzc2MmRmNDJmYzkzYTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.iwH-hJOW03NWCVXtls8dHDaqxjQXcxrbBPVcYzi6BY4ktUXGi73OmthUmF9POPJHpOTDhHASrFKCFXHzTgmSYQ==/live/c3eds/DSports_1/SA_Live_dash_enc/DSports_1.mpd",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=4db80473af2ed318c41d879f2822203e&key=d30f94e60344adf0f4b242a5952575ad",
         "headers": {
