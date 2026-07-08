@@ -1964,6 +1964,13 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "aprueba",
+        "url": "https://nog-live1-ott.izzigo.tv/6/out/u/dash/MOSAICO-HBO-HD/default.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=2c2c9e3431b6ba6c84a46c4ec22e3bb9&key=ddd890065343463f45cfc569584fec64"
       }
     ]
   },
