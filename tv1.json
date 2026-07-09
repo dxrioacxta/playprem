@@ -2071,18 +2071,6 @@
         }
       },
       {
-        "name": "LOVE NATURE",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/269979.ts",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20151125134652",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "http://dalive.site:8080",
-          "Referer": "http://dalive.site:8080/",
-          "User-Agent": "IPTVSmartersPlayer"
-        }
-      },
-      {
         "name": "DISCOVERY H&H",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzNzY4NzY1Iiwic2lwIjoiMTgxLjEyNC4xMzYuNDUiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjU4ZWE2ZDBiMWViZGExNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.HMOhdcBG-ZgbWicA5beP1saxIwFQukTELCtW5py8WC41Zsa3EFbJzVIsOHD5RIAWCOoqAB1qhbuIr-r7sGDzDw==/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/BFvn4fj8fcDWhtDSEnZjdg?tags=CH_LOGO",
