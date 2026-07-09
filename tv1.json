@@ -2808,7 +2808,7 @@
         "name": "LPF PLAY 1",
         "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
