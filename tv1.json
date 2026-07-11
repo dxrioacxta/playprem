@@ -1867,6 +1867,18 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "STUDIO UNIVERSAL PREMIER",
+        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTYyODU3Iiwic2lwIjoiMTcwLjg0LjE3Mi4yNyIsInBhdGgiOiIvbGl2ZS9jNGVkcy9SUENfQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI4NzgxYjZkYTg4MjQxYzMiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4Mzc5MDA2Ny0zMzciLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.bKbIUiVLFPEkMYU59BhFyy8C2LEg-S3z7Yi1FLAIGz4LTlS9KvFa1e7l85ZlwFEjetEnY01xI8bqf5HpLp6UTA==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
+        "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
