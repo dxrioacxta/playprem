@@ -224,7 +224,7 @@
       },
       {
         "name": "EVENTOS 4",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a5285ffb2/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a529f3a90/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
