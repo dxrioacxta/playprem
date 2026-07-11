@@ -3,13 +3,6 @@
     "name": "Canales",
     "samples": [
       {
-        "name": "PLAYBOY",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzODE2NjE2Iiwic2lwIjoiMTgxLjEyNC4xMzYuMTQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU1OWQzZWI1NWNiYzg4ZGUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Z5EgKO2uYGx5lCzS8xA2S1TFD66RnP1cvn0hZyTDbWVJF55Tvq42R3LJ2jpN6bR5_MEEo9prTpLtiX7uO-HnEQ==/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
-        "icono": "undefined",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb"
-      },
-      {
         "name": "PLAY BOY HD",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTQwMjI0Iiwic2lwIjoiMTgxLjEyNC4xMjkuODciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGZhMjU0NmJhZTk4YWI5NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.RxTWkDDIi1ppCDuK4AK_GrVm2bpH4zH-s2VT90DyBIz8rqVS0ogwYLejItjIZvMVosrcJQwpgIUaC3kjVhNdOA==/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "icono": "https://conectateawee.com.ar/wp-content/uploads/2025/10/playboy-tv.webp",
