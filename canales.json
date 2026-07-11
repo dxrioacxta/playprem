@@ -4088,43 +4088,5 @@
         "drm_license_uri": ""
       }
     ]
-  },
-  {
-    "name": "EVENTO UFC🥊💥",
-    "samples": [
-      {
-        "name": "EVENTO 1 EN VIVO🟢",
-        "url": "https://prope1726e4e.airspace-cdn.cbsivideo.com/stream_1/manifest.m3u8",
-        "icono": "https://1000marcas.net/wp-content/uploads/2020/03/Logo-UFC.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTO 2 EN VIVO🟢",
-        "url": "https://prope1726e4e.airspace-cdn.cbsivideo.com/stream_1/manifest.m3u8",
-        "icono": "https://1000marcas.net/wp-content/uploads/2020/03/Logo-UFC.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTO 3 EN VIVO🟢",
-        "url": "https://prope04b7009.airspace-cdn.cbsivideo.com/stream_1/manifest.m3u8",
-        "icono": "https://1000marcas.net/wp-content/uploads/2020/03/Logo-UFC.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "Prueba",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/447367.ts",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "com.ibopro.apptv24/42 (Linux; U; Android 15; es_US; 23028RA60L; Build/AQ3A.240829.003; Cronet/149.0.7827.22)"
-        }
-      }
-    ]
   }
 ]
