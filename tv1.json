@@ -1081,6 +1081,18 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "RECORD",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTQwMjI0Iiwic2lwIjoiMTgxLjEyNC4xMjkuODciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGZhMjU0NmJhZTk4YWI5NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.RxTWkDDIi1ppCDuK4AK_GrVm2bpH4zH-s2VT90DyBIz8rqVS0ogwYLejItjIZvMVosrcJQwpgIUaC3kjVhNdOA==/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=b0bd8ea11b3f4c219903085ef1d44b0d&key=9a25709a72c2ca93cb738665736cfa5a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
