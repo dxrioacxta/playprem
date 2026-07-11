@@ -304,11 +304,16 @@
         }
       },
       {
-        "name": "Pruebatogo",
+        "name": "Pruebatogo2",
         "url": "https://opchannel01.tigosports.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "icono": "",
         "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://tigosports.com.py",
+          "Referer": "https://tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
