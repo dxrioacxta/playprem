@@ -214,6 +214,13 @@
         "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS 3",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a5251cbe4/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd?",
+        "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
