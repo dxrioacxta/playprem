@@ -1081,6 +1081,18 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BAND NEW",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTQwMjI0Iiwic2lwIjoiMTgxLjEyNC4xMjkuODciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGZhMjU0NmJhZTk4YWI5NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.RxTWkDDIi1ppCDuK4AK_GrVm2bpH4zH-s2VT90DyBIz8rqVS0ogwYLejItjIZvMVosrcJQwpgIUaC3kjVhNdOA==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0b4f56d5c19b45fb3e75a73b6ec06e6c&key=c464e2b6ded2b52e1e7753b3a859abce",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
