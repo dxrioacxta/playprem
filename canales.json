@@ -28,14 +28,14 @@
       },
       {
         "name": "DSPORTS HD⚽",
-        "url": "http://dalive.site:8080/live/RESTREAMCRUEL/T7464747/187374.ts",
+        "url": "https://stream-xhd.com/live1.php?stream=dsports",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://dalive.site:8080/",
-          "Referer": "http://dalive.site:8080/",
-          "User-Agent": "IPTVSmartersPlayer"
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
       {
