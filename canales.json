@@ -4,14 +4,14 @@
     "samples": [
       {
         "name": "TYC SPORTS HD",
-        "url": "http://redworld.pro:8880/live/Swq25as/tLHnZxGNqd3c/327918.ts",
+        "url": "https://stream-xhd.com/live1.php?stream=tycsports",
         "icono": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://redworld.pro:8880/",
-          "Referer": "http://redworld.pro:8880/",
-          "User-Agent": "IPTVSmartersPlayer"
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
       {
