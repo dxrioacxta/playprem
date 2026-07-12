@@ -1076,14 +1076,14 @@
     "samples": [
       {
         "name": "ESPN 1",
-        "url": "http://mundo2.pro:80/live/MateoCordero/f865528/541539.ts",
+        "url": "https://streamx-hd.com/live1.php?stream=disney5",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781442701_185749.jpg",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://mundo2.pro:80/",
-          "Referer": "http://mundo2.pro:80/",
-          "User-Agent": "IPTVSmartersPlayer"
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
       {
