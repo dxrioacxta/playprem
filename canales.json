@@ -278,6 +278,18 @@
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Prueba",
+        "url": "https://videx.lol/events/de4828d8f61344803ee1",
+        "icono": "",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
