@@ -214,6 +214,18 @@
         "icono": "https://i.postimg.cc/yx613kKm/TELEMUNDOMX.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "Pruebatvmar",
+        "url": "http://ts4.tvcluboficial.com:80/ts/247_Marvel/_248202.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "IPTVSmartersPlayer"
+        }
       }
     ]
   },
