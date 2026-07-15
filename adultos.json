@@ -15,18 +15,6 @@
         }
       },
       {
-        "name": "VENUS",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzOTQwMjI0Iiwic2lwIjoiMTgxLjEyNC4xMjkuODciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGZhMjU0NmJhZTk4YWI5NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.RxTWkDDIi1ppCDuK4AK_GrVm2bpH4zH-s2VT90DyBIz8rqVS0ogwYLejItjIZvMVosrcJQwpgIUaC3kjVhNdOA==/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
-        "icono": "https://conectateawee.com.ar/wp-content/uploads/2025/10/venus.webp",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "PLAY BOY SD",
         "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/791797.m3u8",
         "icono": "https://www.vhv.rs/dpng/d/539-5393583_playboy-bunny-logo-magazine-portable-network-graphics-playboy.png",
