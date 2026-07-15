@@ -1259,6 +1259,18 @@
     "name": "INTERNACIONALES🌎📺",
     "samples": [
       {
+        "name": "GLOBO RBS TV PORTO ALEGRE",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/420602.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "IPTVSmartersPlayer"
+        }
+      },
+      {
         "name": "NTN24 COLOMBIA",
         "url": "http://flexlive.lat:8080/live/dagopineda/DAeVXavdtYjx/142663.ts",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",
