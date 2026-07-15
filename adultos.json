@@ -3,9 +3,16 @@
     "name": "ADULTOS HD",
     "samples": [
       {
-        "name": "PLAY BOY SD",
+        "name": "PLAY BOY",
         "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/791797.m3u8",
         "icono": "https://www.vhv.rs/dpng/d/539-5393583_playboy-bunny-logo-magazine-portable-network-graphics-playboy.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "VENUS",
+        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/791810.m3u8",
+        "icono": "https://images.seeklogo.com/logo-png/32/2/canal-venus-logo-png_seeklogo-324846.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       }
