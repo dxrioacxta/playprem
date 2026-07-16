@@ -1209,6 +1209,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "GLOBO RBS TV PORTO ALEGRE",
+        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/420602.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
+        }
+      },
+      {
         "name": "GLOBO RBS",
         "url": "http://79.127.238.228:14433/GLOBO",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
@@ -1265,18 +1277,6 @@
   {
     "name": "INTERNACIONALES🌎📺",
     "samples": [
-      {
-        "name": "GLOBO RBS TV PORTO ALEGRE",
-        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/420602.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
-        }
-      },
       {
         "name": "NTN24 COLOMBIA",
         "url": "http://flexlive.lat:8080/live/dagopineda/DAeVXavdtYjx/142663.ts",
