@@ -221,8 +221,8 @@
     "name": "EVENTOS PY",
     "samples": [
       {
-        "name": "Flamengo vs Olimpia (20:00)",
-        "url": "B",
+        "name": "Flamengo vs Olimpia (EN VIVO🟢)",
+        "url": "https://streamx-hd.com/live1.php?stream=unicanalpy",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781618618_188990.jpg",
         "type": "WEBVIEW",
         "drm_license_uri": ""
