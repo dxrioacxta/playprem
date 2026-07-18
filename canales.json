@@ -243,6 +243,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "EVENTO 3 (PORTUGUÉS)",
+        "url": "https://streamx-hd.com/live1.php?stream=paramount3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
