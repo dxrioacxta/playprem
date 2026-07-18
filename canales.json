@@ -221,13 +221,6 @@
     "name": "EVENTOS PY",
     "samples": [
       {
-        "name": "Flamengo vs Olimpia (EN VIVO🟢)",
-        "url": "https://streamx-hd.com/live1.php?stream=unicanalpy",
-        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781618618_188990.jpg",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TIGO SPORTS OPC 1",
         "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
