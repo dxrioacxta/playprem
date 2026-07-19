@@ -3022,6 +3022,13 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "RTN",
+        "url": "https://media.neuquen.gov.ar/rtn/television/chunklist_w1876841450.m3u8",
+        "icono": "https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online-1536x864.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
