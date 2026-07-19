@@ -3010,6 +3010,18 @@
         "icono": "https://cdn.prod.website-files.com/6883c5d2010468090688a047/6894938bfe32dd7f9df2232f_24_7-removebg-preview.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EL VALLE",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0NTY1NjEwIiwic2lwIjoiMTgxLjEyNC4xMzguMjAxIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM5NGU2NjMxZTEyYzI0MTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.qpHU51rTPgYDUlwjqs2dU7wcTflkbcMgkON5u3fe6mwuoxFvFtEQEoPyvZbee3IpgqLHzpSlHSQsTDdtv6vCSQ==/live/c4eds/Somos_El_Valle/SA_Live_dash_enc/Somos_El_Valle.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/17XA6KOFNps53PTMQcs6Cg?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   }
