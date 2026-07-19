@@ -3003,6 +3003,13 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CANAL 24/7",
+        "url": "https://panel.host-live.com:19360/cn247tv/Source.m3u8",
+        "icono": "https://cdn.prod.website-files.com/6883c5d2010468090688a047/6894938bfe32dd7f9df2232f_24_7-removebg-preview.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
