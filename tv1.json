@@ -442,18 +442,6 @@
         }
       },
       {
-        "name": "AMERICA PY",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0NjQ4NTMyIiwic2lwIjoiMTgxLjEyNC4xMzIuMzkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjRkMmIxNDQwMDI0NzY0NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EXnz0SvXV2yNS40YDzfryeV1yvxt5iyFlvbUeU_JsX4dj-7DuYr8o1680Oo62gdYsN1tgoN52oukV8aJqfoLKg==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Yv6oxFrcTPE9m36hkY_2Lw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "LA TELE",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0NjQ4NTMyIiwic2lwIjoiMTgxLjEyNC4xMzIuMzkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYjRkMmIxNDQwMDI0NzY0NiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EXnz0SvXV2yNS40YDzfryeV1yvxt5iyFlvbUeU_JsX4dj-7DuYr8o1680Oo62gdYsN1tgoN52oukV8aJqfoLKg==/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/IgsLLdcHrTzclBqQghGdGg?tags=CH_LOGO",
