@@ -263,7 +263,7 @@
     "samples": [
       {
         "name": "TIGO SPORTS OPC 1",
-        "url": "http://185.194.204.72:8260/live/tv/index.m3u8",
+        "url": "http://185.194.204.72:8260/live/tv3/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
         "type": "HLS",
         "drm_license_uri": "",
