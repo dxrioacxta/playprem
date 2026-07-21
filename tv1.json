@@ -1565,7 +1565,12 @@
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
         "icono": "https://i.ibb.co/vvYS9P7m/2025-04-28-23-37-29.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=51c0ef23b17297e5c01cd7f36dd0a6ce&key=8823f713ba6fdb9bbe0a2ad82d309a4b"
+        "drm_license_uri": "https://results.femon.net/?keyid=51c0ef23b17297e5c01cd7f36dd0a6ce&key=8823f713ba6fdb9bbe0a2ad82d309a4b",
+        "headers": {
+          "Origin": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
       },
       {
         "name": "SPORTV 2",
