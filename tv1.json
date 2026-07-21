@@ -694,13 +694,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "PROGRESO TV CARAPEGUA",
-        "url": "https://videostream.shockmedia.com.ar:19360/progresotv/progresotv.m3u8",
-        "icono": "https://i.postimg.cc/NMYbx0Wq/Whats-App-Image-2026-04-16-at-7-25-43-PM.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "CAUSA COMUN TV",
         "url": "https://videostream.shockmedia.com.ar:19360/causacomuntvhd/causacomuntvhd.m3u8",
         "icono": "https://i.postimg.cc/x125KRB0/Whats-App-Image-2026-04-26-at-3-22-49-PM.jpg",
