@@ -317,6 +317,13 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a582436ada8f2.36468636.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=7995c724a13748ed970840a8ab5bb9b3&key=67bdaf1e2175b9ff682fcdf0e2354b1e"
+      },
+      {
+        "name": "PREMIER SPORTS 1",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a480d9f740895.29429753.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f"
       }
     ]
   },
