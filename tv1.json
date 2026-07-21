@@ -296,6 +296,13 @@
           "Referer": "https://www.primevideo.com/",
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
         }
+      },
+      {
+        "name": "Bein Sports 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a453b938650f1.44626215.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=335DAD778109954503DCBB21DC92015F&key=24bfd75d436cbf73168a2a2dccd40281"
       }
     ]
   },
