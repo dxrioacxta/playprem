@@ -1170,6 +1170,18 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "NET TV",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0NzU0MzUzIiwic2lwIjoiMTgxLjEyNC4xMzcuMjMxIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM0YzBiMjJmZjIwZWQ3YjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.LzeQBUhkgT7F6HCkVmIYRtLK_ykdLuz7hP2IpklQyz_3JBBl0vjyaKc4DLleynaZInzV2b9IQLE3Yv9XmOND7g==/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/GOJrLfHABd8X-fMCDhVDKw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
