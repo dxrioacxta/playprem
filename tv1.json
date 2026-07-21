@@ -767,6 +767,13 @@
         "icono": "https://app.femon.net/tv/banners/6a2857797ce5e6.17407629.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "REPUBLICA TV",
+        "url": "https://tigocloud.desdeparaguay.net:443/republicatv/republicatv/playlist.m3u8",
+        "icono": "https://static.mytuner.mobi/media/tvos_radios/549/fm-republica.8e951a28.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
