@@ -1564,13 +1564,8 @@
         "name": "SPORTV 1",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
         "icono": "https://i.ibb.co/vvYS9P7m/2025-04-28-23-37-29.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": "https://results.femon.net/?keyid=cb5eaea6d91fc8a702f154cefd69c976&key=fd4b69623da596aac100e5722d8a1ca0"
       },
       {
         "name": "SPORTV 2",
