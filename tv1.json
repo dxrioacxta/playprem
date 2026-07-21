@@ -296,6 +296,13 @@
           "Referer": "https://www.primevideo.com/",
           "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
         }
+      },
+      {
+        "name": "LA 1 MUNDIAL",
+        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a4b166ac6f132.47951373.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=745cd6ec34a58f2f7ac2af35dc3da6d2&key=ae008f1e47e6567fe4201a6ff8f1ae54"
       }
     ]
   },
