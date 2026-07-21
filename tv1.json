@@ -284,6 +284,18 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjotJtdjSo_H1OfB2Unxx_wTgBKGBPzAzalyIHiRPyQ&s=10",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=763ce1ebcaf23502c8cf357c6ef423e1&key=0c5e6c0820a1ea28753721db00272411"
+      },
+      {
+        "name": "FOX SPORT 4K",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "icono": "https://i.ibb.co/CsngGzDW/Picsart-26-06-13-18-39-17-851.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=f6564ec2aee819046328a0e153be574d&key=ff46a8a1031eb27ef22576a077c98ab7",
+        "headers": {
+          "Origin": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
       }
     ]
   },
