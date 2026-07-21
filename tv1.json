@@ -265,6 +265,18 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "SPORTS CORDOBA",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0NzU0MzUzIiwic2lwIjoiMTgxLjEyNC4xMzcuMjMxIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImM0YzBiMjJmZjIwZWQ3YjQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzExIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.LzeQBUhkgT7F6HCkVmIYRtLK_ykdLuz7hP2IpklQyz_3JBBl0vjyaKc4DLleynaZInzV2b9IQLE3Yv9XmOND7g==/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-99CZ5-zLZv1NA5R71m-Uhdr77Q5N0yW7HTDcOXW1b6F6QFyA-uUlnbM&s=10",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
