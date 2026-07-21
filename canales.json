@@ -3,7 +3,7 @@
     "name": "CONMEBOL Sudamericana",
     "samples": [
       {
-        "name": "EN VIVO",
+        "name": "Nacional vs Tigre",
         "url": "https://streamx-hd.com/live1.php?stream=disney1",
         "icono": "https://i.ibb.co/HTVWDqQn/354ffa167f7ac56557526b0944b3269d.jpg",
         "type": "WEBVIEW",
