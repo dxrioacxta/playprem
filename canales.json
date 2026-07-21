@@ -3,8 +3,8 @@
     "name": "Nacional vs Tigre",
     "samples": [
       {
-        "name": "EVENTO 1",
-        "url": "https://streamx-hd.com/live1.php?stream=espn",
+        "name": "EN VIVO",
+        "url": "https://streamx-hd.com/live1.php?stream=disney1",
         "icono": "https://i.ibb.co/HTVWDqQn/354ffa167f7ac56557526b0944b3269d.jpg",
         "type": "WEBVIEW",
         "drm_license_uri": "",
