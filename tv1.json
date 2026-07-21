@@ -310,6 +310,13 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a5825f4112731.91354711.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=0b42be2664d7e811d04f3e504e0924c5&key=ae24090123b8c72ac5404dc152847cb8"
+      },
+      {
+        "name": "BEIN SPORTS 3",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a582436ada8f2.36468636.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=7995c724a13748ed970840a8ab5bb9b3&key=67bdaf1e2175b9ff682fcdf0e2354b1e"
       }
     ]
   },
