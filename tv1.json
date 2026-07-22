@@ -324,6 +324,13 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a480d9f740895.29429753.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f"
+      },
+      {
+        "name": "tigoo",
+        "url": "https://sam-py-edge02.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsPlusHD/TigoSportsPlusHD/transmux/index.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=a8d8bfb76315e4fc6ba1328e1d8870bd&key=eb27c40de4c406980e473fb6233fc897"
       }
     ]
   },
