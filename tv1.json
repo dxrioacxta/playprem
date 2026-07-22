@@ -324,13 +324,6 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a480d9f740895.29429753.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f"
-      },
-      {
-        "name": "CBS Sport",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "icono": "https://app.femon.net/tv/banners/69a491556f3fc5.89535613.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "kid:2WI3dKxcjDUar-l8X-cCZw,k:UWTm0FFkotZfqPzJYqpIYQ"
       }
     ]
   },
