@@ -70,7 +70,7 @@
       {
         "name": "Philadelphia Union vs New York RB (20:30)",
         "url": "https://streamx-hd.com/live1.php?stream=appletv5",
-        "icono": "",
+        "icono": "https://i.ibb.co/hn1xyM0/logo-MLS.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
