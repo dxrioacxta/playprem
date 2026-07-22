@@ -324,6 +324,13 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a480d9f740895.29429753.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f"
+      },
+      {
+        "name": "ESPN 1",
+        "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/asmvm6rkjqeyv00000263v47eydhvgcf/output.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=31bd1c2d7ec744919f9438b166f575d3&key=08a8df7583e02f9eba7b0cf77207340b"
       }
     ]
   },
