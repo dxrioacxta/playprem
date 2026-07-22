@@ -324,18 +324,6 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a480d9f740895.29429753.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f"
-      },
-      {
-        "name": "TYC SPORTS",
-        "url": "\"https://jsuhyhgg.evolucionhidraulica.com.ar/stream_01.php?path=c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
