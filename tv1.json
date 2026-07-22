@@ -331,6 +331,13 @@
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=31bd1c2d7ec744919f9438b166f575d3&key=08a8df7583e02f9eba7b0cf77207340b"
+      },
+      {
+        "name": "telefe",
+        "url": "https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/trd0wgrxamtjaw0z00000004omejlxdx/output.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw"
       }
     ]
   },
