@@ -1013,6 +1013,13 @@
     "name": "BRASIL",
     "samples": [
       {
+        "name": "GLOBO HD",
+        "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
+        "icono": "http://i.tvcluboficial.com/tvglobo.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "NOVO TEMPO TV",
         "url": "https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/chunklist_b478000_slpor.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png",
