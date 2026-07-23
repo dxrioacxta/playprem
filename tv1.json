@@ -321,7 +321,7 @@
       {
         "name": "TELEMUNDO",
         "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kasa)/master.mpd",
-        "icono": "http://217.216.92.124/superadmin/paneltv/banners/69cc85ac127a81.81676931.png",
+        "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/TuOPfNE6Hir1JE4yflHx1A?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=0a650504ba2f3f849c290b66a425f2d9&key=f9809d1b37c6eded90b4f5fbcc7eda26"
       }
