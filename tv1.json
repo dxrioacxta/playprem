@@ -807,6 +807,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsCmJZ6o0vAZUV_J6awZLb3IdjruiygW-VSlO1KJme6sRon249IlZApk&s=10",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PRODUCTIVA TV",
+        "url": "https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1969727346.m3u8",
+        "icono": "https://productiva.tv/wp-content/uploads/2020/04/icotv.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
