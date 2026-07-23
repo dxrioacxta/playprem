@@ -324,6 +324,18 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a480d9f740895.29429753.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f"
+      },
+      {
+        "name": "ISAT",
+        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0OTI4NTI3Iiwic2lwIjoiMTgxLjEyNC4xNDMuNDkiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMjZlMzlkNzk0YmY3NDQ5MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIyMzEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.P43JxHp_ULs4XPYpqpty5glUmRnd7o8ygK5pe1mj-PVZwHY8CaAYNyW4jzIIWTIuVpPQnsinN2lm47og4rqj8w==/live/c6eds/ISAT/SA_Live_dash_enc/ISAT.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=db764164934a48749a7a01bd015694f3&key=512f3c8869af45e6e5dd1525b6a77867",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "ozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
