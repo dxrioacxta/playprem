@@ -3304,6 +3304,18 @@
         "icono": "https://i.postimg.cc/L8T0ktnW/download-2026-03-12T192924-757.jpg"
       },
       {
+        "name": "TELEMUNDO INTERNACIONAL",
+        "url": "https://edge-live05-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0OTI3NjUzIiwic2lwIjoiMTkwLjEzOC4xNzAuMTQ4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjMxZDUyYjVkNDZhM2QxOSIsInNlc3Npb25faWQiOiIzNDQ3Nzg4MjE3OTA5NDU5YTAxYTdlOGE3Njk4NDU5MC0xNzg0NzU0ODUyLTIzNiIsImNsaWVudF9pZCI6ImZsb3c6MzkzODIwMi0tZmxvdzozOTM4MjAyOlAiLCJkZXZpY2VfaWQiOiIzNDQ3Nzg4MjE3OTA5NDU5YTAxYTdlOGE3Njk4NDU5MCIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM2NCIsInNvdXJjZXMiOlsxMDUsODUsMTQ0LDIxMCw4Niw4OF19.ytmwybuGXHwSPdiUFgL1FL6XVf8xI89MVkwALUgisdtKj17QeTm4UM_t9e6mHG4wvSV3X7EW9-hON6fP0wPLgg==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+        "icono": "https://ver.zapitv.com/images/ch/213/LOGO/m/0",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=53d752e4649dadd808d913985f86ee77&key%5B%5D=d1fd24db1b61d634cabfc44538ce9b0e",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "TLNOVELA",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1MDEyMzQ1Iiwic2lwIjoiMTgxLjEyNC4xMzguMTQzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZlY2Y2YjZhZGU4ZWM4Y2IiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.88N-29bl1PlhmVQDz6QkvwYMXHXoqdtxtkuaLROML-vMEOtGj-Qap_hOzoMkoL5ZBQwmJwAO44MnlKbXTrLg1w==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
         "icono": "https://i.ibb.co/KHSrKnN/7314320.png",
