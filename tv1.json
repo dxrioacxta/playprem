@@ -802,6 +802,13 @@
         "icono": "https://productiva.tv/wp-content/uploads/2020/04/icotv.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RIO FM 105.1",
+        "url": "https://live20.bozztv.com/giatv/giatv-fmriotv/fmriotv/chunks.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYk9CS8vdUoky1-B0gWC-6aw0VddbK2y1mA&s",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
