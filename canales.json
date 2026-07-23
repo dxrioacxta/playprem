@@ -90,6 +90,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Charlotte vs Atlanta United (21:15)",
+        "url": "https://streamx-hd.com/live1.php?stream=appletv11",
+        "icono": "https://i.ibb.co/hn1xyM0/logo-MLS.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
