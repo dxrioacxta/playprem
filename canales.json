@@ -92,10 +92,10 @@
         }
       },
       {
-        "name": "Prueba",
-        "url": "https://streamx-hd.com/live1.php?stream=tigo1",
+        "name": "Prueba2",
+        "url": "https://streaming.sato0.qd.je/latamplay/tigo1/index.m3u8?key=a847d635ffc9adb50cb6c31938de9f5f4fceb2154ab65c7737968379e05a16a5&expires=1784901289",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
