@@ -1,82 +1,75 @@
-from flask import Flask, request
-from bs4 import BeautifulSoup
+from flask import Flask, request, Response
 import requests
 
 app = Flask(__name__)
 
 @app.route('/solo-tigo')
-def obtener_solo_tigo():
+def solo_tigo():
     url_videx = request.args.get('url')
     if not url_videx:
-        return "Error: Falta la URL de Videx", 400
+        return "Falta la URL", 400
 
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
 
     try:
-        # 1. Descargamos la página original
-        res = requests.get(url_videx, headers=headers)
-        soup = BeautifulSoup(res.text, 'html.parser')
+        # Descargamos la página original de Videx
+        resp = requests.get(url_videx, headers=headers)
+        html = resp.text
 
-        # 2. Corregimos las rutas relativas para que cargue los scripts de video
-        if soup.head:
-            base_tag = soup.new_tag('base', href='https://videx.lol/')
-            soup.head.insert(0, base_tag)
+        # Agregamos la base para que carguen los estilos y scripts de la web
+        html = html.replace('<head>', '<head><base href="https://videx.lol/">')
 
-        # 3. CSS MÁGICO: Oculta la interfaz y deja SOLO el reproductor al 100%
-        css_limpiador = """
+        # Script y estilos limpios para hacer clic en Tigo y ocultar Fanatiz
+        script_inteligente = """
         <style>
-            /* Ocultamos títulos, botones de Fanatiz, textos y encabezados */
-            header, nav, footer, h1, h2, h3, p, span, .events, button {
-                display: none !important;
+            /* Ocultamos solo la cabecera y elementos innecesarios, sin romper el reproductor */
+            header, nav, footer, .events, .navbar { 
+                display: none !important; 
             }
-            body, html {
+            body {
+                background-color: #000 !important;
                 margin: 0 !important;
                 padding: 0 !important;
-                width: 100% !important;
-                height: 100% !important;
-                background-color: #000 !important;
-                overflow: hidden !important;
-            }
-            /* Hacemos que el contenedor del reproductor/video ocupe toda la pantalla */
-            video, iframe, div[class*="player"], div[class*="video"] {
-                display: block !important;
-                position: fixed !important;
-                top: 0 !important;
-                left: 0 !important;
-                width: 100vw !important;
-                height: 100vh !important;
-                z-index: 999999 !important;
             }
         </style>
-        """
-
-        # 4. JS: Asegura la selección automática de Tigo Sports
-        js_activar_tigo = """
         <script>
-            window.addEventListener('DOMContentLoaded', function() {
-                var elementos = document.querySelectorAll('button, a, div');
-                for (var i = 0; i < elementos.length; i++) {
-                    if (elementos[i].textContent.includes('TIGO SPORTS')) {
-                        elementos[i].click();
-                        break;
+            window.addEventListener('load', function() {
+                // Esperamos medio segundo a que cargue la página
+                setTimeout(function() {
+                    var elementos = document.querySelectorAll('button, a, div, span');
+                    for (var i = 0; i < elementos.length; i++) {
+                        // Buscamos el texto TIGO SPORTS y le hacemos clic automático
+                        if (elementos[i].innerText && elementos[i].innerText.toUpperCase().includes('TIGO SPORTS')) {
+                            elementos[i].click();
+                            break;
+                        }
                     }
-                }
+
+                    // Ocultamos los botones de Fanatiz para que no saturen
+                    setTimeout(function() {
+                        var todos = document.querySelectorAll('*');
+                        for (var j = 0; j < todos.length; j++) {
+                            let texto = todos[j].innerText || '';
+                            if (texto.toUpperCase().includes('FANATIZ') && todos[j].children.length === 0) {
+                                let padre = todos[j].closest('button') || todos[j].closest('a') || todos[j].closest('div');
+                                if (padre) padre.style.display = 'none';
+                            }
+                        }
+                    }, 800);
+
+                }, 500);
             });
         </script>
         """
 
-        # Inyectamos las reglas en el HTML
-        if soup.head:
-            soup.head.append(BeautifulSoup(css_limpiador, 'html.parser'))
-            soup.head.append(BeautifulSoup(js_activar_tigo, 'html.parser'))
-
-        return str(soup)
+        # Inyectamos el script antes de cerrar el body
+        html = html.replace('</body>', script_inteligente + '</body>')
+        return Response(html, content_type='text/html')
 
     except Exception as e:
-        return f"Error al procesar el canal: {str(e)}", 500
+        return f"Error: {str(e)}", 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)
-          
