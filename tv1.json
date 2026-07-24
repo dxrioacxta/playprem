@@ -317,6 +317,13 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a480d9f740895.29429753.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1444f4235529f183f0a5a486befe9cdb&key=e5e3fec67a1bb3472a2089c8a0a2557f"
+      },
+      {
+        "name": "tvs",
+        "url": "https://copacoradios.desdeparaguay.net/movstudio/movstudio.stream/chunklist_w635206455.m3u8?admin=admin",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
