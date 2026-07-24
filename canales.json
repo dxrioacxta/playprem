@@ -92,10 +92,10 @@
         }
       },
       {
-        "name": "Prueba2",
-        "url": "https://streaming.sato0.qd.je/latamplay/tigo1/index.m3u8?key=a847d635ffc9adb50cb6c31938de9f5f4fceb2154ab65c7737968379e05a16a5&expires=1784901289",
+        "name": "Prueba3",
+        "url": "https://playprem-2.onrender.com/solo-tigo?url=https://videx.lol/events/ad0d1bbebd9148f56cf9",
         "icono": "",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
