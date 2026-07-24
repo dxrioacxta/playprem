@@ -769,13 +769,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "VISION TV",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/nnvisiontv/playlist.m3u8",
-        "icono": "https://i.postimg.cc/P57qg3H4/Whats-App-Image-2026-04-26-at-3-22-50-PM-(1).jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "AGR TV DIGITAL",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "icono": "https://i.postimg.cc/HWKzZHcF/Whats-App-Image-2026-04-26-at-4-27-05-PM.jpg",
