@@ -671,13 +671,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EN LENGUA DE SEÑAS TV",
-        "url": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8",
-        "icono": "https://i.ibb.co/DPZyZJPF/1782754678534.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TV CANINDEYÚ",
         "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
         "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
