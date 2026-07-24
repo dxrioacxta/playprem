@@ -345,6 +345,13 @@
         "icono": "https://play-lh.googleusercontent.com/H8_GYhTa1S8W_uvniVJfyrpIVVaI5El6y-wLNZcuo1MWfFcJCUrt_lDYUp9F93QwV46zr_dRLmJ4oSaiaoSw5Q",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "APRUEBA TIGO",
+        "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
