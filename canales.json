@@ -15,9 +15,9 @@
         }
       },
       {
-        "name": "21:30 - Boca Juniors vs O'Higgins",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz6",
-        "icono": "https://i.ibb.co/CpQpHSKW/file-00000000b54c820e936833a49681c0dc.png",
+        "name": "18:30 - Cerro Porteño vs Sportivo Trinidense",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz4",
+        "icono": "https://i.ibb.co/KxyfqWMh/file-00000000e8ec820eba6e22a9fab3d43e.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
