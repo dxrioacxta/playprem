@@ -63,11 +63,16 @@
         }
       },
       {
-        "name": "Prueba",
-        "url": "https://videx.lol/events/23db4da3b8e9007d8dad",
+        "name": "Pruebak",
+        "url": "http://45.170.130.224:8000/play/a04k",
         "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
