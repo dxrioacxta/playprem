@@ -1669,13 +1669,6 @@
         }
       },
       {
-        "name": "CAZÉTV",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
-        "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "CAZÉTV 1",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
