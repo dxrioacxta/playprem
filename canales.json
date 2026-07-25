@@ -447,6 +447,13 @@
     "name": "CANALES PARAGUAY OP2",
     "samples": [
       {
+        "name": "ROCK & POP",
+        "url": "https://rockandpop.b-cdn.net/720p.m3u8",
+        "icono": "https://imagizer.imageshack.com/img922/7894/IbqPK2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FARRA PLAY",
         "url": ".",
         "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
