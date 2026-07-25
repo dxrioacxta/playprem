@@ -3,6 +3,18 @@
     "name": "EVENTOS PY",
     "samples": [
       {
+        "name": "EVENTOS",
+        "url": "http://45.170.130.224:8000/play/a04k",
+        "icono": "https://i.ibb.co/qFMT70z0/flow.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "TIGO SPORTS OPC 1",
         "url": "http://185.194.204.72:8260/live/LUMIX1/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
@@ -60,18 +72,6 @@
           "Origin": "http://icomplay.net:80/",
           "Referer": "http://icomplay.net:80/",
           "User-Agent": "IPTVSmartersPlayer"
-        }
-      },
-      {
-        "name": "EVENTOS",
-        "url": "http://45.170.130.224:8000/play/a04k",
-        "icono": "https://i.ibb.co/qFMT70z0/flow.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
       }
     ]
