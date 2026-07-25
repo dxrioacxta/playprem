@@ -90,6 +90,13 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Prueba",
+        "url": "https://videx.lol/events/2157fc7c18b3aa871b82",
+        "icono": "",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
       }
     ]
   },
