@@ -102,6 +102,13 @@
           "Referer": "http://icomplay.net:80/",
           "User-Agent": "IPTVSmartersPlayer"
         }
+      },
+      {
+        "name": "Prueba",
+        "url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntsports2.html",
+        "icono": "",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
       }
     ]
   },
