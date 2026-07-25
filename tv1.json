@@ -1717,20 +1717,6 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 3",
-        "url": "http://46.151.196.223:14444/",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 4",
-        "url": "http://46.151.196.223:14450/",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
