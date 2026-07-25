@@ -19,7 +19,12 @@
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz8",
         "icono": "https://i.ibb.co/KxyfqWMh/file-00000000e8ec820eba6e22a9fab3d43e.png",
         "type": "WEBVIEW",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
