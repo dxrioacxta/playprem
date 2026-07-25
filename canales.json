@@ -61,6 +61,13 @@
           "Referer": "http://icomplay.net:80/",
           "User-Agent": "IPTVSmartersPlayer"
         }
+      },
+      {
+        "name": "Prueba",
+        "url": "https://videx.lol/events/23db4da3b8e9007d8dad",
+        "icono": "",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
       }
     ]
   },
