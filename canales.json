@@ -418,18 +418,6 @@
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png"
       },
       {
-        "name": "FARRA PLAY",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1MDEyMzQ1Iiwic2lwIjoiMTgxLjEyNC4xMzguMTQzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZlY2Y2YjZhZGU4ZWM4Y2IiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.88N-29bl1PlhmVQDz6QkvwYMXHXoqdtxtkuaLROML-vMEOtGj-Qap_hOzoMkoL5ZBQwmJwAO44MnlKbXTrLg1w==/live/farra_src.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "AMERICA PY",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1MDEyMzQ1Iiwic2lwIjoiMTgxLjEyNC4xMzguMTQzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZlY2Y2YjZhZGU4ZWM4Y2IiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.88N-29bl1PlhmVQDz6QkvwYMXHXoqdtxtkuaLROML-vMEOtGj-Qap_hOzoMkoL5ZBQwmJwAO44MnlKbXTrLg1w==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/america-py_e8a333d19ed446eab9418d61bb6a6b6a.png",
@@ -458,6 +446,13 @@
   {
     "name": "CANALES PARAGUAY OP2",
     "samples": [
+      {
+        "name": "FARRA PLAY",
+        "url": ".",
+        "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
       {
         "name": "CANAL PRO TV",
         "url": "https://www.desde-paraguay.com/pro.m3u8",
