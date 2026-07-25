@@ -63,9 +63,9 @@
         }
       },
       {
-        "name": "Pruebak",
+        "name": "EVENTOS",
         "url": "http://45.170.130.224:8000/play/a04k",
-        "icono": "",
+        "icono": "https://i.ibb.co/qFMT70z0/flow.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
