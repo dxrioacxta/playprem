@@ -1669,13 +1669,6 @@
         }
       },
       {
-        "name": "X Sport",
-        "url": "http://158.172.217.189:8000/play/a19g/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Xsports_logo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "CAZÉTV",
         "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
         "icono": "https://i.postimg.cc/6Qv9Nb38/cazetv-logo-0-2048x2048-Easy-Resize-com.jpg",
