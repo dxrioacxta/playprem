@@ -462,7 +462,7 @@
       },
       {
         "name": "FARRA PLAY",
-        "url": ".",
+        "url": "http://159.203.148.226/live/farra_src.m3u8",
         "icono": "https://i.ibb.co/99DzY4J/farra-play.png",
         "type": "HLS",
         "drm_license_uri": ""
