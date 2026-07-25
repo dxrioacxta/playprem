@@ -3,18 +3,6 @@
     "name": "COPA DE PRIMERA",
     "samples": [
       {
-        "name": "16:00 - Deportivo Recoleta vs Sportivo San Lorenzo",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz3",
-        "icono": "https://i.ibb.co/KxyfqWMh/file-00000000e8ec820eba6e22a9fab3d43e.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "18:30 - Sportivo Ameliano vs Nacional Asunción",
         "url": "https://videx.lol/events/ccb1e3285d0b913d85cd",
         "icono": "https://i.ibb.co/KxyfqWMh/file-00000000e8ec820eba6e22a9fab3d43e.png",
