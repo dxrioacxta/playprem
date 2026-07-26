@@ -839,6 +839,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgbzpZG7xql85dRFxRVdwbiaRUzG4U1owebGdI9yE-ExXZ6lP2WqUtEI&s=10",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RED DIGITAL",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkBbWlas-Rq_BWuZQiF96lYKbYCw6AFlffucR0VI-Bw&s",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
