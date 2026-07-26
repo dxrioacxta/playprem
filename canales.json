@@ -1,5 +1,406 @@
 [
   {
+    "name": "EVENTOS DEL DIA 🏟️",
+    "samples": [
+      {
+        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz1",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
+        "url": "https://streamx488.sbs/global1.php?channel=disney2",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
+        "url": "https://streamx488.sbs/global1.php?channel=espnpremium",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
+        "url": "https://streamx488.sbs/global1.php?channel=espnar",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga 1: UTC Cajamarca vs Deportivo Moquegua",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga 1: UTC Cajamarca vs Deportivo Moquegua",
+        "url": "https://streamx488.sbs/global1.php?channel=liga1max",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Primera División: Cerro vs Racing",
+        "url": "https://streamx488.sbs/global1.php?channel=disney3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Logo_de_la_Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol.svg/500px-Logo_de_la_Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Primera División: Ñublense vs Palestino",
+        "url": "https://streamx488.sbs/global1.php?channel=tntsportscl",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Liga BetPlay: Inter Bogotá vs América de Cali",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz3",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Liga BetPlay: Inter Bogotá vs América de Cali",
+        "url": "https://streamx488.sbs/global1.php?channel=winplus",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Brasileirão: Bahia vs Corinthians",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Brasileirão: Bahia vs Corinthians",
+        "url": "https://streamx488.sbs/global1.php?channel=premiere5",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Brasileirão: Cruzeiro vs Botafogo",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz5",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Brasileirão: Cruzeiro vs Botafogo",
+        "url": "https://streamx488.sbs/global1.php?channel=winsports",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Brasileirão: Cruzeiro vs Botafogo",
+        "url": "https://streamx488.sbs/global1.php?channel=premiere4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Copa de Primera: Olimpia vs Libertad",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz6",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Logo_de_la_Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol.svg/500px-Logo_de_la_Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "17:15 - Liga Profesional: Estudiantes LP vs Independiente",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz7",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "17:15 - Liga Profesional: Estudiantes LP vs Independiente",
+        "url": "https://streamx488.sbs/global1.php?channel=tntar",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "17:30 - Liga 1: Comerciantes Unidos vs Alianza Lima",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz8",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:05 - Liga BetPlay: Rionegro Águilas vs Santa Fe",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz9",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Copa de Primera: Guaraní vs Sportivo Luqueño",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz10",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Logo_de_la_Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol.svg/500px-Logo_de_la_Asociaci%C3%B3n_Paraguaya_de_F%C3%BAtbol.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Brasileirão: Grêmio vs Fluminense",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz11",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Brasileirão: Grêmio vs Fluminense",
+        "url": "https://streamx488.sbs/global1.php?channel=premiere3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Brasileirão: RB Bragantino vs Coritiba",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz12",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Brasileirão: Flamengo vs São Paulo",
+        "url": "https://streamx488.sbs/global1.php?channel=premiere1",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Brasileirão: Remo vs Vitória",
+        "url": "https://streamx488.sbs/global1.php?channel=premiere6",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Liga Profesional: Deportivo Riestra vs Boca Juniors",
+        "url": "https://streamx488.sbs/global1.php?channel=disney4",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Liga Profesional: Deportivo Riestra vs Boca Juniors",
+        "url": "https://streamx488.sbs/global1.php?channel=espn",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:00 - Liga MX: Necaxa vs Monterrey",
+        "url": "https://streamx488.sbs/global1.php?channel=foxone1",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:00 - Liga MX: Necaxa vs Monterrey",
+        "url": "https://streamx488.sbs/global1.php?channel=foxdeportes",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:00 - Liga de Expansión: Tapatío vs Cruz Azul Hidalgo",
+        "url": "https://streamx488.sbs/global1.php?channel=espn2mx",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "22:06 - Liga MX: Pachuca vs Querétaro",
+        "url": "https://streamx488.sbs/global1.php?channel=foxone2",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "22:06 - Liga MX: Pachuca vs Querétaro",
+        "url": "https://streamx488.sbs/global1.php?channel=tudnus",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Liga_Profesional_de_F%C3%BAtbol_logo.svg/500px-Liga_Profesional_de_F%C3%BAtbol_logo.svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
     "name": "COPA DE PRIMERA",
     "samples": [
       {
