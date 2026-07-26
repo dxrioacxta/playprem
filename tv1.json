@@ -849,7 +849,7 @@
       },
       {
         "name": "INVASIVA TV",
-        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+        "url": "https://video.wilohosting.com:19360/invasivatv/invasivatv.m3u8",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Qamm1EN1D5jwAy6sbGljSjnt_dqZWMxPrLjo7rf6ng&s=10",
         "type": "HLS",
         "drm_license_uri": ""
