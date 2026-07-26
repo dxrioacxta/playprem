@@ -3,90 +3,6 @@
     "name": "🏆 |EVENTOS DEL DIA ⚽⭐",
     "samples": [
       {
-        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
-        "url": "https://streamx488.sbs/global1.php?channel=disney2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
-        "url": "https://streamx488.sbs/global1.php?channel=espnpremium",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Liga Profesional: Atlético Tucumán vs Independiente Rivadavia",
-        "url": "https://streamx488.sbs/global1.php?channel=espnar",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Liga 1: UTC Cajamarca vs Deportivo Moquegua",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Liga 1: UTC Cajamarca vs Deportivo Moquegua",
-        "url": "https://streamx488.sbs/global1.php?channel=liga1max",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Primera División: Cerro vs Racing",
-        "url": "https://streamx488.sbs/global1.php?channel=disney3",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "16:00 - Primera División: Ñublense vs Palestino",
         "url": "https://streamx488.sbs/global1.php?channel=tntsportscl",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
@@ -231,6 +147,18 @@
         }
       },
       {
+        "name": "17:30 - Liga 1: Comerciantes Unidos vs Alianza Lima",
+        "url": "https://streamx488.sbs/global1.php?channel=liga1max",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "18:05 - Liga BetPlay: Rionegro Águilas vs Santa Fe",
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz9",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
@@ -303,6 +231,30 @@
         }
       },
       {
+        "name": "19:30 - Brasileirão: Palmeiras vs Atlético Mineiro",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Brasileirão: Remo vs Vitória",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "19:30 - Brasileirão: Remo vs Vitória",
         "url": "https://streamx488.sbs/global1.php?channel=premiere6",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
@@ -317,6 +269,18 @@
       {
         "name": "19:30 - Liga Profesional: Deportivo Riestra vs Boca Juniors",
         "url": "https://streamx488.sbs/global1.php?channel=disney4",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Liga Profesional: Deportivo Riestra vs Boca Juniors",
+        "url": "https://streamx488.sbs/global1.php?channel=espnpremium",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
