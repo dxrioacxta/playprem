@@ -832,6 +832,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZQJHGnlwuMrQgTc3OzWUoFAcAQ2Ge063Fw&s",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TELE15",
+        "url": "https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgbzpZG7xql85dRFxRVdwbiaRUzG4U1owebGdI9yE-ExXZ6lP2WqUtEI&s=10",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
