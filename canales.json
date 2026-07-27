@@ -73,6 +73,18 @@
           "Referer": "https://streamx488.sbs/",
           "User-Agent": ""
         }
+      },
+      {
+        "name": ".",
+        "url": "https://streamx-hd.com/live1.php?stream=disney11",
+        "icono": "",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx-hd.com/",
+          "Referer": "https://streamx-hd.com/",
+          "User-Agent": ""
+        }
       }
     ]
   },
