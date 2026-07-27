@@ -1,58 +1,5 @@
 [
   {
-    "name": "🏆 |EVENTOS DEL DIA ⚽⭐",
-    "samples": [
-      {
-        "name": "22:06 - Liga MX: Pachuca vs Querétaro",
-        "url": "https://streamx488.sbs/global1.php?channel=foxone2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "22:06 - Liga MX: Pachuca vs Querétaro",
-        "url": "https://streamx488.sbs/global1.php?channel=tudnus",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "22:15 - Liga BetPlay: Once Caldas vs Cúcuta Deportivo",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz6",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "22:15 - Liga BetPlay: Once Caldas vs Cúcuta Deportivo",
-        "url": "https://streamx488.sbs/global1.php?channel=winplus",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "EVENTOS PY",
     "samples": [
       {
