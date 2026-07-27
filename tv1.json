@@ -333,6 +333,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TIGO SD",
+        "url": "https://videostream.shockmedia.com.ar:19360/yatytaytv1/yatytaytv1.m3u8",
+        "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS 1",
         "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/153287.m3u8",
         "icono": "https://i.postimg.cc/8crts3yZ/tigo-seleccion.jpg",
@@ -343,13 +350,6 @@
         "name": "EVENTOS 2",
         "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/153286.m3u8",
         "icono": "https://i.postimg.cc/8crts3yZ/tigo-seleccion.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TIGO SD",
-        "url": "https://videostream.shockmedia.com.ar:19360/yatytaytv1/yatytaytv1.m3u8",
-        "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       },
