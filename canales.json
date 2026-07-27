@@ -162,18 +162,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": ".",
-        "url": "https://streamx-hd.com/live1.php?stream=disney11",
-        "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx-hd.com/",
-          "Referer": "https://streamx-hd.com/",
-          "User-Agent": ""
-        }
       }
     ]
   },
