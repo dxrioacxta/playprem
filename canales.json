@@ -73,13 +73,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": ".",
-        "url": "https://nzbq3n4m6m3.premilkyway.com:443/hls2/01/14708/er27d7jwnmw4_o/seg-1-v1-a1.ts",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
