@@ -3,30 +3,6 @@
     "name": "🏆 |EVENTOS DEL DIA ⚽⭐",
     "samples": [
       {
-        "name": "21:00 - Liga 1: Deportivo Garcilaso vs FC Cajamarca",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz5",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:00 - Liga 1: Deportivo Garcilaso vs FC Cajamarca",
-        "url": "https://streamx488.sbs/global1.php?channel=liga1max",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "21:30 - Primera División: Deportes Concepción vs O'Higgins",
         "url": "https://streamx488.sbs/global1.php?channel=tntsportscl",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
