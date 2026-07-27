@@ -363,7 +363,7 @@
       {
         "name": "TIGO SPORTS HD",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "icono": "",
+        "icono": "https://www.tigosports.com.py/assets/graphics/app/logo_tigo-sport_inline_2.svg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/wmc08carie2w7w0y16z7a/tigo8.json?rlkey=ldmg8v7wirj2bl4oty2atlbmt&st=1h35tcaa&dl=0"
       }
