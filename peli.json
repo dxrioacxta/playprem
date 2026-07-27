@@ -5,19 +5,6 @@
   },
   {
     "name": "PELÍCULAS💥",
-    "samples": [
-      {
-        "name": "Caso 137",
-        "url": "http://goovdme.967sd1f.homes/vod/1D13D7B5BA7649B5A9DFC019189D7444_media.mp4",
-        "icono": "https://image.tmdb.org/t/p/w500/ccjEw4eAto3SClrD1bzbhTzWFTp.jpg",
-        "iconoHorizontal": "https://image.tmdb.org/t/p/original/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
-        "iconpng": "https://image.tmdb.org/t/p/w500/ccjEw4eAto3SClrD1bzbhTzWFTp.jpg",
-        "descripcion": "Stéphanie, agente de policía de Asuntos Internos, es asignada a un caso relacionado con un joven gravemente herido durante una tensa y caótica manifestación en París. Si bien no encuentra pruebas de violencia policial ilegítima, el caso adquiere un cariz personal al descubrir que la víctima es de su ciudad natal y transformará el caso 137 en algo más que un simple número.",
-        "anio": "2025",
-        "genero": "Crimen",
-        "duracion": "120 min",
-        "type": "PELICULA"
-      }
-    ]
+    "samples": []
   }
 ]
