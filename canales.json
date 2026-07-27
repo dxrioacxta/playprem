@@ -63,10 +63,10 @@
         }
       },
       {
-        "name": ".2",
-        "url": "http://redworld.pro:8880/movie/Swq25as/tLHnZxGNqd3c/535380.mp4",
+        "name": ".",
+        "url": "https://nzbq3n4m6m3.premilkyway.com:443/hls2/01/14708/er27d7jwnmw4_o/seg-1-v1-a1.ts",
         "icono": "",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
