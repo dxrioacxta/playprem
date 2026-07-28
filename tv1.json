@@ -844,6 +844,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Qamm1EN1D5jwAy6sbGljSjnt_dqZWMxPrLjo7rf6ng&s=10",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "4DMAS NOTICIAS",
+        "url": "https://tigocloud.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/chunklist_w118892837.m3u8",
+        "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
