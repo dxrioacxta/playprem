@@ -3,18 +3,6 @@
     "name": "🏆 |EVENTOS DEL DIA ⚽⭐",
     "samples": [
       {
-        "name": "16:00 - Copa de Primera: Rubio Ñú vs Sportivo Ameliano",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "18:30 - Copa de Primera: 2 de Mayo vs Cerro Porteño",
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
