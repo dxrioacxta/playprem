@@ -858,6 +858,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7XlWfGABIuSeanghFVu1VAX6ARw0sTT3LA&s",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CAMBYRETA TV",
+        "url": "https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/chunklist_w154802681.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5HRDgci6pxuRTVVYqEH0rW7Ofta9VzmNHw&s",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
