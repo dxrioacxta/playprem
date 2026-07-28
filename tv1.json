@@ -851,6 +851,13 @@
         "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CANAL 8 OBLIGADO",
+        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7XlWfGABIuSeanghFVu1VAX6ARw0sTT3LA&s",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
