@@ -348,6 +348,13 @@
           "Referer": "https://www.tigosports.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TIGO SPORTS 3",
+        "url": "https://videostream.shockmedia.com.ar/yatytaytv1/yatytaytv1.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
