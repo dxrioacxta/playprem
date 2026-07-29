@@ -780,6 +780,239 @@
     ]
   },
   {
+    "name": "📺DEPORTES ESPN Y FOX SPORTS AR",
+    "samples": [
+      {
+        "name": "ESPN 1",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN SUR",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 2",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 3",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 4",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 5",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/kt4rv4iBE9Hp_hI5xaghHw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 6",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/stPaOp7uRjk9fBMBh45VKg?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 7",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/zBcxv9_i-yRUV5K_KUVvmQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "FOX SPORTS",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HAq2thFBSFQ6BPwjbeV3mw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "FOX SPORTS 3",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TNT SPORT",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
+        "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TYC SPORT",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DIRECTV sports",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DIRECTV +",
+        "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DIRECTV SPORT +",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8afa490e1640be969729fb459182e4ec&key=6f129820cdd5b6978a98c604c72cf05b",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DIRECTV FLOW",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/DSports_1/SA_Live_dash_enc/DSports_1.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=4db80473af2ed318c41d879f2822203e&key=d30f94e60344adf0f4b242a5952575ad",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DIRECTV 2 FLOW",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/DSports_2/SA_Live_dash_enc/DSports_2.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0dd493fa74640442abd75139b67307d6&key=31cf4295392d939a97f3b60ebf1ceb44",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
     "name": "📺 DEPORTES 2026",
     "samples": [
       {
@@ -1419,239 +1652,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeQhzXB2jIDW9Omq8OY7n3gKiJ_IQYzwJg1SYkbrcfLCOfmj30BvMtEsA&s=10",
         "type": "HLS",
         "drm_license_uri": ""
-      }
-    ]
-  },
-  {
-    "name": "📺DEPORTES ESPN Y FOX SPORTS AR",
-    "samples": [
-      {
-        "name": "ESPN 1",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN SUR",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 2",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 3",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 4",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 5",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/kt4rv4iBE9Hp_hI5xaghHw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 6",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/stPaOp7uRjk9fBMBh45VKg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 7",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/zBcxv9_i-yRUV5K_KUVvmQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FOX SPORTS",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HAq2thFBSFQ6BPwjbeV3mw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FOX SPORTS 3",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN PREMIUM",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
-        "icono": "https://i.ibb.co/0jSPkhK/1917793265-ESPNPremium-11-png-c58d52a209062a470b942de50e11f529.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TNT SPORT",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
-        "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TYC SPORT",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "DIRECTV sports",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "DIRECTV +",
-        "url": "http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "DIRECTV SPORT +",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8afa490e1640be969729fb459182e4ec&key=6f129820cdd5b6978a98c604c72cf05b",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "DIRECTV FLOW",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/DSports_1/SA_Live_dash_enc/DSports_1.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=4db80473af2ed318c41d879f2822203e&key=d30f94e60344adf0f4b242a5952575ad",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "DIRECTV 2 FLOW",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/DSports_2/SA_Live_dash_enc/DSports_2.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0dd493fa74640442abd75139b67307d6&key=31cf4295392d939a97f3b60ebf1ceb44",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
