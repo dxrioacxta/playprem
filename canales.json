@@ -1517,14 +1517,14 @@
       },
       {
         "name": "GLOBO RBS TV PORTO ALEGRE",
-        "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/420602.m3u8",
+        "url": "http://zonacero.lat:8080/live/2026/2026/420602.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
           "Referer": "",
-          "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
+          "User-Agent": "Ultimate Player/1.0.7"
         }
       },
       {
