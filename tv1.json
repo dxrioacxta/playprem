@@ -2338,6 +2338,77 @@
     ]
   },
   {
+    "name": "📺BRASIL",
+    "samples": [
+      {
+        "name": "SBT",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "BAND HD",
+        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/195412.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "BAND ",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "BAND NEW",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0b4f56d5c19b45fb3e75a73b6ec06e6c&key=c464e2b6ded2b52e1e7753b3a859abce",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "RECORD",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=b0bd8ea11b3f4c219903085ef1d44b0d&key=9a25709a72c2ca93cb738665736cfa5a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "GLOBO HD",
+        "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
+        "icono": "http://i.tvcluboficial.com/tvglobo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "SBT HD",
+        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/195372.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "NEWS-GLOBO",
+        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/195325.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeQhzXB2jIDW9Omq8OY7n3gKiJ_IQYzwJg1SYkbrcfLCOfmj30BvMtEsA&s=10",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
     "name": "📺 DEPORTES 2026",
     "samples": [
       {
@@ -2906,77 +2977,6 @@
           "Referer": "http://dalive.site:8080/",
           "User-Agent": "com.ibopro.apptv24/42 (Linux; U; Android 15; es_US; 23028RA60L; Build/AQ3A.240829.003; Cronet/149.0.7827.22)"
         }
-      }
-    ]
-  },
-  {
-    "name": "📺BRASIL",
-    "samples": [
-      {
-        "name": "SBT",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "BAND HD",
-        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/195412.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "BAND ",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "BAND NEW",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=0b4f56d5c19b45fb3e75a73b6ec06e6c&key=c464e2b6ded2b52e1e7753b3a859abce",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RECORD",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/record_415eada9b66b40ac82e498324294f0d4.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=b0bd8ea11b3f4c219903085ef1d44b0d&key=9a25709a72c2ca93cb738665736cfa5a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "GLOBO HD",
-        "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
-        "icono": "http://i.tvcluboficial.com/tvglobo.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "SBT HD",
-        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/195372.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "NEWS-GLOBO",
-        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/195325.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeQhzXB2jIDW9Omq8OY7n3gKiJ_IQYzwJg1SYkbrcfLCOfmj30BvMtEsA&s=10",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
