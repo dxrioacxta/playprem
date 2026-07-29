@@ -1013,6 +1013,39 @@
     ]
   },
   {
+    "name": "📺LPF PLAY (ARGENTINA)",
+    "samples": [
+      {
+        "name": "LPF PLAY 1",
+        "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF PLAY 2",
+        "url": "https://emitiendoenvivo.com:443/lpf/2.m3u8",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF PLAY 3",
+        "url": "https://emitiendoenvivo.com:443/lpf/3.m3u8",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF PLAY 4",
+        "url": "https://emitiendoenvivo.com:443/lpf/4.m3u8",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
     "name": "📺 DEPORTES 2026",
     "samples": [
       {
@@ -3132,39 +3165,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
-      }
-    ]
-  },
-  {
-    "name": "📺LPF PLAY (ARGENTINA)",
-    "samples": [
-      {
-        "name": "LPF PLAY 1",
-        "url": "https://emitiendoenvivo.com:443/lpf/1.m3u8",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF PLAY 2",
-        "url": "https://emitiendoenvivo.com:443/lpf/2.m3u8",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF PLAY 3",
-        "url": "https://emitiendoenvivo.com:443/lpf/3.m3u8",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF PLAY 4",
-        "url": "https://emitiendoenvivo.com:443/lpf/4.m3u8",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
