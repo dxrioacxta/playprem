@@ -1303,6 +1303,49 @@
     ]
   },
   {
+    "name": "📺 NEUQUEN ARG",
+    "samples": [
+      {
+        "name": "CANAL 7",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Telefe_Neuqu%C3%A9n_2011.png/revision/latest?cb=20200304143411",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=55828b728b8affe6d1d57d050025645d&key=8ac11ed6d0ccaeac3f8218419f65bb94",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CANAL 24/7",
+        "url": "https://panel.host-live.com:19360/cn247tv/Source.m3u8",
+        "icono": "https://cdn.prod.website-files.com/6883c5d2010468090688a047/6894938bfe32dd7f9df2232f_24_7-removebg-preview.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "EL VALLE",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c4eds/Somos_El_Valle/SA_Live_dash_enc/Somos_El_Valle.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/17XA6KOFNps53PTMQcs6Cg?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "RTN",
+        "url": "https://media.neuquen.gov.ar/rtn/television/chunklist_w1876841450.m3u8",
+        "icono": "https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online-1536x864.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
     "name": "📺 DEPORTES 2026",
     "samples": [
       {
@@ -3247,49 +3290,6 @@
         "name": "Zona de riesgo (2026)",
         "url": "http://los84hijosdelsol.com:80/movie/fernawb853/edwasx9647/1188677.mkv",
         "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3On2pUX6KRJwI8Fp7xqJkKQdIv.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
-    "name": "📺 NEUQUEN ARG",
-    "samples": [
-      {
-        "name": "CANAL 7",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Telefe_Neuqu%C3%A9n_2011.png/revision/latest?cb=20200304143411",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=55828b728b8affe6d1d57d050025645d&key=8ac11ed6d0ccaeac3f8218419f65bb94",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CANAL 24/7",
-        "url": "https://panel.host-live.com:19360/cn247tv/Source.m3u8",
-        "icono": "https://cdn.prod.website-files.com/6883c5d2010468090688a047/6894938bfe32dd7f9df2232f_24_7-removebg-preview.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EL VALLE",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NDE0NDMzIiwic2lwIjoiMTgxLjEyNC4xMzEuMjQ5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjA4MzgyOTc0OWJmZDZmMzYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.c0NSiFevHo756mRbjUrqSBSC2QV-s1_0jno9QLgyvBhDPj-qgwQf1tzlsztVZDjbTeJREYh0OEAj6gY5VCUFkQ==/live/c4eds/Somos_El_Valle/SA_Live_dash_enc/Somos_El_Valle.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/17XA6KOFNps53PTMQcs6Cg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RTN",
-        "url": "https://media.neuquen.gov.ar/rtn/television/chunklist_w1876841450.m3u8",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online-1536x864.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       }
