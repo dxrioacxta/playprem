@@ -3,199 +3,7 @@
     "name": "🏆 |EVENTOS DEL DIA ⚽⭐",
     "samples": [
       {
-        "name": "19:30 - Copa Colombia: Barranquilla vs Junior",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz7",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "19:30 - Copa Colombia: Barranquilla vs Junior",
-        "url": "https://streamx488.sbs/global1.php?channel=winplus",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "19:30 - Brasileirão: Internacional vs Flamengo",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz8",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "19:30 - Brasileirão: Internacional vs Flamengo",
-        "url": "https://streamx488.sbs/global1.php?channel=amazon1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "19:30 - Brasileirão: Mirassol vs Remo",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz9",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "19:30 - Brasileirão: Mirassol vs Remo",
-        "url": "https://streamx488.sbs/global1.php?channel=premiere4",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "20:30 - Amistoso: Wrexham vs Liverpool",
-        "url": "https://streamx488.sbs/global1.php?channel=clarosports",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "20:30 - Amistoso: Wrexham vs Liverpool",
-        "url": "https://streamx488.sbs/global1.php?channel=espndeportes",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:00 - MLS All-Star: MLS All Star Team vs Liga MX All-Stars",
-        "url": "https://streamx488.sbs/global1.php?channel=mls1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:00 - MLS All-Star: MLS All Star Team vs Liga MX All-Stars",
-        "url": "https://streamx488.sbs/global1.php?channel=mls2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:00 - Copa Centroamericana de CONCACAF: UMECIT vs Deportivo Saprissa",
-        "url": "https://streamx488.sbs/global1.php?channel=disney5",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:00 - Copa Centroamericana de CONCACAF: UMECIT vs Deportivo Saprissa",
-        "url": "https://streamx488.sbs/global1.php?channel=foxone1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Copa Sudamericana: Cienciano vs Lanús",
-        "url": "https://streamx488.sbs/global1.php?channel=fanatiz10",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Copa Sudamericana: Cienciano vs Lanús",
-        "url": "https://streamx488.sbs/global1.php?channel=disney6",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Copa Sudamericana: Cienciano vs Lanús",
-        "url": "https://streamx488.sbs/global1.php?channel=espnar",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Copa Sudamericana: Cienciano vs Lanús",
-        "url": "https://streamx488.sbs/global1.php?channel=espn2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Copa Sudamericana: RB Bragantino vs Sporting Cristal",
+        "name": "16:00 - Copa de Primera: Sportivo San Lorenzo vs Guaraní",
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz1",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -207,31 +15,7 @@
         }
       },
       {
-        "name": "21:30 - Copa Sudamericana: RB Bragantino vs Sporting Cristal",
-        "url": "https://streamx488.sbs/global1.php?channel=dsportsar",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Copa Sudamericana: RB Bragantino vs Sporting Cristal",
-        "url": "https://streamx488.sbs/global1.php?channel=dsports",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Liga Profesional: Instituto vs Platense",
+        "name": "18:30 - Copa de Primera: Libertad vs Deportivo Recoleta",
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz2",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -243,31 +27,7 @@
         }
       },
       {
-        "name": "21:30 - Liga Profesional: Instituto vs Platense",
-        "url": "https://streamx488.sbs/global1.php?channel=tntar",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Liga Profesional: Instituto vs Platense",
-        "url": "https://streamx488.sbs/global1.php?channel=tycint",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:30 - Brasileirão: Fluminense vs Bahia",
+        "name": "19:00 - Liga Profesional: Talleres Córdoba vs Vélez Sarsfield",
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz3",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -279,8 +39,8 @@
         }
       },
       {
-        "name": "21:30 - Brasileirão: Fluminense vs Bahia",
-        "url": "https://streamx488.sbs/global1.php?channel=premiere3",
+        "name": "19:00 - Liga Profesional: Talleres Córdoba vs Vélez Sarsfield",
+        "url": "https://streamx488.sbs/global1.php?channel=disney1",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -291,7 +51,19 @@
         }
       },
       {
-        "name": "21:30 - Brasileirão: Vitória vs Palmeiras",
+        "name": "19:00 - Liga Profesional: Talleres Córdoba vs Vélez Sarsfield",
+        "url": "https://streamx488.sbs/global1.php?channel=espnpremium",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Liga Profesional: Independiente Rivadavia vs Huracán",
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz4",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -303,8 +75,8 @@
         }
       },
       {
-        "name": "21:30 - Brasileirão: Vitória vs Palmeiras",
-        "url": "https://streamx488.sbs/global1.php?channel=premiere1",
+        "name": "19:00 - Liga Profesional: Independiente Rivadavia vs Huracán",
+        "url": "https://streamx488.sbs/global1.php?channel=tntar",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -315,7 +87,7 @@
         }
       },
       {
-        "name": "22:00 - Copa Colombia: Real Cartagena vs América de Cali",
+        "name": "19:00 - Copa Sudamericana: Grêmio vs Bolívar",
         "url": "https://streamx488.sbs/global1.php?channel=fanatiz5",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -327,32 +99,272 @@
         }
       },
       {
-        "name": "23:00 - Copa Centroamericana de CONCACAF: Alajuelense vs Xelajú",
+        "name": "19:00 - Copa Sudamericana: Grêmio vs Bolívar",
+        "url": "https://streamx488.sbs/global1.php?channel=disney2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Sudamericana: Grêmio vs Bolívar",
+        "url": "https://streamx488.sbs/global1.php?channel=espn",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Sudamericana: Grêmio vs Bolívar",
+        "url": "https://streamx488.sbs/global1.php?channel=espn2ar",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Brasileirão: Corinthians vs Athletico-PR",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz6",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Brasileirão: Corinthians vs Athletico-PR",
+        "url": "https://streamx488.sbs/global1.php?channel=premiere1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:30 - Amistoso: Sunderland vs Leeds United",
+        "url": "https://streamx488.sbs/global1.php?channel=clarosports",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:30 - Amistoso: Sunderland vs Leeds United",
+        "url": "https://streamx488.sbs/global1.php?channel=espndeportes",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:15 - Liga Profesional: Independiente vs Newell's Old Boys",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz7",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:15 - Liga Profesional: Independiente vs Newell's Old Boys",
+        "url": "https://streamx488.sbs/global1.php?channel=disney3",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:15 - Liga Profesional: Independiente vs Newell's Old Boys",
+        "url": "https://streamx488.sbs/global1.php?channel=tycint",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:15 - Liga Profesional: Central Córdoba SdE vs Atlético Tucumán",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz8",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Copa Sudamericana: O'Higgins vs Boca Juniors",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz9",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Copa Sudamericana: O'Higgins vs Boca Juniors",
+        "url": "https://streamx488.sbs/global1.php?channel=disney4",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Copa Sudamericana: O'Higgins vs Boca Juniors",
+        "url": "https://streamx488.sbs/global1.php?channel=dsportsar",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Copa Sudamericana: Caracas vs Santa Fe",
+        "url": "https://streamx488.sbs/global1.php?channel=fanatiz10",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Copa Sudamericana: Caracas vs Santa Fe",
+        "url": "https://streamx488.sbs/global1.php?channel=disney5",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Copa Sudamericana: Caracas vs Santa Fe",
+        "url": "https://streamx488.sbs/global1.php?channel=dsports",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Brasileirão: Coritiba vs Cruzeiro",
+        "url": "https://streamx488.sbs/global1.php?channel=premiere2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Brasileirão: Coritiba vs Cruzeiro",
+        "url": "https://streamx488.sbs/global1.php?channel=sportv1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "22:00 - Liga BetPlay: Atlético Bucaramanga vs Llaneros",
+        "url": "https://streamx488.sbs/global1.php?channel=winplus",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "22:00 - Copa Centroamericana de CONCACAF: Herediano vs Marathón",
+        "url": "https://streamx488.sbs/global1.php?channel=disney6",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "22:00 - Copa Centroamericana de CONCACAF: Herediano vs Marathón",
+        "url": "https://streamx488.sbs/global1.php?channel=foxone1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamx488.sbs/",
+          "Referer": "https://streamx488.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "00:00 - Copa Centroamericana de CONCACAF: Municipal vs Cartaginés",
         "url": "https://streamx488.sbs/global1.php?channel=disney7",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "23:00 - Copa Centroamericana de CONCACAF: Alajuelense vs Xelajú",
-        "url": "https://streamx488.sbs/global1.php?channel=foxone2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamx488.sbs/",
-          "Referer": "https://streamx488.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "23:00 - Copa Centroamericana de CONCACAF: Alianza vs Antigua GFC",
-        "url": "https://streamx488.sbs/global1.php?channel=disney8",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
