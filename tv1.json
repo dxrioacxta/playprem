@@ -2084,11 +2084,11 @@
         }
       },
       {
-        "name": "HBO Plus",
+        "name": "HBO PLUS",
         "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NTk5NzM3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTkzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVjOGU3N2U3MTkyYTJjYzgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Um5jq2tFiA0BAicrcslF9Dfjbx-KwQmGanU4E2RAznfmzgvMNoOOSOdYR9Ivkg4kl9TKng292cU2tSBL9cyMxQ==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
-        "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
-        "drm_license_uri": "https://tonykshop.lat/license.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
