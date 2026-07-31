@@ -322,18 +322,6 @@
         }
       },
       {
-        "name": "TIGO SPORTS 2",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/wmc08carie2w7w0y16z7a/tigo8.json?rlkey=ldmg8v7wirj2bl4oty2atlbmt&st=1h35tcaa&dl=0",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TIGO SPORTS 3",
         "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
         "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
