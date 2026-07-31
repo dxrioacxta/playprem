@@ -2846,6 +2846,13 @@
     "name": "📺PARAGUAY INTERIORES",
     "samples": [
       {
+        "name": "PARANA TV",
+        "url": "https://edge.enhdtv.com/8050/tracks-v1a1/mono.m3u8",
+        "icono": "https://paranatv.com/__l5e/assets-v1/e905f795-49b5-4c08-9f23-8f02e922c1fb/parana-tv-logo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "REGIONAL TV",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/regional-tv_e7b22f3b76f44038b9edb3ccf936a608.jpg",
