@@ -3068,6 +3068,13 @@
         "icono": "https://cdn.rcc.com.py/2024/07/logo-rcc-holding-100px.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TV CHAQUENA",
+        "url": "https://tigocloudgen.desdeparaguay.net/tvchaquena/tvchaquena/chunklist_w1703981637.m3u8?admin=admin",
+        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/tvchaquena.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
