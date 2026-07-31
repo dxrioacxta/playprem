@@ -3065,7 +3065,7 @@
       {
         "name": "RCC",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/chunklist_w753189020.m3u8?adim=admin",
-        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/rcctv.png",
+        "icono": "https://cdn.rcc.com.py/2024/07/logo-rcc-holding-100px.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       }
