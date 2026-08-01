@@ -1,82 +1,5 @@
 [
   {
-    "name": "📺MUSICA",
-    "samples": [
-      {
-        "name": "ALLEGRO",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Mpn70pqyaDdZN60vclCdHw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CM",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/DyFeQKP1Eu7y5o0Tk1oKfQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.3"
-        }
-      },
-      {
-        "name": "MUSIC XP",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Vqfw5SS8gWr332vJUn6aKQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "HTV",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Unbb9QNr6O9YHLpAaTWiqA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MTV",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/n04YtKT8WwRPjAfxJC6FTA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "QUIERO MUSICA",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/pWSGmQ4yaCOlkok_QtzNWQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "📺PARAGUAY",
     "samples": [
       {
@@ -1831,6 +1754,83 @@
           "Origin": "https://www.primevideo.com",
           "Referer": "https://www.primevideo.com",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "📺MUSICA",
+    "samples": [
+      {
+        "name": "ALLEGRO",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Mpn70pqyaDdZN60vclCdHw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CM",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/DyFeQKP1Eu7y5o0Tk1oKfQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.3"
+        }
+      },
+      {
+        "name": "MUSIC XP",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Vqfw5SS8gWr332vJUn6aKQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "HTV",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Unbb9QNr6O9YHLpAaTWiqA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MTV",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/n04YtKT8WwRPjAfxJC6FTA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "QUIERO MUSICA",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/pWSGmQ4yaCOlkok_QtzNWQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
       }
     ]
