@@ -3350,6 +3350,18 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "SANTA MARIA",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1Nzc3MDEwIiwic2lwIjoiMTgxLjEyNC4xMzIuMjAiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiOGM3NmQ4OWZiM2JhNWZmZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.EQEBY6vuOhyW1ECbvHYbztRz8n9ySvMWjWNLR5Azjt4US_mRUtHvQvsAWUJ1A26a-4VfKw3ut9lfVq38zzZ_1w==/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/2CN6FrQYv-f3Zmr1EnRA1g?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=d456fba3fccb4c06a0f4776fe412400b&key=ca5530ffe42a38759d3887c82d6a909a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
