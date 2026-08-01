@@ -1048,6 +1048,13 @@
     "name": "🇦🇷ARGENTINA CANALES INTERIORES",
     "samples": [
       {
+        "name": "4 Jujuy",
+        "url": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8",
+        "icono": "http://static.tvar.io/imagenes/canal4jujuy.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "San Luis+",
         "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest?cb=20240627181044",
