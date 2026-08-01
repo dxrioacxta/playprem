@@ -2154,6 +2154,18 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "UNIVERSAL TV",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NTk5NzM3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTkzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVjOGU3N2U3MTkyYTJjYzgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Um5jq2tFiA0BAicrcslF9Dfjbx-KwQmGanU4E2RAznfmzgvMNoOOSOdYR9Ivkg4kl9TKng292cU2tSBL9cyMxQ==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
