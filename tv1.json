@@ -13,6 +13,18 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CM",
+        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1NTk5NzM3Iiwic2lwIjoiMTgxLjEyNC4xNDMuMTkzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVjOGU3N2U3MTkyYTJjYzgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMzEyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.Um5jq2tFiA0BAicrcslF9Dfjbx-KwQmGanU4E2RAznfmzgvMNoOOSOdYR9Ivkg4kl9TKng292cU2tSBL9cyMxQ==/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/DyFeQKP1Eu7y5o0Tk1oKfQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://cdn.bo.flow.com.ar/images/content/60/40/DyFeQKP1Eu7y5o0Tk1oKfQ?tags=CH_LOGO",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.3"
+        }
       }
     ]
   },
