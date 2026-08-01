@@ -1069,6 +1069,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "2 San Luis",
+        "url": "https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w1882365317.m3u8",
+        "icono": "https://oikoapp.xyz/oikotvpanel/superadmin/paneltv/banners/698fd1d9c02ff5.90467611.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://arcast.net",
+          "Referer": "https://arcast.net/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "2 Ushuaia",
         "url": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8",
         "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png",
