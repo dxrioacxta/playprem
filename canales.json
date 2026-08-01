@@ -1053,6 +1053,13 @@
         "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "2 Mar del Plata",
+        "url": "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+        "icono": "https://oikoapp.xyz/oikotvpanel/superadmin/paneltv/banners/698fd2b15fd225.78703344.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
