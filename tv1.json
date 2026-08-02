@@ -2102,9 +2102,9 @@
         "url": "https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
         "icono": "https://i.ibb.co/6RTMbbc4/Picsart-26-07-15-19-20-34-025.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
         "headers": {
-          "Origin": "https://player.sensa.com.ar",
+          "Origin": "",
           "Referer": "https://player.sensa.com.ar/",
           "User-Agent": "Safari/537.36 CrKey/"
         }
