@@ -329,6 +329,18 @@
         "icono": "https://i.postimg.cc/7LVC7S20/tigo-tv.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=HGKiFqX-Qj-VnLHKAvYtgw&key=VPL9yDwdozzZJpvyHgghjA"
+      },
+      {
+        "name": "prueba",
+        "url": "https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=202c8579c94df506c1a1c54ef49a0c60&key=871f84901f3580cfa7273293482a66c5",
+        "headers": {
+          "Origin": "",
+          "Referer": "https://player.sensa.com.ar/",
+          "User-Agent": ""
+        }
       }
     ]
   },
