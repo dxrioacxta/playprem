@@ -2096,6 +2096,18 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a4b166ac6f132.47951373.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=745cd6ec34a58f2f7ac2af35dc3da6d2&key=ae008f1e47e6567fe4201a6ff8f1ae54"
+      },
+      {
+        "name": "Love Nature en español",
+        "url": "https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+        "icono": "https://i.ibb.co/6RTMbbc4/Picsart-26-07-15-19-20-34-025.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
+        "headers": {
+          "Origin": "https://player.sensa.com.ar",
+          "Referer": "https://player.sensa.com.ar/",
+          "User-Agent": "Safari/537.36 CrKey/"
+        }
       }
     ]
   },
