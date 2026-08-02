@@ -63,13 +63,6 @@
         }
       },
       {
-        "name": "3 TV Publica Pampeana",
-        "url": "https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
-        "icono": "https://oikoapp.xyz/oikotvpanel/superadmin/paneltv/banners/690cac6e80eb75.06296214.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "TIGO SPORTS OPC 3",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene/chunks.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
@@ -1079,6 +1072,13 @@
         "name": "2 Posadas",
         "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
         "icono": "https://yt3.googleusercontent.com/JeqwFtrWVXOXE4cxLND1Ulnhk64c5Ow33B7q5iigVv-pYDmlBjS3al0CRtVsAC1jFplX2EO5aQ=s900-c-k-c0x00ffffff-no-r",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "3 TV Publica Pampeana",
+        "url": "https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+        "icono": "https://oikoapp.xyz/oikotvpanel/superadmin/paneltv/banners/690cac6e80eb75.06296214.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
