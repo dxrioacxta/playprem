@@ -190,6 +190,13 @@
         "icono": "https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3"
+      },
+      {
+        "name": "PREMIERE 2",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=9dc40460c93087aea84d6315f08ecb64&key=f69c8d4624fddff4ca89bd0b31bdc4a7"
       }
     ]
   },
