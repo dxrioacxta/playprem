@@ -27,6 +27,13 @@
         }
       },
       {
+        "name": "PREMIERE 3",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=d23f7433798a652a7d4f6791d9e1036c&key=4942eebd598b5727c5cc484cc62b52e8"
+      },
+      {
         "name": "TIGO SPORTS OPC 1",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvplaytv/playlist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
