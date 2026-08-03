@@ -211,6 +211,13 @@
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=e23365c2ad97870c871712b73f0d6195&key=58709c714320bb862dbd07270df81c94"
+      },
+      {
+        "name": "PREMIERE 5",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=332f62eb3cae824e98a4124da29a7d31&key=d1698cda3d040f9051125a61745b596b"
       }
     ]
   },
