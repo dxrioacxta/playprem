@@ -329,6 +329,13 @@
         "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=HGKiFqX-Qj-VnLHKAvYtgw&key=VPL9yDwdozzZJpvyHgghjA"
+      },
+      {
+        "name": "TIGO 1🇦🇷",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene1/chunks.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
