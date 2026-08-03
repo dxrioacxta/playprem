@@ -2537,13 +2537,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeQhzXB2jIDW9Omq8OY7n3gKiJ_IQYzwJg1SYkbrcfLCOfmj30BvMtEsA&s=10",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "GLOBO SPORTS",
-        "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
