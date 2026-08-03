@@ -303,18 +303,6 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "PRUEBa",
-        "url": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=6a8bd6496d2444301c9d4d0feca9d75b&key=3fd1967701ba2897729187b60094c158",
-        "headers": {
-          "Origin": "https://player.sensa.com.ar",
-          "Referer": "https://player.sensa.com.ar/",
-          "User-Agent": "Safari/537.36 CrKey/"
-        }
       }
     ]
   },
