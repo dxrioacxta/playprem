@@ -51,32 +51,8 @@
         }
       },
       {
-        "name": "19:00 - Liga Profesional: Vélez Sarsfield vs Independiente",
-        "url": "https://streamtp99a.sbs/global1.php?stream=fanatiz4",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp99a.sbs/",
-          "Referer": "https://streamtp99a.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "19:00 - Liga Profesional: Platense vs Talleres Córdoba",
         "url": "https://streamtp99a.sbs/global1.php?stream=tntsports",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp99a.sbs/",
-          "Referer": "https://streamtp99a.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "19:00 - Liga Profesional: Platense vs Talleres Córdoba",
-        "url": "https://streamtp99a.sbs/global1.php?stream=fanatiz5",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -137,18 +113,6 @@
       {
         "name": "22:00 - Liga de Colombia: Atlético Bucaramanga vs Cúcuta Deportivo",
         "url": "https://streamtp99a.sbs/global1.php?stream=fanatiz8",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp99a.sbs/",
-          "Referer": "https://streamtp99a.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "22:00 - Liga de Colombia: Atlético Bucaramanga vs Cúcuta Deportivo",
-        "url": "https://streamtp99a.sbs/global1.php?stream=fanatiz9",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
