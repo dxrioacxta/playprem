@@ -218,6 +218,13 @@
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=332f62eb3cae824e98a4124da29a7d31&key=d1698cda3d040f9051125a61745b596b"
+      },
+      {
+        "name": "PREMIERE 6",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a"
       }
     ]
   },
