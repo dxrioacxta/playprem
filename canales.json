@@ -3,6 +3,13 @@
     "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
+        "name": "PREMIERE CLUBE",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "icono": "https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3"
+      },
+      {
         "name": "TIGO FULL",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
