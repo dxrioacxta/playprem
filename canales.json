@@ -204,6 +204,13 @@
         "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=d23f7433798a652a7d4f6791d9e1036c&key=4942eebd598b5727c5cc484cc62b52e8"
+      },
+      {
+        "name": "PREMIERE 4",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=e23365c2ad97870c871712b73f0d6195&key=58709c714320bb862dbd07270df81c94"
       }
     ]
   },
