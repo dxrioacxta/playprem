@@ -336,6 +336,13 @@
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TIGO 2🇦🇷",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nene/chunks.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
