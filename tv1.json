@@ -798,7 +798,7 @@
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg1ODg3NTM2Iiwic2lwIjoiMTgxLjEyNC4xNDAuMjIyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdhMmUyNzNkMTNjYzU3MTgiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.NFpYGdfSgHvb8rz5ty1dQr7qE7GnX7h2zKFIpfqp1FtRIcJb_jeRHtobWqpZEU5OGE0Ass3_G5m750d-3gxnVg==/live\\/c4eds\\/CH_12_Posadas\\/SA_Live_dash_enc\\/CH_12_Posadas.mpd",
         "icono": "",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=nJlqFGWs3cnD96Ldm4aqiA&key=orY+SMmb67Ur\\/NsYMO\\/dPg",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=orY+SMmb67Ur\\/NsYMO\\/dPg&key=nJlqFGWs3cnD96Ldm4aqiA",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
