@@ -1070,6 +1070,13 @@
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "LPF PLAY 6",
+        "url": "https://emitiendoenvivo.com:443/lpf/6.m3u8",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hAxnSsFgEng3FV6cWe4UHg?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
