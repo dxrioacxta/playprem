@@ -3345,7 +3345,7 @@
       },
       {
         "name": "FARRA TV",
-        "url": "https:\\/\\/stream.farra.com.py\\/live\\/farra_src.m3u8",
+        "url": "https://stream.farra.com.py\\/live\\/farra_src.m3u8",
         "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
