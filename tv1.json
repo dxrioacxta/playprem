@@ -310,6 +310,13 @@
     "name": "📺FUTBOL PYO",
     "samples": [
       {
+        "name": "TIGO 24/7🇵🇾+🇦🇷",
+        "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO 1🇵🇾",
         "url": "https://emitiendoenvivo.com/lpf/14.m3u8",
         "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
