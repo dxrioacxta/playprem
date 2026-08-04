@@ -3349,6 +3349,13 @@
         "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ROCK-POP 95.5",
+        "url": "https://zn1radios.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/chunklist_w441674629.m3u8",
+        "icono": "https://i.ibb.co/MMYLRZV/rocka.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
