@@ -1219,9 +1219,9 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=d2DKoFi1G3zOFRwFOfpKjw&key=7dCGwQEe0sVMvoadDo2SiQ",
         "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
