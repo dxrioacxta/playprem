@@ -1566,11 +1566,11 @@
         }
       },
       {
-        "name": "FOX SPORTS 2 ",
+        "name": "FOX SPORTS 2",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MDYwNjA3Iiwic2lwIjoiMTgxLjEyNC4xMzEuMzQiLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiY2Y5ODAzODhmZDliYTY4ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.PXlmxtRT-itqv5WTFEXuU3WgFkRFfQi-YzOGq48MfqlH1-2G3Wzp9WFir65WyUZOldZY77n7EHqcOh9540h3Uw==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
         "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
