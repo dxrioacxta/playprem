@@ -2627,7 +2627,7 @@
         }
       },
       {
-        "name": "GLOBO HD",
+        "name": "GLOBO",
         "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
         "icono": "http://i.tvcluboficial.com/tvglobo.png",
         "type": "CLEARKEY",
