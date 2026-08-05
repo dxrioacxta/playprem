@@ -2646,6 +2646,13 @@
         "icono": "https://i.postimg.cc/cHMXVJvb/rede-minas-logo-png-seeklogo-516107.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "REDE BRASIL",
+        "url": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1413219916.m3u8",
+        "icono": "https://i.postimg.cc/8kv6kYwz/Marca-rede-brasil-rgb-color.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
