@@ -2653,6 +2653,13 @@
         "icono": "https://i.postimg.cc/8kv6kYwz/Marca-rede-brasil-rgb-color.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "REDE TV",
+        "url": "http://los84hijosdelsol.com/live/fernawb853/edwasx9647/195390.m3u8",
+        "icono": "https://i.postimg.cc/RF29WXSR/redetv-recife-logo-tv-cultura-png-favpng-e-B9Pc-CNXfu-Rp8z8Ji-Kw-X6gdv-U.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
