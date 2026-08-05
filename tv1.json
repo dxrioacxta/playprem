@@ -2656,8 +2656,8 @@
       },
       {
         "name": "REDE TV",
-        "url": "http://los84hijosdelsol.com/live/fernawb853/edwasx9647/195390.m3u8",
-        "icono": "https://i.postimg.cc/RF29WXSR/redetv-recife-logo-tv-cultura-png-favpng-e-B9Pc-CNXfu-Rp8z8Ji-Kw-X6gdv-U.jpg",
+        "url": "http://los84hijosdelsol.com:80/live/fernawb853/edwasx9647/195390.m3u8",
+        "icono": "https://favpng.com/png_view/tv-redetv-recife-logo-tv-cultura-png/xQuF93hM",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       }
