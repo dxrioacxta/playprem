@@ -1185,6 +1185,18 @@
     "name": "BRASIL",
     "samples": [
       {
+        "name": "BAND NEW",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MTQyMDI5Iiwic2lwIjoiMTgxLjEyNC4xMzQuMTYzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjAwOTk5ZDljNDI5MDEyYmIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.K9bCZi7sv4cW4jFtHAbTEUQa8fb9KSpCsnNjpgZbJNMAtCrbfLTc7RVUR2yJna6qVCp9lcUNcNq0OM3OBAZmnQ==/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=C09W1cGbRfs-dac7bsBubA&key=xGTitt7StS4ed1OzqFmrzg",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "GLOBO BRAZILIA",
         "url": "http://zonacero.lat:8080/live/2026/2026/420587.m3u8",
         "icono": "http://i.tvcluboficial.com/tvglobo.png",
