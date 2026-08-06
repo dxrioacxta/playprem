@@ -614,9 +614,9 @@
         }
       },
       {
-        "name": "BRAVO TV",
+        "name": "ROCK & POP TV",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MTQyMDI5Iiwic2lwIjoiMTgxLjEyNC4xMzQuMTYzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjAwOTk5ZDljNDI5MDEyYmIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.K9bCZi7sv4cW4jFtHAbTEUQa8fb9KSpCsnNjpgZbJNMAtCrbfLTc7RVUR2yJna6qVCp9lcUNcNq0OM3OBAZmnQ==/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/s5bcN_UDJ3TW45O4-5-yrw?tags=CH_LOGO",
+        "icono": "https://i.postimg.cc/xdPRvP4X/logo-185x98-1225.webp",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
         "headers": {
