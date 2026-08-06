@@ -1244,13 +1244,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "GLOBO BR 2",
-        "url": "http://24.152.42.29:8000/play/a08s/index.m3u8?hls",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/globo-rbs_bd1a0b1006da4081bef6189e60a76c36.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "GLOBO AMAZONICA",
         "url": "https://agropesca.live/live/globoam/index.m3u8",
         "icono": "https://i.postimg.cc/NjxJvTL9/download-17.jpg",
