@@ -1185,6 +1185,13 @@
     "name": "BRASIL",
     "samples": [
       {
+        "name": "TV CLASICA BR",
+        "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+        "icono": "https://oikoapp.xyz/oikotvpanel/superadmin/paneltv/banners/69a236529ed8a8.81239784.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GLOBO NEW",
         "url": "https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8",
         "icono": "https://e7.pngegg.com/pngimages/959/723/png-clipart-brazil-globonews-television-channel-rede-globo-others-miscellaneous-television.png",
