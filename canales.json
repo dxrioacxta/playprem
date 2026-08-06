@@ -1185,6 +1185,13 @@
     "name": "BRASIL",
     "samples": [
       {
+        "name": "GLOBO NEW",
+        "url": "https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8",
+        "icono": "https://e7.pngegg.com/pngimages/959/723/png-clipart-brazil-globonews-television-channel-rede-globo-others-miscellaneous-television.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "CNN BR",
         "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
         "icono": "https://oikoapp.xyz/oikotvpanel/superadmin/paneltv/banners/6924e842afa136.53889846.png",
