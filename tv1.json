@@ -357,6 +357,13 @@
         "icono": "https://i.postimg.cc/15WxckpZ/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
+      },
+      {
+        "name": "EVENTOS 2 HD",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "icono": "https://i.postimg.cc/15WxckpZ/TIGOAPP.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
       }
     ]
   },
