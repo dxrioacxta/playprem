@@ -1872,7 +1872,7 @@
       },
       {
         "name": "GOLDEN PREMIER",
-        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjcxMjY2Iiwic2lwIjoiMTgxLjEyNC4xMjguMjA5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg4OWU3YjE5OWNiMjgxNWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.hO9Ki9Dpv2lIY-ucRlCSoskYeu7370NpQGT5RKf0kYnJlMqNv675TGH5Rrq7IeB_jbQf7TNymt_iFD4_STSQQA==/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd",
         "icono": "https://i.postimg.cc/BQynTNxJ/golden-premier.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=s5_bHvyJ-it5G9zoQow-CQ&key=GUEIHbJXspZDyVeD06LFzQ",
