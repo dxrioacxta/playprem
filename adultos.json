@@ -36,6 +36,18 @@
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PLAY HD",
+        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjY2Mjk1Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0ZDBmZGExOGMxZWU0YWRkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.0Yxyav1QUx5DirzAN3-Ur3ePt67hITobRzv-2kpkcp9l60EmnvNT4V-FL3KZ1M8kswsfqdoTQasS9I0hQ9A2xw==/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+        "icono": "https://conectateawee.com.ar/wp-content/uploads/2025/10/playboy-tv.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=8577d81eaf33436d9f1e482360685a7c&key=f608a0ac703cfaaf9442574d9a2b87fb",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": ""
+        }
       }
     ]
   }
