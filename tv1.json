@@ -319,13 +319,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "america sd",
-        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "E 40",
         "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
