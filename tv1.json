@@ -826,6 +826,18 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.3"
         }
+      },
+      {
+        "name": "TV PUBLICA INTER",
+        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjcxMjY2Iiwic2lwIjoiMTgxLjEyNC4xMjguMjA5IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg4OWU3YjE5OWNiMjgxNWUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.hO9Ki9Dpv2lIY-ucRlCSoskYeu7370NpQGT5RKf0kYnJlMqNv675TGH5Rrq7IeB_jbQf7TNymt_iFD4_STSQQA==/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc/TV_Publica_Internacional.mpd",
+        "icono": "https://i.postimg.cc/5t1Qr2mk/LEP.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://veoapp.live/veotvpanel/owner/results.php?keyid=09833bbfc87acd3a509a57e75b4d37ef&amp;key=13906c6849c0c81de495ddd9539765fe",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
