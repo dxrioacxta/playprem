@@ -317,6 +317,13 @@
         "icono": "https://i.postimg.cc/9fj4Y4dj/monumental-fm-a475bc7540824a468ca857af6cd2fd84.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "america sd",
+        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
