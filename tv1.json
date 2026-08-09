@@ -3586,7 +3586,7 @@
       },
       {
         "name": "BRUNO MASI TV",
-        "url": "\"https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+        "url": "https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
         "icono": "https://i.postimg.cc/J0pJCQjZ/unnamed-4.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
