@@ -348,13 +348,6 @@
         "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=HGKiFqX-Qj-VnLHKAvYtgw&key=VPL9yDwdozzZJpvyHgghjA"
-      },
-      {
-        "name": "PRUEBA",
-        "url": "https://sam-py-edge05.tigo.com.py/VMX4_widevine/rolling-buffer/TigoSportsHD/TigoSportsHD/transmux/index.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=a8d8bfb76315e4fc6ba1328e1d8870bd&key=eb27c40de4c406980e473fb6233fc897"
       }
     ]
   },
