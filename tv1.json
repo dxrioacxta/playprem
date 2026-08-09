@@ -355,6 +355,13 @@
         "icono": "https://i.postimg.cc/k4wGxwZj/logo-tigo-sport-inline-2.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+      },
+      {
+        "name": "TIGO 4",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a7881f09e/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.m3u8",
+        "icono": "https://www.tigosports.com.py/assets/graphics/app/logo_tigo-sport_inline_2.svg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
