@@ -3,343 +3,7 @@
     "name": "🏆 |EVENTOS DEL DIA ⚽⭐",
     "samples": [
       {
-        "name": "09:00 - Amistoso: Chelsea vs Milan",
-        "url": "https://streamtp-golden1.click/global1.php?stream=clarosports",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "11:00 - Liga Uruguay: Central Español vs Progreso",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney5",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "11:00 - EFL Cup: Derby County vs Lincoln City",
-        "url": "https://streamtp-golden1.click/global1.php?stream=paramount1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "11:00 - EFL Cup: Leicester City vs Northampton Town",
-        "url": "https://streamtp-golden1.click/global1.php?stream=paramount2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "11:00 - EFL Cup: Swansea City vs Birmingham City",
-        "url": "https://streamtp-golden1.click/global1.php?stream=paramount3",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "11:00 - EFL Cup: West Ham United vs Portsmouth",
-        "url": "https://streamtp-golden1.click/global1.php?stream=paramount4",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "13:00 - EFL Cup: Colchester United vs Southampton",
-        "url": "https://streamtp-golden1.click/global1.php?stream=paramount5",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "14:00 - Amistoso: Ferencváros vs Real Madrid",
-        "url": "https://sudamericaplay.sbs/canal_8112/dsportsar.html",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://sudamericaplay.sbs/",
-          "Referer": "https://sudamericaplay.sbs/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "14:00 - Amistoso: Ferencváros vs Real Madrid",
-        "url": "https://streamtp-golden1.click/global1.php?stream=espn",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "14:00 - Amistoso: Ferencváros vs Real Madrid",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney7",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "14:45 - Liga Profesional: Atlético Tucumán vs Sarmiento",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "14:45 - Liga Profesional: Atlético Tucumán vs Sarmiento",
-        "url": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "14:45 - Liga Profesional: Deportivo Riestra vs Estudiantes",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "14:45 - Liga Profesional: Deportivo Riestra vs Estudiantes",
-        "url": "https://streamtp-golden1.click/global1.php?stream=tntsports",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Liga 1: UTC Cajamarca vs ADT",
-        "url": "https://streamtp-golden1.click/global1.php?stream=liga1max",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Liga 1: UTC Cajamarca vs ADT",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz3",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Primera División: Liverpool vs Albion",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney8",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Amistoso: Torneo Friuli Venezia Giulia (Barcelona, Udinese, Nottingham Forest)",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney9",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "15:00 - Eredivisie: PSV vs Fortuna Sittard",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney10",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:00 - Eredivisie: AZ vs ADO Den Haag",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney12",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:00 - Liga Colombia: Santa Fe vs Boyacá Chicó",
-        "url": "https://streamtp-golden1.click/global1.php?stream=winplus",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:00 - Liga Colombia: Santa Fe vs Boyacá Chicó",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz4",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:00 - Liga Chile: Huachipato vs Everton",
-        "url": "https://streamtp-golden1.click/global1.php?stream=tntsportschile",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:00 - Brasileirao: Grêmio vs São Paulo",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz5",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:00 - Brasileirao: Grêmio vs São Paulo",
-        "url": "https://streamtp-golden1.click/global1.php?stream=premiere1",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:00 - Liga Paraguay: Sportivo Ameliano vs Cerro Porteño",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz6",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "16:30 - Primeira Liga: Estrela vs Sporting CP",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz7",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "17:00 - Liga Argentina: Tigre vs River Plate",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz8",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "17:00 - Liga Argentina: Tigre vs River Plate",
+        "name": "07:15 - Eredivisie: Sparta Rotterdam vs Feyenoord",
         "url": "https://streamtp-golden1.click/global1.php?stream=disney1",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -351,8 +15,8 @@
         }
       },
       {
-        "name": "17:30 - Leagues Cup: New England vs Houston Dynamo",
-        "url": "https://streamtp-golden1.click/global1.php?stream=mls1es",
+        "name": "08:00 - Amistoso: Manchester City vs Atlético Madrid",
+        "url": "https://streamtp-golden1.click/global1.php?stream=espn",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -363,55 +27,7 @@
         }
       },
       {
-        "name": "18:20 - Liga Colombia: Fortaleza CEIF vs Cúcuta Deportivo",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz10",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "18:30 - Brasileirao: Remo vs Atlético Mineiro",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz11",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "18:30 - Liga Uruguay: Torque vs Peñarol",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "18:30 - Liga Paraguay: 2 de Mayo vs Olimpia",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz12",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "19:15 - Liga Argentina: Boca Juniors vs Vélez Sarsfield",
+        "name": "09:30 - Eredivisie: PEC Zwolle vs Ajax",
         "url": "https://streamtp-golden1.click/global1.php?stream=disney3",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -423,7 +39,259 @@
         }
       },
       {
-        "name": "19:30 - Leagues Cup: Orlando City SC vs León",
+        "name": "10:00 - Emirates Cup: Arsenal vs Borussia Dortmund",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney4",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "10:30 - Amistoso: Liverpool vs Monaco",
+        "url": "https://streamtp-golden1.click/global1.php?stream=clarosports",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "11:00 - Brasileirao: Cruzeiro vs Mirassol",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "11:00 - Primera División: Danubio vs Cerro",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney5",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "12:00 - EFL Cup: Mansfield Town vs Sheffield United",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney6",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "13:30 - Primera División: Deportes Concepción vs Univ. Concepción",
+        "url": "https://streamtp-golden1.click/global1.php?stream=tntsportschile",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga Profesional: San Lorenzo vs Huracán",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga 1: Deportivo Garcilaso vs Deportivo Moquegua",
+        "url": "https://streamtp-golden1.click/global1.php?stream=liga1max",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "15:00 - Liga Uruguay: Defensor Sporting vs Wanderers",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney8",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Liga Paraguay: Sportivo San Lorenzo vs Sportivo Luqueño",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz4",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Brasileirao: Bahia vs Vasco da Gama",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz5",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:00 - Brasileirao: Palmeiras vs Internacional",
+        "url": "https://streamtp-golden1.click/global1.php?stream=winsports",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:05 - Liga Colombia: Alianza vs Atlético Bucaramanga",
+        "url": "https://streamtp-golden1.click/global1.php?stream=winplus",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "16:30 - Leagues Cup: Seattle Sounders FC vs Querétaro",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls1es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "17:45 - Liga Argentina: Defensa y Justicia vs Newell's Old Boys",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz9",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "17:45 - Liga Argentina: Gimnasia La Plata vs Barracas Central",
+        "url": "https://streamtp-golden1.click/global1.php?stream=tntsports",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Liga Uruguay: Nacional vs Boston River",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney10",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Brasileirao: Santos vs Athletico-PR",
+        "url": "https://streamtp-golden1.click/global1.php?stream=premiere3",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "18:30 - Brasileirao: RB Bragantino vs Corinthians",
+        "url": "https://streamtp-golden1.click/global1.php?stream=premiere2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:30 - Brasileirao: Flamengo vs Vitória",
+        "url": "https://streamtp-golden1.click/global1.php?stream=premiere1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:15 - Liga Argentina: Argentinos Juniors vs Racing Club",
+        "url": "https://streamtp-golden1.click/global1.php?stream=espnpremium",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:30 - Leagues Cup: Cruz Azul vs New York City",
         "url": "https://streamtp-golden1.click/global1.php?stream=mls2es",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -435,7 +303,7 @@
         }
       },
       {
-        "name": "21:00 - Leagues Cup: Inter Miami vs Monterrey",
+        "name": "20:30 - Leagues Cup: Philadelphia Union vs Necaxa",
         "url": "https://streamtp-golden1.click/global1.php?stream=mls3es",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -447,19 +315,7 @@
         }
       },
       {
-        "name": "22:00 - Leagues Cup: Guadalajara vs Dallas",
-        "url": "https://streamtp-golden1.click/global1.php?stream=canal5mx",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "22:00 - Leagues Cup: Guadalajara vs Dallas",
+        "name": "21:00 - Leagues Cup: Nashville SC vs Atlético San Luis",
         "url": "https://streamtp-golden1.click/global1.php?stream=mls4es",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -471,19 +327,7 @@
         }
       },
       {
-        "name": "22:00 - Leagues Cup: Guadalajara vs Dallas",
-        "url": "https://streamtp-golden1.click/global1.php?stream=tudn_usa",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "23:00 - Leagues Cup: Real Salt Lake vs Atlante",
+        "name": "21:00 - Leagues Cup: Chicago Fire vs Santos Laguna",
         "url": "https://streamtp-golden1.click/global1.php?stream=mls5es",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -495,7 +339,7 @@
         }
       },
       {
-        "name": "00:10 - Leagues Cup: Toluca vs Los Angeles FC",
+        "name": "22:00 - Leagues Cup: Austin vs Puebla",
         "url": "https://streamtp-golden1.click/global1.php?stream=mls6es",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -507,8 +351,20 @@
         }
       },
       {
-        "name": "08:00 - Amistoso: Juventus vs Inter",
-        "url": "https://streamtp-golden1.click/global1.php?stream=dsports",
+        "name": "23:00 - Leagues Cup: San Diego vs Tijuana",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls7es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "23:15 - Leagues Cup: América vs Portland Timbers",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls8es",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
