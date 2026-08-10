@@ -324,7 +324,7 @@
     "name": "📺TIGO SPORTS",
     "samples": [
       {
-        "name": "TIGO EN VIVO SD",
+        "name": "TIGO 24/7",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
