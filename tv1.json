@@ -336,6 +336,13 @@
         "icono": "https://i.postimg.cc/L8DWcwsf/APP-TIGA.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS 3",
+        "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN3.mpd",
+        "icono": "https://i.postimg.cc/L8DWcwsf/APP-TIGA.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
