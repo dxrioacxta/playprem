@@ -3728,24 +3728,5 @@
         }
       }
     ]
-  },
-  {
-    "name": "📺PELICULAS",
-    "samples": [
-      {
-        "name": "The Furious (2026)",
-        "url": "http://los84hijosdelsol.com:80/movie/fernawb853/edwasx9647/1188678.mkv",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "Zona de riesgo (2026)",
-        "url": "http://los84hijosdelsol.com:80/movie/fernawb853/edwasx9647/1188677.mkv",
-        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3On2pUX6KRJwI8Fp7xqJkKQdIv.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      }
-    ]
   }
 ]
