@@ -2039,6 +2039,18 @@
           "Referer": "https://webclient.axsbolivia.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "DE PELICULA",
+        "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
+        "icono": "https://i.postimg.cc/QtmNPmKS/De-Pelicula-Plus-Logo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=639e9249b63b731e7621953d27aa5393&key=ce09cb3f4bcad5c1febe10893b6ba491",
+        "headers": {
+          "Origin": "https://webclient.axsbolivia.com",
+          "Referer": "https://webclient.axsbolivia.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
