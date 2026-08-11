@@ -339,7 +339,7 @@
       },
       {
         "name": "EVENTOS HD 2",
-        "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN2.mpd",
+        "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
