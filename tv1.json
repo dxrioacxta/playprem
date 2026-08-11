@@ -2027,6 +2027,18 @@
           "Referer": "https://webclient.axsbolivia.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CINE PREMIUN",
+        "url": "https://smt-usr-edge05.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd",
+        "icono": "https://i.postimg.cc/Qt0dFmm9/cine-premium-1a0f40f26fac4968a19aeffba4b48aab.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=c3cb7320815d01cb41fdb0e9d5bd2915&key=7c89266b0cc60fa3419474fc96c18927",
+        "headers": {
+          "Origin": "https://webclient.axsbolivia.com",
+          "Referer": "https://webclient.axsbolivia.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
