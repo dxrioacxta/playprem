@@ -2416,6 +2416,18 @@
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a4b166ac6f132.47951373.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=745cd6ec34a58f2f7ac2af35dc3da6d2&key=ae008f1e47e6567fe4201a6ff8f1ae54"
+      },
+      {
+        "name": "LOVE NATURE",
+        "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+        "icono": "https://i.postimg.cc/QxzTM8Yk/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-misc.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=ea6437084f6c055c7c856f86361e86fa&key=9791c0e6f72b4a5eacf8bddfa5290209",
+        "headers": {
+          "Origin": "https://webclient.axsbolivia.com",
+          "Referer": "https://webclient.axsbolivia.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
