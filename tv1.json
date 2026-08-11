@@ -2164,18 +2164,6 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "MTV HITS",
-        "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NjE3MjcwIiwic2lwIjoiMTgxLjEyNC4xMzcuMTMzIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNkOWU2ZmQ5NTJjMDk1OTIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.OvMZf2pQMUj_HNV61B8IWokTOSrBGjxESXf8UuYXhTpBVT-RDXYGRPuva3nHOeco0_eOsEWbgT-z_XC6ot30XA==/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
-        "icono": "https://i.postimg.cc/66FZgzZ3/MTV-HIST.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
