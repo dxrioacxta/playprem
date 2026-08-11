@@ -346,7 +346,7 @@
       },
       {
         "name": "EVENTOS HD 3",
-        "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN3.mpd",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvplaytv/playlist.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
