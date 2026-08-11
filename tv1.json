@@ -353,7 +353,7 @@
       },
       {
         "name": "EVENTOS HD 4",
-        "url": "https://1a-1791.com:443/live/3fms19g4/live-hls/ypa6-iqgr/chunklist_i1_DVR.m3u8",
+        "url": "https://1a-1791.com/live/3fms19g4/live-hls/ypa6-iqgr/chunklist_i1_DVR.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
