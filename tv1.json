@@ -1638,18 +1638,6 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "NOVELISIMA",
-        "url": "https://smt-usr-edge05.sensa.com.ar/bpk-tv/Novelis/default/index.mpd",
-        "icono": "https://i.postimg.cc/qRbKSSq2/50n-K-d5ul4q3Es-ix1Css-Op-AHw-Ny-JIu-Eg-T8M30y-AEXZUu5DML-FPAZ8n-Da19ALwsf-BWLKEMMAb-JGOMDI0Wj-Bzh-A.png",
-        "type": "HLS",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
-        "headers": {
-          "Origin": "https://webclient.axsbolivia.com",
-          "Referer": "https://webclient.axsbolivia.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
