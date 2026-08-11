@@ -2798,6 +2798,18 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CANAL INFANTIL",
+        "url": "https://smt-usr-edge05.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd",
+        "icono": "https://i.postimg.cc/RCgRcnZ7/canal-infantil.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=39673983f4ba22f0f80c0934ce0424c8&key=cd9f3498cb63cc72d1317b14a67ab93c",
+        "headers": {
+          "Origin": "https://webclient.axsbolivia.com",
+          "Referer": "https://webclient.axsbolivia.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
