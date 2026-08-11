@@ -414,13 +414,6 @@
           "Referer": "https://rumble.com",
           "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "TIGO SPORTS OPC 4",
-        "url": "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN4.mpd",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
