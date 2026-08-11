@@ -3,8 +3,8 @@
     "name": "🏆 |EVENTOS DEL DIA ⚽⭐",
     "samples": [
       {
-        "name": "16:00 - EFL Cup: Plymouth Argyle vs Exeter City",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney1",
+        "name": "07:00 - Amistoso: Juventus vs Palermo",
+        "url": "https://streamtp-golden1.click/global1.php?stream=dsports",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -15,7 +15,7 @@
         }
       },
       {
-        "name": "16:15 - Liga Portugal: Santa Clara vs Nacional",
+        "name": "13:00 - UEFA Champions League: Bodø / Glimt vs Union Saint-Gilloise | Clasificación",
         "url": "https://streamtp-golden1.click/global1.php?stream=sportv_1pt",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -27,8 +27,8 @@
         }
       },
       {
-        "name": "18:00 - Liga Colombia: Rionegro Águilas vs Llaneros",
-        "url": "https://streamtp-golden1.click/global1.php?stream=winplus",
+        "name": "15:30 - UEFA Champions League: Sturm Graz vs Fenerbahçe | Clasificación",
+        "url": "https://streamtp-golden1.click/global1.php?stream=sportv_4pt",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -39,8 +39,8 @@
         }
       },
       {
-        "name": "18:00 - Liga Colombia: Rionegro Águilas vs Llaneros",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz1",
+        "name": "15:30 - UEFA Champions League: Sturm Graz vs Fenerbahçe | Clasificación",
+        "url": "https://streamtp-golden1.click/global1.php?stream=espnplus1",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -51,31 +51,7 @@
         }
       },
       {
-        "name": "18:30 - Liga Paraguay: Libertad vs Sportivo Trinidense",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "18:30 - Liga Paraguay: Libertad vs Sportivo Trinidense",
-        "url": "https://streamtp-golden1.click/global1.php?stream=disney2",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "18:30 - Liga Ecuador: Libertad vs Universidad Católica",
+        "name": "16:00 - UEFA Champions League: Olympique Lyonnais vs Sparta Praha | Clasificación",
         "url": "https://streamtp-golden1.click/global1.php?stream=eventos2",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -87,7 +63,163 @@
         }
       },
       {
-        "name": "19:00 - Liga Argentina: Banfield vs Belgrano",
+        "name": "16:00 - UEFA Champions League: Olympique Lyonnais vs Sparta Praha | Clasificación",
+        "url": "https://streamtp-golden1.click/global1.php?stream=espnplus2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Libertadores: Fluminense vs Independiente Rivadavia",
+        "url": "https://streamtp-golden1.click/global1.php?stream=espn2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Libertadores: Fluminense vs Independiente Rivadavia",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fox1ar",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Libertadores: Fluminense vs Independiente Rivadavia",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Libertadores: Fluminense vs Independiente Rivadavia",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz1",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+        "url": "https://sudamericaplay.sbs/canal_8112/dsportsar.html",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://sudamericaplay.sbs/",
+          "Referer": "https://sudamericaplay.sbs/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+        "url": "https://streamtp-golden1.click/global1.php?stream=espn",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "19:00 - Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:30 - Leagues Cup: Charlotte vs Pachuca",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls1es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "20:30 - Leagues Cup: Columbus Crew vs Pumas UNAM",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls2es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:00 - Leagues Cup: Cincinnati vs Atlas",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls3es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:00 - Copa Centroamericana de CONCACAF: Plaza Amador vs Xelajú",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney3",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:00 - Liga Profesional: Talleres Córdoba vs Lanús",
         "url": "https://streamtp-golden1.click/global1.php?stream=tntsports",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -99,7 +231,7 @@
         }
       },
       {
-        "name": "19:00 - Liga Argentina: Banfield vs Belgrano",
+        "name": "21:00 - Liga Profesional: Talleres Córdoba vs Lanús",
         "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz3",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -111,8 +243,8 @@
         }
       },
       {
-        "name": "19:00 - Liga Argentina: Banfield vs Belgrano",
-        "url": "https://streamtp-golden1.click/global1.php?stream=tycinternacional",
+        "name": "21:30 - Copa Libertadores: Estudiantes LP vs Universidad Católica",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney4",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
@@ -123,7 +255,7 @@
         }
       },
       {
-        "name": "20:00 - Liga Colombia: Medellín vs Millonarios",
+        "name": "21:30 - Copa Libertadores: Estudiantes LP vs Universidad Católica",
         "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz4",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -135,19 +267,7 @@
         }
       },
       {
-        "name": "21:00 - Liga Chile: Audax Italiano vs Ñublense",
-        "url": "https://streamtp-golden1.click/global1.php?stream=tntsportschile",
-        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click/",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "21:15 - Liga Profesional: Unión Santa Fe vs Central Córdoba SdE",
+        "name": "21:30 - Copa Sudamericana: Bolívar vs São Paulo",
         "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz5",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
@@ -159,8 +279,68 @@
         }
       },
       {
-        "name": "22:05 - Liga Colombia: Junior vs Deportivo Pereira",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz6",
+        "name": "21:30 - Copa Sudamericana: Bolívar vs São Paulo",
+        "url": "https://streamtp-golden1.click/global1.php?stream=dsports2",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "21:30 - Leagues Cup: Minnesota United vs Atlante",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls4es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "22:30 - Leagues Cup: Real Salt Lake vs Juárez",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls5es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "23:00 - Leagues Cup: Tigres UANL vs Vancouver Whitecaps",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls6es",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "23:00 - Copa Centroamericana de CONCACAF: Deportivo Saprissa vs Mixco",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney5",
+        "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click/",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "23:00 - Copa Centroamericana de CONCACAF: Real Estelí vs Alianza",
+        "url": "https://streamtp-golden1.click/global1.php?stream=disney6",
         "icono": "https://i.ibb.co/WWJNRzX8/file-000000001700820ebd639e6d430df697.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
