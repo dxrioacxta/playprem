@@ -346,7 +346,7 @@
       },
       {
         "name": "EVENTOS HD 2",
-        "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
+        "url": "https://183.bozztv.com/giatv/giatv-nene/nene/playlist.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
