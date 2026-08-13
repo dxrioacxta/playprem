@@ -404,7 +404,7 @@
         "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2ODEzMjcyIiwic2lwIjoiMTgxLjIzMi4xODguMTkyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU0ZWVlMGVlNjcwY2Q5NjIiLCJzZXNzaW9uX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgtMTc4NjY0MDQ3Mi02NjYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiZTllMDU0NjhhZjBhMDQ2MWRkMDJmNmFiNmQ5ZDA3NTgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.KhwtEGsJNhSgh5CCZXUJGjFPZ6h86EDlNOmI036S5Rbmih13nXs8ivKHaENBvDfWAcAezDX0jDyFNDZKucjyyQ==/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&amp;key=1743cd03dfe3736b2c95da91a783af38",
+        "drm_license_uri": "https://results.femon.net/?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
