@@ -28,9 +28,9 @@
       },
       {
         "name": "TIGO SPORTS OPC 1",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvplaytv/playlist.m3u8",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz1",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
