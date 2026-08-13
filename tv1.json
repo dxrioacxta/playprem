@@ -317,13 +317,6 @@
         "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "TELEFUTURO CLARO",
-        "url": "https://pylocallivechanneldash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(TELEFUTURO)/master.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
