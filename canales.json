@@ -298,123 +298,6 @@
     ]
   },
   {
-    "name": "⚽ DEPORTES VARIADOS 2 (SIN BLOQUEO✅)",
-    "samples": [
-      {
-        "name": "ESPN PREMIUM",
-        "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 1",
-        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 1 OPC 2",
-        "url": "http://38.224.175.2:8000/play/a010/index.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 2",
-        "url": "http://191.97.49.82:8001/play/a00m/index.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 3",
-        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 4",
-        "url": "http://45.134.141.161:2200/ARG/ESPN_Extra_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 5",
-        "url": "http://iptvglobal.site:80/live/DTdw3ePPu6/hDq6z3Vd2E/782324.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN 7",
-        "url": "http://iptvglobal.site:80/live/DTdw3ePPu6/hDq6z3Vd2E/782325.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "FOX SPORTS 1",
-        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "FOX SPORTS 3",
-        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "D SPORTS",
-        "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "D SPORTS+",
-        "url": "http://217.26.190.76:8888/play/a0jv/index.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "D SPORTS 2",
-        "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "PX SPORTS",
-        "url": "http://217.26.190.76:8888/play/a0jr/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "Bein Sports Xtra",
-        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-        "icono": "https://i.ibb.co/yFP5Ldf1/large-white.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "PARAGUAY🇵🇾",
     "samples": [
       {
@@ -1620,6 +1503,123 @@
         "name": "GOLF CHANNEL ",
         "url": "http://189.148.49.233:8000/play/a03j/index.m3u8",
         "icono": "https://i.postimg.cc/jSRWPVDM/images-(1).jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "⚽ DEPORTES VARIADOS 2 (SIN BLOQUEO✅)",
+    "samples": [
+      {
+        "name": "ESPN PREMIUM",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 1",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 1 OPC 2",
+        "url": "http://38.224.175.2:8000/play/a010/index.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 2",
+        "url": "http://191.97.49.82:8001/play/a00m/index.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 3",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-3_60a2f5ae150748f2871e6ee61ab77086.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 4",
+        "url": "http://45.134.141.161:2200/ARG/ESPN_Extra_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-4_218857b3502343b3803ff144abfd613f.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 5",
+        "url": "http://iptvglobal.site:80/live/DTdw3ePPu6/hDq6z3Vd2E/782324.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-5_adaebf2c8bd7440696f87e844b375975.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ESPN 7",
+        "url": "http://iptvglobal.site:80/live/DTdw3ePPu6/hDq6z3Vd2E/782325.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "FOX SPORTS 1",
+        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_1_Argentina_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "FOX SPORTS 3",
+        "url": "http://45.134.141.161:2200/ARG/FOX_Sports_3_Argentina_HD/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "D SPORTS",
+        "url": "http://45.134.141.161:2200/ARG/DTV_SP_Col/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "D SPORTS+",
+        "url": "http://217.26.190.76:8888/play/a0jv/index.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "D SPORTS 2",
+        "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "PX SPORTS",
+        "url": "http://217.26.190.76:8888/play/a0jr/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "Bein Sports Xtra",
+        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+        "icono": "https://i.ibb.co/yFP5Ldf1/large-white.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
