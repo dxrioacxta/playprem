@@ -3662,6 +3662,13 @@
         "icono": "https://i.postimg.cc/3NnCxv6K/aspenlogo.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "COSMOS TV",
+        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "icono": "https://static.wixstatic.com/media/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png/v1/fill/w_77,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
