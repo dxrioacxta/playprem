@@ -3655,6 +3655,13 @@
         "icono": "https://i.postimg.cc/NG2xrKR1/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MONUMENTAL HD",
+        "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/chunklist_w2050985754.m3u8?admin=admin",
+        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/1080.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
