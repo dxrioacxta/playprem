@@ -3690,6 +3690,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvrhsV4-19EPXymLXYgZLtD92kpj2180ZRFNXmLDEYQ&s=10",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "STACION TV",
+        "url": "https://stmv7.voxtvhd.com.br/radiovida/radiovida/playlist.m3u8",
+        "icono": "https://teleparaguay.com.py/uploads/image/69dd1ed0b79d3_518531936_122109704858935898_8233151151228875413_n.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
