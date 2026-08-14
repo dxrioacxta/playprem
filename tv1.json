@@ -317,6 +317,13 @@
         "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "OASIS TV",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLwnnvJgK051ReWZjjhsOOn67UHuOW5b64e2PVzf0Pw&s=10",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
