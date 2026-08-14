@@ -3683,6 +3683,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7zRWFWcmNoLUcR6LgR9nECR0z5uW7jyr8bHI1D2ZRA&s=10",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ALMAYA TV",
+        "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvrhsV4-19EPXymLXYgZLtD92kpj2180ZRFNXmLDEYQ&s=10",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
