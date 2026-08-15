@@ -63,16 +63,11 @@
         }
       },
       {
-        "name": "Pruaba2",
-        "url": "https://api.tigosports.com.py/sls/v1/streaming/21pbJN7RIJFejuyZohMEhnaz?asset=rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd&typeContent=game",
+        "name": "Pruaba",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "shakaplayer"
-        }
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
       }
     ]
   },
