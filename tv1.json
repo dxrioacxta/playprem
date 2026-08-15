@@ -1989,7 +1989,7 @@
       },
       {
         "name": "GOLDEN EDGE",
-        "url": "https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2OTYyODMzIiwic2lwIjoiMTgxLjEyNC4xNDEuMTcxIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNzQzMzIzMjRiNDEyMGQwNCIsInNlc3Npb25faWQiOiJjOGRkYjQzYTVjYzVlODM2ODJmOWQ2MzJkODNjMWM2Zi0xNzg2NzkwMDMyLTI4NSIsImNsaWVudF9pZCI6ImZsb3c6NjA4ODcwOS0tZmxvdzo2MDg4NzA5OlAiLCJkZXZpY2VfaWQiOiJjOGRkYjQzYTVjYzVlODM2ODJmOWQ2MzJkODNjMWM2ZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjM2MSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Ablj5ibRz9E4wqE1HetDY9iCNkE_NbheWhXhtgtRNWOcNdKmq5iUjMAt0D5_-BtFvrA6PiF8c84zo2X_fUPR6w==/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
+        "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
         "icono": "https://i.postimg.cc/nh5BQHPX/Golden-Edge-SL500-FMpng.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=rky8NNSxZF9seyZBDd57WA&key=ZHR4zTvQ37PoICSSlsIwlg",
