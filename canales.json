@@ -1,70 +1,5 @@
 [
   {
-    "name": "⚽ FUTBOL PARAGUAYO🇵🇾",
-    "samples": [
-      {
-        "name": "TIGO FULL 1🟢",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "shakaplayer"
-        }
-      },
-      {
-        "name": "TIGO FULL 2🟢",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "shakaplayer"
-        }
-      },
-      {
-        "name": "TIGO SPORTS OPC 1",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz9",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TIGO SPORTS OPC 2",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://streamtp-golden1.click",
-          "Referer": "https://streamtp-golden1.click/",
-          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TIGO SPORTS OPC 3",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz3",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷",
     "samples": [
       {
@@ -572,6 +507,71 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "⚽EVENTO FANATIZ",
+    "samples": [
+      {
+        "name": "TIGO FULL 1🟢",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "shakaplayer"
+        }
+      },
+      {
+        "name": "TIGO FULL 2🟢",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "shakaplayer"
+        }
+      },
+      {
+        "name": "TIGO SPORTS OPC 1",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz9",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TIGO SPORTS OPC 2",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz2",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://streamtp-golden1.click",
+          "Referer": "https://streamtp-golden1.click/",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TIGO SPORTS OPC 3",
+        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
       }
     ]
