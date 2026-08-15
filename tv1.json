@@ -3704,6 +3704,13 @@
         "icono": "https://teleparaguay.com.py/uploads/image/69dd1ed0b79d3_518531936_122109704858935898_8233151151228875413_n.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "OASIS TV",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "icono": "https://i.postimg.cc/W1H55gFJ/images-q-tbn-ANd9Gc-Qp-Lwnnv-Jg-K051Re-WZjjhs-OOn67UHu-OW5b64e2PVzf0Pw-s-10.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
