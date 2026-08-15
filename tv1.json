@@ -345,8 +345,8 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS 2",
-        "url": "https://183.bozztv.com/giatv/giatv-nene/nene/playlist.m3u8",
+        "name": "EVENTOS +",
+        "url": "http://45.157.157.75:8080/live/1692/index.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
