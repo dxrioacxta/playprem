@@ -331,6 +331,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TIGO SPORTS +",
+        "url": "http://45.157.157.75:8080/live/1692/index.m3u8",
+        "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO 24/7",
         "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
@@ -340,13 +347,6 @@
       {
         "name": "EVENTOS 1",
         "url": "http://45.157.157.75:8080/live/1550/index.m3u8",
-        "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS +",
-        "url": "http://45.157.157.75:8080/live/1692/index.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
