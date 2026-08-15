@@ -339,7 +339,7 @@
       },
       {
         "name": "EVENTOS 1",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/jjjjutytrryrtyr/playlist.m3u8",
+        "url": "http://45.157.157.75:8080/live/1550/index.m3u8",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
