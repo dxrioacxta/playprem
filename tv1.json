@@ -321,10 +321,6 @@
     ]
   },
   {
-    "name": "📺FREE TV LIVE",
-    "samples": []
-  },
-  {
     "name": "📺TIGO SPORTS",
     "samples": [
       {
@@ -3882,5 +3878,9 @@
         }
       }
     ]
+  },
+  {
+    "name": "📺FREE TV LIVE",
+    "samples": []
   }
 ]
