@@ -364,13 +364,6 @@
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "ESPN",
-        "url": "http://186.33.54.46:8000/play/a01e/index.m3u8",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
