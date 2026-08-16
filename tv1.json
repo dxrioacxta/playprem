@@ -3340,6 +3340,13 @@
         "icono": "https://i.postimg.cc/k5GR044s/latest-cb-20260705012333-path-prefix-es.webp",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BOWLING TV",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16436",
+        "icono": "https://i.postimg.cc/hvVbwjjV/bowlingtv-logo-rgb-vert.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
