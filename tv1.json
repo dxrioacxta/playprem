@@ -201,8 +201,8 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
         "headers": {
-          "Origin": "ttps://portal.app.flow.com.PY",
-          "Referer": "ttps://portal.app.flow.com.PY",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
