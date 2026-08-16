@@ -2209,6 +2209,13 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TROPICAL TV",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16185",
+        "icono": "https://i.postimg.cc/nhkWLHx8/G-d471nw-400x400.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
