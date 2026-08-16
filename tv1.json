@@ -1,9 +1,5 @@
 [
   {
-    "name": "📺FREE TV LIVE",
-    "samples": []
-  },
-  {
     "name": "📺PARAGUAY",
     "samples": [
       {
@@ -323,6 +319,10 @@
         "drm_license_uri": ""
       }
     ]
+  },
+  {
+    "name": "📺FREE TV LIVE",
+    "samples": []
   },
   {
     "name": "📺TIGO SPORTS",
