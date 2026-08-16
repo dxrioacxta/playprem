@@ -1599,6 +1599,13 @@
         "icono": "https://i.postimg.cc/3R6qXdyf/1200-cb-20250412224555.webp",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "COMERCIO TV",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16128",
+        "icono": "https://i.postimg.cc/5Nv0TrVF/comercio-tv-logo-e-2147483647-v-beta-t-bffj5t-A-Lgg-An-NCFQIKl-VOH7Bb-CP6EQDGU3O9BXf-SA.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
