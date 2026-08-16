@@ -3890,13 +3890,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "CRIMEN",
-        "url": "https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8",
-        "icono": "https://i.postimg.cc/4dvyskyh/freetv-crime.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ASIA",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16328",
         "icono": "https://i.postimg.cc/pLFRF9WY/FAST-CHANNELS-Free-TVAsia-logo-2000x2000-150x150.webp",
