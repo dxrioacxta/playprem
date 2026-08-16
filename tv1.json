@@ -3888,6 +3888,13 @@
         "icono": "https://i.postimg.cc/TPwmQXp1/freetvaccion.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CRIMEN",
+        "url": "https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8",
+        "icono": "https://i.postimg.cc/4dvyskyh/freetv-crime.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
