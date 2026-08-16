@@ -3068,6 +3068,13 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "N SPORTS",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337",
+        "icono": "https://i.postimg.cc/CKKGLVH5/Logo-NSports-Vertical-04-1024x1024.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
