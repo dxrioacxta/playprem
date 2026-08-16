@@ -2075,7 +2075,7 @@
       },
       {
         "name": "DE PELICULA",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDg1Mjg5Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1NzRlMWU1YzNkYzNiNmE3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.menmfd5qcefzutQ1d98wNAjgAdM5l0j-_9n2Pv3cA1g5spNXdH4e8uJO-RbE-BJO1wZlSjgGVE-DIEpRBVhs-Q==/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
+        "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd",
         "icono": "https://i.postimg.cc/6qKj7VMD/de-pelicula-logo-F97A15125D-seeklogo-com.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=639e9249b63b731e7621953d27aa5393&key=ce09cb3f4bcad5c1febe10893b6ba491",
