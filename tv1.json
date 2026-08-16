@@ -3125,18 +3125,6 @@
         }
       },
       {
-        "name": "TRECE PY",
-        "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDQyNTY1Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhZTZkMzBhZDc1ZWZjMzQ2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.sgdx9Escx8zhIaYoTCit42n9ioQf7aFTdYFw1hmGWMsAoguY6aNKZLge9Y2X9JhEstEaTTQLtew-RXOCGKEyCQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/ZqV4mbxWOMJOD85wLyB-sA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "UNICANAL",
         "url": "https://edge-live08-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDQyNTY1Iiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhZTZkMzBhZDc1ZWZjMzQ2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.sgdx9Escx8zhIaYoTCit42n9ioQf7aFTdYFw1hmGWMsAoguY6aNKZLge9Y2X9JhEstEaTTQLtew-RXOCGKEyCQ==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/KHJOeMrwVxHY4HBMWDvX-A?tags=CH_LOGO",
