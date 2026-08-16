@@ -3354,6 +3354,13 @@
         "icono": "https://i.postimg.cc/KjqbLZPT/bs-PP2d6x-OQh-Rv-GRyzs-O3-Teq-Xo-CZ-On8Xi-F6FRd-E-xr0i-IHAn-OYBE14a-C6s6Hfy-Lmfg-X-l-Hr6-TVAEFA2U-w6.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BILLIARD TV",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16310",
+        "icono": "https://i.postimg.cc/c4L957Wv/images-q-tbn-ANd9Gc-SAc5ds57AUXnd-Dbx-Gpzd5idp-BOc-QTLt-SAl-TRxw-KKx3o-Whao-HL-H7Ka-Z9d-J-s-10.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
