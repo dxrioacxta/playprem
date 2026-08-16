@@ -3398,6 +3398,13 @@
         "icono": "https://i.postimg.cc/k46mC8VD/330px-Claro-Sports-logo-svg.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AYM SPORTS",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16421",
+        "icono": "https://i.postimg.cc/k5GR044s/latest-cb-20260705012333-path-prefix-es.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
