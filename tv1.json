@@ -3895,6 +3895,13 @@
         "icono": "https://i.postimg.cc/pLFRF9WY/FAST-CHANNELS-Free-TVAsia-logo-2000x2000-150x150.webp",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CLASICO",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/51e560600b65af19f305f491df5d04ac.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
