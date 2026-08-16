@@ -3881,6 +3881,14 @@
   },
   {
     "name": "📺FREE TV LIVE",
-    "samples": []
+    "samples": [
+      {
+        "name": "ACCION",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
+        "icono": "https://i.postimg.cc/TPwmQXp1/freetvaccion.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      }
+    ]
   }
 ]
