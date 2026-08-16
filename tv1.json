@@ -2216,6 +2216,13 @@
         "icono": "https://i.postimg.cc/nhkWLHx8/G-d471nw-400x400.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PINDIN TV",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16184",
+        "icono": "https://i.postimg.cc/zDCFNx5s/images-q-tbn-ANd9Gc-QJ87z-ZGp-0GCfj-Kii-Odo-Ywk-XX5zu-Kl-GDMnm1f-JFoo-Z1Q-s.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
