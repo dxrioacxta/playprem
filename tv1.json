@@ -317,6 +317,13 @@
         "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EL",
+        "url": "http://181.209.105.115:2525/play/eltrece/index.m3u8",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
