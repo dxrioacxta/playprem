@@ -3963,6 +3963,13 @@
         "icono": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/banda_thumbnail_1x1_0.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ESTELAR",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16382",
+        "icono": "https://i.postimg.cc/qMPyGt3L/estelar-thumbnail-1x1-1.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
