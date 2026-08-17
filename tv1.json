@@ -3970,6 +3970,13 @@
         "icono": "https://i.postimg.cc/qMPyGt3L/estelar-thumbnail-1x1-1.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "DRAMA",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16398",
+        "icono": "https://i.postimg.cc/8cDP5SJ0/drama-thumbnail-1x1-1.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
