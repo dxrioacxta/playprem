@@ -3403,6 +3403,13 @@
         "icono": "https://i.postimg.cc/c4L957Wv/images-q-tbn-ANd9Gc-SAc5ds57AUXnd-Dbx-Gpzd5idp-BOc-QTLt-SAl-TRxw-KKx3o-Whao-HL-H7Ka-Z9d-J-s-10.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AZTECA DEPORTES",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16360",
+        "icono": "https://i.postimg.cc/WbW0qWNp/Aztecadeporteslogo-png-utm-source-commons-wikimedia.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
