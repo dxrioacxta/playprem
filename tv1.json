@@ -3494,6 +3494,13 @@
         "icono": "https://i.postimg.cc/WbW0qWNp/Aztecadeporteslogo-png-utm-source-commons-wikimedia.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TELEMUNDO DEPORTES",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(telemundodeportes)/master.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telemundo_Deportes_Logo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=300b58dfdaf35e8537ce25c39e99aec7&key=6fc107a6f62f39da27b36ff079d7f937"
       }
     ]
   },
