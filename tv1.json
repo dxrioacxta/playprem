@@ -4052,6 +4052,13 @@
         "icono": "https://i.postimg.cc/76Qtyv6d/cinitillo-azteca-noticias-4-1-300x151.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "GLOBOVISION",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16212",
+        "icono": "https://i.postimg.cc/YqJsDwG3/latest-cb-20191201144547-path-prefix-es.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
