@@ -2550,6 +2550,13 @@
         "icono": "https://i.postimg.cc/N0XynvK7/MV5BNz-I3Y2Ew-Mz-At-ZGMx-Yy00YTJk-LTgy-MGEt-Mz-Yz-Mz-Yw-MDgx-Zj-M1Xk-Ey-Xk-Fqc-Gc-V1.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "COCINISIMA",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16275",
+        "icono": "https://i.postimg.cc/RZpy1n1K/21568331328673-Y3Jvc-Cw5MDAs-Nz-Az-LDAs-NDU.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
