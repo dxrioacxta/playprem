@@ -3907,6 +3907,13 @@
         "icono": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/clasico_thumbnail_1x1_0.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TERROR",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319",
+        "icono": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror_thumbnail_1x1_0.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
