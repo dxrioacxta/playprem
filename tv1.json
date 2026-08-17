@@ -1613,6 +1613,13 @@
         "icono": "https://i.postimg.cc/PfyKZScY/LOGO-Transparente.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ADN",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16361",
+        "icono": "https://i.postimg.cc/FKgR3zy0/ADN-Noticias-(2025)-svg-utm-source-es-wikipedia.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
