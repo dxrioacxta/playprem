@@ -4045,6 +4045,13 @@
         "icono": "https://i.postimg.cc/MK7598zy/logo.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AZTECA NOTICIAS",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=17309",
+        "icono": "https://i.postimg.cc/76Qtyv6d/cinitillo-azteca-noticias-4-1-300x151.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
