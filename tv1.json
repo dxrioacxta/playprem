@@ -3921,6 +3921,13 @@
         "icono": "https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/sureno_thumbnail_1x1_1.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BANDA",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16334",
+        "icono": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/banda_thumbnail_1x1_0.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
