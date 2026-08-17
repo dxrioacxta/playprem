@@ -2522,6 +2522,13 @@
         "icono": "https://i.postimg.cc/SKtRQ3kv/plantilla-logotipo-servicio-automovil-degradado-23-2149727273.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CANAL DE COCINA",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16479",
+        "icono": "https://i.postimg.cc/zXZmFSqk/png-transparent-monumental-restaurant-elche-logo-kitchen-kitchen-miscellaneous-kitchen-trademark-thu.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
