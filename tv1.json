@@ -1620,6 +1620,13 @@
         "icono": "https://i.postimg.cc/FKgR3zy0/ADN-Noticias-(2025)-svg-utm-source-es-wikipedia.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AMERICA",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16366",
+        "icono": "https://i.postimg.cc/3Rkx61Mc/America-Television-logo-2016-png-utm-source-es-wikipedia.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
