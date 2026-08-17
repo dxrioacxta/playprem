@@ -2501,6 +2501,13 @@
           "Referer": "https://webclient.axsbolivia.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "ESPECIAL DE AUTOS",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16353",
+        "icono": "https://i.postimg.cc/gkRZSzdH/pngtree-car-logo-png-image-4558847.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
