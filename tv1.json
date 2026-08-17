@@ -4073,6 +4073,13 @@
         "icono": "https://i.postimg.cc/YqJsDwG3/latest-cb-20191201144547-path-prefix-es.webp",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AZTECA INTERNACIONAL",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16278",
+        "icono": "https://i.postimg.cc/kMkp5mJs/Azteca-logo-trans-516x287.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
