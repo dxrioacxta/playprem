@@ -3466,6 +3466,13 @@
         "icono": "https://i.postimg.cc/rFymdSZh/1200-cb-20230921082641.webp",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ADRENALINE BOXEO",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=17206",
+        "icono": "https://i.postimg.cc/ZYcz2XY4/o-W7WVh-Rj-BE2IAIPw28RPa1u-Xc5p-Z6KNT8Uo-Cw-Du-DX5MA-qmrs-l-P3p-ZAbjs-F2ka-FCzt-RR4Ytaww-U5Ipfq-Vu-L.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
