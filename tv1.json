@@ -2883,6 +2883,13 @@
           "Referer": "https://webclient.axsbolivia.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "LOS PITUFOS 24/7",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16350",
+        "icono": "https://i.postimg.cc/xj5GGTfF/Logo-Los-Pitufos-png-utm-source-es-wikipedia.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
