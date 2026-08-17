@@ -3452,6 +3452,13 @@
         "icono": "https://i.postimg.cc/wvJDpdn6/trace-sports-7e927c2243a740eeac2030f275c39fe3.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MOTOR VISION",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16902",
+        "icono": "https://i.postimg.cc/rFymdSZh/1200-cb-20230921082641.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
