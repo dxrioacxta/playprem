@@ -2138,6 +2138,13 @@
           "Referer": "https://webclient.axsbolivia.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TELEMUNDO ACCION",
+        "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
+        "icono": "https://i.postimg.cc/6q3cHMfn/images-q-tbn-ANd9Gc-T7HWHve49nr-Zc-Vjmg-Y-OI-Nx-o-L46L-76q-L91INv-Mj-BDl-A5nvuy-G41o-Mk-s-10.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
