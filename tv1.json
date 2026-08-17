@@ -1706,6 +1706,13 @@
         "icono": "https://i.postimg.cc/ry9b56Yy/47-473241-clip-art-pure-romance-logo-hd-png-download.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "NOVELAS",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16920",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
