@@ -3907,6 +3907,13 @@
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "DRAMA",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16220",
+        "icono": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/drama_thumbnail_1x1_1.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
