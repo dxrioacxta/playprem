@@ -3865,6 +3865,13 @@
         "icono": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/clasico_thumbnail_1x1.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SURENO",
+        "url": "https://stream.ads.ottera.tv/cl/260819da2o4cl3p64s73f7vveg/1920x1080_4715744_1_f.m3u8?i=475_16201",
+        "icono": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/sureno_thumbnail_1x1_1.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
