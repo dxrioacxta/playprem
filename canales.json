@@ -436,7 +436,20 @@
   },
   {
     "name": "🔰EVENTOS MLS",
-    "samples": []
+    "samples": [
+      {
+        "name": "MLS 1",
+        "url": "https://streamtp-golden1.click/global1.php?stream=mls1es",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
+      }
+    ]
   },
   {
     "name": "PARAGUAY🇵🇾",
