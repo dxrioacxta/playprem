@@ -3900,6 +3900,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1zMtNphszTEtilM8NDfKAy_tp7f9y_0SW9rLIB5_-w&s=10",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "LIVE",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16218",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   }
