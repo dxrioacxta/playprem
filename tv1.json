@@ -3862,7 +3862,7 @@
       {
         "name": "CLASICO",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/51e560600b65af19f305f491df5d04ac.webp",
+        "icono": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/clasico_thumbnail_1x1.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
       }
