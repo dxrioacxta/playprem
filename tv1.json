@@ -3847,7 +3847,7 @@
     "samples": [
       {
         "name": "ACCION",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317",
+        "url": "https://stream.ads.ottera.tv/cl/260819da2nvbmn6qms73b912eg/1920x1080_4716800_1_f.m3u8?i=475_16200",
         "icono": "https://i.postimg.cc/5tJdQnKD/images-q-tbn-ANd9Gc-Rd-YYHKjus-T8Yaz-C3t-Qe-Tgz-8g-VIJKG2Hr-MD1Rlc-m-Asg-s-10.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
