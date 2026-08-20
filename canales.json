@@ -1717,14 +1717,14 @@
     "samples": [
       {
         "name": "NTN24 COLOMBIA",
-        "url": "http://flexlive.lat:8080/live/dagopineda/DAeVXavdtYjx/142663.ts",
+        "url": "http://zonacero.lat:8080/live/2026/2026/290841.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "http://flexlive.lat:8080",
-          "Referer": "http://flexlive.lat:8080/",
-          "User-Agent": "IPTVSmartersPlayer"
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
         }
       },
       {
