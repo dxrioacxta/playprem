@@ -3677,7 +3677,15 @@
   },
   {
     "name": "📺SONY CINEMAS",
-    "samples": []
+    "samples": [
+      {
+        "name": "SONY CINE",
+        "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
+        "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺CINES 24/7",
