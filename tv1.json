@@ -2026,7 +2026,7 @@
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=7VhJ0z4HYG1hGNf7JrkM0A&key=Y2cOV-cDU8pSb7B6jX3bew",
         "headers": {
           "Origin": "https://www.primevideo.com",
-          "Referer": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
         }
       },
