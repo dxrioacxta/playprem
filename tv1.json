@@ -2008,7 +2008,7 @@
       },
       {
         "name": "GOLDEN EDGE",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NDM4MjQwIiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlOWIzZWNiODQ4NzhmYjA5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.8MrcLQkyqX9Y_a-bE4taUNfXT6YNcZ5yrNjT63JmI0LNnlCrCHYg1mRKaE5jPzGbLYgdejSYmhk7NOqcPw_H8w==/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
+        "url": "https://smt-usr-edge05.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd",
         "icono": "https://i.postimg.cc/nh5BQHPX/Golden-Edge-SL500-FMpng.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=rky8NNSxZF9seyZBDd57WA&key=ZHR4zTvQ37PoICSSlsIwlg",
