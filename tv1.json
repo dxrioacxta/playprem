@@ -2068,7 +2068,7 @@
       },
       {
         "name": "CINE PREMIUN",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NDM4MjQwIiwic2lwIjoiMTM4LjU5LjIyNi43NCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlOWIzZWNiODQ4NzhmYjA5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.8MrcLQkyqX9Y_a-bE4taUNfXT6YNcZ5yrNjT63JmI0LNnlCrCHYg1mRKaE5jPzGbLYgdejSYmhk7NOqcPw_H8w==/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
+        "url": "https://smt-usr-edge05.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd",
         "icono": "https://i.postimg.cc/Qt0dFmm9/cine-premium-1a0f40f26fac4968a19aeffba4b48aab.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=812f89cb0024d3699e832d72e4f0ebb6&key=851d7496cd1a7e03125b2b6d3b41c922",
