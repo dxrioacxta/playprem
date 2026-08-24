@@ -346,7 +346,7 @@
         "name": "TIGO SPORTS",
         "url": "https://streamxhd.com/live1.php?stream=tigo1",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "CLEARKEY",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
