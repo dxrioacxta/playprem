@@ -695,11 +695,11 @@
         }
       },
       {
-        "name": "PARAVISION  ",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "name": "PARAVISION",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/PARAVISION_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/PARAVISION_C4.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/paravision_d054b40d484f4702979d4d6d703575af.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar",
