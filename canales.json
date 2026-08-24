@@ -825,8 +825,8 @@
         }
       },
       {
-        "name": "Prueba",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+        "name": "Prueba2",
+        "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
