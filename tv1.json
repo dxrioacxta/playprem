@@ -287,13 +287,13 @@
       },
       {
         "name": "TV CAMARA",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
+        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzUxNzQ3Iiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RWX0NhbWFyYS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiY2Q2ZTJjMGRmYWUzYTA4OSIsInNlc3Npb25faWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0My0xNzg3NTc4OTUxLTEwNiIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlA6b1pyWHBaM0FTZWVwS3l0WkU4X2NlQSIsImRldmljZV9pZCI6ImVlZjk4YjExOGMzOGE2MzcwYjY1NDFkMGYwNTRiNDQzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Lsn0G5g8ZOwNH7ZpVabrq27jspF3t9_nJOlqFEKrWP4joi--4aNwzvjAUNL52heUXdaHWtno0AtxJkjU5nI62Q==/live/c4eds/TV_Camara/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TV_Camara.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=9357704ade444dc3b23be89865af2f58&key=3d03e0a79d8f7b7aa2897c3d24bd4b6a",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
