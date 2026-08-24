@@ -267,13 +267,6 @@
         }
       },
       {
-        "name": "MAS TV",
-        "url": "http://129.80.85.171:8082/hls/0/stream.m3u8",
-        "icono": "https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/tv/images/logo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "MI TV",
         "url": "https://tigocloudgen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua",
         "icono": "https://i.postimg.cc/7YM5zdCL/mi-tv-2fbedc2b66b540a6a8070fe9f50137c6.png",
