@@ -136,13 +136,13 @@
       },
       {
         "name": "HEI NEW",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQyMzMxIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxNDgzZDJiMzhlNjUwZjFlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.jONGUsQV02d0ZJK9-nwMso7yJVZx0-cTodhaSR9oQPFZY3FLRsIXnGweDnFNheYbPXy53UOFvfsB4u-hgUrN2w==/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd",
+        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzQ5MTExIiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hFSV9OT1cvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImEyNzBkZWE2MDBkZWUxZWUiLCJzZXNzaW9uX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMtMTc4NzU3NjMxMS0yOTIiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQOm9aclhwWjNBU2VlcEt5dFpFOF9jZUEiLCJkZXZpY2VfaWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0MyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.Rc7K-khjLUAAY1v0HvujQKfCtY43dkac3qjkaACa6OTp3nXsOyQsTJltBnMAJOXa_EjPYFWM2h3fjR-pqGsxjQ==/live/c4eds/HEI_NOW/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HEI_NOW.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/25SamQ6G7oXYC9JA6suG1Q?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=a8922522d07bc6aea96decd1c61553a6&key=dd9d597ceaf05fa903587ff1a657a04e",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
