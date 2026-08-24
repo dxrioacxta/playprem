@@ -332,10 +332,15 @@
       },
       {
         "name": "TELEFUTURO 2",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.m3u8",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/-bnHtfXDLsZqhGgrb6QmHQ?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
