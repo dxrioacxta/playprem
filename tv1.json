@@ -350,6 +350,13 @@
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/oLU3N4gO2gFJ70trpNj02Q?tags=CH_LOGO",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EDUCANAL",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/Educanal/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Educanal.mpd",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/Y00kkvHrmIzUyt_CSn2FiA?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
