@@ -109,6 +109,13 @@
         "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RALLY TV 2+",
+        "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
+        "icono": "https://i.ibb.co/r1gcP2y/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       }
     ]
   },
