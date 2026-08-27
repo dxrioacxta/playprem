@@ -1497,10 +1497,10 @@
         "url": "GET \thttps://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MDIwMjU1Iiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1R2X0dhbGljaWEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjU2NWQwMmI2MTMzNDIzODUiLCJzZXNzaW9uX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMtMTc4Nzg0NzQ1NS0xNjMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQOm9aclhwWjNBU2VlcEt5dFpFOF9jZUEiLCJkZXZpY2VfaWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0MyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.tMCBG1PFxFmMlwe92VXXsG_H7TpohdkNjCLI5nTc-blz4MK7J2u9qhNC3kdMauIjLdztzxaHrVEYcC9vponGhQ==/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/qlzSqPcLIlK-q_66GEAdjQ?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=23419f2a0a214038a94e24db13ee85a9&key=4c627ad6b8774e548e28d4aaf82a96a0",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=23419f2a0a214038a94e24db13ee85a9&key=4c627ad6b8774e548e28d4aaf82a96a0",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
+          "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
