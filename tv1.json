@@ -3761,13 +3761,6 @@
         "type": "HLS"
       },
       {
-        "name": "CANELA CINEMA",
-        "url": "https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8",
-        "icono": "https://i.postimg.cc/P5fqft9B/0-16x9-1.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "CINE PLEX",
         "url": "https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8",
         "icono": "https://i.postimg.cc/x89RxrBJ/5af711a09831cab3c68f42ff4db9c356.jpg",
