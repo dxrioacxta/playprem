@@ -1376,13 +1376,6 @@
         "icono": "https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online-1536x864.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "CANAL 10",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_Rio_Negro.mpd",
-        "icono": "https://i.postimg.cc/FH6HzTzR/Canal-10-General-Roca-(Logo-2020)-png-utm-source-es-wikipedia.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
