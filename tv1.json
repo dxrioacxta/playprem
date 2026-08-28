@@ -1383,6 +1383,13 @@
         "icono": "https://i.postimg.cc/FH6HzTzR/Canal-10-General-Roca-(Logo-2020)-png-utm-source-es-wikipedia.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SOMOS CANAL 13",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CH_13_Corrientes.mpd",
+        "icono": "https://i.postimg.cc/tgw0FfGM/Logo-de-Canal-13Max-Corrientes-png-utm-source-es-wikipedia.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
