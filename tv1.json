@@ -1494,13 +1494,13 @@
       },
       {
         "name": "TV GALICIA",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MDgzNjcwIiwic2lwIjoiMTM4LjU5LjIyNC4yMyIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3ZGY5MGU5MmFiYzgxM2Y0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc3Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.DAq5frnWhHM2rVFz-z4dStMNM7jb8Odgw5KeTzUL-8UvGDk8xA8SIA44q6nDLyw0KTO4W6li8U-iA39Bfp4uzw==/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd",
+        "url": "https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MTE0MDQxIiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1R2X0dhbGljaWEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjIwYzk0NDc1Y2U2MDE3ZDIiLCJzZXNzaW9uX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMtMTc4Nzk0MTI0Mi0zNDAiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQOm9aclhwWjNBU2VlcEt5dFpFOF9jZUEiLCJkZXZpY2VfaWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0MyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.eKnKW7JqaUWJ72wcNcB45KhvjboK4wjVxdMwwGICFiJRHzvBAcDKqMO3RFcaSljkW1umsBHJnoCf1IZbysg3cg==/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/qlzSqPcLIlK-q_66GEAdjQ?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=23419f2a0a214038a94e24db13ee85a9&key=4c627ad6b8774e548e28d4aaf82a96a0",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
         }
       },
