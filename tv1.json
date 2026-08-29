@@ -350,6 +350,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TIGO SPORTS +",
+        "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO SPORTS",
         "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
@@ -360,13 +367,6 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "TIGO SPORTS +",
-        "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
-        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "EVENTOS HD 2",
