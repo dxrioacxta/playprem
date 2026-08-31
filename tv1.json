@@ -1618,18 +1618,6 @@
         "icono": "https://i.postimg.cc/3R6qXdyf/1200-cb-20250412224555.webp",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      },
-      {
-        "name": "AL JASERA",
-        "url": "ttps://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzgzNjA3Iiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0FsbGphenplcmEvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdlNWRlOGY5Zjk2MDg3MGEiLCJzZXNzaW9uX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMtMTc4ODIxMDgwOS0yMzIiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQOm9aclhwWjNBU2VlcEt5dFpFOF9jZUEiLCJkZXZpY2VfaWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0MyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6ErlnfEvPnMhx_kgNcwm1rTn1U6bjfNN-NP0T8Ax0UbA-HXX_kWilz37ncXKn4hvny09rCGWG7NpfRWQIN88cw==/live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=137a1a70fa118b695118a3aad9485b13&amp;key=7c35ca36d4452dfa03d88725a0d16105",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
