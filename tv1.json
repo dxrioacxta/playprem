@@ -1,17 +1,5 @@
 [
   {
-    "name": "📺RALLY ITAPUA 2026",
-    "samples": [
-      {
-        "name": "RALLY TV",
-        "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
-        "icono": "https://i.postimg.cc/ryRD97zL/a7691067-f886-417f-a3c6-a8627a1ab405.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "📺PARAGUAY",
     "samples": [
       {
