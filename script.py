@@ -7,14 +7,14 @@ import requests
 CONFIGS = {
     'playPremium': {
         'name': 'PLAY TV PREMIUM',
-        'token': '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',
+        'token': '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',
         'owner': 'dxrioacxta',
         'repo': 'playprem',
         'path': 'canales.json'
     },
     'zuperPlay': {
         'name': 'ZUPER PLAY',
-        'token': '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',
+        'token': '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',
         'owner': 'dxrioacxta',
         'repo': 'playprem',
         'path': 'tv1.json'
