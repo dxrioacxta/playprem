@@ -2890,6 +2890,13 @@
         "icono": "https://i.postimg.cc/RFntJsBL/pitufo-tv.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BABY SHARK",
+        "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
+        "icono": "https://i.ibb.co/NVJJNnQ/Pinkfong-Baby-Shark.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
