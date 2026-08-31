@@ -1565,18 +1565,6 @@
         }
       },
       {
-        "name": "AL JAZEERA",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzcwMDM5Iiwic2lwIjoiMTM4LjU5LjIyNC44NyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1YzQwY2E5NWUwMjIwMDYxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.fFQLGL5GAcHYCp4wFSQxjwZ2JaaFvWi6l5XCJ5sPP1OEQWELU_U0937bqdt4LMmpG9kiuV_R3J3_sfbDXk4yPw==/live/c7eds/Alljazzera/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Alljazzera.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/7mNu1_uW2plBUKIT0mE2rg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=137a1a70fa118b695118a3aad9485b13&key=7c35ca36d4452dfa03d88725a0d16105",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "BBC News",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MzcwMDM5Iiwic2lwIjoiMTM4LjU5LjIyNC44NyIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1YzQwY2E5NWUwMjIwMDYxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.fFQLGL5GAcHYCp4wFSQxjwZ2JaaFvWi6l5XCJ5sPP1OEQWELU_U0937bqdt4LMmpG9kiuV_R3J3_sfbDXk4yPw==/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/hW1aw2LaWthLw8bmFqa0yg?tags=CH_LOGO",
