@@ -3,7 +3,7 @@ name: Actualizador Automatico de Tokens Flow
 on:
   schedule:
     # Se ejecuta automáticamente cada 15 minutos
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Habilita el botón de ejecución manual
 
 jobs:
