@@ -1704,6 +1704,13 @@
         "icono": "https://i.postimg.cc/kDrj8fNN/Corazon-(TV-channel)-logo-2021-png-utm-source-es-wikipedia.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RCN +",
+        "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+        "icono": "https://i.postimg.cc/XYfXgRt5/MJzu-RAN.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
