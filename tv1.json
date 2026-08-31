@@ -1711,6 +1711,13 @@
         "icono": "https://i.postimg.cc/XYfXgRt5/MJzu-RAN.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TODO NOVELAS",
+        "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.consent=%7BTC_STRING%7D&amp;ads.ssai_vendor=SSSLIVE&amp;ads.service_id=ESBC43000013T",
+        "icono": "https://i.postimg.cc/m2GPFZ5W/images.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
