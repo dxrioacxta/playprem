@@ -7,21 +7,21 @@ import requests
 CONFIGS = {
     'playPremium': {
         'name': 'PLAY TV PREMIUM',
-        'token': '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',
+        'token': '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',
         'owner': 'dxrioacxta',
         'repo': 'playprem',
         'path': 'canales.json'
     },
     'zuperPlay': {
         'name': 'ZUPER PLAY',
-        'token': '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',
+        'token': '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',
         'owner': 'dxrioacxta',
         'repo': 'playprem',
         'path': 'tv1.json'
     },
     'fieraTv': {
         'name': 'FIERA TV',
-        'token': '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',
+        'token': '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',
         'owner': 'DxrioOFC',
         'repo': 'FieraTv',
         'path': 'fieratv.json'
