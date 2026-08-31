@@ -1,0 +1,31 @@
+name: Actualizador Automatico de Tokens Flow
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 15 minutos
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Habilita el botón de ejecución manual
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar código del repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar entorno Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar librería requests
+        run: |
+          pip install requests
+
+      - name: Ejecutar script Python con Secretos
+        env:
+          GH_TOKEN_DXRIO: ${{ secrets.GH_TOKEN_DXRIO }}
+          GH_TOKEN_FIERA: ${{ secrets.GH_TOKEN_FIERA }}
+        run: |
+          python script.py
