@@ -40,13 +40,13 @@
       },
       {
         "name": "TIGO SPORTS OPC 1",
-        "url": "https://streamtp-golden1.click/global1.php?stream=fanatiz3",
+        "url": "https://streamxhd.st/live1.php?stream=tigo1",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
         "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "https://player.angelthump.com",
-          "Referer": "https://player.angelthump.com/",
+          "Origin": "",
+          "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
