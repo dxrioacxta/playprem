@@ -43,12 +43,7 @@
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(8XZuuoKDuh0iUpm1RUTBYcgc7IJMNB1FVizwAm9ApAPQZGsP9vQN5O9LgGOH-54nU3-oX9GoaKmmvPKzs2XpTkVyX6mrE5PqejsLGSeFDSKjgkiluUzI0ZG4rt3MgGca9eTSIg4ZUAHSxv9f70N9dw)/cloud/3/xak2neu/s/live-720.m3u8",
         "icono": "https://i.postimg.cc/ncmZCGpB/trecepy.png",
         "type": "HLS",
-        "drm_license_uri": "https://results.femon.net/?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": "https://results.femon.net/?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f"
       },
       {
         "name": "UNICANAL",
