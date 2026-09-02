@@ -3422,6 +3422,18 @@
           "Referer": "https://portal.app.flow.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TES",
+        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NDMzMDI2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzY2ZiNWFkNWIwMWM2OGJkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.YGKIs2BoE0AwjwJQqiXl2bW2-LRva8rs9s2raRxbaBxElli7A7kaVXgm7-FjzzL2-pIf59cHiwNWfc54F3LKEQ==/live/c7eds/TestServicios3/SA_Live_dash_enc_wl/TestServicios3.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?key=6926344d6147099f8f97015563479ddd&keyid=f0daf9f82be392cf32735f3387c5581b",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
