@@ -3,18 +3,6 @@
     "name": "📺PARAGUAY",
     "samples": [
       {
-        "name": "ESPN 1",
-        "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": "https://results.femon.net/?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "NANDUTI TV",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTE2MTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWUwOGQ5ODliNmZiNWEzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.xSB5zGr8VvC4AcIL_5xutdR3YrTIOWYn437b-wAviR0_xkxJ0ar_XrII-QkMAh0U5g4X1CH42xh_KIA5NtKqHQ==/live/c4eds/Nanduti_Py/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nanduti_Py.mpd",
         "icono": "https://i.postimg.cc/52CR5ftw/avatars-Iwz9FWj6Gy-ABKhnn-Gvabnw-t1080x1080.jpg",
