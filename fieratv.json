@@ -527,13 +527,6 @@
     "name": "PARAGUAY 🇵🇾2",
     "samples": [
       {
-        "name": "PRUEBA 3",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_cenc/HEI_NOW.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "c0d244daa9dc6f4ee4ce22d500c1eddb:abb2d1767b1114c981a0666ad5913c19"
-      },
-      {
         "name": "ÑANDUTI TV",
         "url": "https://nanduti.b-cdn.net/720p.m3u8",
         "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
