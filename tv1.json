@@ -313,10 +313,15 @@
       },
       {
         "name": "RCC",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTE2MTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWUwOGQ5ODliNmZiNWEzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.xSB5zGr8VvC4AcIL_5xutdR3YrTIOWYn437b-wAviR0_xkxJ0ar_XrII-QkMAh0U5g4X1CH42xh_KIA5NtKqHQ==/live/c4eds/RCC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RCC.mpd",
+        "url": "hhttps://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTQ5MzIxIiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1JDQy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMjAzYjI5MTM1NzliYzhjZSIsInNlc3Npb25faWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0My0xNzg4Mzc2NTIwLTUzMiIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlA6b1pyWHBaM0FTZWVwS3l0WkU4X2NlQSIsImRldmljZV9pZCI6ImVlZjk4YjExOGMzOGE2MzcwYjY1NDFkMGYwNTRiNDQzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.U4GQEFi02KKBDMr5zKY3lKowBHDlRvoGakjOs4-blWEaOwqRTrOflL1rmlqhl1Cq_sDbLvSAegD9RCAfYX7ttw==/live/c4eds/RCC/SA_Live_dash_enc/RCC.mpd",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/oLU3N4gO2gFJ70trpNj02Q?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": ""
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?key=d1f89fc694800645ae926d9c5f13a1f6&keyid=d8479ae2a7cc939e8382c8851927425d",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "EDUCANAL",
