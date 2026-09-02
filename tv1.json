@@ -76,7 +76,7 @@
       },
       {
         "name": "SNT",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
+        "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
         "type": "HLS",
         "drm_license_uri": "hhttps://results.femon.net?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
