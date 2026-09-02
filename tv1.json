@@ -88,6 +88,18 @@
       },
       {
         "name": "TELEFUTURO",
+        "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTE2NjkwIiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFiMTdmMmM2Njg1MTg3ZTAiLCJzZXNzaW9uX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMtMTc4ODM0Mzg5Mi01MzYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQOm9aclhwWjNBU2VlcEt5dFpFOF9jZUEiLCJkZXZpY2VfaWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0MyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.OIl-XP5C5DA9WJzbnnWD8CYnDFlzrNuuB_e_810t-sqfvq6wAqzTf8PSpClaaGFqlQu4e-I6EWNKghNy7XcWMQ==/live/c4eds/TELEFUTURO_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
+        "icono": "https://i.postimg.cc/d1rWd6tK/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TELEFUTURO",
         "url": "https://edge-live31-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTE2NjkwIiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFiMTdmMmM2Njg1MTg3ZTAiLCJzZXNzaW9uX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMtMTc4ODM0Mzg5Mi01MzYiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQOm9aclhwWjNBU2VlcEt5dFpFOF9jZUEiLCJkZXZpY2VfaWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0MyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc4Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.OIl-XP5C5DA9WJzbnnWD8CYnDFlzrNuuB_e_810t-sqfvq6wAqzTf8PSpClaaGFqlQu4e-I6EWNKghNy7XcWMQ==/live/c4eds/TELEFUTURO_C4/Ssa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TELEFUTURO_C4.mpd",
         "icono": "https://i.postimg.cc/d1rWd6tK/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
         "type": "CLEARKEY",
