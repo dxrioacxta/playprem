@@ -917,7 +917,7 @@
         "name": "ESPN 4",
         "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "https://results.femon.net/?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
