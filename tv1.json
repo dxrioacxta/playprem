@@ -975,13 +975,13 @@
       },
       {
         "name": "FOX SPORTS 2",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTE2MTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWUwOGQ5ODliNmZiNWEzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.xSB5zGr8VvC4AcIL_5xutdR3YrTIOWYn437b-wAviR0_xkxJ0ar_XrII-QkMAh0U5g4X1CH42xh_KIA5NtKqHQ==/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
+        "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2HD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "https://results.femon.net/?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
