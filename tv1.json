@@ -197,12 +197,12 @@
       {
         "name": "NOTICIAS PY",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTE2MTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWUwOGQ5ODliNmZiNWEzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.xSB5zGr8VvC4AcIL_5xutdR3YrTIOWYn437b-wAviR0_xkxJ0ar_XrII-QkMAh0U5g4X1CH42xh_KIA5NtKqHQ==/live/c4eds/NOTICIAS_PY_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/NOTICIAS_PY_C4.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/ZWXIZh7VZVebUVQ7zxLWzg?tags=CH_LOGO",
+        "icono": "https://i.postimg.cc/Xqnbmpr3/NPY-Noticias-Paraguay.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
