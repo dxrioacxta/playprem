@@ -3412,18 +3412,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS 4K",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NDMzMDI2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzY2ZiNWFkNWIwMWM2OGJkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.YGKIs2BoE0AwjwJQqiXl2bW2-LRva8rs9s2raRxbaBxElli7A7kaVXgm7-FjzzL2-pIf59cHiwNWfc54F3LKEQ==/live/c7eds/Eventos_4K/SA_Live_dash_widevine/Eventos_4K.mpd",
-        "icono": "https://static.flow.com.ar/images/-/-/0/0/60910208076515.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?key=5dea763b9260a6f4b9baed7b59eca136&keyid=ab88f544b8958534bd928fb632fac573",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TES",
         "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NDMzMDI2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzY2ZiNWFkNWIwMWM2OGJkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.YGKIs2BoE0AwjwJQqiXl2bW2-LRva8rs9s2raRxbaBxElli7A7kaVXgm7-FjzzL2-pIf59cHiwNWfc54F3LKEQ==/live/c7eds/TestServicios3/SA_Live_dash_enc_wl/TestServicios3.mpd",
         "icono": "",
