@@ -71,10 +71,10 @@
       },
       {
         "name": "SNT",
-        "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
+        "url": "https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTQwMTk5Iiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1NOVF9DNC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2I1MGZhNDFiMDE1NmM0OCIsInNlc3Npb25faWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0My0xNzg4MzY3Mzk2LTIzNSIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlA6b1pyWHBaM0FTZWVwS3l0WkU4X2NlQSIsImRldmljZV9pZCI6ImVlZjk4YjExOGMzOGE2MzcwYjY1NDFkMGYwNTRiNDQzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.JeEHqhWLaDgBK3Lmdhgoyfz3G3zJg39sPE2JFe4Q_UvtC8LLmORfzOn2m0qtb5dCLqzjrj0i74hrXdH6gzBBEQ==/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": "hhttps://results.femon.net?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=a64f7643405eb504a6634036a96705e3&&key=e8c404746c8622774e35eba67fcc8623",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
