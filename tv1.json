@@ -735,7 +735,7 @@
       },
       {
         "name": "MIX TV",
-        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTE2MTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWUwOGQ5ODliNmZiNWEzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.xSB5zGr8VvC4AcIL_5xutdR3YrTIOWYn437b-wAviR0_xkxJ0ar_XrII-QkMAh0U5g4X1CH42xh_KIA5NtKqHQ==/live/c4eds/MixTV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/MixTV.mpd",
+        "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTU1MzM2Iiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL01peFRWL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmZjZmNmFkMmEwNDUwMjg5Iiwic2Vzc2lvbl9pZCI6ImVlZjk4YjExOGMzOGE2MzcwYjY1NDFkMGYwNTRiNDQzLTE3ODgzODI1NDAtMzIyIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UDpvWnJYcFozQVNlZXBLeXRaRThfY2VBIiwiZGV2aWNlX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.tWGkkRqCOQncrpOtoUBtaWU6SQ8XHu3oJD5Y8oI7SbyGXmcjK2GPXs0mGTHvjMovesu7zaC8ai1yteMnLI0RxQ==/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/wFcELFDufR1XY3WICrh5Mg?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=0e1327b5b1f4dfe767aec622c9ef64ce&key=60c64a922af0121bf73261c825e33f18",
