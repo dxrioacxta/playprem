@@ -527,13 +527,6 @@
     "name": "PARAGUAY 🇵🇾2",
     "samples": [
       {
-        "name": "PRUEBA",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_cenc/UNICANAL_C4.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "7d798b4e58cfda51da8b2a01989e7f93:16c5c9d859b544dfe10119d67df15d66"
-      },
-      {
         "name": "PRUEBA 3",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_cenc/HEI_NOW.mpd",
         "icono": "",
