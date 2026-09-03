@@ -31,11 +31,11 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS HD 2",
-        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "name": "EVENTOS HD 5",
+        "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7"
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "TIGO SPORTS",
