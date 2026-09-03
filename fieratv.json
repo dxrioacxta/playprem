@@ -3004,6 +3004,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/311.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PLUTO AVENTURA",
+        "url": "https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/312.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
