@@ -3713,6 +3713,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/329.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ARCHIVOS F.B.I",
+        "url": "https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/331.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
