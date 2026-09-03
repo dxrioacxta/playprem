@@ -356,18 +356,18 @@
     "name": "📺PACK ESPN PARAGUAY",
     "samples": [
       {
-        "name": "ESPN 2",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_PY.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": "https://results.femon.net/?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d"
-      },
-      {
         "name": "ESPN 1",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_PY.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
         "type": "HLS",
         "drm_license_uri": "https://results.femon.net/?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef"
+      },
+      {
+        "name": "ESPN 2",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN_PY.mpd",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": "https://results.femon.net/?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d"
       },
       {
         "name": "ESPN 3",
