@@ -3720,6 +3720,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/331.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MISTERIOS SIN RESOLVER",
+        "url": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/336.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
