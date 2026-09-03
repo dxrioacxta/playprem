@@ -3727,6 +3727,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/336.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ZONA PARANORMAL",
+        "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/337.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
