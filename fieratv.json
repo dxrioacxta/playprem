@@ -24,11 +24,11 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS  HD 1",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "name": "EVENTOS  HD 4",
+        "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "EVENTOS HD 2",
