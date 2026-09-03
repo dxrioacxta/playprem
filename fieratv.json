@@ -2990,6 +2990,13 @@
     "name": "🎬CANALES DE NOVELAS",
     "samples": [
       {
+        "name": "PLUTO NOVELAS",
+        "url": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/278.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "tLNOVELAS",
         "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
