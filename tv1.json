@@ -720,13 +720,13 @@
       },
       {
         "name": "LATAN RURAL",
-        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c4eds/Latam_Rural/SA_Live_dash_enc/Latam_Rural.mpd",
+        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c4eds/Latam_Rural/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Latam_Rural.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/JYWGV5LIQJb0nsN1bm-DcA?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=abdfd83824e9ba585f74fb72c647aa4f&key=9967e06e39893998d16714988d9d87f1",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
