@@ -3437,9 +3437,9 @@
       },
       {
         "name": "El Gourmet",
-        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTYyOTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMzkxM2VmZmNmZjNmYmFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJ4bKlKN7K2efANsZRzuM0wPaxZK-tlhUZOe4jTLIjAkXgSC3Rd78Q4PHCi33R4uzKsdtnK40IAJHfBqjTucOA==/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
-        "type": "CLEARKEY",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTYyOTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMzkxM2VmZmNmZjNmYmFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJ4bKlKN7K2efANsZRzuM0wPaxZK-tlhUZOe4jTLIjAkXgSC3Rd78Q4PHCi33R4uzKsdtnK40IAJHfBqjTucOA==/live/c3eds/Gourmet/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Gourmet.mpd",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20230410230608&path-prefix=es",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
