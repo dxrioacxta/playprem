@@ -17,8 +17,8 @@
         "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
       },
       {
-        "name": "EVENTOS ONE TV HD",
-        "url": "https://183.bozztv.com/giatv/giatv-nene/nene/playlist.m3u8",
+        "name": "EVENTOS HD 3",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
