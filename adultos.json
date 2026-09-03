@@ -3,12 +3,6 @@
     "name": "Canales",
     "samples": [
       {
-        "name": "SEXTREME",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=95bd64227acf458daf7886f803d0298e&key=79e28ee0ec58958bb666f9e53a0cd434\n"
-      },
-      {
         "name": "VENUS",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
         "type": "CLEARKEY",
