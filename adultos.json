@@ -3,12 +3,6 @@
     "name": "Canales",
     "samples": [
       {
-        "name": "VENUS",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=34237d2ae6684ee7a011f5b9c7c43e6d&key=05d973d987915120e567880f50a422af\n"
-      },
-      {
         "name": "PLAYBOY",
         "url": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
         "type": "CLEARKEY",
