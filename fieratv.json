@@ -2743,6 +2743,13 @@
     "name": "CULTURA  & COCINA 🧑‍🍳",
     "samples": [
       {
+        "name": "LOVE NATURE",
+        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+        "icono": "https://imagizer.imageshack.com/img923/8858/pp1Ad9.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "MASTERCHEF",
         "url": "https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/298.webp",
