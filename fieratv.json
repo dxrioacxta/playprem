@@ -3774,6 +3774,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BORUTO 24/7",
+        "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/391.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
