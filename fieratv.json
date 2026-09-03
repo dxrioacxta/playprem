@@ -3095,6 +3095,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/286.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MTV -CON MI EX",
+        "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/292.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
