@@ -943,7 +943,7 @@
         "name": "FOX SPORTS",
         "url": "https://edge-live04-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTY5Nzg2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI4ZmZiMGM0NDg0MzQ3ZjY0Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzYzIiwic291cmNlcyI6Wzg1LDIxMCw4Niw4OF19.giQLPkQPckgBsKBKxtU4t2jAmDhzkzetn6gwn94NxRqqgKnet1DzWURMfXQRhmVbPKhPe0wf1fSnpvz1GB1y3A==/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HAq2thFBSFQ6BPwjbeV3mw?tags=CH_LOGO",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
