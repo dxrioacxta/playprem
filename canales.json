@@ -1160,11 +1160,11 @@
         }
       },
       {
-        "name": "CANAL 9 ",
-        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTU4NTc3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjODhlODlhZjg1YTZkNzdkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.qFbpMuWy7qDXutcf7lTnt2XphV5nnVPvfR0VgFHy5dk-2JC6kcvkhU8w2nDsAeOTMGjwID2lruRaTzpPDOxEuA==/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
+        "name": "CANAL 9",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTYyOTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMzkxM2VmZmNmZjNmYmFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJ4bKlKN7K2efANsZRzuM0wPaxZK-tlhUZOe4jTLIjAkXgSC3Rd78Q4PHCi33R4uzKsdtnK40IAJHfBqjTucOA==/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd",
         "icono": "https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
