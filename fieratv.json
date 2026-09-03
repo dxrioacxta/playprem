@@ -2997,6 +2997,13 @@
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EL ENCANTADOR DE PERROS",
+        "url": "https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/311.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
