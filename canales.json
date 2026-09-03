@@ -357,15 +357,10 @@
     "samples": [
       {
         "name": "RCC TV",
-        "url": "https://rds3.desdeparaguay.net/rcctv/rcctv/playlist.m3u8",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/RCC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/RCC.mpd",
         "icono": "https://i.ibb.co/nqGq1sY3/logo-rcc-holding-100px.png",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": "https://results.femon.net?key=d1f89fc694800645ae926d9c5f13a1f6&keyid=d8479ae2a7cc939e8382c8851927425d"
       },
       {
         "name": "AMERICA TV PY1",
