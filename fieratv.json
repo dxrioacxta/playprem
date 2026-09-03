@@ -3917,6 +3917,18 @@
           "Referer": "https://portal.app.flow.com.uy",
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
+      },
+      {
+        "name": "SEXTREME",
+        "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/439.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SextremeAr",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.uy/",
+          "Referer": "https://portal.app.flow.com.uy",
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
       }
     ]
   }
