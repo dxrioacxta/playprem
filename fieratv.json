@@ -3823,6 +3823,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/399.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "KENAN Y KEL 24/7",
+        "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/407.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
