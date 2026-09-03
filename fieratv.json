@@ -3734,6 +3734,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/337.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "HISTORIAS ULTRATUMBAS",
+        "url": "https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/338.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
