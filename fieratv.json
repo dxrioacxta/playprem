@@ -3081,6 +3081,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/284.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PLUTO REALITY",
+        "url": "https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/285.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
