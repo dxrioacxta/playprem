@@ -51,13 +51,13 @@
       },
       {
         "name": "VS SPORTS HD",
-        "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_cenc/GEN__CAM1.mpd",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/005.webp",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSP",
         "headers": {
           "Origin": "https://portal.app.flow.com.uy/",
-          "Referer": "https://portal.app.flow.com.uy/",
+          "Referer": "https://portal.app.flow.com.uy",
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       }
