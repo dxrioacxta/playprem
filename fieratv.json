@@ -3369,6 +3369,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/416.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PLUTO KIDS",
+        "url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/418.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
