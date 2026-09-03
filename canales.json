@@ -592,13 +592,8 @@
         "name": "LA TELE",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/LA_TELE_C4.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": "https://results.femon.net/?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
       }
     ]
   },
