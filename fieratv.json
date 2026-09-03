@@ -3685,6 +3685,13 @@
         "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SALA DE EMERGENCIAS",
+        "url": "https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/324.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
