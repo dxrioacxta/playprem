@@ -3317,10 +3317,10 @@
       },
       {
         "name": "DISCOVERY CHANNEL",
-        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTYyOTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMzkxM2VmZmNmZjNmYmFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJ4bKlKN7K2efANsZRzuM0wPaxZK-tlhUZOe4jTLIjAkXgSC3Rd78Q4PHCi33R4uzKsdtnK40IAJHfBqjTucOA==/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTYyOTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMzkxM2VmZmNmZjNmYmFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJ4bKlKN7K2efANsZRzuM0wPaxZK-tlhUZOe4jTLIjAkXgSC3Rd78Q4PHCi33R4uzKsdtnK40IAJHfBqjTucOA==/live/c3eds/DiscoveryHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DiscoveryHD.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery_5a7f7316fecc439b9e695fb7dc21bfb1.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery_5a7f7316fecc439b9e695fb7dc21bfb1.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
