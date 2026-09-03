@@ -10,6 +10,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "PLUTO NOVELAS CONTINENTALES",
+        "url": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/279.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS ONE TV",
         "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
