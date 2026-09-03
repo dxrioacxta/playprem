@@ -2979,10 +2979,10 @@
       },
       {
         "name": "SPACE HD",
-        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTYyOTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMzkxM2VmZmNmZjNmYmFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJ4bKlKN7K2efANsZRzuM0wPaxZK-tlhUZOe4jTLIjAkXgSC3Rd78Q4PHCi33R4uzKsdtnK40IAJHfBqjTucOA==/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NTYyOTU1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhMzkxM2VmZmNmZjNmYmFjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.FJ4bKlKN7K2efANsZRzuM0wPaxZK-tlhUZOe4jTLIjAkXgSC3Rd78Q4PHCi33R4uzKsdtnK40IAJHfBqjTucOA==/live/c3eds/Space/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Space.mpd",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
