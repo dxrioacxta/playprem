@@ -2990,6 +2990,13 @@
     "name": "🎬CANALES DE NOVELAS",
     "samples": [
       {
+        "name": "PLUTO NOVELAS MEXICO",
+        "url": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/280.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PLUTO NOVELAS",
         "url": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/278.webp",
