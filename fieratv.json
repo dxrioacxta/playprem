@@ -3046,6 +3046,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/321.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PLUTO HISTORIAS",
+        "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/328.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
