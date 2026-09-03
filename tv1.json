@@ -234,7 +234,7 @@
         "name": "LA TELE",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/LA_TELE_C4.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/IgsLLdcHrTzclBqQghGdGg?tags=CH_LOGO",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "https://results.femon.net/?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb"
       },
       {
