@@ -337,13 +337,6 @@
         "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "PLUTO COMEDIA",
-        "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
-        "icono": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
@@ -3842,6 +3835,13 @@
         "name": "CAPITAN TSUBASA 24/7",
         "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/397.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "PLUTO COMEDIA",
+        "url": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8",
+        "icono": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
