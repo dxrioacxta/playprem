@@ -3893,6 +3893,18 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/417.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PLAYBOY PRUEBA",
+        "url": "https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/437.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PerFlow_Playboy",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.uy/",
+          "Referer": "https://portal.app.flow.com.uy",
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
       }
     ]
   }
