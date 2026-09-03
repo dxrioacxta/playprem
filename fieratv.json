@@ -3706,6 +3706,13 @@
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/325.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CAZADOR DE HOMICIDAS",
+        "url": "https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/329.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
