@@ -3067,6 +3067,13 @@
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SIN SENOS NO HAY PARAISO",
+        "url": "https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/282.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
