@@ -382,10 +382,10 @@
     "samples": [
       {
         "name": "ESPN 1",
-        "url": "https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzAwMzQ3Iiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3M2M2Y2U4YTI1MzFjYzIyIiwic2Vzc2lvbl9pZCI6ImVlZjk4YjExOGMzOGE2MzcwYjY1NDFkMGYwNTRiNDQzLTE3ODg1Mjc1NTEtNTYxIiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UDpvWnJYcFozQVNlZXBLeXRaRThfY2VBIiwiZGV2aWNlX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjIyMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.c0G1RyxWPw-DLNLFFFgg5s7xqNSpLItWIK9_9xFVGNbb80HTnO2wteuFBayKI7P3N_lCWi5uqGJLiRA82kqBPQ==/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
+        "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg4MjkwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGFjMmE3MjRlN2U1YjBjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.tGe2X5i_WIUvqcdlZSZJ9Uo8F32LdVKXnP7kwvkwECvFlQKaRBwj2TBQWPyNL1PLTTKjNB3XjfrWUO0E7yQZaA==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=d079ffa3757e8335611fc48be6ba47ff&key=05059d1cb21b6708a55e9c26fb38e2f3",
         "headers": {
           "Origin": "ttps://portal.app.flow.com.py",
           "Referer": "ttps://portal.app.flow.com.py/",
