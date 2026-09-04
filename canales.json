@@ -100,7 +100,7 @@
       },
       {
         "name": "TIGO INTERMEDIA",
-        "url": "http://179.51.136.19:8000/play/a1ld/59727963.m3u8",
+        "url": "http://87.76.215.82:8555/live/1692/index.m3u8",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "HLS",
         "drm_license_uri": "",
