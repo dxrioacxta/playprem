@@ -762,6 +762,13 @@
     "name": "PARAGUAY - STREAMING - MEDIA",
     "samples": [
       {
+        "name": "ASPEN MUSIC",
+        "url": "https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8",
+        "icono": "https://i.ibb.co/sJRyc31/aspen-classic.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "E40 TV",
         "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
