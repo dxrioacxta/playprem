@@ -232,10 +232,10 @@
       },
       {
         "name": "FOX SPORTS 3",
-        "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg4MjkwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGFjMmE3MjRlN2U1YjBjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.tGe2X5i_WIUvqcdlZSZJ9Uo8F32LdVKXnP7kwvkwECvFlQKaRBwj2TBQWPyNL1PLTTKjNB3XjfrWUO0E7yQZaA==/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd",
+        "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg4MjkwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGFjMmE3MjRlN2U1YjBjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.tGe2X5i_WIUvqcdlZSZJ9Uo8F32LdVKXnP7kwvkwECvFlQKaRBwj2TBQWPyNL1PLTTKjNB3XjfrWUO0E7yQZaA==/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=4629bd0ae30c0e72af111fb948fada1c&key=7864154c679e769e7f164ba083c8fad3",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
