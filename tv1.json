@@ -308,7 +308,7 @@
         "name": "E 40",
         "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
