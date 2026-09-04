@@ -471,13 +471,13 @@
       },
       {
         "name": "CANAL 9",
-        "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg4MjkwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGFjMmE3MjRlN2U1YjBjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.tGe2X5i_WIUvqcdlZSZJ9Uo8F32LdVKXnP7kwvkwECvFlQKaRBwj2TBQWPyNL1PLTTKjNB3XjfrWUO0E7yQZaA==/live/c3eds/Canal9/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal9.mpd",
+        "url": "https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzE3NDQzIiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2MzZWRzL0NhbmFsOS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYWQyOWVhMWVlZmM5MWM4MiIsInNlc3Npb25faWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0My0xNzg4NTQ0NjQ3LTgxMCIsImNsaWVudF9pZCI6ImZsb3c6NjA3MjcwNy0tZmxvdzo2MDcyNzA3OlA6b1pyWHBaM0FTZWVwS3l0WkU4X2NlQSIsImRldmljZV9pZCI6ImVlZjk4YjExOGMzOGE2MzcwYjY1NDFkMGYwNTRiNDQzIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.9XGqGHZ3mk6DEtPolGlFNSAVXZbGF4zOKbWZQ8sVZEfn1rilMpKu_aaK0ow_cBfIFOnG7QDaoiur9-yZG5Aq5g==/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/pf22T_4bnBM9_704ysri5Q?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
