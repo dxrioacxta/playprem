@@ -412,6 +412,18 @@
     "name": "PARAGUAY🇵🇾1",
     "samples": [
       {
+        "name": "LA TRIBU",
+        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.uy/",
+          "Referer": "https://portal.app.flow.com.uy",
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
         "name": "TRECE HD",
         "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "icono": "https://bestleague.world/img/trecepy.webp",
@@ -444,18 +456,6 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.ar/",
           "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
-      },
-      {
-        "name": "UNICANAL HD",
-        "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NjI0OTczIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJmMjMwYzU0M2Q1ZDVmZTYwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.6WdYRrf-LyqBJSylfLGaVH369qj3Kll4FZmEaLkbk5U6V8e6hgD_uZj-ehWn3Cs9E2PJeUZACunSZLtjCroVOQ==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-        "icono": "https://imagizer.imageshack.com/img922/6749/EGNBxH.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_UnicanalPY",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.uy/",
-          "Referer": "https://portal.app.flow.com.uy",
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
