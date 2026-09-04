@@ -280,10 +280,10 @@
       },
       {
         "name": "DIRECTV 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=o8cZncLIsr3FESjQySVBRA&key=Ta9FW7chqQdrHszu1clRGQ",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
