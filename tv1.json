@@ -449,7 +449,7 @@
         "name": "TELEFE",
         "url": "https://edge-vod06-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg4MjkwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0MGFjMmE3MjRlN2U1YjBjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjEzOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.tGe2X5i_WIUvqcdlZSZJ9Uo8F32LdVKXnP7kwvkwECvFlQKaRBwj2TBQWPyNL1PLTTKjNB3XjfrWUO0E7yQZaA==/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/H__k71paYRrVP0funRIWvg?tags=CH_LOGO",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
