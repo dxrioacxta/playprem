@@ -3414,18 +3414,6 @@
     "name": "CANALES DE MÚSICA 🎶",
     "samples": [
       {
-        "name": "FLOW MUSIC",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
-        "icono": "https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/95156350075299.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "kid:80zXcJ8JPSPU2wCRB9loYg,k:2KgpE42XC0XoZ8lzOjGy8A",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "Karaoke por Stingray",
         "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
         "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
