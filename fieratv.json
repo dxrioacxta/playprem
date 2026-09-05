@@ -3840,9 +3840,9 @@
         }
       },
       {
-        "name": "VENUS PRUEBA",
-        "url": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/438.webp",
-        "icono": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4ODEwNzc4Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiYWQwMTgzMzY4ODg4NjU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.nIJyOZclKK3jUvBuyi2nTwUKE5YEmvSL9WuguvSlC4E2y3L12EfWC97hQSIt5zJzqN8QUVGeNKxqWI4GAYkV-w==/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
+        "name": "VENUS",
+        "url": "https://edge-live02-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4ODEwNzc4Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiYWQwMTgzMzY4ODg4NjU5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.nIJyOZclKK3jUvBuyi2nTwUKE5YEmvSL9WuguvSlC4E2y3L12EfWC97hQSIt5zJzqN8QUVGeNKxqWI4GAYkV-w==/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/438.webp",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusAr",
         "headers": {
