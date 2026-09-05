@@ -852,6 +852,18 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CARAS TV",
+        "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzIyODE4Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwZWQ2MzI0NzFlYzE3Y2QyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Clc63VK067OYKzdURSZ05mCRJhzPhFW9fv4fB_MEmOREtXOWHhWSkHAvi-t4gb97NFmbzSOEEPvSd0WWUw-AiQ==/live/c7eds/CARAS/SA_Live_dash_enc/CARAS.mpd",
+        "icono": "https://i.postimg.cc/CLdqjB16/CARAS.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=NEDxqaf4e5gW764GegSpKA&key=PjABwX21eNP6Isi4UXgTxA",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
