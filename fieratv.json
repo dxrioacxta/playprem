@@ -3,18 +3,6 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
-        "name": "VS SPORTS HD",
-        "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/005.webp",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VSSPORTSPY",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
-      },
-      {
         "name": "EVENTOS HD 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
