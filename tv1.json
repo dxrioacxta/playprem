@@ -2508,6 +2508,13 @@
           "Referer": "https://webclient.axsbolivia.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "HISTORIA",
+        "url": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
+        "icono": "https://i.postimg.cc/pTK87g8j/425-4257707-canal-historia-hdtv-history-channel-logo-png.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
