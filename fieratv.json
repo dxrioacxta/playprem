@@ -548,11 +548,11 @@
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTA0OTEzIiwic2lwIjoiMTgxLjEyNC4xNDEuMzciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU5NTJhYmMzNzRmN2Q4ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.sRcOG3XX9xqQhGXWLYBrtanFq86hvXMx_hrRhsxWp7tqMyJIuWd3cU2HvxNDVpPx9sjCjtGtALnI-ErlQpXavg==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
         "type": "CLEARKEY",
-        "drm_license_uri": "",
+        "drm_license_uri": "https://results.femon.net/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
         "headers": {
-          "Origin": "https://no.gendigi.net",
-          "Referer": "https://no.gendigi.net",
-          "User-Agent": "User-Agent: Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
         }
       },
       {
