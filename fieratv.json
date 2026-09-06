@@ -430,6 +430,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "NPY HD",
+        "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "LA TRIBU",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTA0OTEzIiwic2lwIjoiMTgxLjEyNC4xNDEuMzciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU5NTJhYmMzNzRmN2Q4ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.sRcOG3XX9xqQhGXWLYBrtanFq86hvXMx_hrRhsxWp7tqMyJIuWd3cU2HvxNDVpPx9sjCjtGtALnI-ErlQpXavg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
@@ -464,13 +471,6 @@
           "Referer": "https://portal.app.flow.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
-      },
-      {
-        "name": "NPY HD",
-        "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/chunklist_w1517674548.m3u8?admin=tvaccion",
-        "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
-        "type": "HLS",
-        "drm_license_uri": "https://results.femon.net/?keyid=ae1b3bc5a68da1ed8a47b35afd13e310&key=26710aad5c7ebeaf3d615db270355381"
       },
       {
         "name": "GEN HD",
