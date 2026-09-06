@@ -1158,7 +1158,7 @@
       },
       {
         "name": "LA 2",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
+        "url": "https:\\\\ztnr.rtve.es\\ztnr\\5468585.m3u8",
         "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
         "type": "HLS",
         "drm_license_uri": ""
