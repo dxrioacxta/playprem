@@ -113,47 +113,6 @@
     ]
   },
   {
-    "name": "🥊UFC EVENTO",
-    "samples": [
-      {
-        "name": "OPC 1 - ESPAÑOL",
-        "url": "https://streamxhd.st/live1.php?stream=paramount1",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "OPC 2 - INGLÉS",
-        "url": "https://streamxhd.st/live1.php?stream=paramount2",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "OPC 3 - PORTUGUÉS",
-        "url": "https://streamxhd.st/live1.php?stream=paramount3",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "⚽DEPORTES ESPN Y FOX SPORTS AR🇦🇷",
     "samples": [
       {
@@ -4245,6 +4204,47 @@
         "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "🥊UFC EVENTO",
+    "samples": [
+      {
+        "name": "OPC 1 - ESPAÑOL",
+        "url": "https://streamxhd.st/live1.php?stream=paramount1",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "OPC 2 - INGLÉS",
+        "url": "https://streamxhd.st/live1.php?stream=paramount2",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "OPC 3 - PORTUGUÉS",
+        "url": "https://streamxhd.st/live1.php?stream=paramount3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   }
