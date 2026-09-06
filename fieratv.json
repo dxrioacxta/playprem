@@ -1281,6 +1281,13 @@
         "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "LA MEKHA LIVE",
+        "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/7joynQHwjbgx_PSpv3DpKCW6C4cq0mx8w5YPa1--WNNoGJF78C_nPJDapT3XbUJaSSQOCXdjihxz8CNzpaNjNA",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
