@@ -306,6 +306,13 @@
         "icono": "https://imagizer.imageshack.com/img924/5137/GaI9sz.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "DRONE TV HD",
+        "url": "https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8",
+        "icono": "https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F737e0665-4cdf-4bde-a55e-46813581747d-1729008554.288934.256x256.png&w=256&q=75",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
