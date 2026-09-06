@@ -1540,6 +1540,13 @@
         "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TV CAMARA DE DIPUTADOS",
+        "url": "https://stream3.camara.gov.br/tv1/audio2_stream.m3u8",
+        "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
