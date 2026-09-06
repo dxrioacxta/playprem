@@ -409,6 +409,13 @@
         "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
       },
       {
+        "name": "SNT",
+        "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "LA TRIBU",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTA0OTEzIiwic2lwIjoiMTgxLjEyNC4xNDEuMzciLCJwYXRoIjoiL2xpdmUvYzdlZHMvRm94X1Nwb3J0c19QcmVtaXVuX0hEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGU5NTJhYmMzNzRmN2Q4ZiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTAiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.sRcOG3XX9xqQhGXWLYBrtanFq86hvXMx_hrRhsxWp7tqMyJIuWd3cU2HvxNDVpPx9sjCjtGtALnI-ErlQpXavg==/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "icono": "https://iptvstudio.pages.dev/logos/paraguay/unicanal.png",
@@ -431,13 +438,6 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "SNT",
-        "url": "https://d3epa8orr2qy3m.cloudfront.net/medialist_5900814650867226228_hls.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "ABC HD",
