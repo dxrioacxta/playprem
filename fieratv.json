@@ -313,6 +313,13 @@
         "icono": "https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F737e0665-4cdf-4bde-a55e-46813581747d-1729008554.288934.256x256.png&w=256&q=75",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SPACE LIVE",
+        "url": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8",
+        "icono": "https://www.elgrupoinformatico.com/static/manuales/2026/04/plutotv-spacelive-1200x675.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
