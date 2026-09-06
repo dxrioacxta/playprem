@@ -1416,6 +1416,13 @@
     "name": "BRASIL 🇧🇷",
     "samples": [
       {
+        "name": "SBT NACIONAL",
+        "url": "https://6836041ea1117.streamlock.net/cverde/cverde/chunklist_w145002242.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GLOBO HD",
         "url": "https://live.mediapro.com.br/hls/bh-globo/index.m3u8",
         "icono": "https://imagizer.imageshack.com/img923/9948/vVM6vL.jpg",
@@ -1425,13 +1432,6 @@
       {
         "name": "SBT",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "SBT INTERIOR",
-        "url": "http://79.127.243.211:14095/",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/sbt_e6219203821b4280bc16716488b78be2.png",
         "type": "HLS",
         "drm_license_uri": ""
