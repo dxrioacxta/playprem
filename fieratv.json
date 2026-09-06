@@ -1066,6 +1066,13 @@
     "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
     "samples": [
       {
+        "name": "TV PERÚ",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EURONEWS",
         "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/342.webp",
