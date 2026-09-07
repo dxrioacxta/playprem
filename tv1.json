@@ -1,20 +1,7 @@
 [
   {
     "name": "📺DEPORTES URUGUAY",
-    "samples": [
-      {
-        "name": "DSPORTS PREMIUM",
-        "url": "/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc/DSports_Uruguay_Premium.mpd",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=my8sz79f2v8sdKQnDbDxog&key=r98DxuyQBR7Df4eRGdcDQg",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-      }
-    ]
+    "samples": []
   },
   {
     "name": "📺PARAGUAY",
