@@ -322,7 +322,7 @@
       {
         "name": "TUDN MX",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-        "icono": "https://i.ibb.co/LzMNbB8L/tudn-positivo-seeklogo.png",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/125.webp",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TUDNMX",
         "headers": {
