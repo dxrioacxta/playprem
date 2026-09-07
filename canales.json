@@ -248,6 +248,18 @@
         }
       },
       {
+        "name": "FOX DEPORTES",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnWoMgNNVSs7Mz64A3PW7Q_N9oFYapHkwLX8ol_hM2w&s=10",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXDEPORTES",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        }
+      },
+      {
         "name": "TNT SPORT",
         "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTQ5OTExIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2Y2VkYTM3YzA5MDBlZWNlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IOSOBC0dAPFE2YvsVsUxE2VGqGYwjqKxyHcebGyEd6z08Jlr-h5rEgMC4OzXQixgMVEdHLeDuVdK0WtTfLWuiA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
