@@ -1,18 +1,5 @@
 [
   {
-    "name": "Spider-Man: Brand New Day",
-    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-zUAkO2pUv_NMvAUiYhvBEoBnpRsZmjRfRj7G95_CsBX52NJVUkIhVs3_E8696g0k-pXelLq6uWDIbw9KSA4-eVqkYJeZdcRdxe1pOzBV0uig39o1dzo8xZv-54sXil1QrSlwc09Wv1mCbOjKn_zLvT8SwWFpDpJc-gb8003F3lNVk8-ZEeFflDuV78BX70YaqogAgGGIkSVYRezB3yNdT3vbbmJKaeyJlSf1U00AmiLhe3hP8a1qxWFLO71SApLXp07_pjCjCXNuC006A2nHy8vx0rHWN0u4HHxXghP1aiguJji6lKjO50fsxyr4rWKPWS46O6RR5GRu_96XjcurFpnaJ4hiiOMo/65afe97daa268/d3f63d782addad873b1722463e7bf728cf2adcd0cb798ee59801efb8c9d3648d/480p/playlist.m3u8",
-    "icono": "https://i.ibb.co/v63Qj3rS/new-spider-man-brand-new-day-posters-v0-0jon411xh2vg1.jpg",
-    "iconoHorizontal": "https://i.ibb.co/v63Qj3rS/new-spider-man-brand-new-day-posters-v0-0jon411xh2vg1.jpg",
-    "iconpng": "https://i.ibb.co/v63Qj3rS/new-spider-man-brand-new-day-posters-v0-0jon411xh2vg1.jpg",
-    "descripcion": "A medida que las exigencias a las que se ve sometido Spider-Man se intensifican, la presión desencadena una sorprendente evolución física que pone en peligro su existencia. Al mismo tiempo, una nueva y extraña ola de delitos da lugar a una de las amenazas más poderosas a las que se ha enfrentado jamás.",
-    "anio": "2026",
-    "genero": "Acción",
-    "duracion": "150",
-    "type": "PELICULA",
-    "categoria": "2"
-  },
-  {
     "name": "RECOMENDADOS",
     "samples": [
       {
@@ -513,6 +500,18 @@
         "type": "PELICULA"
       }
     ]
+  },
+  {
+    "name": "Spider-Man: Brand New Day",
+    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-zUAkO2pUv_NMvAUiYhvBEoBnpRsZmjRfRj7G95_CsBX52NJVUkIhVs3_E8696g0k-pXelLq6uWDIbw9KSA4-eVqkYJeZdcRdxe1pOzBV0uig39o1dzo8xZv-54sXil1QrSlwc09Wv1mCbOjKn_zLvT8SwWFpDpJc-gb8003F3lNVk8-ZEeFflDuV78BX70YaqogAgGGIkSVYRezB3yNdT3vbbmJKaeyJlSf1U00AmiLhe3hP8a1qxWFLO71SApLXp07_pjCjCXNuC006A2nHy8vx0rHWN0u4HHxXghP1aiguJji6lKjO50fsxyr4rWKPWS46O6RR5GRu_96XjcurFpnaJ4hiiOMo/65afe97daa268/d3f63d782addad873b1722463e7bf728cf2adcd0cb798ee59801efb8c9d3648d/480p/playlist.m3u8",
+    "icono": "https://i.ibb.co/v63Qj3rS/new-spider-man-brand-new-day-posters-v0-0jon411xh2vg1.jpg",
+    "iconoHorizontal": "https://i.ibb.co/v63Qj3rS/new-spider-man-brand-new-day-posters-v0-0jon411xh2vg1.jpg",
+    "iconpng": "https://i.ibb.co/v63Qj3rS/new-spider-man-brand-new-day-posters-v0-0jon411xh2vg1.jpg",
+    "descripcion": "A medida que las exigencias a las que se ve sometido Spider-Man se intensifican, la presión desencadena una sorprendente evolución física que pone en peligro su existencia. Al mismo tiempo, una nueva y extraña ola de delitos da lugar a una de las amenazas más poderosas a las que se ha enfrentado jamás.",
+    "anio": "2026",
+    "genero": "Acción",
+    "duracion": "150",
+    "type": "PELICULA"
   },
   {
     "name": "â¨ Peliculas 2025 â¨",
