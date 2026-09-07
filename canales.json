@@ -1600,6 +1600,18 @@
     "name": "INTERNACIONALES🌎📺",
     "samples": [
       {
+        "name": "FRANCE24",
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
+      },
+      {
         "name": "ESNE TV",
         "url": "https://mf.zype.com/zype_live/master.m3u8?jwt=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovLzgxMjk3NjYxZWRkMTliNWM1MzY0MDk2OGNmYTJkNWFmLWxpdmUtZXZlbnQuaWFkLmxpbmVhci56eXBlLmNvbS9vdXQvdjEvNWI2MjE5OTliMGNjNWIxMjZjMDAxMTcwLzY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZi80LXp5cGUvbGl2ZS5tM3U4IiwiZXhwIjoxNzg4ODE2OTUzLCJwYXJhbXMiOnt9LCJkZXN0aW5hdGlvbl9wYXJhbXMiOnsic2l0ZV9pZCI6IjViNjIxOTk5YjBjYzViMTI2YzAwMTE3MCIsInBsYXlvdXRfY2hhbm5lbF9pZCI6IjY1M2Q4NzBkLWE1ZmYtNDVjMy1iM2ZhLWVlZGNjZTFmYjJhZiIsInpwIjoibGl2ZSJ9fQ.ChX8WczOF94CM_XHAgz-Op9NqQNdSA0Lu9Jv-Md7Gfs",
         "icono": "https://i.ibb.co/TG4XTpL/WA-1788191366778.jpg",
