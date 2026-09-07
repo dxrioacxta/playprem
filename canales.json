@@ -109,18 +109,6 @@
           "Referer": "",
           "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
         }
-      },
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTQ5OTExIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2Y2VkYTM3YzA5MDBlZWNlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IOSOBC0dAPFE2YvsVsUxE2VGqGYwjqKxyHcebGyEd6z08Jlr-h5rEgMC4OzXQixgMVEdHLeDuVdK0WtTfLWuiA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/126.webp",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py/",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
       }
     ]
   },
@@ -269,6 +257,18 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTQ5OTExIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2Y2VkYTM3YzA5MDBlZWNlIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.IOSOBC0dAPFE2YvsVsUxE2VGqGYwjqKxyHcebGyEd6z08Jlr-h5rEgMC4OzXQixgMVEdHLeDuVdK0WtTfLWuiA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/126.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TNTSportsAr",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
       {
