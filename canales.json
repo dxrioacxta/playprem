@@ -3125,14 +3125,14 @@
       },
       {
         "name": "CINECANAL",
-        "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDM1MTI3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMWY3MzNkZjg1MzUzZWJiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iEjt6TnVPYyCP-gsoyb3psqJQ1qfsCistLIXtffc0G7tbIXiw_imdsl80Z95F_C7Ir9sXSikqHGI3KhIckythQ==/live/c3eds/CinecanalHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/CinecanalHD.mpd",
+        "url": "http://45.226.28.9:8085/Live/fe22ac6d4495ac9c9d4c141990f85194/local-cinecanal.playlist.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
+        "type": "HLS",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
       {
