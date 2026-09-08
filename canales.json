@@ -177,10 +177,10 @@
       },
       {
         "name": "ESPN 6",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDAxMzU4Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YmJlYWVlYTU0ZjM2MjNhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.k3Yfa_80f4eJROS0m1pH9mwNheLf35TGfLGpurCW3GpF8YKPwWkZgOa-8bHYqzbMCN5oQ8pbXb06G2zdfFFaPg==/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/manifest.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-6_c072dcbdfd294f9c8bfe31537d979156.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM6",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
