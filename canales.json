@@ -129,10 +129,10 @@
       },
       {
         "name": "ESPN 2",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDAxMzU4Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YmJlYWVlYTU0ZjM2MjNhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.k3Yfa_80f4eJROS0m1pH9mwNheLf35TGfLGpurCW3GpF8YKPwWkZgOa-8bHYqzbMCN5oQ8pbXb06G2zdfFFaPg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
+        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-2_f45bffc4bea445d1becfc4ab30fa6513.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://oikoapp.xyz/selvanegra/results.php?keyid=65a5bfa3c7a72dde60be9b0c7406c8fc&key=0b40ae9f78a7bac3b57ecbf72d3c081e",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPN2SUR",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
