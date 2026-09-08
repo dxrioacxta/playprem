@@ -2827,13 +2827,13 @@
       },
       {
         "name": "Nickelodeon",
-        "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDM1MTI3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMWY3MzNkZjg1MzUzZWJiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iEjt6TnVPYyCP-gsoyb3psqJQ1qfsCistLIXtffc0G7tbIXiw_imdsl80Z95F_C7Ir9sXSikqHGI3KhIckythQ==/live/c3eds/Nickelodeon/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Nickelodeon.mpd",
+        "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDM1MTI3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMWY3MzNkZjg1MzUzZWJiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iEjt6TnVPYyCP-gsoyb3psqJQ1qfsCistLIXtffc0G7tbIXiw_imdsl80Z95F_C7Ir9sXSikqHGI3KhIckythQ==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/uB3dgqC_95tiEJj2Bl47_g?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/hca3hwm6zg6bxfsup4q4l/clearkey_nicklodeon.json?rlkey=8tknn2ho8tcqlm27xncrozgbq&st=xzikfv5k&dl=0",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
