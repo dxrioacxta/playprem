@@ -3862,6 +3862,14 @@
   },
   {
     "name": "CANALES DE PRUEBA",
-    "samples": []
+    "samples": [
+      {
+        "name": "SPACE HD",
+        "url": "http://bitzpro.net:8080/live/fieratvpro/11302026/85923.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   }
 ]
