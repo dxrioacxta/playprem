@@ -425,7 +425,15 @@
   },
   {
     "name": "📺DEPORTES ESPN",
-    "samples": []
+    "samples": [
+      {
+        "name": "ESPN 2",
+        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPN2SUR"
+      }
+    ]
   },
   {
     "name": "📺ARGENTINA",
