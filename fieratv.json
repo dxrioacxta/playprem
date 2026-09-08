@@ -3869,6 +3869,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SPACE HD SUR",
+        "url": "http://bitzpro.net:8080/live/fieratvpro/11302026/85327.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
