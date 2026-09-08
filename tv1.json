@@ -1505,13 +1505,13 @@
       },
       {
         "name": "ANTENA 3",
-        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd",
+        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c6eds/Antena_3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Antena_3.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/vjeZtoj2vIp-Z4fd0MlAcA?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
