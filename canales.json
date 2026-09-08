@@ -3358,10 +3358,10 @@
       },
       {
         "name": "HBO 2",
-        "url": "http://45.226.28.9:8085/Live/2c51a4824422c34a6b9ed878c4efabf9/local-hbo2_480.m3u8",
+        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4OTczMTc0Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkYzE0OWRhODRjZTgzMjdhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.l0AVZ37d7f_yMZtmT-gmetTozojDMTVDYFb7OvHAJJfymR_LGpHeN9Uc1cHtxSy46uu5taATnYr8oMI572GQsQ==/live/c6eds/HBO_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_2.mpd",
         "icono": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
