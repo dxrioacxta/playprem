@@ -3,6 +3,18 @@
     "name": "RECOMENDADOS",
     "samples": [
       {
+        "name": "Toy Story 5",
+        "url": "http://45.226.28.9:8085/cloud_1/Toy.Story.5.2026.720.lat.mp4",
+        "icono": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
+        "iconoHorizontal": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
+        "iconpng": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
+        "descripcion": "Buzz, Woody, Jessie y el resto del grupo se enfrentan a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie.",
+        "anio": "2026",
+        "genero": "Comedia/Aventura",
+        "duracion": "130",
+        "type": "PELICULA"
+      },
+      {
         "name": "Estado De Miedo",
         "url": "https://dl.dropbox.com/scl/fi/3l5u67x222td2hx1gaayh/f-sica.mp4?rlkey=vo5tjp3zsrbwm4wo78ybt8z2o&amp;st=0zg240f0&amp;dl=1",
         "icono": "https://image.tmdb.org/t/p/original/dXwjRcHsrtjAzkugNJDCzBJ1rqa.jpg",
@@ -259,18 +271,6 @@
   {
     "name": "✨Contenido Recientemente Subido ✨",
     "samples": [
-      {
-        "name": "Toy Story 5",
-        "url": "http://45.226.28.9:8085/cloud_1/Toy.Story.5.2026.720.lat.mp4",
-        "icono": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
-        "iconoHorizontal": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
-        "iconpng": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
-        "descripcion": "Buzz, Woody, Jessie y el resto del grupo se enfrentan a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie.",
-        "anio": "2026",
-        "genero": "Comedia/Aventura",
-        "duracion": "130",
-        "type": "PELICULA"
-      },
       {
         "name": "The Runner",
         "url": "http://45.226.28.9:8085/cloud_2/The.Runner.2026.720.lat.mp4",
