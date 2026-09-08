@@ -668,13 +668,13 @@
       },
       {
         "name": "CANAL DE LA CUIDAD",
-        "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDM1MTI3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMWY3MzNkZjg1MzUzZWJiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iEjt6TnVPYyCP-gsoyb3psqJQ1qfsCistLIXtffc0G7tbIXiw_imdsl80Z95F_C7Ir9sXSikqHGI3KhIckythQ==/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd",
+        "url": "https://edge-live12-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDM1MTI3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzMWY3MzNkZjg1MzUzZWJiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNjUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iEjt6TnVPYyCP-gsoyb3psqJQ1qfsCistLIXtffc0G7tbIXiw_imdsl80Z95F_C7Ir9sXSikqHGI3KhIckythQ==/live/c6eds/Canal_de_la_ciudad/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_de_la_ciudad.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/vBERBHBQYXv56ZDZa11SKw?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=5ee7842b3cf24d1dba088365fa5d0543&key=69cec006409823c06fbf2866a231b4f7",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
