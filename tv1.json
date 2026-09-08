@@ -441,6 +441,13 @@
         "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPN2SUR"
       },
       {
+        "name": "ESPN 3",
+        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/manifest.mpd",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPN3SUR"
+      },
+      {
         "name": "ESPN 4",
         "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/manifest.mpd",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO",
