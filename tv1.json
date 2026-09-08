@@ -2642,13 +2642,13 @@
       },
       {
         "name": "HBO POP",
-        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
+        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c7eds/HBO_POP/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_POP.mpd",
         "icono": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
