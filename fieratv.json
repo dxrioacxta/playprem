@@ -3883,6 +3883,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SPACE SC",
+        "url": "http://bitzpro.net:8080/live/fieratvpro/11302026/86202.ts",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
