@@ -1589,13 +1589,13 @@
       },
       {
         "name": "FRANCE24",
-        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c3eds/France24_Flow/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/France24_Flow.mpd",
+        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
