@@ -446,6 +446,13 @@
         "icono": "",
         "type": "CLEARKEY",
         "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM6"
+      },
+      {
+        "name": "ESPN 7",
+        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/manifest.mpd",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM7"
       }
     ]
   },
