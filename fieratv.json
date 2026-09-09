@@ -117,15 +117,10 @@
       },
       {
         "name": "ESPN 7",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDkxMTYwIiwic2lwIjoiMTgxLjEyNC4xMzkuODEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPXzIvc2FfZGFzaF9mdWxsX2VfN0NGOUJCMDQxQUQ4OTcxM0FEOENGNENGLyIsInNlc3Npb25fY2RuX2lkIjoiOGUxMGYzZTBhYTU1NTM4ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.nSxpC5xfy-eWGgeBh9xqtX2amc-664LX5I2P4k3PyZIy0gopZNFeXHHXMocHNStJT-q5IMmEL93Pbx3MlCaSwA==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/328146.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn-7_4ff4919cca464e00bc0089db9facd438.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "ESPN PREMIUM",
