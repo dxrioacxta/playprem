@@ -965,6 +965,13 @@
     "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
     "samples": [
       {
+        "name": "CANAL 10 URUGUAY",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/326998.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Canal_10_Uruguay_Logo_1960.webp?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FRANCE 24 ESPAÑOL",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",
