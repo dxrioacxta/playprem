@@ -3175,13 +3175,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "MISTERIOS SIN RESOLVER",
-        "url": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/336.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ZONA PARANORMAL",
         "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/337.webp",
@@ -3219,6 +3212,13 @@
       {
         "name": "MISTERIOS MEDICOS",
         "url": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "MISTERIOS SIN RESOLVER",
+        "url": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
         "type": "HLS",
         "drm_license_uri": ""
