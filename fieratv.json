@@ -2288,15 +2288,10 @@
     "samples": [
       {
         "name": "SPACE HD",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/264837.hls",
+        "url": "http://bitzpro.net:8080/live/fieratvpro/11302026/85923.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "fieratvpro"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "GOLDEN 1",
