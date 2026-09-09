@@ -2481,18 +2481,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "UNIVERSAL CINEMA",
-        "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDkxMTYwIiwic2lwIjoiMTgxLjEyNC4xMzkuODEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPXzIvc2FfZGFzaF9mdWxsX2VfN0NGOUJCMDQxQUQ4OTcxM0FEOENGNENGLyIsInNlc3Npb25fY2RuX2lkIjoiOGUxMGYzZTBhYTU1NTM4ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.nSxpC5xfy-eWGgeBh9xqtX2amc-664LX5I2P4k3PyZIy0gopZNFeXHHXMocHNStJT-q5IMmEL93Pbx3MlCaSwA==/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "UNIVERSAL",
         "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
         "type": "CLEARKEY",
