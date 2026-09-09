@@ -2350,13 +2350,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "WARNER CHANNEL HD",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4236.ts",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "UNIVERSAL CHANNEL",
         "url": "http:\\\\lotv.plus:80\\fieratvpro\\R745DQeSrm\\19767.m3u8",
         "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
@@ -2416,6 +2409,13 @@
         "name": "EUROPA EUROPA",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/191004.m3u8",
         "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "WARNER CHANNEL HD",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4236.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
