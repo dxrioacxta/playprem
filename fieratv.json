@@ -2329,13 +2329,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "GOLDEN",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4181.m3u8",
-        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "CINECANAL",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205851.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
@@ -2430,6 +2423,13 @@
         "name": "GOLDEN PLUS",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/197545.m3u8",
         "icono": "https://www.nicepng.com/png/full/434-4344309_golden-plus-golden-plus-logo-png.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "GOLDEN",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4181.m3u8",
+        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
