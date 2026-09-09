@@ -2648,6 +2648,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PLUTO NOVELAS MEXICO",
         "url": "https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
@@ -2665,13 +2672,6 @@
         "name": "PLUTO NOVELAS CONTINENTALES",
         "url": "https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "Canal De Las Estrellas",
-        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/las-estrellas_f978750c276a4d558cbf4d0b98399999.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
