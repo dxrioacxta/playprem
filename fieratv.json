@@ -2403,16 +2403,16 @@
     "name": "CULTURA  & COCINA 🧑‍🍳",
     "samples": [
       {
-        "name": "ANIMAL PLANET",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19673.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
+        "name": "NATIONAL GEOGRAPHIC",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19685.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
       {
-        "name": "NATIONAL GEOGRAPHIC",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19685.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/national-geographic_9edbc5194dce4ecdb7f522b79d7f199e.png",
+        "name": "ANIMAL PLANET",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205698.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
