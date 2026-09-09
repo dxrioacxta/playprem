@@ -2301,6 +2301,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "A&E",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/4139.m3u8",
+        "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "SPACE HD",
         "url": "http://bitzpro.net:8080/live/fieratvpro/11302026/85923.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/space_d375da788033406f93e7ea66f33adb8b.png",
@@ -2376,18 +2383,6 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/fx-hd_4235467f6b324d62a72968708e0cd47b.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "A&E",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDkxMTYwIiwic2lwIjoiMTgxLjEyNC4xMzkuODEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPXzIvc2FfZGFzaF9mdWxsX2VfN0NGOUJCMDQxQUQ4OTcxM0FEOENGNENGLyIsInNlc3Npb25fY2RuX2lkIjoiOGUxMGYzZTBhYTU1NTM4ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.nSxpC5xfy-eWGgeBh9xqtX2amc-664LX5I2P4k3PyZIy0gopZNFeXHHXMocHNStJT-q5IMmEL93Pbx3MlCaSwA==/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe",
-        "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "TBS",
