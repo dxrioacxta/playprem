@@ -2697,14 +2697,15 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Novelísima",
+        "name": "NOVELISSIMA",
         "url": "https://novelisimaottera-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8",
-        "type": "CLEARKEY",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4400f758ddbddc81b7ef9a2b32251625&key=aa2448ebc63a5034b9b8e6e8d15f770d",
         "headers": {
+          "Origin": "",
           "Referer": "https://player.sensa.com.ar/",
-          "webtoken": "1.0"
+          "User-Agent": ""
         }
       },
       {
