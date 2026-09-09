@@ -317,6 +317,13 @@
     "name": "PARAGUAY🇵🇾1",
     "samples": [
       {
+        "name": "ABC HD",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199416.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TELEFUTURO HD",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
@@ -373,18 +380,6 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ABC HD",
-        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(q615mj6_a-8rJgiksSRLek82O8robTAzwru_1MnKCaIiDPMPltULA2hHOG1naHX-vHEEC1kfpWl7EU-U1UbzuAD9aTv8aHRMNb_-omHCUUBL_ZbP0tMF_B6OHbN5y2Tf)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1b",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
       {
