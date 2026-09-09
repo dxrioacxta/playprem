@@ -2399,16 +2399,11 @@
         "drm_license_uri": ""
       },
       {
-        "name": "COMEDY CENTRAL",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDkxMTYwIiwic2lwIjoiMTgxLjEyNC4xMzkuODEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPXzIvc2FfZGFzaF9mdWxsX2VfN0NGOUJCMDQxQUQ4OTcxM0FEOENGNENGLyIsInNlc3Npb25fY2RuX2lkIjoiOGUxMGYzZTBhYTU1NTM4ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.nSxpC5xfy-eWGgeBh9xqtX2amc-664LX5I2P4k3PyZIy0gopZNFeXHHXMocHNStJT-q5IMmEL93Pbx3MlCaSwA==/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=4013f784c5ef4318ad47024e61eb094e&key=bad433a547f97c7f65cda5e83b8dd416",
+        "name": "COMEDY CENTRAL HD",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19666.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
       },
       {
         "name": "Sony Movies",
