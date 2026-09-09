@@ -2322,6 +2322,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "CINECANAL",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205851.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TNT SERIES",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205831.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/tnt-series_0566139b17ab446a82b25e44dcdc99a7.png",
@@ -2353,13 +2360,6 @@
         "name": "UNIVERSAL COMEDY",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/128.m3u8",
         "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "1",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205851.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cinecanal_0c25e0ee095444e483c85bdb06b2f37d.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
