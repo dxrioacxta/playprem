@@ -1690,13 +1690,13 @@
       },
       {
         "name": "UCL",
-        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTYwMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkNGU2N2Y5NjhiYWEzMGM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.tYaJ46YUpVZ7ilHAz5Mvhe_ZUuiI8Rvst4e5aEJE5rt0nQ5w6qnkEpVCSLBaYtFzgP7ZAvDeZaqvfmenK2o7JA==/live/c3eds/Canal_U/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_U.mpd",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTYwMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkNGU2N2Y5NjhiYWEzMGM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.tYaJ46YUpVZ7ilHAz5Mvhe_ZUuiI8Rvst4e5aEJE5rt0nQ5w6qnkEpVCSLBaYtFzgP7ZAvDeZaqvfmenK2o7JA==/live/c3eds/Canal_U/SA_Live_dash_enc/Canal_U.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/FZLcXJmjocdsRvGi3AIQtA?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=ICoZ5IccRzmoAQqnslrzfQ&key=BwFbTPoEijNRuD1grsperQ",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=53b64575ffe3d8fd5a45f4d280ca443f&key=6661f8a61569d1005e9c9f79f5590562",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
       },
