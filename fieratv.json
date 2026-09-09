@@ -2425,6 +2425,13 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "GOLDEN PLUS",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/197545.m3u8",
+        "icono": "https://www.nicepng.com/png/full/434-4344309_golden-plus-golden-plus-logo-png.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
