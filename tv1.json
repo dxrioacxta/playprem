@@ -1570,10 +1570,10 @@
       },
       {
         "name": "EUROCHANNEL",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTIyNzY5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNzU3MTVjNDdlNmJjZGY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.oqgw2jrKbbkBGemgC0io1WQcRsTluxMA0fLVE6Bbadp8gvcRPXjqMgRTro3stRnRIuhx3OOx4EdgNMImh4XvYg==/live/c6eds/Eurochannel/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eurochannel.mpd",
+        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTIyNzY5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNzU3MTVjNDdlNmJjZGY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.oqgw2jrKbbkBGemgC0io1WQcRsTluxMA0fLVE6Bbadp8gvcRPXjqMgRTro3stRnRIuhx3OOx4EdgNMImh4XvYg==/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurochannel.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/vUb3tutw_PIAo6qwGh90LA?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=6f0fc214d9844a7590f0884d55b44c42&key=b2fe1bb5f9c79035301c328c1e93b0ee",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=95e7d20fc07b39fe9560be1a6be83ce1&key=40ef00abd884db6166b105da88862849",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
