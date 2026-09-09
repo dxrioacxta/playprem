@@ -2439,6 +2439,13 @@
         "icono": "https://static.wikia.nocookie.net/logopedia/images/3/35/Golden_Premier_print.svg/revision/latest?cb=20250302153714",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "STAR CHANNEL",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/204755.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
