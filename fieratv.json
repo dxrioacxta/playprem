@@ -2453,13 +2453,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "HBO SIGNATURE",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/264833.m3u8",
-        "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "HBO MUNDI HD",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/196508.m3u8",
         "icono": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
@@ -2477,6 +2470,13 @@
         "name": "HBO + PLUS HD",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/196491.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "HBO SIGNATURE",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/264833.ts",
+        "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
         "type": "HLS",
         "drm_license_uri": ""
       }
