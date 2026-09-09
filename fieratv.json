@@ -2402,7 +2402,7 @@
         "name": "COMEDY CENTRAL HD",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19666.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/comedy-central_1bb3f53430b640acbcb0e6afd9408231.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
