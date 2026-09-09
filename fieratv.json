@@ -3168,13 +3168,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "ARCHIVOS F.B.I",
-        "url": "https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/331.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ZONA PARANORMAL",
         "url": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/337.webp",
@@ -3219,6 +3212,13 @@
       {
         "name": "MISTERIOS SIN RESOLVER",
         "url": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ARCHIVOS F.B.I",
+        "url": "https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
         "type": "HLS",
         "drm_license_uri": ""
