@@ -1838,10 +1838,10 @@
       },
       {
         "name": "WARNER CHANNEL",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTIyNzY5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNzU3MTVjNDdlNmJjZGY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.oqgw2jrKbbkBGemgC0io1WQcRsTluxMA0fLVE6Bbadp8gvcRPXjqMgRTro3stRnRIuhx3OOx4EdgNMImh4XvYg==/live/c7eds/WarnerHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/WarnerHD.mpd",
+        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTIyNzY5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNzU3MTVjNDdlNmJjZGY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.oqgw2jrKbbkBGemgC0io1WQcRsTluxMA0fLVE6Bbadp8gvcRPXjqMgRTro3stRnRIuhx3OOx4EdgNMImh4XvYg==/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/lEJaQrd2zxfbq4yG7GVGJw?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=07cef02a41651642cc35946c1b0fbc49&key=be57342c7cf6e70aa851c0d1074d11c0",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
