@@ -384,6 +384,18 @@
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS 1",
+        "url": "https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTQ0ODkxIiwic2lwIjoiMTgxLjIzMi4xODkuMjAyIiwicGF0aCI6Ii9saXZlL2MzZWRzL0V2ZW50b3NfUFkvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImIwNWUzM2Q5Y2ExMzU5YTciLCJzZXNzaW9uX2lkIjoiZWVmOThiMTE4YzM4YTYzNzBiNjU0MWQwZjA1NGI0NDMtMTc4ODk3MjA3NS05MzciLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQOm9aclhwWjNBU2VlcEt5dFpFOF9jZUEiLCJkZXZpY2VfaWQiOiJlZWY5OGIxMThjMzhhNjM3MGI2NTQxZDBmMDU0YjQ0MyIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjYyIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.LHxgqLjwl7sMx6MHfjByh7pFBFzZ8aF7y1KJ5ILvmPIT3f9yBhcsksUvL4_4k1y-Drh3AppLttwLnEvmRxz-_A==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=ed7b0d73a158d03e65fc777d324e25aa&key=e751bb7d094949ad14e5cbc6827979bb",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
