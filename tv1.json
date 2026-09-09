@@ -2073,13 +2073,13 @@
       },
       {
         "name": "STUDIO UNIVERSAL PREMIER",
-        "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDg0NDM1Iiwic2lwIjoiMTcwLjg0LjE3Mi4yMiIsInBhdGgiOiIvbGl2ZS9jNGVkcy9URUxFRlVUVVJPX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlZGJkNDdmMmJkYzU5NjcxIiwic2Vzc2lvbl9pZCI6IjA2ZWI2MzJjYzdmN2NjNDUxZGEwNjY5MDI5ZTJlYTE0LTE3ODg5MTE2MjQtODE2IiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UDpvWnJYcFozQVNlZXBLeXRaRThfY2VBIiwiZGV2aWNlX2lkIjoiMDZlYjYzMmNjN2Y3Y2M0NTFkYTA2NjkwMjllMmVhMTQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.GgsVWDFKWdeJYdxlVuArpmdaVeV9EFRpCPU9I0seMm_it8fX8U6dqbxbbrUH6mXUHFLjs5KSzOX73Y3RKLVJnA==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
+        "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDg0NDM1Iiwic2lwIjoiMTcwLjg0LjE3Mi4yMiIsInBhdGgiOiIvbGl2ZS9jNGVkcy9URUxFRlVUVVJPX0M0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJlZGJkNDdmMmJkYzU5NjcxIiwic2Vzc2lvbl9pZCI6IjA2ZWI2MzJjYzdmN2NjNDUxZGEwNjY5MDI5ZTJlYTE0LTE3ODg5MTE2MjQtODE2IiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UDpvWnJYcFozQVNlZXBLeXRaRThfY2VBIiwiZGV2aWNlX2lkIjoiMDZlYjYzMmNjN2Y3Y2M0NTFkYTA2NjkwMjllMmVhMTQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIzMTIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.GgsVWDFKWdeJYdxlVuArpmdaVeV9EFRpCPU9I0seMm_it8fX8U6dqbxbbrUH6mXUHFLjs5KSzOX73Y3RKLVJnA==/live/c6eds/Universal_Premiere/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Universal_Premiere.mpd",
         "icono": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
