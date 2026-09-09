@@ -2952,13 +2952,13 @@
       },
       {
         "name": "ADULT SWIM",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTIyNzY5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNzU3MTVjNDdlNmJjZGY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.oqgw2jrKbbkBGemgC0io1WQcRsTluxMA0fLVE6Bbadp8gvcRPXjqMgRTro3stRnRIuhx3OOx4EdgNMImh4XvYg==/live/c3eds/Adult_Swim/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Adult_Swim.mpd",
+        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTIyNzY5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwNzU3MTVjNDdlNmJjZGY3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.oqgw2jrKbbkBGemgC0io1WQcRsTluxMA0fLVE6Bbadp8gvcRPXjqMgRTro3stRnRIuhx3OOx4EdgNMImh4XvYg==/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
         "icono": "https://static.flow.com.ar/images/9537/CH_LOGO/60/40/0/0/21934865078382.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=4e63e6ecde4f9cd9e68021b4c9af2d21&key=438e6d40e9952362eef1c690c5f8455a",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
