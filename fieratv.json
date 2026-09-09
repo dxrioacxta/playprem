@@ -2431,13 +2431,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "MASTERCHEF",
-        "url": "https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u",
-        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/298.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "HISTORY 2",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/190989.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/h2_806b757b7c414ebcb6d0743654681810.png",
@@ -2567,6 +2560,13 @@
         "name": "C.O.P.S.",
         "url": "https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/319.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "MASTERCHEF",
+        "url": "https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/298.webp",
         "type": "HLS",
         "drm_license_uri": ""
       }
