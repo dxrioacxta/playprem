@@ -2849,16 +2849,11 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Discovery Kids",
-        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/5oa9lnisiok9m04m03t7a/clearkey_kids.json?rlkey=tqis3cv4so98indhpc7eb8dvf&st=emvcbm0t&dl=0",
+        "name": "DISCOVERY KIDS",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205705.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/discovery-kids_c1d0816e903c46719b89161d12637055.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "type": "HLS",
+        "drm_license_uri": ""
       },
       {
         "name": "Nickelodeon",
