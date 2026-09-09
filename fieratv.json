@@ -2475,6 +2475,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "HISTORY",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/310228.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/history_35d4adf0c46645739a6469195340c40e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "C.O.P.S.",
         "url": "https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/319.webp",
@@ -2501,18 +2508,6 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/animal-planet_762cbb841f1d4766861da3e2d3325c1d.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "HISTORY",
-        "url": "https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDkxMTYwIiwic2lwIjoiMTgxLjEyNC4xMzkuODEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvSEJPXzIvc2FfZGFzaF9mdWxsX2VfN0NGOUJCMDQxQUQ4OTcxM0FEOENGNENGLyIsInNlc3Npb25fY2RuX2lkIjoiOGUxMGYzZTBhYTU1NTM4ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMjEwLDg2LDg4XX0=.nSxpC5xfy-eWGgeBh9xqtX2amc-664LX5I2P4k3PyZIy0gopZNFeXHHXMocHNStJT-q5IMmEL93Pbx3MlCaSwA==/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/history_35d4adf0c46645739a6469195340c40e.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "HISTORY 2",
