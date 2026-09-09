@@ -965,6 +965,13 @@
     "name": "INTERNACIONALES 🇷🇺 🇮🇷 🇻🇪 🇺🇸 🇨🇳",
     "samples": [
       {
+        "name": "FRANCE 24 ESPAÑOL",
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TV PERÚ",
         "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
@@ -2632,13 +2639,6 @@
         "name": "EL ENCANTADOR DE PERROS",
         "url": "https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/311.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "FRANCE 24 ESPAÑOL",
-        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/0MsnvBPVQqPt3anDcHVdpA?tags=CH_LOGO",
         "type": "HLS",
         "drm_license_uri": ""
       }
