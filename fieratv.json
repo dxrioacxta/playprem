@@ -2418,6 +2418,13 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "GOLDEN EDGE",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/264891m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
