@@ -2800,6 +2800,13 @@
     "name": "INFANTILES 👦",
     "samples": [
       {
+        "name": "CARTOON NETWORK",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/205834.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PITUFO TV",
         "url": "https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
@@ -2812,18 +2819,6 @@
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "CARTOON NETWORK",
-        "url": "https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MDc0MDU3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI0YmRkMTE0NGY1NWY5NDYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.NgMYtIAY_Uux-we-JKV8esxJIkORMh6uJOl22AvNvtfuqqUCUsqYEQs7XxaiDTKjZxbOUIvc_RY_CGuKCpXXsw==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/cartoon_8e11494636284b90aa4b493630235b49.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/m2rfcoqmlogiu30o4jg0g/clearkey_cartoon.json?rlkey=kj1z1akf4wmsnwxlkg6a53jz6&st=r7ncpfku&dl=0",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "NICKTOONS",
