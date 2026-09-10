@@ -3756,7 +3756,7 @@
       },
       {
         "name": "E-Entertaiment",
-        "url": "https://ciades.providers.com.ar/ENTRETEINEME/index.mpd",
+        "url": "https://ciades.providers.com.ar/ENTRETEINEME/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
         "icono": "https://cdn.storage.foromedios.com/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=ba1d6d67d34844a4adb457ccb66bd641&key=d4740f95189dc19a6d7185821c5392ee",
