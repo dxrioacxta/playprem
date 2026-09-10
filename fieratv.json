@@ -407,6 +407,13 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "CANAL PRO",
+        "url": "https://www.desde-paraguay.com/pro.m3u8",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -459,13 +466,6 @@
         "name": "LA TELE HD",
         "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "CANAL PRO",
-        "url": "https://www.desde-paraguay.com/pro.m3u8",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
