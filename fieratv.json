@@ -326,7 +326,7 @@
       {
         "name": "TELEFUTURO PRUEBA",
         "url": "https://zn1tf.desdeparaguay.net/telefuturo/telefuturo_py_alta/chunklist_w1689265358.m3u8?k=99fa95c8748cfcdf19679cc60540df96e5438b3364d5e04c8e2c431b64cc63ba&exp=1788998953",
-        "icono": "",
+        "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
