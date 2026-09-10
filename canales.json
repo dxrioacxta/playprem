@@ -3588,10 +3588,10 @@
       },
       {
         "name": "HISTORY 2",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjE5OTM1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZDYyYzdjZWNmZTNmMzhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.9bxb2BXe6tPRBqHxFDPtzp3TUYB-uq3v3QRyHvo3nESAGRgjaSKOyD-rDk9_7uWofvKxuCcnrEbSE4o6Rxgw_Q==/live/c6eds/History_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/History_2.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=ecbe97ec34784304b390a12ba3854ccf&key=5a0ee36ed9b8920cb19546fd92f2d415",
+        "url": "https://ciades.providers.com.ar/HISTORY2/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/h2_806b757b7c414ebcb6d0743654681810.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=7a31259de9c441268c17050af69f83ee&key=963b563347143f52ce26c9cbaf632918",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
