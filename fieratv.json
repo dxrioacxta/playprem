@@ -244,7 +244,15 @@
   },
   {
     "name": "PARAGUAY 🇵🇾2",
-    "samples": []
+    "samples": [
+      {
+        "name": "TELEFUTURO HD",
+        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
+        "type": "HLS",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
+      }
+    ]
   },
   {
     "name": "DEPORTES PREMIUM 🏆",
@@ -324,13 +332,6 @@
   {
     "name": "PARAGUAY🇵🇾1",
     "samples": [
-      {
-        "name": "TELEFUTURO HD",
-        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
-        "type": "HLS",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=ed2e9a12e8ae518192c371b6ee86744b&key=7eaa24ac6e23fd7be2d48005d916eeb4"
-      },
       {
         "name": "SNT",
         "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
