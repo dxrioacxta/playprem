@@ -475,13 +475,6 @@
     "name": "PARAGUAY 🇵🇾2",
     "samples": [
       {
-        "name": "HEI",
-        "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "UNION TV",
         "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
@@ -624,6 +617,13 @@
         "name": "E40 TV",
         "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/estacion-40_2e6856af4ddd42d8bde713998d7aae8b.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "HEI",
+        "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
         "type": "HLS",
         "drm_license_uri": ""
       },
