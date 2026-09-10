@@ -299,6 +299,13 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ÑANDUTI TV",
+        "url": "https://nanduti.b-cdn.net/720p.m3u8",
+        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -467,13 +474,6 @@
   {
     "name": "PARAGUAY 🇵🇾2",
     "samples": [
-      {
-        "name": "ÑANDUTI TV",
-        "url": "https://nanduti.b-cdn.net/720p.m3u8",
-        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "HEI",
         "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
