@@ -3708,6 +3708,18 @@
     "name": "🎬 CINES 24/7",
     "samples": [
       {
+        "name": "El Chavo 24/7",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8",
+        "icono": "https://i.imgur.com/XwCFYfF.jpeg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "CANELA NARCO DRAMA",
         "url": "https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/cb573f166573638b84c83c65cef24082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fdb25e40da6aa5e50141947b44fa83439fd401e987d30a83118475f6179ec1a48f8115d48cad599c04ed241959501ef3e129c9be37d9de9f7f309f74174a1f5be1b692f94b4ee22d2159eba5a1d506fb1ddafb46eb0167e170f2278d368b54be10b7e43cc4c7d9f1631b40ceae5a71379fe7b584ff3936cf0d91cbeadc7d7995f75a6c519318b24f2a2880c2d8008bd110a9a33189c60d775aeeb01ff5f7d08aecc2e520fa0cebe5a5d56a18030967068f59d0dc079f2dd87cad994b72050045f8cc5189d2dd0b332f16d0d80a99421ae0d98ed7880a3f92341d00970ab34e1653dc26656ae42ee0e84d06e6281f893902ee4b0a9050f5ae2df6be818e6c58b9d3d3309b058d9b2be0f668d105bdf29fd1884e6a760e10e5e06f19357d8376f0d2dee4647b788695e3dfb09ebc9a5b6d3f2284f0f378dbafcd2c0f1fc2525c003e7045d06c5e0eae838cfb8a899ef18c70ecb685e4d6f29f9f17354d9bcda38884d78567bd76d0cefa3615f63809b21e0a3c67dfba8c16a8761b3e326a8901604caa141a6cded598b5d7d0358eab6da46e364f23dda6430849736373069ea76dd575eb8752ecc89d129fb9cd5a6ead088e2d5cdedcd567fdada6c24c049fe3173a6f85dc2ac03c7c93479a7bc6823e88f066071a3d52418ddb07a811ea89e8b241f01ba4410771fd6bfbcdb3c1b14862a7c01a7d6373167d197579230bb4dfaf142373feb32ae31dabab62a04c503c28549ce5245b95e363138c3f1d31f1f9d3ea4dabd1a037c892a28f0ee36cc4541a627f4adceb42fd53/149/1920x1080_6423560/index.m3u8",
         "icono": "https://i.postimg.cc/htMq2TCY/0-16x9.jpg",
