@@ -456,13 +456,6 @@
     "name": "PARAGUAY🇵🇾1",
     "samples": [
       {
-        "name": "TV CAMARA",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "PARAGUAY TV",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
         "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
@@ -600,6 +593,13 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
         }
+      },
+      {
+        "name": "TV CAMARA",
+        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/V4r0_bmQlPgToQ5zBu7V7g?tags=CH_LOGO",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
