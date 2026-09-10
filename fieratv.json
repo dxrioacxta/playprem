@@ -492,6 +492,13 @@
           "Referer": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
         }
+      },
+      {
+        "name": "UNION TV",
+        "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
+        "type": "",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -533,13 +540,6 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "UNION TV",
-        "url": "https://copacogen.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
-        "type": "",
-        "drm_license_uri": ""
       },
       {
         "name": "PARAVISION",
