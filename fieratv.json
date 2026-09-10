@@ -292,6 +292,13 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "LA TELE HD",
+        "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -464,13 +471,6 @@
         "name": "HEI",
         "url": "https://rds3gen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LA TELE HD",
-        "url": "https://rds3gen.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/la-tele_4a03574b08344bf8b3a5fb8740188252.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
