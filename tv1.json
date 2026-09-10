@@ -1331,10 +1331,10 @@
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjA4NDU2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiOTcxOWRkMTdkNWU4YjNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Y_9AqUsZOxrjmBWHtE1AmSOwjiwp-CHaVS7WvrxDdrts5cIRmiuh-hsgx8mJPdQUmS4rBAYD6NWyplY17AJ7hg==/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/4vMDu42xeeLCE66LEMJ0vg?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=ee8a6cc35fdb4ab7adeed9d16593459f&key=5ca774838d5c887f7a8d7dee64b9a6b0",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=afcf14ab7976ea3de0170ac804061b04&key=5531d28a3fa4de7b659ea62891095260",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "https://portal.app.flow.com.py • Referer: https://portal.app.flow.com.py • UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
