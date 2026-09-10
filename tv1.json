@@ -2755,10 +2755,10 @@
       },
       {
         "name": "HBO SIGNATURE",
-        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjIzMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3MzFjMWZiZDQxZDM1NjU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.4rgM53VPCutOYH8KRLPkVQr0ADCavQgD8NUIDygzmLs-Gfkg7_xP1MuLFT6b7XXQ9977uQBmUSR-wFOBMjZJUg==/live/c6eds/HBO_Signature/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBO_Signature.mpd",
+        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjIzMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3MzFjMWZiZDQxZDM1NjU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.4rgM53VPCutOYH8KRLPkVQr0ADCavQgD8NUIDygzmLs-Gfkg7_xP1MuLFT6b7XXQ9977uQBmUSR-wFOBMjZJUg==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
         "icono": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=e866499fbc1149f49989672075aa3a68&key=d2dd5c95623c6343240981c2202fc311",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=4918d3bf399a237e8ee065eb3ebf7327&key=747179296ae370e9b8746a09904b5385",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
