@@ -3083,10 +3083,10 @@
       },
       {
         "name": "WARNER CHANNEL",
-        "url": "https://ciades.providers.com.ar/WARNER/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
+        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjE5OTM1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZDYyYzdjZWNmZTNmMzhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.9bxb2BXe6tPRBqHxFDPtzp3TUYB-uq3v3QRyHvo3nESAGRgjaSKOyD-rDk9_7uWofvKxuCcnrEbSE4o6Rxgw_Q==/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/warner_3cd8b2edf3584265bcaa0d6e43988492.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=a319626ac2054f07990f43ba35535c47&key=7cd36113800fcbfab64bff7a38144c70",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=07cef02a41651642cc35946c1b0fbc49&key=be57342c7cf6e70aa851c0d1074d11c0",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
