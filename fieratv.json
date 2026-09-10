@@ -242,6 +242,13 @@
     "name": "PARAGUAY🇵🇾1",
     "samples": [
       {
+        "name": "TELEFUTURO HD",
+        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "SNT",
         "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
@@ -326,13 +333,6 @@
   {
     "name": "PARAGUAY 🇵🇾2",
     "samples": [
-      {
-        "name": "TELEFUTURO HD",
-        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "SNT HD",
         "url": "https://d3epa8orr2qy3m.cloudfront.net/medialist_15609871089997455276_hls.m3u8",
