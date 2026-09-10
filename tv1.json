@@ -1498,10 +1498,10 @@
       },
       {
         "name": "TV CHILE",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjA4NDU2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiOTcxOWRkMTdkNWU4YjNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Y_9AqUsZOxrjmBWHtE1AmSOwjiwp-CHaVS7WvrxDdrts5cIRmiuh-hsgx8mJPdQUmS4rBAYD6NWyplY17AJ7hg==/live/c6eds/Tv_Chile/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Tv_Chile.mpd",
+        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjA4NDU2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiOTcxOWRkMTdkNWU4YjNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Y_9AqUsZOxrjmBWHtE1AmSOwjiwp-CHaVS7WvrxDdrts5cIRmiuh-hsgx8mJPdQUmS4rBAYD6NWyplY17AJ7hg==//live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/L2pn69bAkJPMfUI3x8d3YQ?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=1c702a8d46263c15be5c80ef64c66016&key=0fde59e76ecd2ea5861a9b15eeade251",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
