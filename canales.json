@@ -3179,14 +3179,14 @@
       },
       {
         "name": "FX HD",
-        "url": "http://streamingtv.vip:80/live/7d71ue6nn/kBfWfZtanvDK/317527.m3u8",
+        "url": "https://ciades.providers.com.ar/FX/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/fx-hd_4235467f6b324d62a72968708e0cd47b.png",
-        "type": "HLS",
-        "drm_license_uri": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=83a282495da34057b08715986cd4d3f7&key=cc11198fee91df1a72e3d1bcde242ea4",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
