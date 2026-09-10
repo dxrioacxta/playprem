@@ -487,6 +487,13 @@
         "icono": "https://i.ibb.co/HLvq6nfQ/logo-retina-01.png",
         "type": "",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MEGA TV",
+        "url": "https://www.desde-paraguay.com/mega.m3u8",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -552,13 +559,6 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "MEGA TV 2",
-        "url": "https://www.desde-paraguay.com/mega.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "COSMOS",
