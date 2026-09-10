@@ -313,6 +313,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "NPY",
+        "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TELEFUTURO HD",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://imagizer.imageshack.com/img924/3497/z1gyEN.png",
@@ -443,13 +450,6 @@
         "name": "ÑANDUTI TV",
         "url": "https://nanduti.b-cdn.net/720p.m3u8",
         "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "NPY",
-        "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/noticias-py_17ff9a389b4a40c8ad3f3be73acfc21e.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
