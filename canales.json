@@ -128,6 +128,18 @@
         }
       },
       {
+        "name": "ESPN SUR HD",
+        "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd",
+        "icono": "https://i.ibb.co/s37NZCT/espn-1B.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPNSUR",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "ESPN 2",
         "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjIzMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3MzFjMWZiZDQxZDM1NjU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.4rgM53VPCutOYH8KRLPkVQr0ADCavQgD8NUIDygzmLs-Gfkg7_xP1MuLFT6b7XXQ9977uQBmUSR-wFOBMjZJUg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
