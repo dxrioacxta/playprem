@@ -260,11 +260,11 @@
         }
       },
       {
-        "name": "TNT SPORT",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjE5OTM1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZDYyYzdjZWNmZTNmMzhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.9bxb2BXe6tPRBqHxFDPtzp3TUYB-uq3v3QRyHvo3nESAGRgjaSKOyD-rDk9_7uWofvKxuCcnrEbSE4o6Rxgw_Q==/live/c6eds/TNT_Sports_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_Sports_HD.mpd",
+        "name": "TNT SPORTS",
+        "url": "https://ciades.providers.com.ar/TNT_SPORTS/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
         "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=302c2d57aa5c444f86d427508c1c6714&key=0be2509f8befc2399b9fb7f236b63c7d",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
