@@ -1618,10 +1618,10 @@
       },
       {
         "name": "DW",
-        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjIzMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3MzFjMWZiZDQxZDM1NjU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.4rgM53VPCutOYH8KRLPkVQr0ADCavQgD8NUIDygzmLs-Gfkg7_xP1MuLFT6b7XXQ9977uQBmUSR-wFOBMjZJUg==/live/c6eds/DW/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DW.mpd",
+        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjIzMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3MzFjMWZiZDQxZDM1NjU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.4rgM53VPCutOYH8KRLPkVQr0ADCavQgD8NUIDygzmLs-Gfkg7_xP1MuLFT6b7XXQ9977uQBmUSR-wFOBMjZJUg==/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/O_-a0280xePeyTh4IxQAEQ?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=8bb583ab165ad7646298b7091d642162&key=39a0ad8e7513ecfad34c60c519320095",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
