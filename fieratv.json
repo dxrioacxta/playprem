@@ -537,13 +537,6 @@
         }
       },
       {
-        "name": "COSMOS",
-        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-        "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "BM - BRUNO MASI",
         "url": "https://video.hostingcaaguazu.com:19360/brunomasi/brunomasi.m3u8",
         "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
@@ -722,6 +715,13 @@
         "name": "VILLA ELISA TV",
         "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/chunklist_w690060243.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/7489/tE7j9r.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "COSMOS",
+        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "icono": "https://imagizer.imageshack.com/img924/3760/NFyjQB.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
