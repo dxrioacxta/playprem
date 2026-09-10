@@ -408,6 +408,18 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "PRUEBA",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6aa2d3e7a7/rolling-buffer/APP_CHN1/APP_CHN1/transmux/CCURStream_APP_CHN11-10_T1789055952000000~D0.mpd",
+        "icono": "https://www.tigosports.com.py/assets/graphics/app/logo_tigo-sport_inline_2.svg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
