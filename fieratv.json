@@ -477,6 +477,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PRODUCTIVA TV",
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1145806110.m3u8?admin=nacion",
+        "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -542,13 +549,6 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "PRODUCTIVA TV",
-        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/chunklist_w1145806110.m3u8?admin=nacion",
-        "icono": "https://imagizer.imageshack.com/img921/6462/dpgdDH.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "RADIO NACIONAL DEL PARAGUAY",
