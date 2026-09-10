@@ -272,11 +272,11 @@
         }
       },
       {
-        "name": "TYC SPORT",
-        "url": "http://45.226.28.9:8085/Live/2c51a4824422c34a6b9ed878c4efabf9/local-tycsport_720.m3u8",
+        "name": "TYC SPORTS",
+        "url": "https://ciades.providers.com.ar/TYC/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
         "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
-        "type": "HLS",
-        "drm_license_uri": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=dbe265d99e9a4445a4a47bcac4ddc3d8&key=9cd1be2017b886e452443bec4e37e214",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
