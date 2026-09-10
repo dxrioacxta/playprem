@@ -136,10 +136,10 @@
       },
       {
         "name": "MEGA TV",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjA4NDU2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiOTcxOWRkMTdkNWU4YjNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Y_9AqUsZOxrjmBWHtE1AmSOwjiwp-CHaVS7WvrxDdrts5cIRmiuh-hsgx8mJPdQUmS4rBAYD6NWyplY17AJ7hg==/live/c7eds/Mega_TV/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Mega_TV.mpd",
+        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjA4NDU2Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiOTcxOWRkMTdkNWU4YjNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.Y_9AqUsZOxrjmBWHtE1AmSOwjiwp-CHaVS7WvrxDdrts5cIRmiuh-hsgx8mJPdQUmS4rBAYD6NWyplY17AJ7hg==/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
         "icono": "https://i.postimg.cc/Mpmr3dyn/1280px-MEGA-svg.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=61a2b4ab23a8aaecf1333544b9401da5&key=7d69d25a9b592969393d5aa89d5d40e6",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
