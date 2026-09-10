@@ -414,16 +414,16 @@
     "name": "PARAGUAY 🇵🇾2",
     "samples": [
       {
-        "name": "ÑANDUTI TV",
-        "url": "https://nanduti.b-cdn.net/720p.m3u8",
-        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
+        "name": "TELEFUTURO HD",
+        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
       {
-        "name": "TELEFUTURO",
-        "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
+        "name": "ÑANDUTI TV",
+        "url": "https://nanduti.b-cdn.net/720p.m3u8",
+        "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
