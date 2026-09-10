@@ -2249,10 +2249,10 @@
         "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTYwMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkNGU2N2Y5NjhiYWEzMGM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.tYaJ46YUpVZ7ilHAz5Mvhe_ZUuiI8Rvst4e5aEJE5rt0nQ5w6qnkEpVCSLBaYtFzgP7ZAvDeZaqvfmenK2o7JA==/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Mpn70pqyaDdZN60vclCdHw?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=048295f82090bff12841e5bfedc9b767&key=fa591524a3b90a3aaf633aae2a14abe7",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
         }
       },
