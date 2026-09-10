@@ -3248,10 +3248,10 @@
       },
       {
         "name": "FX",
-        "url": "https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjIzMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3MzFjMWZiZDQxZDM1NjU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM1MSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.4rgM53VPCutOYH8KRLPkVQr0ADCavQgD8NUIDygzmLs-Gfkg7_xP1MuLFT6b7XXQ9977uQBmUSR-wFOBMjZJUg==/live/c3eds/FXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FXHD.mpd",
+        "url": "https://ciades.providers.com.ar/FX/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/ca4ji9rF9Sh8CkWKki8Pzw?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=83a282495da34057b08715986cd4d3f7&key=cc11198fee91df1a72e3d1bcde242ea4",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
