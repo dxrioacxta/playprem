@@ -3708,10 +3708,10 @@
       },
       {
         "name": "HGTV",
-        "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MjE5OTM1Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZDYyYzdjZWNmZTNmMzhjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIxOSIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.9bxb2BXe6tPRBqHxFDPtzp3TUYB-uq3v3QRyHvo3nESAGRgjaSKOyD-rDk9_7uWofvKxuCcnrEbSE4o6Rxgw_Q==/live/c7eds/Home_and_Garden/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Home_and_Garden.mpd",
-        "type": "CLEARKEY",
+        "url": "https://ciades.providers.com.ar/HGTV/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
         "icono": "https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png",
-        "drm_license_uri": "https://results.femon.net/?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=0f15ff062bea4800bade9d71d95b397d&key=babcaa0df085d0d41ece94d3b6187ef3",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
