@@ -402,6 +402,13 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/pro-tv_5213785b8d11460088c18fbb0612e87b.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PARAGUAY TV",
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
+        "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -535,13 +542,6 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "PARAGUAY TV",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
-        "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "PRODUCTIVA TV",
