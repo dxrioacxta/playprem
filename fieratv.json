@@ -306,6 +306,13 @@
         "icono": "https://i.ibb.co/3TJQVdt/nandutitv.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MONUMENTAL TV",
+        "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -448,13 +455,6 @@
   {
     "name": "PARAGUAY🇵🇾1",
     "samples": [
-      {
-        "name": "MONUMENTAL TV",
-        "url": "https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "TV CAMARA",
         "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
