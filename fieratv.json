@@ -271,6 +271,13 @@
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "NPY HD",
+        "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -364,13 +371,6 @@
   {
     "name": "PARAGUAY🇵🇾1",
     "samples": [
-      {
-        "name": "NPY HD",
-        "url": "https://rds3gen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
       {
         "name": "C9N HD",
         "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
