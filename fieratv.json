@@ -343,6 +343,18 @@
         }
       },
       {
+        "name": "TRECE HD",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTYwMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkNGU2N2Y5NjhiYWEzMGM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.tYaJ46YUpVZ7ilHAz5Mvhe_ZUuiI8Rvst4e5aEJE5rt0nQ5w6qnkEpVCSLBaYtFzgP7ZAvDeZaqvfmenK2o7JA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "icono": "https://bestleague.world/img/trecepy.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "ABC HD",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/199416.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/abc-color_9e090c2d22614f17a512b5321bbae884.png",
@@ -369,18 +381,6 @@
         "icono": "https://imagizer.imageshack.com/img923/4044/gnip5n.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTYwMTcwIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkNGU2N2Y5NjhiYWEzMGM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.tYaJ46YUpVZ7ilHAz5Mvhe_ZUuiI8Rvst4e5aEJE5rt0nQ5w6qnkEpVCSLBaYtFzgP7ZAvDeZaqvfmenK2o7JA==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-        "icono": "https://bestleague.world/img/trecepy.webp",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "GEN HD",
