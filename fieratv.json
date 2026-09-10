@@ -313,6 +313,13 @@
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/monumental-fm_a475bc7540824a468ca857af6cd2fd84.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PARAGUAY TV",
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
+        "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
@@ -461,15 +468,7 @@
   },
   {
     "name": "PARAGUAY🇵🇾1",
-    "samples": [
-      {
-        "name": "PARAGUAY TV",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8?session=aM9DsZDxQFhPjHCcRn8g5q",
-        "icono": "https://imagizer.imageshack.com/img922/7569/K2UAz4.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
+    "samples": []
   },
   {
     "name": "PARAGUAY 🇵🇾2",
