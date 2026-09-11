@@ -447,7 +447,7 @@
       },
       {
         "name": "PRUEBA 4",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6aa2d3e7a7/rolling-buffer/APP_CHN4/APP_CHN4/transmux/CCURStream_APP_CHN11-10_T1789055952000000~D0.mpd",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6aa2d3e7a7/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.m3u8",
         "icono": "https://i.postimg.cc/ZRyDCy9W/1280px-Logo-Tigo-svg-png-utm-source-es-wikipedia.png",
         "type": "HLS",
         "drm_license_uri": "",
