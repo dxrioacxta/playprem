@@ -426,12 +426,7 @@
         "url": "https://opchannel01.tigosports.com.py/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?t=5befe474f5ac7af33e68e3c03860df4d4cc1ccf67d51ca412d6853bd711bea96&s=6aa4730c35&c=181.232.189.202&e=2026-09-11T21%3A33%3A52Z&v=4&u=6873c058c788eafebef3291e&em=&di=c756952f59d24e9dd1f09c2011a7f6a4&cfi=JGBIS4NtEEox5yDCOXOWMUf2&q=em,di,cfi&z=a",
         "icono": "",
         "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       }
     ]
   },
