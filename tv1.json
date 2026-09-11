@@ -439,6 +439,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "PRUEBA 09",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6aa472ff68/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/CCURStream_TigoSP4_WM6-10_T1789162218013000~D0.mpd",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
