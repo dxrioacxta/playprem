@@ -466,9 +466,9 @@
       },
       {
         "name": "ESPN 2",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Mjk1MTc3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxZWEyYjA0NDZmOGExZDkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.ThWVvjidA9aYPHg3acLHFmid-3wMOB4syZfI_ESeGq61cdDUFfMOUgfWT1_Ff-xg-pYWCWoO9_tEgplAwe-ZWA==/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
+        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=4877bd947da661d72eb9cd6c42c0767b&key=d103d5e7c2d80f17e72b13f88071681c",
         "headers": {
           "Origin": "ttps://portal.app.flow.com.py",
