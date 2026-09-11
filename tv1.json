@@ -434,7 +434,7 @@
         }
       },
       {
-        "name": "PRUEBA 2",
+        "name": "PRUEBA 03",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6aa4730c35/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/CCURStream_TigoSP4_WM6-10_T1789162212018000~D0.mpd",
         "icono": "",
         "type": "HLS",
