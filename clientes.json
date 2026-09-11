@@ -1,0 +1,15 @@
+[
+  {
+    "id": "cli_1789093736532",
+    "nombre": "Dario Acosta",
+    "cedula": "8.191.719",
+    "direccion": "py",
+    "celular": "0985597437",
+    "cantidad": "1",
+    "precio": "818.188",
+    "cicloDias": 2,
+    "plan": "Plan wifi",
+    "vencimiento": "12 de septiembre de 2026",
+    "estadoPago": "Pendiente"
+  }
+]
