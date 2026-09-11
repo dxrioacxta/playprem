@@ -434,18 +434,6 @@
         }
       },
       {
-        "name": "PRUEBA 4",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6aa2d3e7a7/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.m3u8",
-        "icono": "https://i.postimg.cc/ZRyDCy9W/1280px-Logo-Tigo-svg-png-utm-source-es-wikipedia.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "prueba 5",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6aa43aaf6d/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.m3u8",
         "icono": "",
