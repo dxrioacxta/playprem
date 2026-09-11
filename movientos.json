@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "transaccionNro": 470669271,
+    "clienteId": "cli_1789093736532",
+    "nombre": "Dario Acosta",
+    "cedula": "8.191.719",
+    "telefono": "0985597437",
+    "direccion": "py",
+    "monto": "818.188 GS.",
+    "plan": "Plan wifi",
+    "cantidad": "1",
+    "fecha": "10 sept 2026 - 11:49:42 p.m.",
+    "estado": "Cobrado"
+  }
+]
