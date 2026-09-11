@@ -882,18 +882,6 @@
         }
       },
       {
-        "name": "TN NOTICIAS 4K",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Mjk1MTc3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxZWEyYjA0NDZmOGExZDkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.ThWVvjidA9aYPHg3acLHFmid-3wMOB4syZfI_ESeGq61cdDUFfMOUgfWT1_Ff-xg-pYWCWoO9_tEgplAwe-ZWA==/live/c7eds/Todo_Noticias_4K/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Todo_Noticias_4K.mpd",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/tsozQzIAVMhh2R8LYB3Zdg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=2959bf95e218a7ec8a9ea434430b45e7&key=9727d27dc22ad3a63d94338f92b7a55a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "KZO",
         "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Mjk1MTc3Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxZWEyYjA0NDZmOGExZDkxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.ThWVvjidA9aYPHg3acLHFmid-3wMOB4syZfI_ESeGq61cdDUFfMOUgfWT1_Ff-xg-pYWCWoO9_tEgplAwe-ZWA==/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/h0sFN_bK9VXxjOK-Ko1k3w?tags=CH_LOGO",
