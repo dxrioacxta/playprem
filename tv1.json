@@ -412,9 +412,14 @@
       {
         "name": "TIGO ARGEN",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6aa45559d1/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
-        "icono": "",
+        "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
