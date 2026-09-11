@@ -420,13 +420,6 @@
           "Referer": "https://www.tigosports.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "prueba",
-        "url": "https://tapego.lat:443/relay/dash/tv1/audio_9676.m4s",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
       }
     ]
   },
