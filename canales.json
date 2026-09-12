@@ -3110,10 +3110,15 @@
       },
       {
         "name": "ESPN 6",
-        "url": "http://38.224.231.47:8000/play/a02w/index.m3u8?hls",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/306880.m3u8",
         "icono": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "ESPN 7",
