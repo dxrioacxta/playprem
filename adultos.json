@@ -49,6 +49,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "SEXMEX",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/316897.m3u8",
+        "icono": "https://i.postimg.cc/xTpZyJ79/df9sebv-be6535a3-22ca-4df6-9749-2703e1459d8f-png-token-ey-J0e-XAi-Oi-JKV1Qi-LCJhb-Gci-Oi-JIUz-I1Ni-J.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   }
