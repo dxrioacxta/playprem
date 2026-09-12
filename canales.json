@@ -3512,10 +3512,10 @@
       },
       {
         "name": "TNT NOVELAS",
-        "url": "https://ciades.providers.com.ar/TNTNOVELAS/index.mpd?token=K47mqp926XZ18Lf4vbnsy8tr51hjQwep",
+        "url": "http://45.226.28.9:8085/Live/fe22ac6d4495ac9c9d4c141990f85194/local-novelastnt.playlist.m3u8",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=44b69bf2f0d449378c95675bdaf5cad0&key=14ac35bdd882785a59603569336317b2",
+        "type": "HLS",
+        "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
