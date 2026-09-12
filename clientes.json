@@ -11,5 +11,19 @@
     "plan": "Plan wifi",
     "vencimiento": "12 de septiembre de 2026",
     "estadoPago": "Pendiente"
+  },
+  {
+    "id": "cli_1789174967449",
+    "createdBy": "yo@tv.com",
+    "nombre": "Jugar",
+    "cedula": "8.875.788",
+    "direccion": "Ypo",
+    "celular": "0985597437",
+    "cantidad": "1",
+    "precio": "488.888",
+    "cicloDias": 30,
+    "plan": "Plan",
+    "vencimiento": "11 de octubre de 2026",
+    "estadoPago": "Pendiente"
   }
 ]
