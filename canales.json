@@ -2699,10 +2699,15 @@
       },
       {
         "name": "ESPN 1",
-        "url": "http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/tracks-v1a1/mono.m3u8",
+        "url": "http://45.226.28.9:8085/Live/fe22ac6d4495ac9c9d4c141990f85194/local-espn.playlist.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "ESPN 1 OPC 2",
