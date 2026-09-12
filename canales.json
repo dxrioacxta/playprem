@@ -2405,6 +2405,18 @@
         }
       },
       {
+        "name": "Win Sports HD",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/69294.m3u8",
+        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "VIX TUDN",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
         "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
