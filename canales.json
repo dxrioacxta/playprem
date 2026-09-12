@@ -2391,7 +2391,20 @@
   },
   {
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
-    "samples": []
+    "samples": [
+      {
+        "name": "FOX SPORTS PREMIUM MEXICO🇲🇽",
+        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "icono": "https://i.imgur.com/G2RFqLE.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      }
+    ]
   },
   {
     "name": "⚽EVENTOS FLOW ⚽",
