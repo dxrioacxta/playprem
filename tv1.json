@@ -3259,7 +3259,7 @@
       {
         "name": "GLOBO 4K",
         "url": "GLOBO 4K",
-        "icono": "",
+        "icono": "https://i.postimg.cc/QtfSqvt7/tvglobo.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
