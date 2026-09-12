@@ -2487,6 +2487,18 @@
           "Referer": "www.primevideo.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Dazn Fast",
+        "url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd",
+        "icono": "https://www.dwdl.de/images/1692002750_dazn-fast.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=i87GsxzJ7ctnaKsmVI4iww&key=48WwcyiJTDNzSk3mrlWofw",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
