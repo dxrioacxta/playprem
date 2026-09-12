@@ -2398,6 +2398,18 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "GOLDEL PREMIER 2",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/53940.m3u8",
+        "icono": "https://i.postimg.cc/GpdYNH0W/images-q-tbn-ANd9Gc-SHi-LNX8G1-h-uq2ih4X-u48KRSh-Xso-Ei2b-Ezol2WCh1A-s.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
