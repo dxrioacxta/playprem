@@ -2398,35 +2398,6 @@
     ]
   },
   {
-    "name": "📺 CINEMA VIP",
-    "samples": [
-      {
-        "name": "NEXFLIT",
-        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/317032.m3u8",
-        "icono": "https://i.postimg.cc/XvBhHjFZ/Netflix-new-icon-png-utm-source-es-wikipedia.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "PARAMOUNT+",
-        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/317033.m3u8",
-        "icono": "https://i.postimg.cc/1XFw2dBg/Paramount-Plus-svg-utm-source-es-wikipedia.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "📺MUSICA",
     "samples": [
       {
