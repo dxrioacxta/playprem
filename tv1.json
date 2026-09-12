@@ -961,18 +961,6 @@
         }
       },
       {
-        "name": "BRAVO TV",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Mzc5MDMxIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZjA5NDE3MDQ0NzM1ODM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iZAHW2N5e9jIDB2MuL6VkFwXj923So6v701YBNjuE3g4EE03XDedW3nwIit52GdHtHPm1nBbezbYwZU8Lgz7Jg==/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
-        "icono": "https://i.postimg.cc/k5W0zqBM/bravo-tv-logo-20250307-1980643.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=d67ea3430c0dd019e820535765268109&key=7d7bf2d1b5f4c7c97138a1b9b98e0675",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "CANAL 90",
         "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Mzc5MDMxIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZjA5NDE3MDQ0NzM1ODM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iZAHW2N5e9jIDB2MuL6VkFwXj923So6v701YBNjuE3g4EE03XDedW3nwIit52GdHtHPm1nBbezbYwZU8Lgz7Jg==/live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd",
         "icono": "https://i.postimg.cc/ht2sGY64/canal90digitalcablevisi.png",
