@@ -1817,6 +1817,18 @@
     "name": "🇦🇷ARGENTINA CANALES INTERIORES",
     "samples": [
       {
+        "name": "9 Bahía Blanca",
+        "url": "https://cdn.sensa.com.ar/output/SMT3/C9BBH/playlist.m3u8\"",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/eb/El_Nueve_TV_2023-present.svg/revision/latest/scale-to-width-down/50?cb=20230902172025",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "Canal 10 Salta",
         "url": "https://el10tvstream.digitalnoa.com.ar/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8",
         "icono": "https://i.ibb.co/N8XFny1/885154118.png",
