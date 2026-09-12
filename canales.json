@@ -3133,11 +3133,16 @@
         }
       },
       {
-        "name": "ESPN PREMIUM",
-        "url": "http://38.224.231.47:8000/play/a03w/index.m3u8?hls",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+        "name": "GOL PERÚ",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/306865.m3u8",
+        "icono": "http://mundo2.pro:80/images/6afdb5530aff6af84bb87fabec8cc6e3.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "LIGA 1 MAX",
