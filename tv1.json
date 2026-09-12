@@ -434,11 +434,16 @@
         }
       },
       {
-        "name": "PRUEBA 03",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6aa4730c35/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/CCURStream_TigoSP4_WM6-10_T1789162212018000~D0.mpd",
+        "name": "TIGO EVENTOS 3",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/154300.m3u8",
         "icono": "",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "PRUEBA 09",
