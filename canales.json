@@ -2801,6 +2801,18 @@
         "icono": "https://i.ibb.co/yFP5Ldf1/large-white.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TYC SPORTS",
+        "url": "http://45.226.28.9:8085/Live/fe22ac6d4495ac9c9d4c141990f85194/local-tycsport.playlist.m3u8",
+        "icono": "https://i.ibb.co/Fqjhk1TJ/960px-Ty-C-Sports-Logo-svg.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
