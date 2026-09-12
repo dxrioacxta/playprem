@@ -2427,6 +2427,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Bein Sports 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/50?cb=20230910182143",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=M12td4EJlUUD3Lsh3JIBXw&key=JL_XXUNsv3MWiiotzNQCgQ",
+        "headers": {
+          "Origin": "www.primevideo.com",
+          "Referer": "www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
