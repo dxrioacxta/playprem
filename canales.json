@@ -2393,6 +2393,18 @@
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
     "samples": [
       {
+        "name": "VIX TUDN",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
+        "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "FOX SPORTS PREMIUM MEXICO🇲🇽",
         "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "icono": "https://i.imgur.com/G2RFqLE.png",
@@ -3054,18 +3066,6 @@
         "icono": "http://xplatinmedia.com:8080/images/aee75b75c47968e983717d7345e1d91c.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=2722647f77b44824c432a3c4555830a2&key=1734befb82f4b438bd84195f6c212e7b",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "VIX TUDN",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd",
-        "icono": "https://www.freepreview.tv/wp-content/uploads/2022/07/ViX_Logo.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=cb308ff4c4ec835baa2956212507de52&key=aa45e839f15058df50342ace8d040a48",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
