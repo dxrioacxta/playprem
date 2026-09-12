@@ -2326,6 +2326,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ISAT PRUEBA",
+        "url": "http://149.34.241.50:8119/live/cyx_4314496117260385929809474398/cyx_4314496117260385929809474398_cyx_cj_2656950057.mpd",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
