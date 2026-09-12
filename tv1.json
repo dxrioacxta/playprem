@@ -2384,13 +2384,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "NEXFLIT",
-        "url": "http://208.82.61.115:25461/live/PEPE008/pepe2021uru/1188392.m3u8?_cb=1789175631544&token=GENYUUEOGwkbWANRVFYJUFMFBAYKAgUFVwBeBVRUW1IAUwNUAgQAVwkbGRZER0pWAlhqXVxDWwEADl4GDFdOExYSVUJtD10RAxsGBgABCBFPF0FdVQRDCgEaREVcAUALQVAIAAZSCxEVG1BMQ1ZKXQJZalBdFwhTVBRcW0AJDh1BDl5vVgNUUlddFw4VAxofQVxGRBpbD0VdWkoXVwwWQwIVVRIIRAoDCw0XGBVQV0YNQUdNGltDYGgUShdQHRZUDRJZX1xEAxFUCkAMFR8aWhBqR1FLFRNVUFsDRxdfQAFBTRJdUx5mUFZXW1FUR1FcDUYXDhpTQxwTWwlbXBENQzwRWVQQXBsADwgDFko=",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "ISAT PRUEBA",
         "url": "http://mysn.lpomxfbjs.com:80/live/cyx_4314496117260385929809474398/cyx_4314496117260385929809474398_cyx_cj_2657555337.ts?user_id=910073324&app_id=com.android.msandroid&app_ver=49902",
         "icono": "",
@@ -2413,7 +2406,20 @@
   },
   {
     "name": "📺 CINEMA VIP",
-    "samples": []
+    "samples": [
+      {
+        "name": "NEXFLIT",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/317032.m3u8",
+        "icono": "https://i.postimg.cc/1X01W9kH/png-clipart-netflix-logo-netflix-television-show-streaming-media-film-netflix-logo-television-text-t.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      }
+    ]
   },
   {
     "name": "📺MUSICA",
