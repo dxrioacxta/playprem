@@ -2417,6 +2417,18 @@
         }
       },
       {
+        "name": "FOX SPORT 2 MEXICO🇲🇽",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+        "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net/?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "FOX SPORTS PREMIUM MEXICO🇲🇽",
         "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "icono": "https://i.imgur.com/G2RFqLE.png",
@@ -3090,18 +3102,6 @@
         "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FOX SPORT 2 MEXICO",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
-        "icono": "https://imagenes.gatotv.com/logos/canales/claros/fox_sports.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
