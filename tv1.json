@@ -1424,9 +1424,9 @@
     "samples": [
       {
         "name": "CANAL 7",
-        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Mzc5MDMxIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZjA5NDE3MDQ0NzM1ODM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iZAHW2N5e9jIDB2MuL6VkFwXj923So6v701YBNjuE3g4EE03XDedW3nwIit52GdHtHPm1nBbezbYwZU8Lgz7Jg==/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd",
+        "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Telefe_Neuqu%C3%A9n_2011.png/revision/latest?cb=20200304143411",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "https://results.femon.net/?keyid=55828b728b8affe6d1d57d050025645d&key=8ac11ed6d0ccaeac3f8218419f65bb94",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
