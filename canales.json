@@ -2393,6 +2393,18 @@
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
     "samples": [
       {
+        "name": "TNT SPORTS CHIILE🇨🇱",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/276332.m3u8",
+        "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "WIN SPORTS + HD",
         "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/1384.m3u8",
         "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
