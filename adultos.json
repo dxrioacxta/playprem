@@ -13,6 +13,18 @@
           "Referer": "",
           "User-Agent": ""
         }
+      },
+      {
+        "name": "VENUS",
+        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/316929.m3u8",
+        "icono": "https://i.postimg.cc/597QxbTy/images-q-tbn-ANd9Gc-QYlf9HE-l-Exbagcv-Yj6Zw-Bs89D7l-Xk8Otv4d5Kzc-Ry-SKA3k10f-ORfo-ZZk-s-10.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   }
