@@ -177,10 +177,10 @@
       },
       {
         "name": "ESPN 5",
-        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/manifest.mpd",
+        "url": "https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Mzc5MDMxIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI1ZjA5NDE3MDQ0NzM1ODM4Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.iZAHW2N5e9jIDB2MuL6VkFwXj923So6v701YBNjuE3g4EE03XDedW3nwIit52GdHtHPm1nBbezbYwZU8Lgz7Jg==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/kt4rv4iBE9Hp_hI5xaghHw?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM5",
+        "drm_license_uri": "https://results.femon.net?keyid=cf626de3cadd9bfaf0b85c06aafd2cd0&key=bc2aa7d9e6354e4979ee62b0ec5595c5",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
