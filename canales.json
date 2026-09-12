@@ -1817,6 +1817,18 @@
     "name": "🇦🇷ARGENTINA CANALES INTERIORES",
     "samples": [
       {
+        "name": "CANAL 10 Mar del Plata",
+        "url": "https://g2.vxral-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true",
+        "icono": "https://i.ibb.co/ynVWgQn4/Canal-10-Mar-del-Plata-nuevo-logo.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "Canal 7 Neuquen",
         "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
         "icono": "https://www.c7neuquen.com.ar/wp-content/themes/neuquentheme/img/logo3.png",
