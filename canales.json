@@ -1817,6 +1817,18 @@
     "name": "🇦🇷ARGENTINA CANALES INTERIORES",
     "samples": [
       {
+        "name": "24/7 Noticias",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "icono": "https://i.imgur.com/4hDCB1M.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "5tv Corrientes",
         "url": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
         "icono": "https://i.imgur.com/mSn7ACs.png",
