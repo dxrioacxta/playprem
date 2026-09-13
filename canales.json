@@ -426,6 +426,18 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "PX SPORTS",
+        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NDI2OTQzIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZWRlN2EyMWYxODJlNGMzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.DnAbKYDQ5FDR11B7wrhGN7vk9dYyiOXSfZ2jclZXq2ibMl-eF_xJHjxjcZzdU3_5e17FzDz2jJ2Na5PvzLSE-g==/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=YZc-L2uBZXhitkX-KjRBag&key=J4bFtm0Fz28aQrjCcEUzGQ",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
