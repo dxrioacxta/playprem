@@ -1884,7 +1884,7 @@
         "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NDI2OTQzIiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIyZWRlN2EyMWYxODJlNGMzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjIyNCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.DnAbKYDQ5FDR11B7wrhGN7vk9dYyiOXSfZ2jclZXq2ibMl-eF_xJHjxjcZzdU3_5e17FzDz2jJ2Na5PvzLSE-g==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/ciwOM-VXylKqJzf9viWjeA?tags=CH_LOGO",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=4Lt9tw3u5r6biBpb0a9kUw&key=iMcvhiap16nKIi_tYuHmrw",
+        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=iMcvhiap16nKIi_tYuHmrw&key=4Lt9tw3u5r6biBpb0a9kUw",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
