@@ -1756,6 +1756,13 @@
         "icono": "https://i.postimg.cc/G37BS2zw/ADN-Noticias-(2025)-svg-utm-source-es-wikipedia.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "IMAGEN TV",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15466",
+        "icono": "https://i.postimg.cc/TP5MGkv0/Logo-Imagen-Television-2016-png-utm-source-gn-wikipedia.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
