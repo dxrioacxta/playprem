@@ -420,6 +420,13 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "PRUEBA 1",
+        "url": "https://opchannel01.tigosports.com.py/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd?t=c75f3c8695beefbda178e5f29b9186e5e9761ee1534ed017453d79e4d2d544cf&s=6aa6b61d3f&c=181.232.189.202&e=2026-09-13T14%3A44%3A33Z&v=4&u=6873c058c788eafebef3291e&em=&di=c756952f59d24e9dd1f09c2011a7f6a4&cfi=8ZsBq2xmT5Zu1h5eb5p658AX&q=em,di,cfi&z=a",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
