@@ -3600,6 +3600,13 @@
         "icono": "https://i.postimg.cc/28GWYGC2/US-STVP-Billiard-TV-Channel-Tile-1000x1000-Square.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AUTOS",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=15344",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
