@@ -1531,6 +1531,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "NEUQUEN DIGITAL",
+        "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CpIHN_wOpfHmMr9bn_EIRdPHkmTFoqjokWu8KcgOxBiphSM1kaekQ8K0VP8Kx2FAHSebpVybVUJJ3dmBLRiRzj_xU7N7DjvuaZ_owy_aZjDy1nyV2C1vh7voFkcObM3yB5_xyepMWrlcwW4M2gdNmTGEnR533uMjQ_QxbdRbUw-6LE81Jm7Ghwjd336BJrzm0ljyqAGBHQqC94erb_-IsDl9O15QPponWDRgLp6oJ9FHtJabGTirxBgBv8oUtcxl3uo539CWqVEluBbl3xy0160uGb_QFjHkniHpD-WWJH9sYneX4VAUKfStmxNwBX41FqoT4eAHXhr--1KMbmcx8936AGhr6KYoNXKN5ixtpUomvvKLcFnVPOEzsA84SeDVfAPrMSJMl3ySyF1v8-lE7cwX7Rydeun6NbwyLomDjHxkTqeIP_VWawegFuoEqEqefA0q2wsiMYGQyb2VWFJ-TzAcO8VLW2lHZwGGaZpUlnulwJwKrQXBTx4QagiJ85N1CBsl2eEsSRoDyuk3mQQyxCcVcVMnUvJEg7-Xe0TB-9BozMvgz1jybU-VV8V10d1JRi_AVF0WCzjsFw8PywlE9hkPB5w_vEj5FpW0ArTpyFKqI7z_Y0SBlBvF9ugNRwgQvoNtDYaFKd5x-PrGQtZLZOhDwr7ht9g6nxZjx1EhJM24tUqwNppYyjgUzpzm0p7j9uuhtjHq1T9atzT_GoTBVjSoJgBhTr3ZhAJ1_Lc4X5ZziDBEBSI7l9wP8M9HJ4Lj17UNQKBLDZIge70g8aOwmTGS-UKqIExmWinjUu7qzw0YGfnGKxblWAolc0QqCwKYYzar4dPf819kkIA0VcLHkOsjbZiqQT2xIxTXmT6btymFgnb2raND-fZHf723nwN47y9XIMnJwMOBE2iohztmpYOWp3Wv0hs8M21nuwUg9zkRTkbEO_6y5UB1fdWfszffTKgcs3VqfFTztDJHX0DcKdbRmOHuUgLI1L_JC3XAjs3TSh_Rs2RHhIfMtJB32E-0_IWjbf-EjYa7NdVx5jM2Vnxt2ftOUqsC64XUnpPLbGH97YXU27uHPbQOJy1h2jJ8FJKmEFiajCK25ZjHGQHPvjutJ3oiN5e3GSp4S9zVywVxR7cyALc2Xn_efPU1J-eGvtHF0ao3U0a1oT1DJfnDMO15iENZ-g-CyZFLEqxEO4l3zuRwA8iO9LkBbzLrrpIOtLB26CUaDIkh8t3RU9KQuYpYxSABKgl1cy1lYXN0LTIwihA.m3u8",
+        "icono": "https://i.postimg.cc/ZKTB7yp1/282e9e66-07f8-4f61-9674-8ebb59a5c92c-profile-image-70x70.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
