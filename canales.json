@@ -3621,10 +3621,10 @@
       },
       {
         "name": "TNT NOVELAS",
-        "url": "http://45.226.28.9:8085/Live/fe22ac6d4495ac9c9d4c141990f85194/local-novelastnt.playlist.m3u8",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTkyNzgxIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhhOWYyM2I1MWM0ODU0NmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.zHw7gK2gvd0eKK-j1OFVMbCodQ4QfdVxXma4iUNRZe0JLohCQDep61icCYgsUWmeX4YHER8DyEw2vYseWO0G8Q==/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "icono": "https://cdn.bo.flow.com.ar/images/content//228/228/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
         "type": "HLS",
-        "drm_license_uri": "",
+        "drm_license_uri": "https://results.femon.net?keyid=335d12d0d4515548f7f25bde9eef1b67&key=59a410da4f04672990f5112eea4dcdfb",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
