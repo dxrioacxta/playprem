@@ -2035,10 +2035,10 @@
       },
       {
         "name": "AMÉRICA TUCUMAN",
-        "url": "https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTU1Mjg5Iiwic2lwIjoiMzcuMjMwLjU2LjE5OSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2YTdlMWJlYTBjYWQ4YjUwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3SKzDuEJfptbM2zG2WyKjm-7vEVq8wq2BifrKj0k-p60aA_aPoTpbO1dIWLFn9WJsZIZjUPOqcnJ9Ss1SUWnXw==/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
+        "url": "http://cdn.tvar.io/get-yt.m3u8?ch=@AmericaTucuman",
         "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kN2LLsDht_pqHhwPk-HuwI-ijyPuual4EiYk3MAXoqsNk=s900-c-k-c0x00ffffff-no-rj",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://oikoapp.xyz/selvanegra/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
+        "drm_license_uri": "https://results.femon.net?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
