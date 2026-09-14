@@ -3960,7 +3960,12 @@
         "url": "https://sae12.playlist.ttvnw.net/v1/playlist/CvcGx_g2RNy4u6GSBLJp342m6Ai78XmtU_G3zjqwwsEtrv7IYwwJ044mBI-H_dHiIgFNLjj0OmXD0k1jym-knRjovnw_pMwgqcWoFD_Lpa3fmFOAfanXpynfUFgL0xfCmERdBEp90FMsFRo_STGhHwqkB6dj430f99pF_qeMSxlqnk0r3XGgsqnzSPwiKEnz7zoqr8MzutQs-L9XkvPhlYrk-r0vGnYz2fKX5FiPIKm7p3P5jmzAW2AAtdkmzYLV2s2pFLlPw951Pe0Ta5o6GftxrspunyndXG3QfT1U8gOfbO67HKVaPh5FMSJvTw2sHxvXd_vu63yCUGiWF3qSK9brxjehIGZuulp_1wTUsCmGc1f5jc_j9XQ8-1bAaeoxZVAKkGGMnJxQCYJxOwLliYRteizVA1VuQYBx38SZxTM4iPMmVnLN535uelwckWDGMwQwOpUGd5xjaLcxo6iv_Mmahui0dgOvmvOa5t32Q-5LC0n3YBT8puEKmaXoJ6tBeDl30BS7SgdIV1v21k8_tnrDtfXCgOGXg1bixV4qOum3_XYDx1shrddPRK6-B8EBcbcjqVqtucwHlrEoX6oKlB20r73NysjDMMUL8Y-qLZ1_pP0qbzqTTnDfx-MTPGe0QxxIPis_yTMoPcV9sXAmHqEx5OqoSPBRa1A7VtdlX7zZP0kpIfA6K6_ab7b939Zh4GSBWJ7nFaNf5GBBMk_WFOfbcmKlZ1iWzUxG0CHA-RdpS_Dlx_JN0NvCdmdkUORTego9lWmEZ_3vr9wxjyNglonUqTf1xYlqYF7CvdsQWc_Y24LwPDgRd0stQhUwvuzXaL0cYDG6o_oqudbg-dqFY0ad32OmajyZmDzMsshANKkk759OCZecO5AMFm-puTHHEQS2S_GodD_I6i87IMYWUdfVk8lmSUL0qfJhGET6P5uXIhIa5jS6Cm6GMdCQoQ7eDTcy7fAG_Eb_dm-aLSJZHffnidkNsXHl0QFBOMeQ5x-FWBieBbbD3MMbVRN_7ufnpvYDK5ILZ5TwhEQV5R8au6zpe88cRyE4Az_iFw9LaCDUbLuP3RaIrnNw-Cv0wN6p82G1DbQSM7zr5LU80GOAGBAoVkClOC0qg6_4ZoY45kYMsCTvwbTfDXea0d0g0FvAdt6a2XKk_MxRXGQhAbEhyiL-7ODp5EvjrDoaDJMpO-nPlR-gFuwTdCABKgl1cy1lYXN0LTIwiRA.m3u8",
         "icono": "https://i.postimg.cc/vZyTTMgX/If-A6JQG0o-Z4Ft1KH0p1ijqgd-q-O47p9S5k-ZU-7n-ME4Qb-Us-Qwc-w-F9Hh-DPpc-HOigip-N-VLYYivw-K1iur3CWfg-WA.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "ESTACION 101.3",
