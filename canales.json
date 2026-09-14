@@ -2042,7 +2042,7 @@
         }
       },
       {
-        "name": "10 TUCUMAN",
+        "name": "10 TUCUMAN PRUEBA",
         "url": "http://cdn.tvar.io/get-yt.m3u8?ch=@canal10tuc",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/54/Canal_10_Tucum%C3%A1n_%28Logo_2025%29.png",
         "type": "HLS",
