@@ -2043,13 +2043,13 @@
       },
       {
         "name": "10 TUCUMAN",
-        "url": "https://www.youtube.com/live/3bItX7XWamg?si=_WHTkfyT1YJti1wv",
+        "url": "http://cdn.tvar.io/get-yt.m3u8?ch=@canal10tuc",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/54/Canal_10_Tucum%C3%A1n_%28Logo_2025%29.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
