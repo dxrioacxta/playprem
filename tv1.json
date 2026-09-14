@@ -1519,6 +1519,18 @@
         "icono": "https://i.postimg.cc/tgw0FfGM/Logo-de-Canal-13Max-Corrientes-png-utm-source-es-wikipedia.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EL ARCA",
+        "url": "https://sae12.playlist.ttvnw.net/v1/playlist/CuwG_WMMT7hDq1wr2NKX4XmxIcZHxNKiQg4kiPTIiWV6uvSGB8uOL-HWrkRgXCPJp4HwiwS9kVaNH55VISByyM57TUJYGMpUl8dvGid_Lu2ia8YGZwrQMNp9ZSBa9XtXwTTZ1SpU8_t0UGiSv36phA-2PTdRbX4JeaGA_cuPKYj_k14VrvZ2Ts8hvpi0Tssi6dK86TSmOSmXngltbE-sWFZwQpdo6Sw9wOu72Qf6sivjLRnMVKTsSxm7b0Sadsy0PD2PEdCm-cZ_Kmr6b4yRHpIcH0SPD70uke_BDTM1uTD8106QiMiQ94jxKfL_DumhJ3hZEJpMn8hhaYWh0xJoz3DSF4VzFiHgpD3wiUBa9CEGw5F3bc-wJnFQNacw6FBI1gNESQnKoIwS8NIMQcKk63c8-aiu2b7O8JbtckxCNKDLa6PVJaSV0Dpw_GVtGxvTEqN1DcTCXURg3oVRyr69-HDRW0o36XS4i4EZIQ2h2agE_OZ0WGhgCdAqigKONk9FZhpDtKJOoHNBGN_5HHsb4Ayjk08RZX_5sv8XmRug3GCVHDKneUj-X1isUOBBkxLDJTAe67J0Xgu7CYXbgiOoott8VfrOa2mRApeMgjLjn0IRVKtXQB2FpyAJpuPo4PgqwghP5rfd4sn8-TTMq8S70AP_G_ulHQzTFUZUkvym1YXhrFpGqYhY-m-yoBeLiDXseDs353xTWWQyddvqUpXIqgaLCUh0P9iv879oZwC1pC3PK17nw65kFTKzoPadxV7Vshv6J6PgV4qFO-eyUxtI6S9cUTaqoL5nnDirm1AW7UM65uQcQ1MA2VDH0FDaaRoME-_R2PicHjM8VSyZiqRYyOKOEQCgijIBll-CWXJAaqd6mgoXNeDCWJPyWW-XdzeMERValK9sZdthAI0Et4hgOZXW1b0NB-aoBK4iR-3SApUZuOqwCjCbC2KKziiTt2OsiCKmN9yzzdegGHOxZ4CklUFZrxjJDIBkVG1fMvhO5hQO_dg0DIx2M1Cq_-t_xE_A3sj-V1UrMlHsONFkiEG-lGpaFHQxNT3FT-HLoVKQumPbJY3WjLq9dqXAkbg5CVWDmhZRiGXKoB8M6xWnUyd_IiJXTjqFwncLjer4uqFSpDbQWcQjTeCg1ny9WmogpRWADoaIpwAYGeY9uXaw05xhGgyHLODFFPRmrlSV4zwgASoJdXMtZWFzdC0yMIoQ.m3u8",
+        "icono": "https://i.postimg.cc/KYVBCvxk/df6faa31-bc61-45ba-835d-e30fd1043954-profile-image-70x70.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
