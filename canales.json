@@ -100,14 +100,14 @@
       },
       {
         "name": "TIGO INTERMEDIA",
-        "url": "http://87.76.215.82:8555/live/1692/index.m3u8",
+        "url": "https://sae11.playlist.ttvnw.net/v1/playlist/CpoHmiStv9_dYyMKHojjX0lLH2qAdhW8ST9zz5XpBfIdXlrNwo-Rwpfl8ja4W4Whztx8zfMm1BqofejlBUDKQzgFRw3yF9C-N5mQxWzb16Xxv0-1CNJfmDcua6i4AQZxIZfYyX9nYFHL3RniUTIy8acfTrA4tHb4ceW0p5nCcL2wsdxSNBXCZ27fFte9YEgEoNROA9zuOKcBzhVSnTMrg31bqE1jFl3NRCOIQGTVd9bp0DFxm6VC308I7eSbjh6uLi4gRmPzbqwqedv2nmFQX4YF1-5plf2wyRppNH-jZCg0Dwu9WibOOx-KZSnOkPGwtRkBOZ-4xvpT0DG1CdEEzI2cz1jzLj1vtFt8H3wTvRRWFfhJyliZ-w1JFf9JdzTumGXudFcaE00DYgRJBeTJbg-ocL27gmKoTGxZOg5zC17G8vy1weo1xSwYndPyhEkoSBtpWhzD816Pmhu_NhGuMkwYuTco0r-eiA3F6-9JncZXsJ6bfy_XB6NntLgVjsmfl_UTwDT41RlDCKNxcUnwHVdm0B_MFWMTqHhgo8XV8UCd2rnjoQH9jvlKiyMRrca2DkrHGJqy-romElnczbMt-8dSfVyIX0lOnS-gY0mH8JbGVBPfPY1R8U_LvATslqkLyDmg-2E0cxmf4AYK4yBYsDHpOR7lH016ZttnhiUV-j0FcWQbFsl_JxWcQrF0m-9YvmNBPmyZb89b6diRt3gf5zNK_rIUle0vfGFoJGD6GQJDcc5fv5O7PKw3PXZUDMg6MIyL7b-_OGFU610kJyNWym2kR6yeXhA9grY_qduq0G9SnntyqmZnFeId4cejrysDdJisglE1-CyGdgYBOj8gHqfvrg-nfXiorGOUfxxIbRwRBdoq2CUQk0jyttzS3pJRS4xPY8dLQqdsUbvUMfFBc1WiPPNV39VweHxhZ8HkXuBcCup6HwJrUaWOtPL1HYty1FKpIBsi8OPFqXnqgJlV7bsyQsPgkNcivKV3NKDuybf4II5jsVgqPxLthb6LxruaGMGZ32YjXWDBrq5fdj9w9lbIHFDl9t_Okt6pDP_673nOTuzHQwVlKsA4OTAGBLQ4Z7OCy5GiLvfjMn-j_T9cukVLhwPUso-hH9F02kbxbYm-tazHbyjl2F2ZRbcdwuSILTkPtHJWph4FkKZ-NRl02BL4yV6tBNKz6FQrej-5a0ZdQvWKejpdx1THcdeB0mIuyg7FZUg4KsTAxoXhxRoMsyb7dqWdKXftkS4TIAEqCXVzLWVhc3QtMjCJEA.m3u8",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
           "Referer": "",
-          "User-Agent": "VLC/3.0.18 LibVLC/3.0.18"
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
       }
     ]
