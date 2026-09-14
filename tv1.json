@@ -396,18 +396,6 @@
         }
       },
       {
-        "name": "EVENTOS HD 2",
-        "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv1/yatytaytv1.m3u8",
-        "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "EVENTOS 1",
         "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTkyNzgxIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhhOWYyM2I1MWM0ODU0NmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.zHw7gK2gvd0eKK-j1OFVMbCodQ4QfdVxXma4iUNRZe0JLohCQDep61icCYgsUWmeX4YHER8DyEw2vYseWO0G8Q==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
