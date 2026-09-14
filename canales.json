@@ -2047,9 +2047,9 @@
       },
       {
         "name": "10 TUCUMAN",
-        "url": "http://cdn.tvar.io/get-yt.m3u8?ch=@canal10tuc",
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1789415853/ei/Tf2naufpG9qyobIPlLWYoA8/ip/179.41.25.158/id/ltc2pq1_YPQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/ss/1/siu/1/bui/AR3QkAnrX3D_R_VWc--rFMnGZeuletC0o5ckSl9bZo8WMYtjP0zHeOtqQpSZBJR7kdW7YvADog/spc/I-rgISf5tr6hOSXMo8I2Ed_NdUXDM7n7v9MoJRWztjJlFLNwMeyJWbFndsh_HuUDONQe/vprv/1/go/1/ns/zQbTZe5IjGIEt1uD8_3BkM8Y/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52135441/dover/11/n/ESiP9ugwMOUeiQ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Css%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAMRTqyLQpHMCJ-815jUDNJoJhUX9FS6xtfixTQouqPKmAiBBHbed7b9l1qmfswxSQSdLtm-prxbe8PumNwZqhdpUUw%3D%3D/file/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/54/Canal_10_Tucum%C3%A1n_%28Logo_2025%29.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
