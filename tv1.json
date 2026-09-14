@@ -370,6 +370,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TVS ENCAR",
+        "url": "https://sae12.playlist.ttvnw.net/v1/playlist/CoQHcVx3m8O2l7_qOy9HojRR76Jp7Jp1LCtrYg3acVObw16mmt_PmDHnbFEG_uf5X7UdPVGDvtyX0CeSRWebl1YQVj_DwBlST1XUwpdU896poK7Ut2pX_eE96z9FbKTsv0DhEjTe41QP9uzyJ0Xq352d-3NYxA0aS8d0b-O5ZUT2wYrXvpf4o7qsQlrIyB2-MWXm6-PhNBNgKYE5ApaACVXXcqNPXG4lpiwHB1Ag-6xpFiUGq5dKcYZnicPjEXOeKuz1fUKgWK2580jgAUo-4GP4qBonSiKQLucuxGcwhtaizRMR5OwwmS7140tyq4aCXk6Qmf0Is4v4BApT7jCRGMxR_H64QtgIZsavwS1VD-ylq4CkJnQBvM5MBbaZE-GuRphLO3DY0P0PivQo8rsBjU9JN4Q9ZLCCbyEog7I-rY7txrq75QU948QW4T3QrLmDVoMRbhER2R6Kr6RChn44ExUYoZEjOoT-TyjPLIA16ZBlTt4OgW9QdC4VZIfJs5Wxgg_eN29YDazIBTZIwCTFN5Rv6ZSp3UYQpKpdCkJJY5dJFoSRMc65JzJQyhI1DV21W70JZYg080o3EeaZ84cs0Uat5M6HlCfT25bN-OgoLMJWROCYeBLZ-wsZYpYvxRfaPhLL_hid_gDROOKb8pixHBJyGmwmYM9UxdocGYNW8Lesrx9CYuuHWs-TZlnGjHlI7QiiF6Zq7R1sx1bvVqRsr25yliQxfgL-f2FBmegKHxpxqMQd9hPwehHAILPY4ApL5AD8yLCdflht_lPCfMhR-rmTHKUG9XLGils8rcf9x52PUPwlpr7pzPFnsN15llyFXTM3xTsC4tGZVb9c-Oy_AwvmfydWDWjDTFLwni_m8pYyrqkJluqMMpeFDCzT4HoLAMK-gKZqGDrSv-DpenbpkF5RuOgSMlzuAl-N2usE-yAxO2B4AI1oJhA8lAFBXLzuL7PNgxkARG6o4sf-1PSjp1ShAogbqy7xETiUhhGgQ_w05rYdet1E8ark3sTLcIEZs9AoIZwGCtH0viBn_IU5IFmNmrS8SY5I-HoPuEvhVGjiahWSpYOhsUhSzWNWE_kxGXhCmwUbDbn3GOplnQPlN9YCD3UPvnS7U4MWAn4Bf8E0h-uk-EHKQectELd5I15KTbNEJUj0U3r0IYCKHCk8Ah9vn7gTCw3NCZqwIshd9fa_92wD369OGgxtcOYQuAo7UCQ_PK8gASoJdXMtZWFzdC0yMIoQ.m3u8",
+        "icono": "https://i.postimg.cc/kMYfq9s2/images-q-tbn-ANd9Gc-SIMPkbb-B4LAOe-NTBQ92i-g-Z07WJLF-MRrv5DUXs-U6a-IUjieq-Cx1Ixd-q-E-s-10.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
