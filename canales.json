@@ -1871,7 +1871,7 @@
     "samples": [
       {
         "name": "9 Bahía Blanca",
-        "url": "https://cdn.sensa.com.ar/output/SMT3/C9BBH/playlist.m3u8\"",
+        "url": "https://cdn.sensa.com.ar/output/SMT3/C9BBH/playlist.m3u8",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/e/eb/El_Nueve_TV_2023-present.svg/revision/latest/scale-to-width-down/50?cb=20230902172025",
         "type": "HLS",
         "drm_license_uri": "",
