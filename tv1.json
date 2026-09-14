@@ -334,6 +334,13 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "FARRA TV",
+        "url": "https://sae13.playlist.ttvnw.net/v1/playlist/Cp0H25xeLneWdHY6BpSCvepFMhSuE-J2NhAXQA3kodCbYPoyphuZvYq7k1fQsjfQvoSmUuACt-PJZu8OC7P5itnXRqey0YrYkgunSQFqeW6anEUGF7wYYh__iTOiJQFowbXWlFemQs7-oj_n5jBNmvgUZ_LSpRKVW3bHnppSqAud-cnxMwyXZlA4Gx5dr04H7G18Ud2u6-K-I_Tm87_mACh0STrLl36Dvgxm1DO2qM9vXQHUKMBclDiEWAgWAiQaGRXK6nrScZP-CKfsXEWyl8ZxE--oe4JWLhnpICtr1DFTgK1vuHm8qNgo6gYouH-oDQWsEumJOlBH9EPSwbK6xUlZwrB_noE-Gq0HXsqbtnIlszd8Ak3V-lAwP0wQUVVxu0GHbj6D_q6WsE0tOLjfSxsVsKAvvU0G-JTvSIKCDdMdzjkqZ4m1Q7W45DDlSmutzNxuWgT1cAa0yjTkFd-oXvXRGFXKVKfvDH4RFRz7nskFeozG3LgJESaLD4E1xKYnm3Kvh9-Tj-orKMHSgSCoXSrHg7S43vmA0M30oM4tC5ArMB0JXImrUYhsAbcAJ8k47dZSS2epJJjF4MCU-ir1RosRAWGfkHjV9ti0bzQjxm8B8RE525Y_x_hA3l9Bqg5TFXerkaTdRHUkhOafSzQkEZ8NH8tgqgpu-Xt8iubCxnaaJQ6vmv1hcBKiC9QG6KLvZDR0gAn0iAfF2eKNdlBManGadK8CR3alqU4IWMxELlNnqrtLXialKdS7_hkluNgoXA8xJktp7Us_S5NlnnKtNBf83ajA_sodWW9LxH1qOAQgyN5wnZ9SF9BakpisFbjpAq3HG5JejalrDbckruxGqI6fuqxs4bWvotbiW_LPcF0HwEwDF1umchV1n5zg6lfg1dj2q2iFRAycYU4RAreV41LJfZm0JMW8-OcNoQS7CI7HhKnhMywXbbMHhJGfBxZptaW8fhej2IpS4g_V3JnAhNESNlKnN_aeo9-bUWm2dypc7L6jR2evaGGft353oqXwb353orfPxs-FML7n4IozINSipiSC4445ydMqR5kTn7lHhdaOWgDVErVKdInQ2sJVvfwwrlgrqcKObOKXx9WU1cCZ7C4D4XXSCegW8nWe9_P3fKOSHs5f8K4ZJo_Crr5r7L1hG_gdrrYFxg9ydwoTXs9gCW5eRsDTXOSJwmikoihD-eyO9YBF6Pk_TmqjHQGrC3GsOeA7Q0JB7rdcuO4UZhoM6rtNB7WFgsufy5krIAEqCXVzLWVhc3QtMjCKEA.m3u8",
+        "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
