@@ -2161,8 +2161,8 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://delgadolife.net/mundo/api/results.php?keyid=909eb7589305cd00e1b6827fadd74411&key=43a9e55701369434df4892240d9741c2",
         "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
       },
