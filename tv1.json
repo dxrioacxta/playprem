@@ -494,60 +494,6 @@
     ]
   },
   {
-    "name": "📺DEPORTES ESPN-DISNEY",
-    "samples": [
-      {
-        "name": "ESPN 1",
-        "url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/manifest.mpd",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPNSUR"
-      },
-      {
-        "name": "ESPN 2",
-        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPN2SUR"
-      },
-      {
-        "name": "ESPN 3",
-        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/manifest.mpd",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPN3SUR"
-      },
-      {
-        "name": "ESPN 4",
-        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/manifest.mpd",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ESPN4SUR"
-      },
-      {
-        "name": "ESPN 5",
-        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/manifest.mpd",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/kt4rv4iBE9Hp_hI5xaghHw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM5"
-      },
-      {
-        "name": "ESPN 6",
-        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/manifest.mpd",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/stPaOp7uRjk9fBMBh45VKg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM6"
-      },
-      {
-        "name": "ESPN 7",
-        "url": "https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/manifest.mpd",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/zBcxv9_i-yRUV5K_KUVvmQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM7"
-      }
-    ]
-  },
-  {
     "name": "📺ARGENTINA",
     "samples": [
       {
