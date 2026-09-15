@@ -3333,13 +3333,13 @@
       },
       {
         "name": "SPORTV 1",
-        "url": "https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
         "icono": "https://i.ibb.co/vvYS9P7m/2025-04-28-23-37-29.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733",
+        "drm_license_uri": "https://results.femon.net?keyid=51c0ef23b17297e5c01cd7f36dd0a6ce&key=8823f713ba6fdb9bbe0a2ad82d309a4b",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
+          "Origin": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
