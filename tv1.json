@@ -366,10 +366,15 @@
     "samples": [
       {
         "name": "TIGO 24/7",
-        "url": "https://videostream.shockmedia.com.ar/hls/yatytaytv/yatytaytv.m3u8",
+        "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CvYGbZsojfhE77WDLGSolCghK4GBIwivS6DExaiEFXsosIshwclDe0NkWpqf2RuAdvQY-38fop7Sa1EVtiIwwVQnuMek6Eyro0Ud82gpXCK12vDPLiPpcwdoBLvndHsp4peF5X035fMe5-0cIPPYWpjwgw0NOVunTZgcrFleinx5JjZjv2YfxBVXVtuZ1-KkjQPfdXmF7jb9jO0nhGlqTW8QhWEhjp6wzpf7mH1juPtGZkrpVEJHSn0itrPSf9Qy9YyRgdsU6zQ6MHneBWhP9GwPHAXi_38NrZ8rFDrDstoW20oB0p5P1lvxeOgHh_uCdusTSDFHW6LaGzOI3NtRk1RdOMKkoM5YF-BHG-k3DQ7Ezf2CDrP2nJp0_ZCnVgcT4CWT4vcKW71hrwVY8wPaK62XK5LJzd_XChOSs4HOJyIvoINASW1s2lwNtOyWBDL5-7QRfl_eFXoV2FSJiI2PFjEpUYq-pEh3ImRlVUg2UQjh4p1m-ZrhJawCZCO6oGC19jBG4mPFEYs1HwieaarKcRxn1uLnJ6qSAsxUB3NE5dqLXqoun8R0Qe_bKrKikwv4Vhbd4fQgJVdF3RbPgB5nF-z-_07QK3-SaIswdHv1_XFi2sqoMs-Fyn_xNLiUEhWa778flFgBIN1cnzJq0FFIf_1TrbEwUnx6mcWSMXVSDBNKBLULncDLce9oP6Hr3evBRKzSQz4LDuvUeQVsG0ztTVis-kSbMgCYUFz5VbDTCIlbZYJ-NxuQYomb3KWEJ4k8svM26rlcjiBs49S6mYpOGHuUQe2QybRpzLv9GNwsUlFxBls4TE1fJyzWVA081Q_h7SQqhQBb4-Rx2GsHZ-Gbz4PwgKrGYEYVB3LHQgwXEBnRWPE8Ndj_WcrjNp53nRsYamlZnHWPtCwizyBqsTALHJIpUYs3uV1KfJKdQQDJ3FELXpcbXY5NzmZ2yoUcv3A8Q-mSVwb2hzwP570IXRWnZpjk49_AvcwTLiSs0b1zrZY_7WwLxxFoHDGp8f2HmK0Ey8J-tvFuWYOGYHD11OzlQQNzWp0VxrPxHKldDZdyavMxgeIs4R_a5d6X6OiHYQyXqkM3E9S_jkg5BeDqTNORv8XHVf5SsV5DKtyVjY_YJoYsDg_xGP6_kCglCzYg5n4zBpNQgrAIX6F6wxWy0hKkhjy8ciw3psPoEBoMZmgcQziybaYLPOIkIAEqCXVzLWVhc3QtMjCKEA.m3u8",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "TIGO + HD",
