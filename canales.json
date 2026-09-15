@@ -2208,6 +2208,18 @@
     "name": "INTERNACIONALES🌎📺",
     "samples": [
       {
+        "name": "Canal 4 (Uruguay)",
+        "url": "https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTkyNzgxIiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhhOWYyM2I1MWM0ODU0NmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzEwIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.zHw7gK2gvd0eKK-j1OFVMbCodQ4QfdVxXma4iUNRZe0JLohCQDep61icCYgsUWmeX4YHER8DyEw2vYseWO0G8Q==/live/c4eds/Canal4_URU/SA_Live_dash_enc_wl/Canal4_URU.mpd",
+        "icono": "https://bestleague.world/img/canal4uy.webp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=d6ef43ac3c39e129b0854a4256f7e854&key=b9a0dd682e5f718cc1cc69cb8c49d15a",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "FRANCE24",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png",
