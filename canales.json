@@ -132,7 +132,7 @@
         "url": "https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5Njg5OTkxIiwic2lwIjoiMTgxLjEyNC4xNDMuMjM2IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI0NDhlNGFhMDUyODAzNWYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE0Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.sDsBW0PGviJJqvfR0Q0PKqbO9ag6rIRa6vySPHGyb62hokZ4xZUiGnz9tQZ-TKL3zQqEwhfjFmgjMbafUjXOTw==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd",
         "icono": "https://i.ibb.co/s37NZCT/espn-1B.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/key/keys.php?keyid=6V_oS59z5mVf3nEdXIlgVg&key=JnoOUU3rmEgDvsQ8xgfEyw",
+        "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php?keyid=6V_oS59z5mVf3nEdXIlgVg&key=JnoOUU3rmEgDvsQ8xgfEyw",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
