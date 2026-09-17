@@ -3105,18 +3105,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "SBT 4K",
-        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/352398.m3u8",
-        "icono": "https://i.postimg.cc/mrzbRGxb/sbt-e6219203821b4280bc16716488b78be2.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "GLOBO 4K",
         "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/352342.m3u8",
         "icono": "https://i.postimg.cc/QtfSqvt7/tvglobo.png",
