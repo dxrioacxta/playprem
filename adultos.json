@@ -28,7 +28,7 @@
       },
       {
         "name": "BRAZZERS",
-        "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/316895.m3u8",
+        "url": "http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8",
         "icono": "https://i.postimg.cc/3RrWTcBQ/images-q-tbn-ANd9Gc-Tyt-ETp-Ni1pi-L4Kmu-OQ4Fb-z0df81Pizen-Sxmcqog-MT4p-M6472hs-A-2c1k-R-s-10.png",
         "type": "HLS",
         "drm_license_uri": "",
@@ -54,6 +54,18 @@
         "name": "SEXMEX",
         "url": "http://streamingtv.vip/live/7d71ue6nn/kBfWfZtanvDK/316897.m3u8",
         "icono": "https://i.postimg.cc/xTpZyJ79/df9sebv-be6535a3-22ca-4df6-9749-2703e1459d8f-png-token-ey-J0e-XAi-Oi-JKV1Qi-LCJhb-Gci-Oi-JIUz-I1Ni-J.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "DORCEL",
+        "url": "http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8",
+        "icono": "https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/f/fd/Dorceltv.png/revision/latest/scale-to-width-down/50?cb=20220723202903&path-prefix=bg",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
