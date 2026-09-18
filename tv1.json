@@ -423,6 +423,18 @@
         }
       },
       {
+        "name": "TIGO EVENTOS HD 2",
+        "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CvgG0fVp4pP6ZHc47DZ0hL7DOexzp4_kiCI9R825GPJa1pz2at8lU408FLemrXTlKFhGuiz576tvxOTMQzafuzKOh3ViN_Jo_L7s411CLUnULMu99IgJ4gAOKqF8QezeWsMn9JIOpIx5DMfBgnpe40hmnKTmN2nAhx3wpeNWGcS44rZXFmn_Q7uTEPh6k81K76gQKm79RzYAHxfHnD-oEi5t8b9d1vHzD-l2-pxdH05R0jUD8FU-hE4zt0VwOj8ZdXdcReDs4E6-LQymzQzlJQyHe5hNe09D7TLSwSM91k0BTWTPtbWvyXgBd6DBB2V5snAGtntlUhqJqCUhZ1JgmGTs_wcMX0i-xSRgaaCf580DTB6iX9vbWip3zWtZIEcA8THA_gf5LXz6RTNgY1jztPkZWsBJ4kxe2RBFj-8sGlW55DAVOifBf5m1o5H_lCNDtl2xW6n2131e-qcP0LT8rRE2utOgkH0YS0OWo_7tlGcEGJXiUd7moFkSdPx-IcoPXH292mRIAJ007-dGSS-W7GU-vu0vsQ94tSOaZaAebhTWxnkWu9munCDA63iE-KQEYtIicmZbg3J_gX78-i-TaGUy6N0WUTSgBx6Xp-uPFqDSEsadL3BBGxGWryLH_h_l058SMVdmRP5CAZ30Xy0-2OlSkzlfdG9Qb0EpjsWIEhcXuslvu3ulCj3pNofQBD2y8mkm94LlrqHdIJ1O_iVlvvX3icbetTptIl3T5iQdR4Ld0HmncA13UJYH1zzD1j4vgku6oltVxxn7JlnaAN6WU7R40BRnaG-ZJehWW2Yr80wseHRxvKeBWHIM0LEMQS6NGyBIp-odMPEeWs_ilvsKGXWED8OTiZ4BHWHLXBqoCbNov_8_M7mB3Hu2qdVnZb2b7UesP9mZ3TvhEdxBKIOF7DiW1O-Y_TlhCBbqO2yYbvgby_KulJNTDKfbzoqF1jroLUuXMeGTR5fV5OAPAmxX96aLa4XntpFcRn_l3whqbAw9SPyM_M44ef22aRAt75MfT-j_bKcpVoXwzG89Rr9feRhzZuh9j1-sjsL4GzbjXSg3iQYDQaM_NfBSUgMO1rOO2tCbkybCbi-FJ5YyXi4z_WQ5RxKVgkCCxzz_pl9bQhIXtZTRsIDMiSw78nqP3u_CniEIWvQ8lw1Civ30ltfXz55KO3PgvB2tStCSGgxkl0WqLkgF0_5lOMcgASoJdXMtZWFzdC0yMI0Q.m3u8",
+        "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "EVENTOS FLOW 1",
         "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5OTI2MjM5Iiwic2lwIjoiMzcuMjMwLjU4LjY3IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0VuY3VlbnRyby9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI1MGU1NzcwNDdmMTY0ZGMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.wLGEcCMHvI7REHIRUdPuxnf_s9vz22rTsr6oU5Z96NvgpRwQu6ADWtKRw_EAcpGO5rMtOp3gzbETbAPO5y1OAw==/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
@@ -443,18 +455,6 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TIGO EVENTOS 1",
-        "url": "https://sae13.playlist.ttvnw.net/v1/playlist/CvgG0fVp4pP6ZHc47DZ0hL7DOexzp4_kiCI9R825GPJa1pz2at8lU408FLemrXTlKFhGuiz576tvxOTMQzafuzKOh3ViN_Jo_L7s411CLUnULMu99IgJ4gAOKqF8QezeWsMn9JIOpIx5DMfBgnpe40hmnKTmN2nAhx3wpeNWGcS44rZXFmn_Q7uTEPh6k81K76gQKm79RzYAHxfHnD-oEi5t8b9d1vHzD-l2-pxdH05R0jUD8FU-hE4zt0VwOj8ZdXdcReDs4E6-LQymzQzlJQyHe5hNe09D7TLSwSM91k0BTWTPtbWvyXgBd6DBB2V5snAGtntlUhqJqCUhZ1JgmGTs_wcMX0i-xSRgaaCf580DTB6iX9vbWip3zWtZIEcA8THA_gf5LXz6RTNgY1jztPkZWsBJ4kxe2RBFj-8sGlW55DAVOifBf5m1o5H_lCNDtl2xW6n2131e-qcP0LT8rRE2utOgkH0YS0OWo_7tlGcEGJXiUd7moFkSdPx-IcoPXH292mRIAJ007-dGSS-W7GU-vu0vsQ94tSOaZaAebhTWxnkWu9munCDA63iE-KQEYtIicmZbg3J_gX78-i-TaGUy6N0WUTSgBx6Xp-uPFqDSEsadL3BBGxGWryLH_h_l058SMVdmRP5CAZ30Xy0-2OlSkzlfdG9Qb0EpjsWIEhcXuslvu3ulCj3pNofQBD2y8mkm94LlrqHdIJ1O_iVlvvX3icbetTptIl3T5iQdR4Ld0HmncA13UJYH1zzD1j4vgku6oltVxxn7JlnaAN6WU7R40BRnaG-ZJehWW2Yr80wseHRxvKeBWHIM0LEMQS6NGyBIp-odMPEeWs_ilvsKGXWED8OTiZ4BHWHLXBqoCbNov_8_M7mB3Hu2qdVnZb2b7UesP9mZ3TvhEdxBKIOF7DiW1O-Y_TlhCBbqO2yYbvgby_KulJNTDKfbzoqF1jroLUuXMeGTR5fV5OAPAmxX96aLa4XntpFcRn_l3whqbAw9SPyM_M44ef22aRAt75MfT-j_bKcpVoXwzG89Rr9feRhzZuh9j1-sjsL4GzbjXSg3iQYDQaM_NfBSUgMO1rOO2tCbkybCbi-FJ5YyXi4z_WQ5RxKVgkCCxzz_pl9bQhIXtZTRsIDMiSw78nqP3u_CniEIWvQ8lw1Civ30ltfXz55KO3PgvB2tStCSGgxkl0WqLkgF0_5lOMcgASoJdXMtZWFzdC0yMI0Q.m3u8",
-        "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       }
