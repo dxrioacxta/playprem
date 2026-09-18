@@ -121,18 +121,6 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "1",
-        "url": "U2FsdGVkX18XSGpfys8WrCpOt3H+rVIBP7OCOUWvBSR7SpKX35RivaWI/VF6TZi5/J+Q3Fo43cy+6yaPPCPcAQgp0Ej2svDUVHBC5sv3Qd8f1Xzt2dIxRVaKjRtzGYUiI95qkJXpY9uqXQrB9MJVgNNhuR/153/MR/M7NiloRHz3/nZKmyx8q2V2ispUVc2LNWIzYgpSEAhoJYoVfprexmRrIS3oIQMl0uIrxVk9xD7BBFkcdTIettKKL6g2+cu6+t4IEzcsrfkFRkUKVbwBtZytHDNGPl0+FQqrU5zvjEYD24hUs9Xg8Ovkqw1Is6DIsXcDFs2GUhGx3nErA6IyY86x0207X0BURi7jwIlygemh6YFInmipbulNcbUPO1obZQrv0r/iTYKco+IHgZNmDg4byVd6oED3UxBoKoeZ5NYVitnijBQv6tcUtzi90MeBKwOcbDa9yUhqESptzFKbXwDqvzsE7LzuZHuiyrF3GWyisyjfIjWbk9ZtX7+KcaPREko/9XwQ4kmNkyMqcl81UWdLY7Fh9soy9EtINagIHgrSoIy+MI3TeVDyp0yMegQ59SiP2P0c1vGyPtxgDYo79qBL6v6Vle09+xSWNGw5GZhvhDRmAp6XIs+x+HSog8nTw536Y4S70s7ayCURj2nkonY+K4QfdBrb5nLDytq/QBYaXCwD7ohhRgaqtMPtZXgK2/YrlCCj5BZ6vXJQBEhs3nOx5k7nYVbzw1rIWLBy1yEV2rhOIUZ9fpNXxRBUcXJIrrNXanzI6TLUuf61zy9gv4S/kvHPJds7SqMrtvZrz9c4e6n0hFQvqKTNj1MzapH9",
-        "icono": "",
-        "type": "CLEARKEY",
-        "drm_license_uri": "U2FsdGVkX18HhQcFpOtBNN5RENVeC4ORWE3xlOpWQ1TesibxFcDg/LXChSggdn5FT4o3BW4CCHE3xWkDuGWT19CHz6L8xqvGh9/eGQYK9pc5PO/8xokzEONupEX25vHrOjsgot9JaBkb7YM0mQNosTZ5/jxa/r1GdCYWkDYfKZBYCjZ564zs3JtI8GEK38ee",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
       }
     ]
   },
