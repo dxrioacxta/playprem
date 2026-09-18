@@ -418,131 +418,6 @@
     ]
   },
   {
-    "name": "🔰 EVENTOS MLS",
-    "samples": [
-      {
-        "name": "MLS 1",
-        "url": "https://streamxhd.st/live1.php?stream=appletv1",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 2",
-        "url": "https://streamxhd.st/live1.php?stream=appletv2",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 3",
-        "url": "https://streamxhd.st/live1.php?stream=appletv3",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 4",
-        "url": "https://streamxhd.st/live1.php?stream=appletv4",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 5",
-        "url": "https://streamxhd.st/live1.php?stream=appletv5",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 6",
-        "url": "https://streamxhd.st/live1.php?stream=appletv6",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 7",
-        "url": "https://streamxhd.st/live1.php?stream=appletv7",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 8",
-        "url": "https://streamxhd.st/live1.php?stream=appletv8",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 9",
-        "url": "https://streamxhd.st/live1.php?stream=appletv9",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MLS 10",
-        "url": "https://streamxhd.st/live1.php?stream=appletv10",
-        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "PARAGUAY🇵🇾",
     "samples": [
       {
@@ -1765,6 +1640,131 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
+    "name": "🔰 EVENTOS MLS",
+    "samples": [
+      {
+        "name": "MLS 1",
+        "url": "https://streamxhd.st/live1.php?stream=appletv1",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 2",
+        "url": "https://streamxhd.st/live1.php?stream=appletv2",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 3",
+        "url": "https://streamxhd.st/live1.php?stream=appletv3",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 4",
+        "url": "https://streamxhd.st/live1.php?stream=appletv4",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 5",
+        "url": "https://streamxhd.st/live1.php?stream=appletv5",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 6",
+        "url": "https://streamxhd.st/live1.php?stream=appletv6",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 7",
+        "url": "https://streamxhd.st/live1.php?stream=appletv7",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 8",
+        "url": "https://streamxhd.st/live1.php?stream=appletv8",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 9",
+        "url": "https://streamxhd.st/live1.php?stream=appletv9",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MLS 10",
+        "url": "https://streamxhd.st/live1.php?stream=appletv10",
+        "icono": "https://i.ibb.co/FL1Hq3Pk/MLS-crest-logo-CMYK-gradient-svg.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       }
