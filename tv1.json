@@ -834,8 +834,13 @@
         "name": "CANAL 20",
         "url": "DUNGFAtKXUBdGQ8ABQJKGh8IFUUGVwZYX0sfGRMbR18eDFZGElUTEwFQHEtVX1ZLGxEcDl1CSQ1THQcQBRwEQl4UVkIK",
         "icono": "https://i.postimg.cc/7h7JCVym/IMG-20260414-WA0095(1).jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "BRUNO MASI TV",
