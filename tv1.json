@@ -607,7 +607,12 @@
         "url": "DUNGFAtKXUBFBh0EQ0YFVhMdAgtDQFwGHQgRBhdAVgUYDEVTEA4cGxlUXhRWQgo=",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781149556_179935.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "COLMENAR TV",
