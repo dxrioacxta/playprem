@@ -822,8 +822,13 @@
         "name": "ROCK-POP 95.5",
         "url": "DUNGFAtKXUBLHkgXVlYNFwNcC1QDHQBHUxYZFwcOSF4XAEMdFhcTGQ5fFAkKR0YSVwIdDFoRFwFHXRQMBi0NUBoYSlRaERYbHgZCBCYSAwZVTkdGWQNJVwgER1w=",
         "icono": "https://i.ibb.co/MMYLRZV/rocka.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "CANAL 20",
