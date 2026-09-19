@@ -559,7 +559,12 @@
         "url": "DUNGFAtKXUBHGR0AWBwTERwdB14DDQxZVUobHx9VAElKUwcdCxsTGwtUHg0EW0YSVx8RDFgUHAtDUwgMBlwCAgVB",
         "icono": "https://i.ibb.co/Fk29mNQp/images-1.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "ALCANCE TV",
