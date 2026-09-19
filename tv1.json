@@ -751,7 +751,12 @@
         "url": "DUNGFAtKXUBHGR0AWBwTERwdB14DDQxZVUobHx9VAElKUwcdDRYGExxYBhgRQR0NFgYTHFgGGBFBHAlLBUo=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Qamm1EN1D5jwAy6sbGljSjnt_dqZWMxPrLjo7rf6ng&s=10",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "4DMAS NOTICIAS",
