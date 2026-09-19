@@ -487,7 +487,12 @@
         "url": "DUNGFAtKXUBHGR0AWBwMFwMGBl8XGgRWVREZCgdBUh8UXwYLV05AXRtUHBwUQlsKGxVdG1QcHBRCWwobFVwCAgVB",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgbzpZG7xql85dRFxRVdwbiaRUzG4U1owebGdI9yE-ExXZ6lP2WqUtEI&s=10",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "CANAL 8 OBLIGADO",
