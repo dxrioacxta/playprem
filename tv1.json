@@ -643,7 +643,12 @@
         "url": "DUNGFAtKXUBHGR0AWEEQChUTAh8DEQpUWQkdFBsOHxMWCBlTFkJBS1wHQFYGVkcXGRMdAkQeDRNfVksbEQccUBMWCEJcEA4YFkFcQwxd",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/causa-comun_acab05d9d04044b189b8a8d738924a5e.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "FUENTE PARAGUAY",
