@@ -3603,6 +3603,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TVS ENCAR",
+        "url": "DUNGFAtKXUBCBBQTARwSFwgGGVkUVwZYX0oaAkhbBUNWEUFBSwwGAUBBHBgcW1sXDF4fXERI",
+        "icono": "https://i.postimg.cc/x8pKhN6j/tvs.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "OVIEDO TV",
         "url": "DUNGFAtKXUBHGR0AWBwTERwdB14DDQxZVUobHx9VAElKUwcdCw4ZFwteBA9KWEQNHRQdG0deFFZCCg==",
         "icono": "https://i.ibb.co/BHRH06mS/6Olfg-SQ.png",
@@ -3740,13 +3747,6 @@
         "url": "DUNGFAtKXUBdGQ8AGVcKEBQGGR8TFggNClRAQV1XAEFBSl5cAB0IXAICBUE=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfGOJKsB8PhieDLTFi6Q4R_AH8s4VsmBGHcAWj8z9YQ&s=10",
         "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TVS ENCAR",
-        "url": "DUNGFAtKXUBCBBQTARwSFwgGGVkUVwZYX0oaAkhbBUNWEUFBSwwGAUBBHBgcW1sXDF4fXERI",
-        "icono": "https://i.postimg.cc/x8pKhN6j/tvs.png",
-        "type": "HLS",
         "drm_license_uri": ""
       },
       {
