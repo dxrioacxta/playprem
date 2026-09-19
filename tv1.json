@@ -858,8 +858,13 @@
         "name": "URBANO TV",
         "url": "DUNGFAtKXUAESRwDAgBRG0JGDFARVxZDQAEZHR4AUhtXC1JGSwwGBx1TERcKGEYSDQIQDl8fVhVbUx0UGQEbHx1KEA8=",
         "icono": "https://i.postimg.cc/NG2xrKR1/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "COSMOS TV",
