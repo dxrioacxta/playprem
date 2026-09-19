@@ -520,7 +520,12 @@
         "url": "DUNGFAtKXUBHGR0AWBwMFwMGBl8XGgRWVREZCgdBUh8UXwYLV05AXRtHExgLXlwAHQkHQEUGGgRZWwocFQsaHx1KEA8=",
         "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "ASPEN TV",
