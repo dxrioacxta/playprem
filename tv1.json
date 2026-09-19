@@ -763,7 +763,12 @@
         "url": "DUNGFAtKXUBFGR4KVF4LDRRcC1QDHQBHUxYZFwcOSF4XAEMdUBwdExxfHw0MVFsFCwQEQAUUFAREXAsMGREGUAMNExhRDA0eGQNYAw06QANVQEhLXQlDTktaARFA",
         "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "CAMBYRETA TV",
