@@ -714,8 +714,13 @@
         "name": "PRODUCTIVA TV",
         "url": "DUNGFAtKXUBFGR4KVF4LDRQVCl9eHQBEVgEIEQAOVgUYHBlcAQxfAh1eFAwGQ1sSGQQEQEECFgFCURARBhMbRy8bBF1TSxsYBwFaHBAWQ20TSUlEVgZCTlYDBEoVQwdX",
         "icono": "https://productiva.tv/wp-content/uploads/2020/04/icotv.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "RIO FM 105.1",
