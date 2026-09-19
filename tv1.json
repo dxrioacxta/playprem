@@ -3596,6 +3596,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "5 TV MAX",
+        "url": "DUNGFAtKXUBFBhQET0EFVhMdAh8AAEpfXhdXNjBCBUNJXAUFXUlJS1wBQ0FVGgJJORIIBV8SOB92ezZIPhMpVl4UVkIK",
+        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PARANA TV",
         "url": "DUNGFAtKXUBUFB4AGVcKEBQGGR8TFggYClRNQF0bQxEaDkQfEkkRQ0BcHxcKGV9XDUg=",
         "icono": "https://paranatv.com/__l5e/assets-v1/e905f795-49b5-4c08-9f23-8f02e922c1fb/parana-tv-logo.png",
@@ -3655,13 +3662,6 @@
         "name": "COLMENAR TV",
         "url": "DUNGFAtKXUBFBh0EQ0YFVhMdAgtDSVEGHQgRBhdAUh8VCFJcBQocGxlUXhRWQgo=",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "5 TV MAX",
-        "url": "DUNGFAtKXUBFBhQET0EFVhMdAh8AAEpfXhdXNjBCBUNJXAUFXUlJS1wBQ0FVGgJJORIIBV8SOB92ezZIPhMpVl4UVkIK",
-        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
