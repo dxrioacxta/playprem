@@ -3589,6 +3589,13 @@
         }
       },
       {
+        "name": "VISION TV VILLARICA",
+        "url": "DUNGFAtKXUBFGR4KVF4LDRQVCl9eHQBEVgEIEQAOVgUYHBlcAQxfAQ5FFRUMQ1MIDAZdHFAEHAleRgUUBARAQRwYHFtbFwxeH1xESA==",
+        "icono": "https://i.ibb.co/YF53Z8jk/vision.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PARANA TV",
         "url": "DUNGFAtKXUBUFB4AGVcKEBQGGR8TFggYClRNQF0bQxEaDkQfEkkRQ0BcHxcKGV9XDUg=",
         "icono": "https://paranatv.com/__l5e/assets-v1/e905f795-49b5-4c08-9f23-8f02e922c1fb/parana-tv-logo.png",
@@ -3627,13 +3634,6 @@
         "name": "SUCESO TV",
         "url": "DUNGFAtKXUBUFB4AGVcKEBQGGR8TFggYClROQF0bQxEaDkQfEkkRQ0BcHxcKGV9XDUg=",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/suceso-tv_6be1489757c14e7aa3d49f56491fc2e0.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "VISION TV VILLARICA",
-        "url": "DUNGFAtKXUBFGR4KVF4LDRQVCl9eHQBEVgEIEQAOVgUYHBlcAQxfAQ5FFRUMQ1MIDAZdHFAEHAleRgUUBARAQRwYHFtbFwxeH1xESA==",
-        "icono": "https://i.ibb.co/YF53Z8jk/vision.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
