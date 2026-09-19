@@ -425,8 +425,13 @@
         "name": "PARANA TV",
         "url": "DUNGFAtKXUBUFB4AGVcKEBQGGR8TFggYClRNQF0bQxEaDkQfEkkRQ0BcHxcKGV9XDUg=",
         "icono": "https://i.postimg.cc/QxVRhC4S/PARANA-TV.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "REGIONAL TV",
