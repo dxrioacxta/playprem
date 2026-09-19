@@ -690,8 +690,13 @@
         "name": "MOTOR SUR",
         "url": "DUNGFAtKXUBdGQ8AGVcKEBQGGR8TFggNClRAQV1XAEFPSl5cAB0IXAICBUE=",
         "icono": "https://app.femon.net/tv/banners/6a2857797ce5e6.17407629.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "REPUBLICA TV",
