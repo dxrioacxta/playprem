@@ -3645,6 +3645,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "CANAL 8 OBLIGADO",
+        "url": "DUNGFAtKXUBHGR0AWBwMFwMGBl8XGgRWVREZCgdBUh8UXwYLV05AXQxQHhgJD1ESC18RDl8RFV1URBdWHUEaCQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7XlWfGABIuSeanghFVu1VAX6ARw0sTT3LA&s",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TV CANINDEYÚ",
         "url": "DUNGFAtKXUBHGR0AWBwMFwMGBl8XGgRWVREZCgdBUh8UXwYLV05AXRtHExgLXlwAHQkHQEUGGgRZWwocFQsaHx1KEA8=",
         "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
@@ -3781,13 +3788,6 @@
         "name": "4DMAS NOTICIAS",
         "url": "DUNGFAtKXUBFGR4KVF4LDRRcC1QDHQBHUxYZFwcOSF4XAEMdUBwdExxfHw0MVFsFCwQEQAUUFAREXAsMGREGUAMNExhRDA0eGQNYAw06QANVQEhLXQlDTktaARFA",
         "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "CANAL 8 OBLIGADO",
-        "url": "DUNGFAtKXUBHGR0AWBwMFwMGBl8XGgRWVREZCgdBUh8UXwYLV05AXQxQHhgJD1ESC18RDl8RFV1URBdWHUEaCQ==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7XlWfGABIuSeanghFVu1VAX6ARw0sTT3LA&s",
         "type": "HLS",
         "drm_license_uri": ""
       },
