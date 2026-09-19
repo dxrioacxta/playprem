@@ -882,8 +882,13 @@
         "name": "XPRESS TV",
         "url": "DUNGFAtKXUBHGR0AWBwMFwMGBl8XGgRWVREZCgdBUh8UXwYLV05AXR9QAhgCQlMWEQQEQEERCwRQRwUKGQYZHx1KEA8=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7zRWFWcmNoLUcR6LgR9nECR0z5uW7jyr8bHI1D2ZRA&s=10",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "ALMAYA TV",
