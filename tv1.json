@@ -798,8 +798,13 @@
         "name": "TV CHAQUENA",
         "url": "DUNGFAtKXUBFGR4KVF4LDRQVCl9eHQBEVgEIEQAOVgUYHBlcAQxfBhlSGBgUQlcKGV8GGVIYGBRCVwoZXxEHRB4SCV5BECcHQ1gBQ0BdBgRXT14fXERIRgRTXw0WTRMLXBkX",
         "icono": "https://i.postimg.cc/59RqFxrr/tvchaquena.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "NEX TV",
