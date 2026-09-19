@@ -546,8 +546,13 @@
         "name": "ASPEN TV",
         "url": "DUNGFAtKXUBSHwkEVF0DHR5cC1QDHQBHUxYZFwcOSF4XAEMdBQsAFwFFBlYEREIBFgQEQFIYDAtcXg0LBC0YB0NLUAEKUUFDXAICBUFaVlYNFU0GHVATGgxYXA==",
         "icono": "https://i.postimg.cc/3NnCxv6K/aspenlogo.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "OCCIDENTAL TV",
