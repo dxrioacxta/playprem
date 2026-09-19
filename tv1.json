@@ -3549,6 +3549,13 @@
         "icono": "",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "REAL MADRID TV",
+        "url": "DUNGFAtKXUBCBAsAVl9KGRQBQV4EDQBFU0oMBl0fXREACV5BEFYdQRoJTxcAQ0ULChstBlVNSFYDBlI=",
+        "icono": "https://i.postimg.cc/05H1CK2f/Real-Madrid-Logo-Iconic-Football-Club-Emblem-PNG-Transparent-Symbol-of-Excellence-jpg.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
