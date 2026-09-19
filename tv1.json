@@ -906,8 +906,13 @@
         "name": "STACION TV",
         "url": "DUNGFAtKXUBCBBQTABwSFwgGGVkUVwZYX0oaAl0dUBQQCkFbABlfAA5VGRYTXlYFVwAeDkgcEBZDHAlLBUo=",
         "icono": "https://teleparaguay.com.py/uploads/image/69dd1ed0b79d3_518531936_122109704858935898_8233151151228875413_n.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
