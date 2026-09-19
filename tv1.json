@@ -655,7 +655,12 @@
         "url": "DUNGFAtKXUBdGQ8ABQJKGh8IFUUGVwZYX0sZGxMCUBkKFl8DVElfARxZQUlUGFQRHR4GCkUGEQEYQggZCR4GQgRXCARHXA==",
         "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "TROVADOR TV DIGITAL",
