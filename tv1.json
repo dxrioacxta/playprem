@@ -667,7 +667,12 @@
         "url": "DUNGFAtKXUBHGR0AWBwXDAIXDlwCGAFeXQkZCFwMXh1WCV5EAVcDGTBDESAuUkgQDScLHEAZSj9QYBwrFRU/dT1XCARHXA==",
         "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "AGR TV DIGITAL",
