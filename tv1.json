@@ -439,7 +439,12 @@
         "url": "DUNGFAtKXUBHGR0AWBwTERwdB14DDQxZVUobHx9VAElKUwcdCw4ZFwteBA9KWEQNHRQdG0deFFZCCg==",
         "icono": "https://i.ibb.co/BHRH06mS/6Olfg-SQ.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "PARANA TV",
