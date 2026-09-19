@@ -679,7 +679,12 @@
         "url": "DUNGFAtKXUBFGR4KVF4LDRRcC1QDHQBHUxYZFwcOSF4XAEMdBR8CBhkeER4XQ0RLCBwTFl0ZChEZX1cNSA==",
         "icono": "https://i.postimg.cc/HWKzZHcF/Whats-App-Image-2026-04-26-at-4-27-05-PM.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "MOTOR SUR",
