@@ -775,7 +775,12 @@
         "url": "DUNGFAtKXUBSHBYQU0YSVgMGHVQRFAxZVUobHx9BQQlWBlZfBgECFxtQBA9KVFMJGgkACkURDRMYUQwNHhkDWAMNOkADUUxIQl0HSEhLWgERQA==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5HRDgci6pxuRTVVYqEH0rW7Ofta9VzmNHw&s",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "RCC",
