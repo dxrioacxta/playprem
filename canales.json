@@ -154,47 +154,6 @@
     ]
   },
   {
-    "name": "🥊UFC EVENTO (sábado, 19 de setiembre)",
-    "samples": [
-      {
-        "name": "OPC 1 - ESPAÑOL",
-        "url": "DUNGFAtKXUBCBAsAVl8cEBRcHEVfFQxBV1VWABofDgMNF1JTCUUAEx1QHRYQWUZV",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "OPC 2 - INGLÉS",
-        "url": "DUNGFAtKXUBCBAsAVl8cEBRcHEVfFQxBV1VWABofDgMNF1JTCUUAEx1QHRYQWUZW",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "OPC 3 - PORTUGUÉS",
-        "url": "DUNGFAtKXUBCBAsAVl8cEBRcHEVfFQxBV1VWABofDgMNF1JTCUUAEx1QHRYQWUZX",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "⚽️DEPORTES FULL ARG",
     "samples": [
       {
@@ -5072,6 +5031,47 @@
         "icono": "https://i.postimg.cc/xjk3pVXt/download-85.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "🥊UFC EVENTO (sábado, 19 de setiembre)",
+    "samples": [
+      {
+        "name": "OPC 1 - ESPAÑOL",
+        "url": "DUNGFAtKXUBCBAsAVl8cEBRcHEVfFQxBV1VWABofDgMNF1JTCUUAEx1QHRYQWUZV",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "OPC 2 - INGLÉS",
+        "url": "DUNGFAtKXUBCBAsAVl8cEBRcHEVfFQxBV1VWABofDgMNF1JTCUUAEx1QHRYQWUZW",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "OPC 3 - PORTUGUÉS",
+        "url": "DUNGFAtKXUBCBAsAVl8cEBRcHEVfFQxBV1VWABofDgMNF1JTCUUAEx1QHRYQWUZX",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   }
