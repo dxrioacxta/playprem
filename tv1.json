@@ -4089,6 +4089,18 @@
         "icono": "https://i.postimg.cc/cH6VHzD9/User-Files-image-2016-Logos-fox.gif",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "NBC SPORTS",
+        "url": "DUNGFAtKXUBCBAsAVl9KGRQBQV4EDQBFU0oMBl0fXREACV5BEFYdQRoJTxcAQ0ULChstBlVNSFwPBA==",
+        "icono": "https://i.postimg.cc/9QftN7nc/NBC-Sports-2023-svg-utm-source-en-wikipedia.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
