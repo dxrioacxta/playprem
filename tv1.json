@@ -1002,6 +1002,18 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "prueba",
+        "url": "DUNGFAtKXUBCERRIR0tJHRQVCgFDVxFeVQtWEx0CHwAASlRREQpdAQpCAxAKWR1SGRJGXQdES10PHRYXHB4GXxdUB0JUAh0CXTtYFxY2ZwY7Lz1dO1gXFjZnBjsvPV0bQxEXFlpHHFcZHAtUCFcIBEdc",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
