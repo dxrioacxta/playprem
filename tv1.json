@@ -4102,7 +4102,12 @@
         "url": "DUNGFAtKXUBdEUhdX1ZKCwVdGVgGFkpUUwoZHBccHwARFQhBEAoVEwIMEhwMWUEUFwIGCkI=",
         "icono": "https://i.postimg.cc/sXf3JqhZ/J5aurrb.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://la18hd.su",
+          "Referer": "https://la18hd.su/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
