@@ -4089,6 +4089,13 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "PLUTO DEPORTES",
+        "url": "DUNGFAtKXUBbHQlXGUcPVwAeGhxFHQZTV1RPERReUkhMBwcCVEESQ1cHRUhLWgERQA==",
+        "icono": "https://i.postimg.cc/Y2bhTf2q/color-Logo-PNG.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
