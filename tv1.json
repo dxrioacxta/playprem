@@ -4101,7 +4101,7 @@
         "name": "BEIN SPORTS",
         "url": "DUNGFAtKXUBdEUhdX1ZKCwVdGVgGFkpUUwoZHBccHwARFQhBEAoVEwIMEhwMWUEUFwIGCkI=",
         "icono": "https://i.postimg.cc/sXf3JqhZ/J5aurrb.png",
-        "type": "CLEARKEY",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://la18hd.su",
