@@ -74,12 +74,7 @@
         "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lsgObtLlML6raQi7/pEvuItUHGko0+nkdmSlAoqIv8TQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": ""
-        }
+        "drm_license_uri": ""
       }
     ]
   },
