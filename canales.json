@@ -51,18 +51,6 @@
         }
       },
       {
-        "name": "TIGO SPORTS OPC 2",
-        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqqPRxM6rSApkrmCJsTB/7ac",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "https://player.angelthump.com",
-          "Referer": "https://player.angelthump.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "EVENTOS HD | 1",
         "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+kCXOKAPRrVv2dTGL3nJHi96uEJZENN99RipzuNd8nRqmKF2NXAFvvpml+Af7qKLtQ=",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
