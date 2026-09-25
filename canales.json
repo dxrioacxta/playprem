@@ -2423,9 +2423,9 @@
       },
       {
         "name": "WIN SPORTS + HD",
-        "url": "SbYkDcleQhjCK7BeM8VPFP2FMFUOL9yv4HvuLp86/YQH898ZcBzq9LSeLgx0kqpKhumajWnFNAsVsIS2Bqyjcw==",
+        "url": "aNpWiUAtTav17b4A/ttyRuaIZTzfxvJs6qOmtmycXUB/MvIjoOuJli3h+rcUQjfi33e+9A0jfKdCRfrAvK4Iig==",
         "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
