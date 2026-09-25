@@ -25,5 +25,18 @@
     "plan": "Plan",
     "vencimiento": "11 de octubre de 2026",
     "estadoPago": "Pendiente"
+  },
+  {
+    "id": "cli_1790369011685",
+    "nombre": "Juan Gonzales",
+    "cedula": "7.917.816",
+    "direccion": "py",
+    "celular": "09876543210",
+    "cantidad": "2",
+    "precio": "818.188",
+    "cicloDias": 31,
+    "plan": "PLAN WIFI MAS TODO",
+    "vencimiento": "26 de octubre de 2026",
+    "estadoPago": "Pendiente"
   }
 ]
