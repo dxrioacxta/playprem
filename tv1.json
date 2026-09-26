@@ -933,9 +933,9 @@
       },
       {
         "name": "TIGO EVENTOS HD 1",
-        "url": "DUNGFAtKXUBVQxIfQEMTFgFDCQYECEtUXgsNFBQdXh4NS1lXEFcfBxseBkhKBQcHGUJDV1VFSlQOBlRORRAKVRZPAQ4LXBkTF1sHQhxKXlwAHQhcAkEU",
+        "url": "DUNGFAtKXUBdEh4KGVALAgoGGR8TFggYQRcQQUJeHgMKDQYCVVcVBApfBApUR0tLCBwTFl0ZChEZX1cNSA==",
         "icono": "https://i.postimg.cc/LXQ2mh6Y/TIGOAPP.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": "DUNGFAtKXUBBHBgcGlQRFBwGGR8TFggZUxZXHQcBVR9WBEdbSwoVARpdBApLR1oUV08ZCkgZHVgGUVJKEUBeBxFMA1IGVksWS1oIExtUVFNUShZEXVVISkNcVx1FRUYJAxYdBg8BB0kUE1wCEx1cBQRdGhZAXlRAQVcGCgc=",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
