@@ -3631,6 +3631,13 @@
         "icono": "https://i.postimg.cc/FKyh1VKp/record-415eada9b66b40ac82e498324294f0d4.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FUTURA",
+        "url": "DUNGFEJfXV4GQFddBBxQQV5EWQtISV0EHSItJCc9cDg9Sl5cAB0IXAICBUE=",
+        "icono": "https://i.postimg.cc/8CGBDSH5/960px-Canal-Futura.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
