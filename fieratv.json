@@ -3,6 +3,13 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
+        "name": "GEN HD",
+        "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1769433128.m3u8?k=8d68ccea5a6b6d4eef7e7897b3189c868fba8d99c78a94b194ffb24d04f346fc&exp=1790544887",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS HD 1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -578,18 +585,6 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvLkFN7kPYQjj41H-EcPSmqD6ceZJ3ZiU5pA&s",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "GEN HD",
-        "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwNjgxNTMzIiwic2lwIjoiMTM4LjU5LjIyNi4xMjYiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRW5jdWVudHJvL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiZGEyYWJlYjU2YzllMDY5MyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjMxNSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.LDgJs3Pg5yyqTYGb7-jMrWSmz4-KJhmGZeI5ARFiYXnEVY3LU5vbSfOed0cS_sBgAgIFPmb85hyFSVnbukwDBA==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
