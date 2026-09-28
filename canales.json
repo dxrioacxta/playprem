@@ -82,13 +82,6 @@
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "Prueba",
-        "url": "tLqcuKEgPhd2QIJ+mNQBNeoYn84H8IfczXoVpVLK8As3MZJb5zhyBOQSLFPwyg14DR4PRibackpxOmBfMu80xgt5S81SJ4wD1V4rDYRJpnHy9psqWQBfmh0t2DQwtQk3DauYxg+JXDX5kczrMSSqYA==",
-        "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
       }
     ]
   },
