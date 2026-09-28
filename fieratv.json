@@ -3,6 +3,13 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
+        "name": "LIBERTAD VS OLIMPIA",
+        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/H8_GYhTa1S8W_uvniVJfyrpIVVaI5El6y-wLNZcuo1MWfFcJCUrt_lDYUp9F93QwV46zr_dRLmJ4oSaiaoSw5Q",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN HD",
         "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w1634221656.m3u8?k=610be84ccff8d7ae195954638ebc1fc0fc877cef8eb671cb5457152afed8c48c&exp=1790606962",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
