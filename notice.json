@@ -1,11 +1,9 @@
 {
   "active": true,
-  "notice_id": "notice_2026_02",
+  "notice_id": "notice_2026_03",
   "title": "EVENTOS DEL DÍA 🤩",
-  "message": "",
-  "images": [
-    "https://i.ibb.co/Z6PN81kY/IMG-20260930-WA0355.jpg"
-  ],
+  "message": "Copa Paraguay: Independiente FBC vs Nacional Asunción\n17:00\n🟢 TIGO SPORTS \n\nCopa Paraguay: Cerro Porteño vs Rubio Ñú\n19:30\n🟢 TIGO SPORTS",
+  "images": [],
   "carousel_interval_ms": 3000,
   "button_type": "CERRAR"
 }
