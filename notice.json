@@ -1,11 +1,10 @@
 {
   "active": true,
-  "notice_id": "notice_2026_10_01",
+  "notice_id": "notice_2026_02",
   "title": "EVENTOS DEL DÍA 🤩",
-  "message": "¡Nuevas películas y canales agregados en HD! Disfruta del mejor contenido.",
+  "message": "",
   "images": [
-    "https://i.imgur.com/banner_ejemplo1.jpg",
-    "https://i.imgur.com/banner_ejemplo2.jpg"
+    "https://i.ibb.co/Z6PN81kY/IMG-20260930-WA0355.jpg"
   ],
   "carousel_interval_ms": 3000,
   "button_type": "CERRAR"
