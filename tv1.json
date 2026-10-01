@@ -3673,10 +3673,15 @@
       },
       {
         "name": "GETV",
-        "url": "Rx7i+3O3FqG9uyEI7ED1gp12udoJj3A0nBtqdRzvFXFrM18JcegPJXH8o+v2p472Z/H96OyletW6L0Z7D5PqQQ5tMsL0EVjrpJpsdyOZAtzKL4AVShGH5CP/jCqlAY27KLZzARTCMhMbEBY+qWHowkLEf7g5FUs5UcwAGjw49ca5tXvbdG4WX207W2k0cCa+NzeaeV2c7qbfvjVlbER50mT033AytIpzfTkFTo1Pr+tJ/0UWhQrtOomv4urwsmOdrHy/Fm2S5AIeUqyPxRkMFw==",
+        "url": "NX6A1qjd6hQ9+hc3UVSSwOSvPTqaID8yG3Cjd8BwJF2OG52icp/jsoGa1qE2yy4zGbX1A1Au7D3dtmg+BO4fzGW3tKuNEAawm4BuJHZkn+UehDiyTgAj4i897U39iFGQ",
         "icono": "",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
