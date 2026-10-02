@@ -363,9 +363,9 @@
     "name": "📺PARAGUAY INTERIORES",
     "samples": [
       {
-        "name": "ORIGINAL TV 95.9",
-        "url": "SNf/g9Te796qCj6e6kVw/IGm561r8jYoEH2y/ZedtSKsdRIQFWP9hSc/H/IU7nLR4nOvFIbvqbIOrwxnf0e72Q==",
-        "icono": "https://i.postimg.cc/QMjsqsm1/ORIGINAL-TV.jpg",
+        "name": "TRIUNFO TV 93.1",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+m/Jf2srVqNRbfMCXH2pjM0AkyvEV2TPMNJQT8NfquIMw==",
+        "icono": "https://i.postimg.cc/02gp2HZJ/TRIUNFO-FM.jpg",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
@@ -375,9 +375,9 @@
         }
       },
       {
-        "name": "TRIUNFO TV 93.1",
-        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+m/Jf2srVqNRbfMCXH2pjM0AkyvEV2TPMNJQT8NfquIMw==",
-        "icono": "https://i.postimg.cc/02gp2HZJ/TRIUNFO-FM.jpg",
+        "name": "ORIGINAL TV 95.9",
+        "url": "SNf/g9Te796qCj6e6kVw/IGm561r8jYoEH2y/ZedtSKsdRIQFWP9hSc/H/IU7nLR4nOvFIbvqbIOrwxnf0e72Q==",
+        "icono": "https://i.postimg.cc/QMjsqsm1/ORIGINAL-TV.jpg",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
