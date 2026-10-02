@@ -515,6 +515,18 @@
     "name": "CANALES INACTIVOS - TEMPORALME SIN SERVICIO",
     "samples": [
       {
+        "name": "GEN HD",
+        "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMTEzNTU1Iiwic2lwIjoiMTM4LjU5LjIyNi4xNDQiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRW5jdWVudHJvL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2RkOWFlYzZiNDAzMDlmZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Bt5rP_Dw9A4CZ5ocQ3dxr0cQLXIYXKGG7ujmITxEjqyXt0UJkRw_Nt2ZhK1qi8CzrGroo3TO-RUAsHtj9Ic11w==/live/c7eds/GEN_TV/SA_Live_dash_encsa_dash_full_e_7CF9BB041AD89713AD8CF4CF/GEN_TV.mpd",
+        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py/",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
+        }
+      },
+      {
         "name": "5 DIAS PY",
         "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMTEzNTU1Iiwic2lwIjoiMTM4LjU5LjIyNi4xNDQiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRW5jdWVudHJvL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2RkOWFlYzZiNDAzMDlmZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Bt5rP_Dw9A4CZ5ocQ3dxr0cQLXIYXKGG7ujmITxEjqyXt0UJkRw_Nt2ZhK1qi8CzrGroo3TO-RUAsHtj9Ic11w==/live/c4eds/5_Dias_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/5_Dias_PY.mpd",
         "icono": "https://i.ibb.co/Pg6v5zn/images.png",
@@ -596,18 +608,6 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "GEN HD",
-        "url": "https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxMTEzNTU1Iiwic2lwIjoiMTM4LjU5LjIyNi4xNDQiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRW5jdWVudHJvL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiM2RkOWFlYzZiNDAzMDlmZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMTUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.Bt5rP_Dw9A4CZ5ocQ3dxr0cQLXIYXKGG7ujmITxEjqyXt0UJkRw_Nt2ZhK1qi8CzrGroo3TO-RUAsHtj9Ic11w==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-        "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py/",
-          "Referer": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'\\"
         }
       },
       {
