@@ -1821,7 +1821,15 @@
   },
   {
     "name": "📺LPF ARG",
-    "samples": []
+    "samples": [
+      {
+        "name": "LPF 1",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZTZ1wB33A/KsQyBMimfBFXV",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺NEUQUEN ARG",
