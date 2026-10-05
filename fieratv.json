@@ -3400,6 +3400,18 @@
         }
       },
       {
+        "name": "HBO 2",
+        "url": "https://live1-ott.izzigo.tv/8/out/u/dash/HBO2-HD-H265/default.mpd",
+        "icono": "https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true",
+        "type": "CLEARKEY",
+        "drm_license_uri": "91bd6f829d06498c21e212acf1c5fa07\":\"148a358284689e40b22074c244c535da",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "XXX BRAZZERS HD",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206239.m3u8",
         "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
