@@ -3388,6 +3388,18 @@
     "name": "CANALES DE PRUEBA",
     "samples": [
       {
+        "name": "LAS ESTRELLAS",
+        "url": "RnoLZDeYGU8BsLnfbZUIkd6DtYfTWyEesg5dc8d10dMg==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "de5029988df5bb682986df4fb5ed3e70\":\"0170fc52a8dc136055e0cfd0a77d5761",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar",
+          "User-Agent": ""
+        }
+      },
+      {
         "name": "XXX BRAZZERS HD",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/206239.m3u8",
         "icono": "https://logos-world.net/wp-content/uploads/2021/09/Brazzers-Logo.png",
