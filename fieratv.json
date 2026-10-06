@@ -10,15 +10,15 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS B",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/chunks.m3u8?lb_backend_hint=6",
+        "name": "EVENTOS A",
+        "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS A",
-        "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/79b22e61b889a48fab2a1fbc4489faae/manifest/video.m3u8",
+        "name": "EVENTOS B",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/chunks.m3u8?lb_backend_hint=6",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
