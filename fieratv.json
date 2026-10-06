@@ -92,6 +92,13 @@
     "name": "DEPORTES ESPN 🇦🇷 FOX SPORTS",
     "samples": [
       {
+        "name": "DSPORTS",
+        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19695.m3u8",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ESPN",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19702.m3u8",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/espn_660a27baf43344968326c178550f1f3f.png",
@@ -179,13 +186,6 @@
         "name": "TYC SPORT",
         "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/327048.m3u8",
         "icono": "https://i.ibb.co/60QvHcnr/R-2.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "DSPORTS",
-        "url": "http://lotv.plus:80/fieratvpro/R745DQeSrm/19695.m3u8",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
         "type": "HLS",
         "drm_license_uri": ""
       },
