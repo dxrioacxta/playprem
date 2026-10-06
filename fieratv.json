@@ -3,6 +3,13 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
+        "name": "EVENTOS HD 1",
+        "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "GEN SD",
         "url": "https://zn1gen.desdeparaguay.net/gentv/gentv_py_baja/playlist.m3u8?k=fdb177f3c404bf2580b6924051ac22be6f7e542907082172e0036a1fff818709&exp=1790981680",
         "icono": "https://imagizer.imageshack.com/img922/130/jGRY9k.jpg",
@@ -15,13 +22,6 @@
         "icono": "https://play-lh.googleusercontent.com/H8_GYhTa1S8W_uvniVJfyrpIVVaI5El6y-wLNZcuo1MWfFcJCUrt_lDYUp9F93QwV46zr_dRLmJ4oSaiaoSw5Q",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS HD 1",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0"
       },
       {
         "name": "EVENTOS HD 2",
