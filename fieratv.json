@@ -3,18 +3,18 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
-        "name": "EVENTOS SD",
-        "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/69ff65ecfd5549dbe80508eaecc171b7/manifest/video.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://api.cloudflare.com/client/v4/accounts/81a3b09c986b2679b7dd9c9bfe2b2c44/stream/75fd9deae2995004865c4d29750d9207"
-      },
-      {
         "name": "EVENTOS HD 1",
         "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS SD",
+        "url": "https://customer-99q9mx4qkcywvxqj.cloudflarestream.com/69ff65ecfd5549dbe80508eaecc171b7/manifest/video.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://api.cloudflare.com/client/v4/accounts/81a3b09c986b2679b7dd9c9bfe2b2c44/stream/75fd9deae2995004865c4d29750d9207"
       },
       {
         "name": "EVENTOS A",
