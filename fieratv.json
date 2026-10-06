@@ -10,6 +10,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "EVENTOS B",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/fieratv2/chunks.m3u8?lb_backend_hint=6",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS HD 2",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
