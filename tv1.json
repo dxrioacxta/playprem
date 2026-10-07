@@ -399,6 +399,18 @@
         }
       },
       {
+        "name": "FARRA TV",
+        "url": "JzhG8B93u7TVPS36gBGmuH2HGe21fqzphlrgkaYpdGhO0LrE7PlCyb7YHX6M/0XmflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "5 TV MAX",
         "url": "l6O+gEV00o4SyoRjdrSmi8bJLPkoioia/pNDovGNIsG19tJizOeqMPbldDscxGESIS4Dbqup+XvjQ7Xi31/3qv88pmEpAmIMFpgcURfEkrg=",
         "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
@@ -486,18 +498,6 @@
         "name": "RED DIGITAL",
         "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgDCodYFXDPpvHKyy4ej14VpTpWTTLZzByL/GptNiw4EjIYIRyntf0aUfoQVwYvr030ehDiyTgAj4i897U39iFGQ",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkBbWlas-Rq_BWuZQiF96lYKbYCw6AFlffucR0VI-Bw&s",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FARRA TV",
-        "url": "JzhG8B93u7TVPS36gBGmuH2HGe21fqzphlrgkaYpdGhO0LrE7PlCyb7YHX6M/0XmflgxnFFmNEH2w+7YqBvqHw==",
-        "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
