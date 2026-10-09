@@ -3021,18 +3021,6 @@
         "icono": "https://i.postimg.cc/Bv9nytCm/4aaa3b3c0476aceafeecda500b65159d-logotipo-de-historia.png",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "LOVE NATURE",
-        "url": "SbYkDcleQhjCK7BeM8VPFP2FMFUOL9yv4HvuLp86/YQH898ZcBzq9LSeLgx0kqpK0OcwmlhUMzWh1Kayl0IwTA==",
-        "icono": "https://i.postimg.cc/K8sJhPN6/love-nature-logo-white-rgb.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
