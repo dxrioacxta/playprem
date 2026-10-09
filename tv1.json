@@ -2687,18 +2687,6 @@
         }
       },
       {
-        "name": "DE PELICULA",
-        "url": "SbYkDcleQhjCK7BeM8VPFP2FMFUOL9yv4HvuLp86/YQH898ZcBzq9LSeLgx0kqpKws38hxSZEdDoQx1Qfm+kIA==",
-        "icono": "https://i.postimg.cc/6qKj7VMD/de-pelicula-logo-F97A15125D-seeklogo-com.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "SONY CINE",
         "url": "2Ih6O3sur6px/oW+DCWwjWAP0gVykaMnI3O+eF65pb26NfZVTCHnP5mB79dUDCsP/zymYSkCYgwWmBxRF8SSuA==",
         "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
