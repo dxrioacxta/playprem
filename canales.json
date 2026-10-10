@@ -2316,6 +2316,13 @@
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
     "samples": [
       {
+        "name": "DANZ F1",
+        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqpk8gTCF6A0JcstzZXRDAJX",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "LaLiga Hypermotion",
         "url": "Y5L93yfMfp5yLjxZjbf3ngMmISBSsc4UySgCL6rZb6RfXx1TZPcyrM0AvUIBNVN1wc1E7nzaEeK1UtG3+OWllwDDKHhro80XyXWCy0YP4dBihdjVwBb76ZpfgH+6ii7U",
         "icono": "https://i.imgur.com/IwRyp8b.png",
