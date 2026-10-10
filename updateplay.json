@@ -1,11 +1,11 @@
 {
 
-  "version": "9.0",
+  "version": "1.0",
 
   "url": "https://play-fulltv.com.ar/playpro/update.apk",
 
   "cambios": "Nueva Actualización 9.0",
 
-  "forzada": false
+  "forzada": true
 
 }
