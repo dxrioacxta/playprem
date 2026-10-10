@@ -4457,9 +4457,9 @@
       },
       {
         "name": "UNIVERSO",
-        "url": "U3vgSJjkaAuCBS3WvGiswaNIBIBwUSLVSzqxNKU+ikjmEs4ndHylZ4EVcoq6Z8WyGWmruznDqW55hKvEDJ6A/w==",
+        "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHsSuo84uJdPlUqkUbJtAJ+2",
         "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": ""
       }
     ]
