@@ -263,6 +263,13 @@
     "name": "PARAGUAY🇵🇾1",
     "samples": [
       {
+        "name": "TRECE HD",
+        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+        "icono": "https://bestleague.world/img/trecepy.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TELEFUTURO HD",
         "url": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
         "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
@@ -286,18 +293,6 @@
           "Origin": "https://portal.app.flow.com.uy/",
           "Referer": "https://portal.app.flow.com.uy",
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-        }
-      },
-      {
-        "name": "TRECE HD",
-        "url": "https://edge-live08-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNzU2NzY1Iiwic2lwIjoiMTM4LjU5LjIyNC45MCIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9Gb3hfU3BvcnRzX1ByZW1pdW5fSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI3ZDgyY2IxYzM0MGE4MTY1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNiIsImF1ZCI6IjMxMiIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.iKQE88OSbnWcgx6zqY5f1G5BfKJQkcKuXQuRZPtffjjmfNGpqJuaxfoKmvKDLiCkGzi47QRMVVgk8fDKC9IvYQ==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-        "icono": "https://bestleague.world/img/trecepy.webp",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://play-fulltv.com.ar/mundo/api/results.php/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
