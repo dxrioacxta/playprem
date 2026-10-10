@@ -15,6 +15,18 @@
         "type": "PELICULA"
       },
       {
+        "name": "No Entrar",
+        "url": "http://goovdme.967sd1f.homes/vod/2A7E1C54636E4CE3ADF761F8241BCF82_media.ts",
+        "icono": "https://image.tmdb.org/t/p/w500/1gHygrBcGU2dL9DHcvnj4FJc8pF.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/w500/1gHygrBcGU2dL9DHcvnj4FJc8pF.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w500/1gHygrBcGU2dL9DHcvnj4FJc8pF.jpg",
+        "descripcion": "Un grupo de exploradores investiga un viejo hotel abandonado y se encuentran con un extraño ser sobrenatural y un grupo competidor que busca un legendario tesoro escondido. Adaptación del libro homónimo de David Morrell.",
+        "anio": "2026",
+        "genero": "Terror",
+        "duracion": "91",
+        "type": "PELICULA"
+      },
+      {
         "name": "Toy Story 5",
         "url": "http://45.226.28.9:8085/cloud_1/Toy.Story.5.2026.720.lat.mp4",
         "icono": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
