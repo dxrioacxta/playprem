@@ -2447,15 +2447,10 @@
       },
       {
         "name": "WIN SPORTS + HD",
-        "url": "aNpWiUAtTav17b4A/ttyRuaIZTzfxvJs6qOmtmycXUB/MvIjoOuJli3h+rcUQjfi33e+9A0jfKdCRfrAvK4Iig==",
+        "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHtyz+N/KYKlaZc022mYpXMZ",
         "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png",
         "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "Win Sports HD",
