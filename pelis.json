@@ -3,6 +3,18 @@
     "name": "RECOMENDADOS",
     "samples": [
       {
+        "name": "Spider-Man: Un nuevo dia",
+        "url": "https://disk.yandex.com/i/GD4F2qlHepfwPA",
+        "icono": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
+        "descripcion": "A medida qué Spider-Man está en la cima de su carrera protegiendo la ciudad de Nueva York, una serie de crímenes inusuales lo arrastran a una red de misterios más grande de lo que jamás haya enfrentado.",
+        "anio": "2026",
+        "genero": "Ciencia ficción, Acción, Aventura",
+        "duracion": "150",
+        "type": "PELICULA"
+      },
+      {
         "name": "Toy Story 5",
         "url": "http://45.226.28.9:8085/cloud_1/Toy.Story.5.2026.720.lat.mp4",
         "icono": "http://45.226.28.9:8085/poster/w600/8631787361907b.jpg",
