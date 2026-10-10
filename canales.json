@@ -3,6 +3,13 @@
     "name": "⚽FÚTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
+        "name": "TIGO SPORTS HD | EVENTOS",
+        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqoUfuNlZOXaMhfChyb0Vhjn",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO FULL ✅",
         "url": "6Ji4+Hl9nxB8r3v96JTTENDj9eGbldWNRJ+OJerlce2X0twOXiSM7ELJW/DuwjroInzjwvPWkrLXTrvaEeL4bwVR/zJQiPTryfg1+xuGtdgyfLMGTlXRmJt5ha/am7Z4",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
@@ -37,13 +44,6 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "TIGO SPORTS HD | WEB",
-        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqoUfuNlZOXaMhfChyb0Vhjn",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png",
-        "type": "WEBVIEW",
-        "drm_license_uri": ""
       },
       {
         "name": "EVENTOS HD | 1",
