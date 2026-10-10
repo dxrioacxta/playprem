@@ -1,9 +1,11 @@
 {
-  "active": false,
+  "active": true,
   "notice_id": "notice_2026_03",
-  "title": "EVENTOS DEL DÍA 🤩",
-  "message": "Olimpia vs Sportivo Luqueño\njueves, 01 de octubre, 19:00\nServidores disponibles\n🟢Tigo Sports",
-  "images": [],
+  "title": "PELICULAS RECIEN AGREGADO",
+  "message": "Spider-Man: Un nuevo dia\nCalidad: HD\nAudio: Latino",
+  "images": [
+    "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg"
+  ],
   "carousel_interval_ms": 3000,
   "button_type": "CERRAR"
 }
