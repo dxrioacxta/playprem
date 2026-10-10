@@ -2316,6 +2316,13 @@
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
     "samples": [
       {
+        "name": "MAX 2",
+        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqrQE3hJ06wT0B+oSAFrGwJ6",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/53/HBO_Max_logo_%28May_2025%29.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "UNIVERSO",
         "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHsSuo84uJdPlUqkUbJtAJ+2",
         "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
