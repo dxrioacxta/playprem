@@ -2323,6 +2323,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "DANZ LALIGA",
+        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqrk3XzMgjRn89XT9MMUTYzVYoXY1cAW++maX4B/uoou1A==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "LaLiga Hypermotion",
         "url": "Y5L93yfMfp5yLjxZjbf3ngMmISBSsc4UySgCL6rZb6RfXx1TZPcyrM0AvUIBNVN1wc1E7nzaEeK1UtG3+OWllwDDKHhro80XyXWCy0YP4dBihdjVwBb76ZpfgH+6ii7U",
         "icono": "https://i.imgur.com/IwRyp8b.png",
