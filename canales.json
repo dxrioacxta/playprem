@@ -2316,6 +2316,13 @@
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
     "samples": [
       {
+        "name": "UNIVERSO",
+        "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHsSuo84uJdPlUqkUbJtAJ+2",
+        "icono": "https://i.postimg.cc/sDQGfqyR/images-7.jpg",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TELEMUNDO",
         "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHtTvnXpPvcxtC6GlcawgI35YoXY1cAW++maX4B/uoou1A==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
