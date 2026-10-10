@@ -2316,6 +2316,13 @@
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
     "samples": [
       {
+        "name": "LIGA 1 MAX",
+        "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHuaxCUytR8TVynj96GGieH6",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/61/Liga1max.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ESPN DEPORTES",
         "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHuiRzUe34dC9oDS4S6AjnKXIhzIzREXXtASlnejtkSmsQ==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png",
