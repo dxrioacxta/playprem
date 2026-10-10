@@ -2316,6 +2316,13 @@
     "name": "⚽DEPORTES INTERNACIONAL 🌎",
     "samples": [
       {
+        "name": "TELEMUNDO",
+        "url": "PR6U9ku2wu9kMcFTfuVDUBDqgqY455U81lVEn+NATHtTvnXpPvcxtC6GlcawgI35YoXY1cAW++maX4B/uoou1A==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",
+        "type": "WEBVIEW",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FOX ONE",
         "url": "tLqcuKEgPhd2QIJ+mNQBNeoYn84H8IfczXoVpVLK8As3MZJb5zhyBOQSLFPwyg14DR4PRibackpxOmBfMu80xgt5S81SJ4wD1V4rDYRJpnHy9psqWQBfmh0t2DQwtQk3awuAuCowOxw2cDhy48ZRdQ==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fox_One_Logo.png",
