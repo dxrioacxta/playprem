@@ -3,6 +3,18 @@
     "name": "RECOMENDADOS",
     "samples": [
       {
+        "name": "El corazón de la bestia",
+        "url": "https://www.poseidonhd2.co/pelicula/1263337/el-corazon-de-la-bestia",
+        "icono": "https://i.ibb.co/27rqr1CH/k-VDHPDggier9ci-Mc8-Xglinq1j-Wv.jpg",
+        "iconoHorizontal": "https://i.ibb.co/27rqr1CH/k-VDHPDggier9ci-Mc8-Xglinq1j-Wv.jpg",
+        "iconpng": "https://i.ibb.co/27rqr1CH/k-VDHPDggier9ci-Mc8-Xglinq1j-Wv.jpg",
+        "descripcion": "Tras un terrible accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate, Odin, quedan varados en lo profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal",
+        "anio": "2026",
+        "genero": "Aventura/Suspenso",
+        "duracion": "101",
+        "type": "WEBVIEW"
+      },
+      {
         "name": "Spider-Man: Un nuevo dia",
         "url": "http://goovdme.967sd1f.homes/vod/11CF928EF2494C23A4B0284DCCFE79F5_media.ts",
         "icono": "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg",
