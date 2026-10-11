@@ -3688,6 +3688,18 @@
     "name": "📺DEPORTES 2026",
     "samples": [
       {
+        "name": "DANZ F1",
+        "url": "Hn/nIUf4UxHj+VX4HAs5I9gh59NBL87vJHWVyOomwxY66DDbVlrCmaDBGwkDZG2gjc+vssGMzv2a7XB3E48rKn5YMZxRZjRB9sPu2Kgb6h8=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "DIRECTV 1",
         "url": "RwKyEsEi3ptEu9Xc85Eay/eXm2PQE2lbYjzI2WJEYBGXcuGvRZr6uJ7sX2Dgs31PfROg5qs48KQcT+45qy5zEU0tYxaqxBMO5A8XEFzj0NIskb4VgxkxKxSuh3CU1OPIpX0sITLBCXox8WONYn0JgUllFVS7jCcVL+BtpMkrLRlihdjVwBb76ZpfgH+6ii7U",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO",
