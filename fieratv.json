@@ -3,6 +3,13 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
+        "name": "EVENTOS HD PLAY",
+        "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+        "icono": "https://play-lh.googleusercontent.com/H8_GYhTa1S8W_uvniVJfyrpIVVaI5El6y-wLNZcuo1MWfFcJCUrt_lDYUp9F93QwV46zr_dRLmJ4oSaiaoSw5Q",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "EVENTOS 1",
         "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -13,13 +20,6 @@
         "name": "EVENTOS 2",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS PLAY",
-        "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
-        "icono": "https://play-lh.googleusercontent.com/H8_GYhTa1S8W_uvniVJfyrpIVVaI5El6y-wLNZcuo1MWfFcJCUrt_lDYUp9F93QwV46zr_dRLmJ4oSaiaoSw5Q",
         "type": "HLS",
         "drm_license_uri": ""
       },
