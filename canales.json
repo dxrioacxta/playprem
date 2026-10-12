@@ -48,10 +48,10 @@
         "drm_license_uri": ""
       },
       {
-        "name": "Prueba2",
-        "url": "GeT0SPFLIDlKe5q2EMIIYezBVlRy4K9TiMtWeS1dXp6Cv2vjYbrQ/e2CJBy/WCX7T797p5em2oDwn3iKao7H2nrBmrVLjkmJraB0OAp5ZAg=",
+        "name": "Prueba3",
+        "url": "wYA1asWNX4aDvOmFOx1WPx9hEdT7wateDvTdCb2NbZKRpG38KJ0NA2NA8fIaolFr",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
