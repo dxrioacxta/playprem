@@ -3,7 +3,7 @@
     "name": "RECOMENDADOS",
     "samples": [
       {
-        "name": "Piratas del Caribe 2: El Cofre de la Muerte",
+        "name": "Piratas del Caribe 2: El Cofre de la Muertes",
         "url": "https://bysedikamoum.com/e/qifnkvvcr6f7",
         "icono": "https://image.tmdb.org/t/p/w500/9K7OW0q5EmagPR4OFraUXs7gVK0.jpg",
         "iconoHorizontal": "https://image.tmdb.org/t/p/w500/9K7OW0q5EmagPR4OFraUXs7gVK0.jpg\",         \"videoUrl\": [",
@@ -12,7 +12,7 @@
         "anio": "2006",
         "genero": "Aventura/Accion",
         "duracion": "150",
-        "type": "PELICULA"
+        "type": "WEBVIEW"
       },
       {
         "name": "Quiero Tu Sexo",
