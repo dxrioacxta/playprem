@@ -3,7 +3,7 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
-        "name": "EVENTOS HD 6",
+        "name": "EVENTOS 1",
         "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
