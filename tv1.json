@@ -990,6 +990,13 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Pruaba",
+        "url": "Yey9TjvHUWROimAPoKEVllbLu5OTPqklQHGb8tbohmbt6k/wr6oDB0257V8cCRMZ",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
