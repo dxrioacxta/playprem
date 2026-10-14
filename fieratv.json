@@ -10,6 +10,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "EVENTOS HD 5",
+        "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "COPA PARAGUAY",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -61,13 +68,6 @@
       {
         "name": "EVENTOS HD 4",
         "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS HD 5",
-        "url": "https://stmv3.voxtvhd.com.br/toptop/toptop/playlist.m3u8",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "HLS",
         "drm_license_uri": ""
