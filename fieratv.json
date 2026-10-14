@@ -3,6 +3,13 @@
     "name": "CANAL DE EVENTOS HD",
     "samples": [
       {
+        "name": "EVENTOS  HD 3",
+        "url": "https://videostream.shockmedia.com.ar:443/hls/yatytaytv1/yatytaytv1.m3u8",
+        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "COPA PARAGUAY",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
@@ -50,13 +57,6 @@
         "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
-      },
-      {
-        "name": "EVENTOS  HD 3",
-        "url": "https://videostream.shockmedia.com.ar:443/hls/yatytaytv1/yatytaytv1.m3u8",
-        "icono": "https://imagizer.imageshack.com/img921/8606/Z8SKr8.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "EVENTOS HD 4",
