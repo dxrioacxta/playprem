@@ -896,6 +896,13 @@
     "name": "📺TIGO SPORTS",
     "samples": [
       {
+        "name": "PRUEBA",
+        "url": "2hA2fB5MCDLWyRYo/tmIHbcztdF6GExqQYTdpv6bwBB+ZQJ+k+44RLw/aQOSQWEkOwnoStLO6bkp0GKO5xcKDvBn0hy4RrQoAuII22HZ+zC0e97sH8U5qDa4RGz/28Hls1pGwNU/6A82ZmjZ4tmjE5BMFB/XIQ8d2mOGR4eYrLQrLOMPCORg8nPMioEdrYKh7RLXKPjUxesco/IRrH0l9jjveqLloMf1d7HNL3K/yr0d/UNp+6H8zHu3emtCnyj5OL2KPl8njRYD5/Gj2J/auEGbXYFLctdf36KFk7F3oGMTAQaZmY1V3xLfgp68GdTL0B3JpTS1aYvFLPJSjTxEEjrAxaMmGx3+1yty8ZXbEcE/4j3VQLXnUNOKY+YHsyWdkRw6Tr5OJ8ZcDJiMxOlP1YTS6UK7SO+VaB+ruCPJ7lKJGKH5yiQcYQTgi6Pu0uIYoW8ckU/cpIQYnln/Phx7x6yJyieJZ9DpQf4+lzhDFTPfsGqBHgEwevrCg9SEgI+ArESiSjrPS5xC2t/Z5OdJO82+7cBjxss/51pLsEMfBZmaGP1sReiCsbgjwdiH2wiuijDUdwyj5UTMOBOnij+hs8Ez0RBAtLj4rQEfhqL0cTZtow/wgEUbVgXhRkLw73ScuWVy53kWgQnnBWJNvSVOtBl1aG4MuPlRz0ddIL+GTuHk9uh1r00LqGwwJsb89ARvz9nH+MGYw3jL3RLVzaHmtQ4DJhvlf4pFSa+Y4JyxcmWKwGlqR2VeSIVt7cFdV9y0Kv41ube3CNuBoID8iu0RWIvjwm8xP7EDd6Qt0jsAJSPLZ1klu0ZoU56med5/scib1gmsWaf7wwOEJxxb/NylWID2cGaH1Z/Kpbwv7tngJ5X+bs2ONpShA5IrDo9CTC9P052+YxU0iHjOP7KXzxdyJwgoHUE2RWhPSYEcnbmWcgQ2r1HvTuyLVC3d2Cov5cUPMlxMmkaABNP1CbpCPFeXuOuPd14WRmbEGk3DMfic/BcO0ynF+PUIVZKnXFY5yhK1ie0NB4BEQ3dRd8js3UIkobr0UcGvPQGPzC1oCgTtsBsHkcrTkmWUd4znxfGz+TNoHDC4PiPprYIBZFMhZZfvXy5l+uU7+jjKQVQs9oTDTXQRzByFAbXNBBhgppCgxBFFfOuRnUQt4Q92hTv0kmcbLxDzZe0HKJENjwq8rs3AY94SbQH2Aa40hrGyh7LQr9/FyLnz9uF1jFPaxnhPqwp60FAJIfK10tMhAYhccAcIDJ+5ml4etCWsN/oKDX3JdG2/aM5aSZOrXVjQKxJ77Qhl+4C8xJlFICmo3xEUIOU1D3yTRt+fmnTVpKSmd8qdTSQylv9a0UFB5MgV/9qjTsa5va+d33Jfbk4Oy6vqvb9UEJdxgC2UJvJQSK+ygPuJtdITzikJKNO9Z7VxuWyLCYmmnhMDghAnqI8fIOkRIhwc4EwOCmLrEn0KIafO3u3gNOE4geREljHrnlQeF4fF3AadGAmnQGT0zJCczA9EHq94FXq/Kx0CtueJ1S+Hgd8SbiZmL5Enz4jgiavpWYSnKGvHsnpLXXgSOzt0zYRKQMxgAX6G99D2sVzOHUx+5VhDCSuOJ7fwUd7xJ4V1eShOvxsMMdAElJJX1y17h/qLBZOVrNtt12cgkBDULGJfthuSjs/V4/JgAs1Det45B+k+ve72JYs/NGuLNg/avNM52OqYdGZFvn4wIFTtOMmEgDZJRuD786MhS7J4ehG2Garm6oTmlI/o7pllkkEPk3sRXMz4lthIRnVYU3axOyq71YVu1llsCLN+biOR3Up1ZQ23fg1wCG5/x4fzJ6T/LAI6jw4Un4EZJWSznp+4Fn1wZlLRXayjABXkeLt9mXFr2xz7/l/rbwN0nxztEf1dGsAYYMQDQyc=",
+        "icono": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO 1",
         "url": "LCi3xF5Z7MkI0xJkNeIwppzaJolBI+AHyMzeRq5fNCX4+zImKlPB1xJg5/JVnyzjQPTxFfLMky1XZWeRf4HKVQ==",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
