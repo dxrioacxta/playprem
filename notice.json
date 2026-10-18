@@ -1,11 +1,9 @@
 {
-  "active": false,
-  "notice_id": "notice_2026_03",
-  "title": "PELICULAS RECIEN AGREGADO",
-  "message": "Spider-Man: Un nuevo dia\nCalidad: HD\nAudio: Latino",
-  "images": [
-    "https://image.tmdb.org/t/p/w500/fBFjaDWfNslvrs6bJjknmG27wOS.jpg"
-  ],
+  "active": true,
+  "notice_id": "notice_2026_05",
+  "title": "EVENTOS 18/10",
+  "message": "DOCTOR BENJAMIN ACEVAL vs SOL DE AMÉRICA\nDomingo 18/10 - 10:00 HS\n▶️EVENTO HD | 5",
+  "images": [],
   "carousel_interval_ms": 3000,
   "button_type": "CERRAR"
 }
