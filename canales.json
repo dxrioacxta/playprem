@@ -31,7 +31,12 @@
         "url": "LF+XZvF1z3P8JjpdMRedgir+urRTdj7FN7B5NByoJqnofwYniOIzsnQ2DbHvEMxqcQ3Z0Pd7waDqu6gS6BjXqedq4ZCUBTS6bV008dwj2sqQX5vuI4E+EXrLEfGS/zls",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
       },
       {
         "name": "EVENTOS HD | 2",
