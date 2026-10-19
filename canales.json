@@ -79,7 +79,12 @@
         "url": "/J9KRUDE1w7gKuyRxC0MsRdqYlBarY9iPTK5mwPxohRxw1YirlmXgGPWT6gaSxzSjioDcAe4K8mPbgq0vNN3IQ==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+        }
       },
       {
         "name": "EVENTOS HD | 6",
