@@ -920,15 +920,10 @@
       },
       {
         "name": "TIGO 2 HD",
-        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lpCrN7XPsAjyeEhDjPx4y2Oa82bd3Xc4ufQmVZd3ahJipXlCl5Um94YEQ/f1WpJm0=",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lpCrN7XPsAjyeEhDjPx4y2Oa82bd3Xc4ufQmVZd3ahJpSl7wdFc+ZKIRqDpnbPImo=",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "TIGO + HD",
