@@ -401,9 +401,9 @@
       {
         "name": "SAN FERNANDO TV",
         "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lTtGbZwtpk7LiLbMzGTT94mEa5quMcXIKoewFZ8KnWSOdq4ZCUBTS6bV008dwj2sp7QwNLAxFYqdV8OBOOnqJr",
-        "icono": "",
+        "icono": "https://i.postimg.cc/YqVQyBKc/logo-sanfernando.webp",
         "type": "HLS",
-        "drm_license_uri": "pxrORMEYlXo3N+TE0awvGTq9Y5ElHUD1083ZEpg1tDxSXbqkoB15rhiSUWgKS+oigDuevGkFI+M55Coff5wIhg=="
+        "drm_license_uri": ""
       },
       {
         "name": "FARRA TV",
