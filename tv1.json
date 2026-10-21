@@ -769,15 +769,10 @@
       },
       {
         "name": "CAMBYRETA TV",
-        "url": "JWt/GRpz2Jr2W1d5DIyH2XikIXuHRozNK4yZH//Vr8tn24haQQhEkT8P2n7nJo5C5vfJbByKTlERUVNAMK4rdP88pmEpAmIMFpgcURfEkrg=",
+        "url": "JWt/GRpz2Jr2W1d5DIyH2XikIXuHRozNK4yZH//Vr8tn24haQQhEkT8P2n7nJo5CBw6DUrr+BfAS1ONiI59n6diQVmwcCULyqko7U4hRc9A=",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5HRDgci6pxuRTVVYqEH0rW7Ofta9VzmNHw&s",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "RCC",
