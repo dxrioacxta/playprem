@@ -896,6 +896,13 @@
     "name": "📺TIGO SPORTS",
     "samples": [
       {
+        "name": "TILINGO2",
+        "url": "SCGTe3wUnFpTU4dY/NmUXoFQmzfTjmEbIAfgjdnjwPhizpMAYNTKvcuy3vlguzkHpBKWNEEP6lplqKI0BaBz4Q==",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TILINGO",
         "url": "SCGTe3wUnFpTU4dY/NmUXoFQmzfTjmEbIAfgjdnjwPhizpMAYNTKvcuy3vlguzkHpBKWNEEP6lplqKI0BaBz4Q==",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
