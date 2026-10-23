@@ -1867,10 +1867,10 @@
     "samples": [
       {
         "name": "CANAL 7",
-        "url": "HVW0WqBZ0V9Vv1KksH8DWH8u2UCjD3WpI5uw/BzIZEWr7s+W1B5xvQUyjE8bP3IStUHGko0+nkdmSlAoqIv8TQ==",
+        "url": "SJaDv3i2fR9rX4GKeeULb03qbuPvloKVedbsOtCOH/IDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4eeC5VCW1oEbDii1B+3D/JsVjNZ1hc3l2/A0OqLtQnodehlnYfGHO7F3/BLPATOlzTcYbj5Zsvrndfa7ncQFnOq8euIVGxEHthXGv7S09sRX5stJX9qAZ8676gNFKtvsfcYUM37cYhVLce2oN4cM7qNtGutSYzIcXzVECpHkZknXSiXVXs0E99CckrKBohjx+CuOepuK9PwKKByE3PiFfb7TDp9HbmCkGqTGHcbzh8QcD2OJfrkuASTsy1KD02gxCvIX2HEgLRtFD3WHCfmrf8RT/FBtOqMWxkWwxSocyreyUQ8EHYtSbf27y1U623rr9PGV7BPAroM1hRp23Fr3Whs00ZTlYOlbUtkC1T0fcbGhB1wFrotBhmPgr6O349by5+OcDxuRq0gmsiE6oMhpqR7c/0GTESvhhGSLql2nDKWK9ozwVByWRZQiO6ATUSiD+cUREshTIQIRmkmpUb0UnveHUAnHC5k9bLNbZR3Ih6FYDMumPvItyVkqfTgMXfqZih2dAn+xRJFv2Sbugo6D+dPj/V9MhUitzDEfOtgEbsTjE5MUStD16NQRcyOAThYayu6838XtqrLw23y+1fT+/WJuuQkkpXTNFCeOr6DpWNVMgcCQb7178twQUyJZGmuOhx2yHcOax06JbEfDrcA050ycoSiv5/4/8UtY5Ay7Sc02X6gT7rm1/GoQvNTpveAWWZEFQ6LY3VdCnjNHxq/RodWxSOt6QJWq6R+LTKDBD6wUTA==",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Telefe_Neuqu%C3%A9n_2011.png/revision/latest?cb=20200304143411",
-        "type": "HLS",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOxRKngFNtX2djS8vLQK4hkFkMRXLQOWtxsP2Y5cJc5hlO6ujGCuJ5CuUZstXiDyslbbWItYTVlJsIfQRFtyT7ugZXfVw0Dblhamwtp9bCc03IGehq0g0XkVHr7PemZYc4",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOB+0jIaBNp7wXcLtf6odoQ1ZMRHQHkna3QgnzZbzaD0F13ozvU56emwH4AgeGVUNNqZ3LPJaIir+obD78br6sQ8rUbQ+dBJcDt+INziZdJnS/btI7WZDFmo+3KfxmSheA",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
