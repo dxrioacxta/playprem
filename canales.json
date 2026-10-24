@@ -57,8 +57,8 @@
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "",
-          "Referer": "",
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
         }
       },
