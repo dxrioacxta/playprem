@@ -2264,10 +2264,15 @@
       },
       {
         "name": "HISPAN TV",
-        "url": "ErnCckHxcRM2v2lZb8VUux3vvG8rZOPB2ObYayRfMQx3+aeGpLkqPCfrbTTfoVHq/zymYSkCYgwWmBxRF8SSuA==",
+        "url": "ErnCckHxcRM2v2lZb8VUux3vvG8rZOPB2ObYayRfMQz22X3KK9lE/03mplfDWm1M",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "https://www.hispantv.com",
+          "Referer": "https://www.hispantv.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "ELTORO TV HD",
