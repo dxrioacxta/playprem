@@ -121,18 +121,6 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "EVENTOS HD | 8 NEW",
-        "url": "K2epGMltpeduvtW5jRJ7/Zb7BVEtTst2eR8cGAK3lDygVXRRjXqFouK2FrYsRUNK",
-        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
