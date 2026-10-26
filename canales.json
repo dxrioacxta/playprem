@@ -2510,13 +2510,13 @@
       },
       {
         "name": "TNT SPORTS CHIILE🇨🇱",
-        "url": "SbYkDcleQhjCK7BeM8VPFP2FMFUOL9yv4HvuLp86/YQH898ZcBzq9LSeLgx0kqpKerSUgnkfffQo4a/zI2T8cQ==",
+        "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYoXr2UH5ncSMMQMDhexFunZTSi/3cOUvKfWtuI2yc3r3w==",
         "icono": "https://i.postimg.cc/zXj9wdCL/tnt-sports-chile-logo-png-seeklogo-400914.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
-          "Origin": "",
-          "Referer": "",
+          "Origin": "https://play-fulltv.com.ar",
+          "Referer": "https://play-fulltv.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
         }
       },
