@@ -123,10 +123,10 @@
         }
       },
       {
-        "name": "Prueba23",
+        "name": "Prueba24",
         "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYoCUPShKoAMeCmUgEdfm4PHSQVWj6iKHtbBJESRd2sWiw==",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
