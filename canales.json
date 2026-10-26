@@ -123,10 +123,10 @@
         }
       },
       {
-        "name": "Prueba22",
-        "url": "vqSRBMEFrZYkjEMtH/1+x3s7WDKJsA2lICHyzFBh1sUHu5397bpx8i2gGdYF++yftJFTksK+YtWIv1iAhlCnJ7GFmf1v/bJVDvncuKCNfCA=",
+        "name": "Prueba23",
+        "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYoCUPShKoAMeCmUgEdfm4PHSQVWj6iKHtbBJESRd2sWiw==",
         "icono": "",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
