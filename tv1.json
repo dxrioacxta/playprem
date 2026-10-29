@@ -842,18 +842,6 @@
         }
       },
       {
-        "name": "URBANO TV",
-        "url": "HWIE4BndHJhsiWxy5yQ3g7AA1pqo21V4S1SHhjwO7QOfLpEl12eBnPXdVxPS5H8iqFu8KGoLeOorzM6I7Yf3QLIBOB4ziupZYhml7dMG7d4=",
-        "icono": "https://i.postimg.cc/NG2xrKR1/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "COSMOS TV",
         "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgCOsfBfuQAeEyLyVmbf2PDXOp4HJpts0XwwoLOKKVOgMg==",
         "icono": "https://static.wixstatic.com/media/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png/v1/fill/w_77,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png",
