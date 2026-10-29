@@ -3,6 +3,13 @@
     "name": "⚽FÚTBOL PARAGUAYO🇵🇾",
     "samples": [
       {
+        "name": "PRUEBA TIGO",
+        "url": "LCi3xF5Z7MkI0xJkNeIwppzaJolBI+AHyMzeRq5fNCX4+zImKlPB1xJg5/JVnyzj51UkPYBcYjGjCr56X5C6pQ==",
+        "icono": "https://i.postimg.cc/tC1XDDjm/file-00000000fed0820e8724fc4b6244f59f.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO 24/7 HD",
         "url": "Xv5k1u0gPL/or/yFeUqr/XlDljsgE1X4g9LYioc6UlsL/YrVQTi3xhDHClcfd/wc",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
