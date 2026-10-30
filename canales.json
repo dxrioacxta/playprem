@@ -121,13 +121,6 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "Evento prueba",
-        "url": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgNRh3amHnsDIG/tpULxWpTE",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
