@@ -129,9 +129,9 @@
     "samples": [
       {
         "name": "OPC 1 - ESPAÑOL",
-        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqq9dKNGg/ZH22Uraev8T7Z+YoXY1cAW++maX4B/uoou1A==",
+        "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYos7JBGZJ0a6JCgwRd4A+4RHoQ4sk4AI+IvPe1N/YhRkA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
