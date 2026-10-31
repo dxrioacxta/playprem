@@ -360,6 +360,80 @@
     ]
   },
   {
+    "name": "📺TIGO SPORTS",
+    "samples": [
+      {
+        "name": "TIGO 1 HD",
+        "url": "2nl5x4lbRgSacQvzxeObq+BXw27PsglDr3QtBVsrlsNST/xc+FC/6nTZMMpE/jQo0bU1vlDDpDETJL4sw1evSLIBOB4ziupZYhml7dMG7d4=",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TIGO 2 HD",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lpCrN7XPsAjyeEhDjPx4y2Oa82bd3Xc4ufQmVZd3ahJpSl7wdFc+ZKIRqDpnbPImo=",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TIGO + HD",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+mb7zko2yCYk8KCyQ7UyOCmVQyZxVqYDsXZXhcJOESPGjkzyJgRCrI6Kw4n2OljXU8=",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "EVENTOS 1",
+        "url": "LF+XZvF1z3P8JjpdMRedgir+urRTdj7FN7B5NByoJqnofwYniOIzsnQ2DbHvEMxqcQ3Z0Pd7waDqu6gS6BjXqedq4ZCUBTS6bV008dwj2sqQX5vuI4E+EXrLEfGS/zls",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS 2",
+        "url": "LF+XZvF1z3P8JjpdMRedgir+urRTdj7FN7B5NByoJqktFlhNZxqGO18tIQa0ZVabbNxCb8ptao3Ho1kMZDcud40IENy8wmIR4SXlzhIx/jFBizdGlqIT6OhCSL2aTPoc",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS FLOW 1",
+        "url": "SJaDv3i2fR9rX4GKeeULbxieJhKqnIZGKIBRNX9iBfoDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edTw5f++DA/CSTWNRwv9dRBJfQX0F7gUO6qeNZovmh7MzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2sTTCel7rkuwGqHOYH0A7KdenTikW0XSfGDXZ9uA0TnHoa61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJIelkleY3UhB4hOwCdP+xZMv26rlYKaorTWQxiX6goTRLQ4KjY22fH3ueuHiwhadf5jCzwDb5fFui5uzio+aF02DwTfC+/mnAewlRAJw/2sgrRyux9Wgk6r8JAMjgKiIOR3VxoZdUAMKKC1uGjWlfjx/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafaK9phtmiLpUeglIJvwS8MYT2jKcf7hVg6CAlqVuyU1LxRmjfaTUS3h8+89ZG2Jp0FiBRE2B0sTpCgXj3qkhNflv7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOucRD+oXXpogr8RZiJln4T5n8o8PvjLXzNRJAv51VfNCBzXOf+SF+7d1eFRC+XYpOFFYJ3cKtGdFOQQtq2dq3m2E8MhZFybMkDpfJuJS2G+B+OmVlaVwexJSajcg379wb6oWZ1lsk1CjJwOrAmwt7Xt/352HiO99wQOYyH/FoFDLCsGJibPKSePmVY8j/lRMq1VBBNXC8IyVD+uQdNSIUYHjFVyL7Sk76xTIhRSgTWoH02Rrb9jRz9N3HuTqx48EyhxZD7QDHjugXLuHrCvm5d8T/4oolc1iycejKSfJXvnR8g==",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOt2oYTmuymV2XJZMmbvb5hYsks2V1qWe/TLyyk3nhw0EWudKLlnR3GwOiKu9ZZ9PWBMMHXXHCXlRHV4kB31xjjhggSyv/qgagJiWt+OirajJYacpW4M4zfOygh4jKv+p0",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "EVENTOS FLOW 2",
+        "url": "SJaDv3i2fR9rX4GKeeULbxieJhKqnIZGKIBRNX9iBfoDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edTw5f++DA/CSTWNRwv9dRBJfQX0F7gUO6qeNZovmh7MzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2sTTCel7rkuwGqHOYH0A7KdenTikW0XSfGDXZ9uA0TnHoa61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJIelkleY3UhB4hOwCdP+xZMv26rlYKaorTWQxiX6goTRLQ4KjY22fH3ueuHiwhadf5jCzwDb5fFui5uzio+aF02DwTfC+/mnAewlRAJw/2sgrRyux9Wgk6r8JAMjgKiIOR3VxoZdUAMKKC1uGjWlfjx/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafaK9phtmiLpUeglIJvwS8MYT2jKcf7hVg6CAlqVuyU1LxRmjfaTUS3h8+89ZG2Jp0FiBRE2B0sTpCgXj3qkhNflv7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOucRD+oXXpogr8RZiJln4T5n8o8PvjLXzNRJAv51VfNCBzXOf+SF+7d1eFRC+XYpOFFYJ3cKtGdFOQQtq2dq3m2E8MhZFybMkDpfJuJS2G+B+OmVlaVwexJSajcg379wb6oWZ1lsk1CjJwOrAmwt7Xt/352HiO99wQOYyH/FoFDLCsGJibPKSePmVY8j/lRMq1VBBNXC8IyVD+uQdNSIUYHjVj1juqv0md4OcxAUbLYL2QuuC7nyoFPkRhrT3Wi6D0pv0dPcVJLXGqqIe7hKxoKUFQ1pDzB1qBxJxd3SS4YSbg==",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/JQJDAnaq51EeFav92luM-g?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOvhUZw3czFPO7VS/RLoMWidlRisT+xe2gTKatglhA8N5TtPkM2QDX711Scm67c2LolRD1lmtRGYQPpDwYmUEYe6BXrFMrTieMGmOifvG5gWYeq4EHtyC/GUC/ep9mLl8G",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      }
+    ]
+  },
+  {
     "name": "📺PARAGUAY INTERIORES",
     "samples": [
       {
@@ -895,80 +969,6 @@
         "icono": "https://i.postimg.cc/D0jT49zz/NORDETE-TV.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
-      }
-    ]
-  },
-  {
-    "name": "📺TIGO SPORTS",
-    "samples": [
-      {
-        "name": "TIGO 1 HD",
-        "url": "2nl5x4lbRgSacQvzxeObq+BXw27PsglDr3QtBVsrlsNST/xc+FC/6nTZMMpE/jQo0bU1vlDDpDETJL4sw1evSLIBOB4ziupZYhml7dMG7d4=",
-        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TIGO 2 HD",
-        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lpCrN7XPsAjyeEhDjPx4y2Oa82bd3Xc4ufQmVZd3ahJpSl7wdFc+ZKIRqDpnbPImo=",
-        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TIGO + HD",
-        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+mb7zko2yCYk8KCyQ7UyOCmVQyZxVqYDsXZXhcJOESPGjkzyJgRCrI6Kw4n2OljXU8=",
-        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "EVENTOS 1",
-        "url": "LF+XZvF1z3P8JjpdMRedgir+urRTdj7FN7B5NByoJqnofwYniOIzsnQ2DbHvEMxqcQ3Z0Pd7waDqu6gS6BjXqedq4ZCUBTS6bV008dwj2sqQX5vuI4E+EXrLEfGS/zls",
-        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS 2",
-        "url": "LF+XZvF1z3P8JjpdMRedgir+urRTdj7FN7B5NByoJqktFlhNZxqGO18tIQa0ZVabbNxCb8ptao3Ho1kMZDcud40IENy8wmIR4SXlzhIx/jFBizdGlqIT6OhCSL2aTPoc",
-        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS FLOW 1",
-        "url": "SJaDv3i2fR9rX4GKeeULbxieJhKqnIZGKIBRNX9iBfoDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edTw5f++DA/CSTWNRwv9dRBJfQX0F7gUO6qeNZovmh7MzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2sTTCel7rkuwGqHOYH0A7KdenTikW0XSfGDXZ9uA0TnHoa61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJIelkleY3UhB4hOwCdP+xZMv26rlYKaorTWQxiX6goTRLQ4KjY22fH3ueuHiwhadf5jCzwDb5fFui5uzio+aF02DwTfC+/mnAewlRAJw/2sgrRyux9Wgk6r8JAMjgKiIOR3VxoZdUAMKKC1uGjWlfjx/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafaK9phtmiLpUeglIJvwS8MYT2jKcf7hVg6CAlqVuyU1LxRmjfaTUS3h8+89ZG2Jp0FiBRE2B0sTpCgXj3qkhNflv7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOucRD+oXXpogr8RZiJln4T5n8o8PvjLXzNRJAv51VfNCBzXOf+SF+7d1eFRC+XYpOFFYJ3cKtGdFOQQtq2dq3m2E8MhZFybMkDpfJuJS2G+B+OmVlaVwexJSajcg379wb6oWZ1lsk1CjJwOrAmwt7Xt/352HiO99wQOYyH/FoFDLCsGJibPKSePmVY8j/lRMq1VBBNXC8IyVD+uQdNSIUYHjFVyL7Sk76xTIhRSgTWoH02Rrb9jRz9N3HuTqx48EyhxZD7QDHjugXLuHrCvm5d8T/4oolc1iycejKSfJXvnR8g==",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOt2oYTmuymV2XJZMmbvb5hYsks2V1qWe/TLyyk3nhw0EWudKLlnR3GwOiKu9ZZ9PWBMMHXXHCXlRHV4kB31xjjhggSyv/qgagJiWt+OirajJYacpW4M4zfOygh4jKv+p0",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "EVENTOS FLOW 2",
-        "url": "SJaDv3i2fR9rX4GKeeULbxieJhKqnIZGKIBRNX9iBfoDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4edTw5f++DA/CSTWNRwv9dRBJfQX0F7gUO6qeNZovmh7MzR0rOzU5czt3G13FFqdQLzI0Xugsi+IIkwf4fiYpC2sTTCel7rkuwGqHOYH0A7KdenTikW0XSfGDXZ9uA0TnHoa61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJIelkleY3UhB4hOwCdP+xZMv26rlYKaorTWQxiX6goTRLQ4KjY22fH3ueuHiwhadf5jCzwDb5fFui5uzio+aF02DwTfC+/mnAewlRAJw/2sgrRyux9Wgk6r8JAMjgKiIOR3VxoZdUAMKKC1uGjWlfjx/lEgcRNcYhjHYOiewXb6mJt5JZ3wJhHHURSJNknqn+13sOYQJvwB97pY+QVae0Sf6XhQzMloHJx4uHexYroPqOD25bZ+S1XiCWrluN8HcLB+zchPYgta/l2/asYtyafaK9phtmiLpUeglIJvwS8MYT2jKcf7hVg6CAlqVuyU1LxRmjfaTUS3h8+89ZG2Jp0FiBRE2B0sTpCgXj3qkhNflv7sBGjGVY+qQbHTCcrsUBZfpLEJ37THezGptBK35lfCDxZlJPG8nO1DMdA05+llnlgpZyEUju3IwGCNzODqOucRD+oXXpogr8RZiJln4T5n8o8PvjLXzNRJAv51VfNCBzXOf+SF+7d1eFRC+XYpOFFYJ3cKtGdFOQQtq2dq3m2E8MhZFybMkDpfJuJS2G+B+OmVlaVwexJSajcg379wb6oWZ1lsk1CjJwOrAmwt7Xt/352HiO99wQOYyH/FoFDLCsGJibPKSePmVY8j/lRMq1VBBNXC8IyVD+uQdNSIUYHjVj1juqv0md4OcxAUbLYL2QuuC7nyoFPkRhrT3Wi6D0pv0dPcVJLXGqqIe7hKxoKUFQ1pDzB1qBxJxd3SS4YSbg==",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/JQJDAnaq51EeFav92luM-g?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOvhUZw3czFPO7VS/RLoMWidlRisT+xe2gTKatglhA8N5TtPkM2QDX711Scm67c2LolRD1lmtRGYQPpDwYmUEYe6BXrFMrTieMGmOifvG5gWYeq4EHtyC/GUC/ep9mLl8G",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
