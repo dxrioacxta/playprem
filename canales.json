@@ -128,6 +128,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "EVENTOS WIFI | 10",
+        "url": "SAihozmq+5FFQ/5Pr0GNCaDJZjCdoXxFnQgSkkM3pLVQdfQSOzOUaV4tsQY9erchMY8jEfL5ZLXrrGoaHUexONQHIL8ZYCDNrmqgZ5YBNRlFRQFYFl/XKFkdNw+VdcItWVc32rqW9ZHnxt3AeynVzHBzwisieoznnRKeeowLdFs3gzqbeqx6dgfisOE65TEG8Df7fxYHFvPwUeC9C413QMGycn206neKJvmWtXxcI5+UgKf3Bb/E6jmI5J3eb99she+WaRw2rIVxBzqNrj5dMbP8xetR/GYVL860znsNcJvapdsHnSerweaSziSiR8A5P8Zbw7/eLSmTCn9Um+IJwPL+6gubZHSRTzwBh2x4YP0=",
+        "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
