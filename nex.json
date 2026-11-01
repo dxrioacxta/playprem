@@ -916,15 +916,10 @@
       },
       {
         "name": "TIGO 3 HD",
-        "url": "/J9KRUDE1w7gKuyRxC0MsRdqYlBarY9iPTK5mwPxohRxw1YirlmXgGPWT6gaSxzSjioDcAe4K8mPbgq0vNN3IQ==",
+        "url": "UIUxPftSZqxBPbf+dKCqkJKFmEbbN97MWFBXakeu3Hss79vut0z1JWjbe6evdHavWQ3MYMczQVHjeu4tHH7OQU5hBUiKVYHXNYWUJYxcVOctubpuSEYwe3cZzQs0ntVF",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "TIGO SD",
