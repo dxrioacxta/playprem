@@ -11,15 +11,10 @@
       },
       {
         "name": "TIGO 1 HD",
-        "url": "xHnwSohfeCurcJ7g6mP9jQ==",
+        "url": "2nl5x4lbRgSacQvzxeObq+BXw27PsglDr3QtBVsrlsMCe6dm34zPD10QcHup2m4x/tnRbVEZB9vY86sn9nDX4LsE/XseC9F5lU/rsxH8XHI=",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "TIGO 2 HD",
