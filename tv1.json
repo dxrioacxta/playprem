@@ -1,7 +1,15 @@
 [
   {
     "name": "📺EVENTOS 2026",
-    "samples": []
+    "samples": [
+      {
+        "name": "EVENTO 1",
+        "url": "A2rq0/JlTcSUPV//42gSJks/9JQ8lq0qD+/XSPXqzHaX/cLoDsHrwnViIURPnLxl+wHaTmYUU0IbKzCHpozYZFMOYrR1H+kYce2giDKyl1VqUBRtj28kbpO+8+hIvnaW5Eeru2VedR2CS8TYq2N4ng==",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺PARAGUAY",
