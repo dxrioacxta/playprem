@@ -1741,6 +1741,13 @@
     "name": "📺DEPORTES 2026",
     "samples": [
       {
+        "name": "SOLO EVENTOS",
+        "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYr/lAFUpZX/wgygGTUOjVYYflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN_Plus.svg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DANZ F1",
         "url": "Hn/nIUf4UxHj+VX4HAs5I9gh59NBL87vJHWVyOomwxY66DDbVlrCmaDBGwkDZG2gjc+vssGMzv2a7XB3E48rKn5YMZxRZjRB9sPu2Kgb6h8=",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",
