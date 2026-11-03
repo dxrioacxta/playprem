@@ -2156,15 +2156,7 @@
   },
   {
     "name": "📺EVENTOS VARIOS",
-    "samples": [
-      {
-        "name": "EVENTOS DISNEY",
-        "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYr/lAFUpZX/wgygGTUOjVYYflgxnFFmNEH2w+7YqBvqHw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN_Plus.svg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
+    "samples": []
   },
   {
     "name": "📺ARGENTINA REGIONALES",
