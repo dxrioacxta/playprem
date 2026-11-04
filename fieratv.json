@@ -17,6 +17,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "EVENTOS 3",
+        "url": "NAHcO3RwzEHQjC13UPSh7CYHEKB0i44U3e7w32R2Ta707/0Z1+xS7207zivjNbd3",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO 1 HD",
         "url": "2nl5x4lbRgSacQvzxeObq+BXw27PsglDr3QtBVsrlsMCe6dm34zPD10QcHup2m4x/tnRbVEZB9vY86sn9nDX4LsE/XseC9F5lU/rsxH8XHI=",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
@@ -26,13 +33,6 @@
       {
         "name": "TIGO 2 HD",
         "url": "Hn/nIUf4UxHj+VX4HAs5I6rEFzAxg5AkicIeHErOCwS892CNACzR4+xnI551italzhCEv3D/JPmzIMvCulPR+2KF2NXAFvvpml+Af7qKLtQ=",
-        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EVENTOS 2",
-        "url": "LF+XZvF1z3P8JjpdMRedgir+urRTdj7FN7B5NByoJqktFlhNZxqGO18tIQa0ZVabbNxCb8ptao3Ho1kMZDcud40IENy8wmIR4SXlzhIx/jFBizdGlqIT6OhCSL2aTPoc",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
         "drm_license_uri": ""
