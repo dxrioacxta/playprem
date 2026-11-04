@@ -127,6 +127,18 @@
         }
       },
       {
+        "name": "NPY",
+        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4eejP31ajEHuZtACFJI/p4aBBUWDYCLCncawe9TBCNjNgODPzjc5E/XwXMRlNEunu5J/vd0OwfHQ8AqEhYWWYpY6TTCel7rkuwGqHOYH0A7KdenTikW0XSfGDXZ9uA0TnHoa61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJL+6qDn8+i8xtSTlcMcEFU1DtlY8kQ9uz9XfkmsBKbBJUcV0dLt1M81Jg4A67hUgjZkvOC89fxVDBH1Io0z/RQoE5hHb0sQmNI5IsK1DMm9/w01nlErJdIRs1g/nFa8n1lav9IIdw9lohMHZre7Gqxr/lEgcRNcYhjHYOiewXb6mKmSrHmxo4GryEnDRJVUwKZSgTjCug4fHx4NWNt/jkVkbHxmQHvNgE6Ks9DTDt+wLzmIR6ss84yBOjHakclnyeqxBxX+BsXjvvRh2NryUGSdFOAX/+1tR9wpIbBE11bDoUYKqlU8E9sgO0mG37Emt5ZugQKpzKcBR0Ff1mmESITQjIOEUM5swKRYnFqPImHGtKBJC05DulreOf383l3g58Vg/pdGhgnYi5mr3VieYPES4WnZplN+7Bo861tNnzRCmzf1T+3X3Wph94NdEzlVbgI9U8WTnGYMcdvj5fCQWamSJ8Dhp4+IUyLlppzKouNYnKmDIP4DfEyUHPArBcV4FyxQJZ/ap9Y7s3DusGCqHO0/8ksBy0PJx8vs7iUnOLWkLCMK3j/f6OavDZ8bLPZieV85YuDeZGBvI6GaE4c4PaV0teRSE7VKY/qH0A2vlSNF/KptWeMfQz8XCh5OpWv1Ga4wUiepqZVv8qSYk1D0zJs6vfiSLK9ch2Xc1jUA98CaqsPrACDw8AaGA/EFp6ybPr3VWWs2s7VriuzOO0Ol6kAU",
+        "icono": "https://i.postimg.cc/Xqnbmpr3/NPY-Noticias-Paraguay.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOOHfcr/RBij6pK/laeO/EpUX2afmiPNQfqw0BOh0JcwHmSXRYmFDG+dHuMZ9QdeDArb3vkZM7jCr7dGaL9fov48rU0I5V28V+vwZQBPvkp06tgn3VRTdC8LRMTUkZk36d",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "FIERA TV",
         "url": "NAHcO3RwzEHQjC13UPSh7CYHEKB0i44U3e7w32R2Ta707/0Z1+xS7207zivjNbd3",
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
@@ -175,18 +187,6 @@
         "icono": "https://i.postimg.cc/65RrYqdx/America-Paraguay-Logo.png",
         "type": "CLEARKEY",
         "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO3spsfizp8/fi32LVUXKazZwkyGU3N5pdQv9tmMPqfLRmE34P5OR4DDe3Zk4dBC6H/TpoLo8kZAsP9d4XwO+nLwGprebV9NvqxPPJT2K94VtQUmtwUohH8IDWycWqiOAN",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "NPY",
-        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4eejP31ajEHuZtACFJI/p4aBBUWDYCLCncawe9TBCNjNgODPzjc5E/XwXMRlNEunu5J/vd0OwfHQ8AqEhYWWYpY6TTCel7rkuwGqHOYH0A7KdenTikW0XSfGDXZ9uA0TnHoa61JjMhxfNUQKkeRmSddKcXHg2JJIHNMCmdUcTuS4FluByKIKmuClDWC2zgcUkJL+6qDn8+i8xtSTlcMcEFU1DtlY8kQ9uz9XfkmsBKbBJUcV0dLt1M81Jg4A67hUgjZkvOC89fxVDBH1Io0z/RQoE5hHb0sQmNI5IsK1DMm9/w01nlErJdIRs1g/nFa8n1lav9IIdw9lohMHZre7Gqxr/lEgcRNcYhjHYOiewXb6mKmSrHmxo4GryEnDRJVUwKZSgTjCug4fHx4NWNt/jkVkbHxmQHvNgE6Ks9DTDt+wLzmIR6ss84yBOjHakclnyeqxBxX+BsXjvvRh2NryUGSdFOAX/+1tR9wpIbBE11bDoUYKqlU8E9sgO0mG37Emt5ZugQKpzKcBR0Ff1mmESITQjIOEUM5swKRYnFqPImHGtKBJC05DulreOf383l3g58Vg/pdGhgnYi5mr3VieYPES4WnZplN+7Bo861tNnzRCmzf1T+3X3Wph94NdEzlVbgI9U8WTnGYMcdvj5fCQWamSJ8Dhp4+IUyLlppzKouNYnKmDIP4DfEyUHPArBcV4FyxQJZ/ap9Y7s3DusGCqHO0/8ksBy0PJx8vs7iUnOLWkLCMK3j/f6OavDZ8bLPZieV85YuDeZGBvI6GaE4c4PaV0teRSE7VKY/qH0A2vlSNF/KptWeMfQz8XCh5OpWv1Ga4wUiepqZVv8qSYk1D0zJs6vfiSLK9ch2Xc1jUA98CaqsPrACDw8AaGA/EFp6ybPr3VWWs2s7VriuzOO0Ol6kAU",
-        "icono": "https://i.postimg.cc/Xqnbmpr3/NPY-Noticias-Paraguay.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOOHfcr/RBij6pK/laeO/EpUX2afmiPNQfqw0BOh0JcwHmSXRYmFDG+dHuMZ9QdeDArb3vkZM7jCr7dGaL9fov48rU0I5V28V+vwZQBPvkp06tgn3VRTdC8LRMTUkZk36d",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
