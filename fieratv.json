@@ -3508,6 +3508,13 @@
     "name": "📺BRASIL",
     "samples": [
       {
+        "name": "GLOBO HD",
+        "url": "iLNe2Gl0MequVt/wyXQJlZainIILejorTVGh00uXmYgyKGKLYMuzhogZMMBrCbj2sgE4HjOK6lliGaXt0wbt3g==",
+        "icono": "https://i.postimg.cc/QtfSqvt7/tvglobo.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "SBT",
         "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6JrKoazn168+xC/YcNDDRg8CjR9/aM6n/uCJCbHT5KcrknsclzKkC/R4uxmAbP6XY9+WDGcUWY0QfbD7tioG+of",
         "icono": "https://i.postimg.cc/mrzbRGxb/sbt-e6219203821b4280bc16716488b78be2.png",
@@ -3544,13 +3551,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "GLOBO",
-        "url": "iLNe2Gl0MequVt/wyXQJlZainIILejorTVGh00uXmYgyKGKLYMuzhogZMMBrCbj2sgE4HjOK6lliGaXt0wbt3g==",
-        "icono": "https://i.postimg.cc/QtfSqvt7/tvglobo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "REDE MINAS",
