@@ -2088,49 +2088,6 @@
     ]
   },
   {
-    "name": "📺NEUQUEN ARG",
-    "samples": [
-      {
-        "name": "CANAL 7",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwoGqjo0gKS41ToZGtjWC8O3ozcduf/uPrVRUZPgZiQRomxp43h9iMpXhv1zJT2nlah+c3BXBVLq7Jg16TJbSsGvVWWs2s7VriuzOO0Ol6kAU",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/c/cf/Telefe_Neuqu%C3%A9n_2011.png/revision/latest?cb=20200304143411",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOB+0jIaBNp7wXcLtf6odoQ1ZMRHQHkna3QgnzZbzaD0F13ozvU56emwH4AgeGVUNNqZ3LPJaIir+obD78br6sQ8rUbQ+dBJcDt+INziZdJnS/btI7WZDFmo+3KfxmSheA",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CANAL 24/7",
-        "url": "RhXhvzlB4vMRw2RNlPETpl1CdEAmZlXiaeyDRBilUx1zOPbNIC6j5PRg75Ef88oZ/zymYSkCYgwWmBxRF8SSuA==",
-        "icono": "https://cdn.prod.website-files.com/6883c5d2010468090688a047/6894938bfe32dd7f9df2232f_24_7-removebg-preview.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "EL VALLE",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwhQDW6SRMM8MfXQWBFyNLzya5IN7UByiHOz1zkaLXNIau3SvqWANpbKeq4WWbHaWcq2XKHlKRNPgBxlZqgrY6d3VWWs2s7VriuzOO0Ol6kAU",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/17XA6KOFNps53PTMQcs6Cg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOumnH+JGvfc99h32CGahS3fo+kW7ACxNIn2U3MUU+2EyjVc5Nv6y/VxnA1Z7EKh8PoKLAO+YwtMEZCDRWt2g1WnZoMqjYOsWcytKBlRVLoAreG7BPZGCnAdqffe8SD/y0",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RTN",
-        "url": "T10NkG1Z0Vh6wHYhH8h6AJUvpZTykYTIxnAji+xQ2QZetgALzIII2/z9iIhJqJZb6wIPAUvvZvenCwoAZehkZUdfMs7tntZ1nRdY3EunuSc=",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online-1536x864.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "📺ESPN URUGUAY",
     "samples": [
       {
