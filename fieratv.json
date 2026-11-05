@@ -65,7 +65,15 @@
   },
   {
     "name": "📺FIERA PRODUCCIONES",
-    "samples": []
+    "samples": [
+      {
+        "name": "SKYNET HD",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lC6seBTRAqoYt67gERQVeOtUHGko0+nkdmSlAoqIv8TQ==",
+        "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺PARAGUAY",
