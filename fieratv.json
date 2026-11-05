@@ -3595,16 +3595,16 @@
         "drm_license_uri": ""
       },
       {
-        "name": "TV MAIS",
-        "url": "WCCi1iAiUC7Y1YvW5txfKa2SZM5yafoMxtQirmxyDS5L5x0l2oEv+CcD/pfKqIX9ZWGnJ85sFhAvuLqxsph/YLIBOB4ziupZYhml7dMG7d4=",
-        "icono": "https://i.postimg.cc/wMNZZz2W/D9IZ0DUi-BAH3kw1HEs-HVn3x-Bo-Usw-QLWa20YWo0eb931Lhihv-tw6MFZn30i1w-u-WJB15P-30PGCYmxr97Jo2A.png",
+        "name": "BAND NEWS",
+        "url": "hsg4Hzi6WGZKz0/eDIqJKb6UCwxlb2YVF7C6/GwWrg9fl6y70S4zm4ll4KvsPxuR",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest/scale-to-width-down/250?cb=20190321005538",
         "type": "HLS",
         "drm_license_uri": ""
       },
       {
-        "name": "BAND NEWS",
-        "url": "hsg4Hzi6WGZKz0/eDIqJKb6UCwxlb2YVF7C6/GwWrg9fl6y70S4zm4ll4KvsPxuR",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest/scale-to-width-down/250?cb=20190321005538",
+        "name": "TV CAMARA",
+        "url": "TpznF+rnaWw0rhC5RJhZdpkrhx5blhFZa1lD78F3Sf72OimXPvNu2rYUIs9qoPZA",
+        "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
