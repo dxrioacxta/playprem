@@ -520,6 +520,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "REPUBLICA TV",
+        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcRPSQ2U4EQ4F/qD+aey/BstOCYSpY6PXXkKAAjiq/VoG7VBxpKNPp5HZkpQKKiL/E0=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsCmJZ6o0vAZUV_J6awZLb3IdjruiygW-VSlO1KJme6sRon249IlZApk&s=10",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
@@ -822,18 +834,6 @@
         "name": "MOTOR SUR",
         "url": "OkqEMFL+DJeXJDFdSNAjij4e2doqJxnvhPbXTGLZm0gYrmT7jt7fiTEvOUvnw/1c",
         "icono": "https://app.femon.net/tv/banners/6a2857797ce5e6.17407629.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "REPUBLICA TV",
-        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcRPSQ2U4EQ4F/qD+aey/BstOCYSpY6PXXkKAAjiq/VoG7VBxpKNPp5HZkpQKKiL/E0=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsCmJZ6o0vAZUV_J6awZLb3IdjruiygW-VSlO1KJme6sRon249IlZApk&s=10",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
