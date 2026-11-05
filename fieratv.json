@@ -496,6 +496,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "ASPEN TV",
+        "url": "lWli9J6/vCTCdoHyquryJsQktRpyeX/OkICx9WYBL5qnWxSrCX41cro4N7A+AJjckszk/gcri49I9ZGdUW1SMzr6MapWXi+B2foTk4ws4AJ1SNHE0PyqNcxBiyx9NOnx",
+        "icono": "https://i.postimg.cc/3NnCxv6K/aspenlogo.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
@@ -659,18 +671,6 @@
         "name": "TV CANINDEYÚ",
         "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAhiwx51dVgGl0adHNbm9PaCmWR2mw3uJczpDMseie6zLIBOB4ziupZYhml7dMG7d4=",
         "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ASPEN TV",
-        "url": "lWli9J6/vCTCdoHyquryJsQktRpyeX/OkICx9WYBL5qnWxSrCX41cro4N7A+AJjckszk/gcri49I9ZGdUW1SMzr6MapWXi+B2foTk4ws4AJ1SNHE0PyqNcxBiyx9NOnx",
-        "icono": "https://i.postimg.cc/3NnCxv6K/aspenlogo.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
