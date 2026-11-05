@@ -2792,95 +2792,6 @@
     ]
   },
   {
-    "name": "📺MUSICA",
-    "samples": [
-      {
-        "name": "ALLEGRO",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwmTtmpRRlT/IZ8PGXhaQM1Cy/Vg6CSfnddBsNoPDXwjzzFLmEJDDmxiVnhKx7fvaKrqk7kW9TeipXcEZ7iOICQc=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Mpn70pqyaDdZN60vclCdHw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOJkp0blpzkQA2GvDkYloSVdaJ1d2+EvZLFKlAWALEN1m6zRt1YAJNIit55l9Q2nBYss6YiXo7RAbqqkO2v5aCs8bi73XuA12EswJWuesXogoj0hz0FOKy9kd+WvPvCZ6F",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CM",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwtMN94Hbv3hxfh568BNGGfuOcB4XkVUzuKfVMZBLUKavvI0QsjI0wDYKfSC9spV+Ug==",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/DyFeQKP1Eu7y5o0Tk1oKfQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOMCSRGc5Q6FQ4M5LfuekcR9x4I7JFdbfiFYlj71BQVvxxantlirgtjxJ7KnM0m0WIhTwIhvAy33LV5NrCEGaN2n+RLL9VCZmn6xoXJdMlJEUX9k7QLWlByC39bAcX/k8m",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.3"
-        }
-      },
-      {
-        "name": "HTV",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwjmyvD4WGpA/NQ8QD77pCVzf5fkvXGDNF63BCP3PmIeX/6vsaOS7/0tslkf1T7FM5w==",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Unbb9QNr6O9YHLpAaTWiqA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOAqgUFCSjVsy+dB88qKWiXW817rn7wG3kZV6vASharl1ZQwMt5I3fuAFaASZOjjUdvIGyi4IdCvFCIjiZnsHe3mP9UOH4pUbxsByWvr+6y1VuIn+tk7uPDdXeXg5Q1JPQ",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MTV",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwuouD4toOKJMrnWcH4yjzVaDL57RozB1FpKR90NiktkiP3/vfoRlLv79IDeO4+BxqNVZazaztWuK7M47Q6XqQBQ=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/n04YtKT8WwRPjAfxJC6FTA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOoXeBGsPIbiJPAAQ2akrHP8qyj2UAxNGGWPTuKtmu/yk5Aw8zllPu0XFsuO1UMp0iINONKEMrAeGDVmgRNSiLUCak7rC3CPw9/bJnAJND0SKUavzGcdgb7kz0+3MKkEcd",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "QUIERO MUSICA",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwiAQGED2zb/ptyMDEilZ+mSJjf0fbXQKmPPdHNg09pyKrolG6z+EJipe/Cdg/FRsay3dZzC7NCJftvcv+ulTNbE=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/pWSGmQ4yaCOlkok_QtzNWQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOAYdUmnNGeefDy38viIOlv5SXKL9lOwWEPmMREZj3e21LrNxVSUXc+RT3LU67j3RaEMtwfiN++h7pH64K4yZ7pcNh/jk5ii1RPaItnGyGmDeYJ5XSDCjeeMMdfW8f63n0",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FLOW MUSIC",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwojVa7jYIeJb+gvAzg5UiuAiCpQD0EElSQMqTRc+KMxoXBujBEKVj0clMI2GAEZFXORPPzInFqoGDmV/ZqzYxDU=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/XEGMxKKr1qJpAOuMAUKKoA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOOBV83mmfwp65rzGVHYG3WIiTzvIjQ+8SrH02ngyecuKwIXNa7KrLZz5hxyj4LNDg1hInj8BeoYMovFrtCCxMcZLjtVWnFjL5emuwMpysGjOie2IWdGdo1UcuZf2qFGHd",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "VORTERIX",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwsZs78h01Vw3RSLtHwrFilYNMjKMhAcPUs9S14ZPiRiXdGjoxlocBZRy9NOw6vRDqUAYSm/CJc1sUGzLbPA7a6Y=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Vqfw5SS8gWr332vJUn6aKQ?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOMBZLhIUWX7L4SgsDwulAktfXGq5OkzraPyTxTsi4CN0kwBLeznL/0XpTW4sv8OMK58ool256Kgg0jZ/LOr+iQLBN0RiU1zkY2iLICxEqz2nX5u6Su7QiCYLFASEDafyW",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "📺BRASIL",
     "samples": [
       {
@@ -2983,6 +2894,95 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "📺MUSICA",
+    "samples": [
+      {
+        "name": "ALLEGRO",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwmTtmpRRlT/IZ8PGXhaQM1Cy/Vg6CSfnddBsNoPDXwjzzFLmEJDDmxiVnhKx7fvaKrqk7kW9TeipXcEZ7iOICQc=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Mpn70pqyaDdZN60vclCdHw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOJkp0blpzkQA2GvDkYloSVdaJ1d2+EvZLFKlAWALEN1m6zRt1YAJNIit55l9Q2nBYss6YiXo7RAbqqkO2v5aCs8bi73XuA12EswJWuesXogoj0hz0FOKy9kd+WvPvCZ6F",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CM",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwtMN94Hbv3hxfh568BNGGfuOcB4XkVUzuKfVMZBLUKavvI0QsjI0wDYKfSC9spV+Ug==",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/DyFeQKP1Eu7y5o0Tk1oKfQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOMCSRGc5Q6FQ4M5LfuekcR9x4I7JFdbfiFYlj71BQVvxxantlirgtjxJ7KnM0m0WIhTwIhvAy33LV5NrCEGaN2n+RLL9VCZmn6xoXJdMlJEUX9k7QLWlByC39bAcX/k8m",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.3"
+        }
+      },
+      {
+        "name": "HTV",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwjmyvD4WGpA/NQ8QD77pCVzf5fkvXGDNF63BCP3PmIeX/6vsaOS7/0tslkf1T7FM5w==",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Unbb9QNr6O9YHLpAaTWiqA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOAqgUFCSjVsy+dB88qKWiXW817rn7wG3kZV6vASharl1ZQwMt5I3fuAFaASZOjjUdvIGyi4IdCvFCIjiZnsHe3mP9UOH4pUbxsByWvr+6y1VuIn+tk7uPDdXeXg5Q1JPQ",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MTV",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwuouD4toOKJMrnWcH4yjzVaDL57RozB1FpKR90NiktkiP3/vfoRlLv79IDeO4+BxqNVZazaztWuK7M47Q6XqQBQ=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/n04YtKT8WwRPjAfxJC6FTA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOoXeBGsPIbiJPAAQ2akrHP8qyj2UAxNGGWPTuKtmu/yk5Aw8zllPu0XFsuO1UMp0iINONKEMrAeGDVmgRNSiLUCak7rC3CPw9/bJnAJND0SKUavzGcdgb7kz0+3MKkEcd",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "QUIERO MUSICA",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwiAQGED2zb/ptyMDEilZ+mSJjf0fbXQKmPPdHNg09pyKrolG6z+EJipe/Cdg/FRsay3dZzC7NCJftvcv+ulTNbE=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/pWSGmQ4yaCOlkok_QtzNWQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOAYdUmnNGeefDy38viIOlv5SXKL9lOwWEPmMREZj3e21LrNxVSUXc+RT3LU67j3RaEMtwfiN++h7pH64K4yZ7pcNh/jk5ii1RPaItnGyGmDeYJ5XSDCjeeMMdfW8f63n0",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "FLOW MUSIC",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwojVa7jYIeJb+gvAzg5UiuAiCpQD0EElSQMqTRc+KMxoXBujBEKVj0clMI2GAEZFXORPPzInFqoGDmV/ZqzYxDU=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/XEGMxKKr1qJpAOuMAUKKoA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOOBV83mmfwp65rzGVHYG3WIiTzvIjQ+8SrH02ngyecuKwIXNa7KrLZz5hxyj4LNDg1hInj8BeoYMovFrtCCxMcZLjtVWnFjL5emuwMpysGjOie2IWdGdo1UcuZf2qFGHd",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "VORTERIX",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwsZs78h01Vw3RSLtHwrFilYNMjKMhAcPUs9S14ZPiRiXdGjoxlocBZRy9NOw6vRDqUAYSm/CJc1sUGzLbPA7a6Y=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/Vqfw5SS8gWr332vJUn6aKQ?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOMBZLhIUWX7L4SgsDwulAktfXGq5OkzraPyTxTsi4CN0kwBLeznL/0XpTW4sv8OMK58ool256Kgg0jZ/LOr+iQLBN0RiU1zkY2iLICxEqz2nX5u6Su7QiCYLFASEDafyW",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
