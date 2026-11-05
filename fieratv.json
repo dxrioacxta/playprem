@@ -414,6 +414,18 @@
     "name": "📺PARAGUAY - STREAMING - MEDIA",
     "samples": [
       {
+        "name": "VENUS MEDIA",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwqYhhaJLmSyJcPsKi0YOnEe4srBqmJ4tiusjOHwD48Ffknj+PHAiWx1Jk39bxCRk5QBJjYTusTf0WvPxQeHYZRA=",
+        "icono": "https://i.postimg.cc/ZqZzCWLf/venus.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOO7EeO14OguMgdQcwXkJ0vrh9HGtMAA843aL6m0+UcFO739HhAx2UY0GlQWMX+vPpkvhpmlPK6ZqcwV+wooI+BBhs293FPbq6j4C3W/W8QYQlkX90zgJxmPC7ANC3E8w7",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "FARRA PLAY",
         "url": "JzhG8B93u7TVPS36gBGmuH2HGe21fqzphlrgkaYpdGhO0LrE7PlCyb7YHX6M/0XmflgxnFFmNEH2w+7YqBvqHw==",
         "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
@@ -458,18 +470,6 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "VENUS MEDIA",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwqYhhaJLmSyJcPsKi0YOnEe4srBqmJ4tiusjOHwD48Ffknj+PHAiWx1Jk39bxCRk5QBJjYTusTf0WvPxQeHYZRA=",
-        "icono": "https://i.postimg.cc/ZqZzCWLf/venus.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOO7EeO14OguMgdQcwXkJ0vrh9HGtMAA843aL6m0+UcFO739HhAx2UY0GlQWMX+vPpkvhpmlPK6ZqcwV+wooI+BBhs293FPbq6j4C3W/W8QYQlkX90zgJxmPC7ANC3E8w7",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
