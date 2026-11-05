@@ -2025,47 +2025,6 @@
     ]
   },
   {
-    "name": "📺ESPN URUGUAY",
-    "samples": [
-      {
-        "name": "ESPN 1",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwhsea83Cxg7RbDiWafnx+a5opSnWz+R6uKC1rEBJBLtH1hCSIx3qBe1ou4tmmAQ+HFfMdC+uhkX3ZsGfdsXbW9M=",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOY9RVF3jqzaqpc7OxV0DCcd7r44E0POrARfJAfBpGUogy7OCatLcCZqsFzrXU8rs6RnXad5+2F5AcDc7f+C1+EVhothCio60aVDONAPO3aqoviCypzEAAOnaiFT3ZExa5",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 2",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwhsea83Cxg7RbDiWafnx+a45qxoeocBB3GVkNbm5JOYLm37lNSV+6UqvcLSDSawCm/+KKJXNYsnHoyknyV750fI=",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO5Tu6DZfVUSokdgQnKm6c/BbuDF6ZepxC/IMAafnOodpsHv4jo8cU828Terf1FNO1k4e1OuycW2izQPIGzXkhwArNHUl9HUOoTGkGuujiPAdkNUe3I7P7PWYGGAu4pu9p",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 3",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwhU+/hmIkSV0VwV89VNe42NYhXjlrz/rGobAaTwOHeEeFBY3iArUYPn4U1R5SGeB8af+N4bjBds+EYcXefsbod4=",
-        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO0k4kS3BGEz4Y/9jAHFl9khnrdrT+lD1vetrfW8B4hD3u8MattmogyItUI6j8sMtcl72qu+W2HkHU8kLsdAgK3Ii0Tt7KQgchseJaLhHoy39/y1rEId7vsI9QXdIL1+nc",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "📺BRASIL",
     "samples": [
       {
@@ -2168,6 +2127,47 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "📺ESPN URUGUAY",
+    "samples": [
+      {
+        "name": "ESPN 1",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwhsea83Cxg7RbDiWafnx+a5opSnWz+R6uKC1rEBJBLtH1hCSIx3qBe1ou4tmmAQ+HFfMdC+uhkX3ZsGfdsXbW9M=",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOY9RVF3jqzaqpc7OxV0DCcd7r44E0POrARfJAfBpGUogy7OCatLcCZqsFzrXU8rs6RnXad5+2F5AcDc7f+C1+EVhothCio60aVDONAPO3aqoviCypzEAAOnaiFT3ZExa5",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 2",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwhsea83Cxg7RbDiWafnx+a45qxoeocBB3GVkNbm5JOYLm37lNSV+6UqvcLSDSawCm/+KKJXNYsnHoyknyV750fI=",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/xKnV97ikPChURV31DHG-QA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO5Tu6DZfVUSokdgQnKm6c/BbuDF6ZepxC/IMAafnOodpsHv4jo8cU828Terf1FNO1k4e1OuycW2izQPIGzXkhwArNHUl9HUOoTGkGuujiPAdkNUe3I7P7PWYGGAu4pu9p",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ESPN 3",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwhU+/hmIkSV0VwV89VNe42NYhXjlrz/rGobAaTwOHeEeFBY3iArUYPn4U1R5SGeB8af+N4bjBds+EYcXefsbod4=",
+        "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/hX_A9FUehJQN6okvA8gX8Q?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO0k4kS3BGEz4Y/9jAHFl9khnrdrT+lD1vetrfW8B4hD3u8MattmogyItUI6j8sMtcl72qu+W2HkHU8kLsdAgK3Ii0Tt7KQgchseJaLhHoy39/y1rEId7vsI9QXdIL1+nc",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
