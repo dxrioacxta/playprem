@@ -612,6 +612,13 @@
     "name": "📺PARAGUAY INTERIORES",
     "samples": [
       {
+        "name": "PILAR STREAMING",
+        "url": "Wp3O4etkVSSOLnW6H7Irp4p++t+e0QqwpjmisOcbQkrm3CuDhKRCzbXZbdH3BBwOAlyq58bQBiJwm4LHe2tkw2KF2NXAFvvpml+Af7qKLtQ=",
+        "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/032.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TVS ENCAR",
         "url": "pHaFhmUV7f+l52B6BcDrQnIIcs/nXk9VsOcxjm3ppL+0uRQ+wkJuLMhMk6913UNEczoluO0xio3nzGxASW/CeA==",
         "icono": "https://i.postimg.cc/x8pKhN6j/tvs.png",
