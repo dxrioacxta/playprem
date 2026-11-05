@@ -414,6 +414,18 @@
     "name": "📺PARAGUAY - STREAMING - MEDIA",
     "samples": [
       {
+        "name": "E 40",
+        "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8vuPiArRIfTGYDz80bCicFwm6fJbeU+V0j0wvBp5rwPUmXiyqJ5Tq6QqTZ2SOHC5Ta0GFtDlrbCM/9tmxLSTF8e",
+        "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "POPU TV",
         "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwv28/Wa08/d0BffvID/QgP6VW7yFdotd73z1+0/VgVQV4bMtiviPopD07RTSJyxtWKhOTppJjhvSO1S1DSE/VOo=",
         "icono": "https://i.postimg.cc/hGPg2J7S/Uq-Cogy-Z.png",
@@ -446,18 +458,6 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "E 40",
-        "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8vuPiArRIfTGYDz80bCicFwm6fJbeU+V0j0wvBp5rwPUmXiyqJ5Tq6QqTZ2SOHC5Ta0GFtDlrbCM/9tmxLSTF8e",
-        "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
