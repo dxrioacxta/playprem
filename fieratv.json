@@ -626,6 +626,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "SUCESO TV",
+        "url": "67X37bBpdbv2t9vtJGFYCQu5VD1GN8VkMLgpWFMTRAjxES+iPqftO84jmSho5+pIHoQ4sk4AI+IvPe1N/YhRkA==",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/suceso-tv_6be1489757c14e7aa3d49f56491fc2e0.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "OVIEDO TV",
         "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZ+NyjhG9ugl7hh45F1rr0shyG4BEkVcpALzpCyzZTHDQ==",
         "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png",
@@ -818,18 +830,6 @@
         "name": "ALCANCE TV",
         "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZLF7B8Pasp0CzzXovGaMnyoThKoJaKFX/T4bbnAg3VQ2KF2NXAFvvpml+Af7qKLtQ=",
         "icono": "https://i.ibb.co/JJqMDjf/alcance-tv-logo-dc44471b.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SUCESO TV",
-        "url": "67X37bBpdbv2t9vtJGFYCQu5VD1GN8VkMLgpWFMTRAjxES+iPqftO84jmSho5+pIHoQ4sk4AI+IvPe1N/YhRkA==",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/suceso-tv_6be1489757c14e7aa3d49f56491fc2e0.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
