@@ -508,6 +508,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "BRUNO MASI TV",
+        "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8sVWNAP/cbNLIQwuhbFnkpVQYI1iK8K8jWOxBiXEUJNatSwxfgu4RC7VtvY/H6MSwI=",
+        "icono": "https://imagizer.imageshack.com/img924/8935/xHPm6n.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
@@ -937,18 +949,6 @@
         "name": "CANAL 20",
         "url": "JWt/GRpz2Jr2W1d5DIyH2XMJRuKB9t3+9dpaRwDoplQGT/06nScGLquVXgcKw7mr2L8b8PPhr5Pv8jHg8oDzV/88pmEpAmIMFpgcURfEkrg=",
         "icono": "https://i.postimg.cc/7h7JCVym/IMG-20260414-WA0095(1).jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "BRUNO MASI TV",
-        "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8sVWNAP/cbNLIQwuhbFnkpVQYI1iK8K8jWOxBiXEUJNatSwxfgu4RC7VtvY/H6MSwI=",
-        "icono": "https://i.postimg.cc/QMqnK2Dd/logo-BM-2026.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
