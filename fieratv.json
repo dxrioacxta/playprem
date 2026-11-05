@@ -612,6 +612,13 @@
     "name": "📺PARAGUAY INTERIORES",
     "samples": [
       {
+        "name": "NOVA TV",
+        "url": "Fn/aSZcsFTUnPVwN8PPZcabxA1PJMh2fSDT1kJc78HUk9lZ4FryJyA6y3YHawq2Q",
+        "icono": "https://imagizer.imageshack.com/img924/927/EIm4yH.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "PILAR STREAMING",
         "url": "Wp3O4etkVSSOLnW6H7Irp4p++t+e0QqwpjmisOcbQkrm3CuDhKRCzbXZbdH3BBwOAlyq58bQBiJwm4LHe2tkw2KF2NXAFvvpml+Af7qKLtQ=",
         "icono": "https://raw.githubusercontent.com/ThedarkSoldier996/novaimg/main/icons/032.webp",
