@@ -3600,6 +3600,13 @@
         "icono": "https://i.postimg.cc/wMNZZz2W/D9IZ0DUi-BAH3kw1HEs-HVn3x-Bo-Usw-QLWa20YWo0eb931Lhihv-tw6MFZn30i1w-u-WJB15P-30PGCYmxr97Jo2A.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BAND NEWS",
+        "url": "hsg4Hzi6WGZKz0/eDIqJKb6UCwxlb2YVF7C6/GwWrg9fl6y70S4zm4ll4KvsPxuR",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest/scale-to-width-down/250?cb=20190321005538",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
