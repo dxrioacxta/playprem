@@ -631,6 +631,18 @@
         }
       },
       {
+        "name": "5 TV MAX",
+        "url": "l6O+gEV00o4SyoRjdrSmi8bJLPkoioia/pNDovGNIsG19tJizOeqMPbldDscxGESIS4Dbqup+XvjQ7Xi31/3qv88pmEpAmIMFpgcURfEkrg=",
+        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "TVS ENCAR",
         "url": "pHaFhmUV7f+l52B6BcDrQnIIcs/nXk9VsOcxjm3ppL+0uRQ+wkJuLMhMk6913UNEczoluO0xio3nzGxASW/CeA==",
         "icono": "https://i.postimg.cc/x8pKhN6j/tvs.png",
@@ -698,18 +710,6 @@
         "icono": "https://i.postimg.cc/SRH3K1Pw/SAN-ROQUE.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "5 TV MAX",
-        "url": "l6O+gEV00o4SyoRjdrSmi8bJLPkoioia/pNDovGNIsG19tJizOeqMPbldDscxGESIS4Dbqup+XvjQ7Xi31/3qv88pmEpAmIMFpgcURfEkrg=",
-        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "TRIUNFO TV 93.1",
