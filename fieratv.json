@@ -532,6 +532,13 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "DISMAR",
+        "url": "lWli9J6/vCTCdoHyquryJsQktRpyeX/OkICx9WYBL5pN5RlHdorDYpxoAjyszUbqTAgeNdku6ZX0GdU9nN+ciTmb6K17afgd8xCsFlxoZhhihdjVwBb76ZpfgH+6ii7U",
+        "icono": "https://imagizer.imageshack.com/img923/573/ZJAPK9.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
