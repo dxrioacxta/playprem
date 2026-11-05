@@ -67,6 +67,13 @@
     "name": "📺FIERA PRODUCCIONES",
     "samples": [
       {
+        "name": "FIERA TV",
+        "url": "NAHcO3RwzEHQjC13UPSh7CYHEKB0i44U3e7w32R2Ta707/0Z1+xS7207zivjNbd3",
+        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "SKYNET HD",
         "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lC6seBTRAqoYt67gERQVeOtUHGko0+nkdmSlAoqIv8TQ==",
         "icono": "https://imagizer.imageshack.com/img922/2273/CJe9QJ.jpg",
@@ -168,13 +175,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "FIERA TV",
-        "url": "NAHcO3RwzEHQjC13UPSh7CYHEKB0i44U3e7w32R2Ta707/0Z1+xS7207zivjNbd3",
-        "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
-        "type": "HLS",
-        "drm_license_uri": ""
       },
       {
         "name": "NANDUTI TV",
