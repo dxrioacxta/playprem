@@ -2881,6 +2881,112 @@
     ]
   },
   {
+    "name": "📺BRASIL",
+    "samples": [
+      {
+        "name": "GLOBO HD",
+        "url": "iLNe2Gl0MequVt/wyXQJlZainIILejorTVGh00uXmYgyKGKLYMuzhogZMMBrCbj2sgE4HjOK6lliGaXt0wbt3g==",
+        "icono": "https://i.postimg.cc/QtfSqvt7/tvglobo.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "SBT",
+        "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6JrKoazn168+xC/YcNDDRg8CjR9/aM6n/uCJCbHT5KcrknsclzKkC/R4uxmAbP6XY9+WDGcUWY0QfbD7tioG+of",
+        "icono": "https://i.postimg.cc/mrzbRGxb/sbt-e6219203821b4280bc16716488b78be2.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "BAND ",
+        "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6JiGZzj29cZiEYCR6XXXHDDv92mAfHHm/NJ5KoXMeQLK5F/OuuMGEKErPLuGJt/Srh+WDGcUWY0QfbD7tioG+of",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "BAND NEW",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwh+OQH6BxvTZc56Eu4GfKYlRz0Xzp0OGSC9evld33qkoU51VeqD74k0WWcLX6Q24bsISWA0/aWuogWn1KIKZK/Y=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOYn5S28Jv71bc6xJHZg5ru+kmBY8cJoFANjT+1uHdHxfduWm1W0lWFJybyL9T0vkwjq38X+woFNPcOM2rqjMWnim20n3zKMeXdpLTITPvPDK2IF8/xBwBYXMxd42in0gP",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "RECORD",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwip5TRhoJIOEFxq4nahYoWLymadxqgKOplDMcwHC3lPuB4Gy1BLqOdnA+U2As70SLeNpmd9fHNd+wtwIMRREUlk=",
+        "icono": "https://i.postimg.cc/FKyh1VKp/record-415eada9b66b40ac82e498324294f0d4.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOWk9kMQv8dKuCm24H7TN8z6Xzi1EpyJRgg/3vkXZPkNvACPDm1nEkCwikdjd7D37uX6qx/FlivO9J47MMxmatog==",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "REDE MINAS",
+        "url": "5tNEDCE0I45l+RHhvZvKyh8JB3/5ugQrzjS2fTpi6NZ8reQbImXcwma/xDfqOKug3nuaZZP/cH900lexCmUkD2El400GSwflkYhR88YF4isrXOkWenpcYSYUiEABW+el",
+        "icono": "https://i.postimg.cc/cHMXVJvb/rede-minas-logo-png-seeklogo-516107.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "GLOBO NEWS",
+        "url": "SVUBrTPoKs3G/Qlz0Q2C8IrU99vMhG3BiJCiKuOaDTo=",
+        "icono": "https://logowik.com/content/uploads/images/globo-news-2022-new9475.logowik.com.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "RECORD NEWS",
+        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8ZsT1aqjeqJ8pLgodfBJS5g==",
+        "icono": "https://i.postimg.cc/FKyh1VKp/record-415eada9b66b40ac82e498324294f0d4.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "FUTURA",
+        "url": "oUPKeM27VHnbpX8CzRARydxpN5hvVjPS5EQycDKwxR5Kxv5mUxyANQ8oWyz4eXU0",
+        "icono": "https://i.postimg.cc/8CGBDSH5/960px-Canal-Futura.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "REDE TV HD",
+        "url": "hsg4Hzi6WGZKz0/eDIqJKZMG9KN9AeXBEI8f/xk6VOa/6QfNV8BF5REaXZ2Lui0H",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "BAND NEWS",
+        "url": "hsg4Hzi6WGZKz0/eDIqJKb6UCwxlb2YVF7C6/GwWrg9fl6y70S4zm4ll4KvsPxuR",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest/scale-to-width-down/250?cb=20190321005538",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TV CAMARA",
+        "url": "TpznF+rnaWw0rhC5RJhZdpkrhx5blhFZa1lD78F3Sf72OimXPvNu2rYUIs9qoPZA",
+        "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "REDE TV MAIS",
+        "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6KF+1l/WpT5WOaeInMfpTYjzA4cyOwr7vxwXu0Ydl7CTNEOBEo9uorlsk/buabq+5k=",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
     "name": "📺CULTURA Y COCINA",
     "samples": [
       {
@@ -3309,112 +3415,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      }
-    ]
-  },
-  {
-    "name": "📺BRASIL",
-    "samples": [
-      {
-        "name": "GLOBO HD",
-        "url": "iLNe2Gl0MequVt/wyXQJlZainIILejorTVGh00uXmYgyKGKLYMuzhogZMMBrCbj2sgE4HjOK6lliGaXt0wbt3g==",
-        "icono": "https://i.postimg.cc/QtfSqvt7/tvglobo.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "SBT",
-        "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6JrKoazn168+xC/YcNDDRg8CjR9/aM6n/uCJCbHT5KcrknsclzKkC/R4uxmAbP6XY9+WDGcUWY0QfbD7tioG+of",
-        "icono": "https://i.postimg.cc/mrzbRGxb/sbt-e6219203821b4280bc16716488b78be2.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "BAND ",
-        "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6JiGZzj29cZiEYCR6XXXHDDv92mAfHHm/NJ5KoXMeQLK5F/OuuMGEKErPLuGJt/Srh+WDGcUWY0QfbD7tioG+of",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/band-sp_164506c8561547d49b9557724f86bab0.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "BAND NEW",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwh+OQH6BxvTZc56Eu4GfKYlRz0Xzp0OGSC9evld33qkoU51VeqD74k0WWcLX6Q24bsISWA0/aWuogWn1KIKZK/Y=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/d_FcWASM1xgeCZK84K38Tw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOYn5S28Jv71bc6xJHZg5ru+kmBY8cJoFANjT+1uHdHxfduWm1W0lWFJybyL9T0vkwjq38X+woFNPcOM2rqjMWnim20n3zKMeXdpLTITPvPDK2IF8/xBwBYXMxd42in0gP",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RECORD",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwip5TRhoJIOEFxq4nahYoWLymadxqgKOplDMcwHC3lPuB4Gy1BLqOdnA+U2As70SLeNpmd9fHNd+wtwIMRREUlk=",
-        "icono": "https://i.postimg.cc/FKyh1VKp/record-415eada9b66b40ac82e498324294f0d4.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOWk9kMQv8dKuCm24H7TN8z6Xzi1EpyJRgg/3vkXZPkNvACPDm1nEkCwikdjd7D37uX6qx/FlivO9J47MMxmatog==",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "REDE MINAS",
-        "url": "5tNEDCE0I45l+RHhvZvKyh8JB3/5ugQrzjS2fTpi6NZ8reQbImXcwma/xDfqOKug3nuaZZP/cH900lexCmUkD2El400GSwflkYhR88YF4isrXOkWenpcYSYUiEABW+el",
-        "icono": "https://i.postimg.cc/cHMXVJvb/rede-minas-logo-png-seeklogo-516107.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "GLOBO NEWS",
-        "url": "SVUBrTPoKs3G/Qlz0Q2C8IrU99vMhG3BiJCiKuOaDTo=",
-        "icono": "https://logowik.com/content/uploads/images/globo-news-2022-new9475.logowik.com.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "RECORD NEWS",
-        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8ZsT1aqjeqJ8pLgodfBJS5g==",
-        "icono": "https://i.postimg.cc/FKyh1VKp/record-415eada9b66b40ac82e498324294f0d4.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "FUTURA",
-        "url": "oUPKeM27VHnbpX8CzRARydxpN5hvVjPS5EQycDKwxR5Kxv5mUxyANQ8oWyz4eXU0",
-        "icono": "https://i.postimg.cc/8CGBDSH5/960px-Canal-Futura.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "REDE TV HD",
-        "url": "hsg4Hzi6WGZKz0/eDIqJKZMG9KN9AeXBEI8f/xk6VOa/6QfNV8BF5REaXZ2Lui0H",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e77ec3ec8016c9fd59aead82a6eca6db.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "BAND NEWS",
-        "url": "hsg4Hzi6WGZKz0/eDIqJKb6UCwxlb2YVF7C6/GwWrg9fl6y70S4zm4ll4KvsPxuR",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest/scale-to-width-down/250?cb=20190321005538",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TV CAMARA",
-        "url": "TpznF+rnaWw0rhC5RJhZdpkrhx5blhFZa1lD78F3Sf72OimXPvNu2rYUIs9qoPZA",
-        "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "REDE TV MAIS",
-        "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6KF+1l/WpT5WOaeInMfpTYjzA4cyOwr7vxwXu0Ydl7CTNEOBEo9uorlsk/buabq+5k=",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
