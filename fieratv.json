@@ -67,6 +67,13 @@
     "name": "📺FIERA PRODUCCIONES",
     "samples": [
       {
+        "name": "WIZZI TV",
+        "url": "NAHcO3RwzEHQjC13UPSh7LVlv9JEg+CIz5OMCB1b+pX07/0Z1+xS7207zivjNbd3",
+        "icono": "https://imagizer.imageshack.com/img921/223/QiEK5I.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "FIERA TV",
         "url": "NAHcO3RwzEHQjC13UPSh7CYHEKB0i44U3e7w32R2Ta707/0Z1+xS7207zivjNbd3",
         "icono": "https://imagizer.imageshack.com/img921/4702/OcIpwu.png",
