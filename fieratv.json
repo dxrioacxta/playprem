@@ -1921,67 +1921,6 @@
     ]
   },
   {
-    "name": "📺LPF ARG",
-    "samples": [
-      {
-        "name": "LPF 1",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZTZ1wB33A/KsQyBMimfBFXV",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF 2",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZSpH3kG2Gj5Y++YbCjHJ/k3",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF 3",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZR/F/T3AZ8bWL6mTmNiyadr",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF 4",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZR0jJ806jmX3BV42H6s5bFG",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF 5",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZRkkePLzsN7tRa+8iOUOgR4",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF 6",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZS/gX6OVQJXGw8ROlkcZ20N",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF 7",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZQhEWw9grgZG5J4UeVKUFyG",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "LPF 8",
-        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZTpDiDUcciPJ1sbI5E+Y6HB",
-        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "📺BRASIL",
     "samples": [
       {
@@ -2082,6 +2021,67 @@
         "name": "REDE TV MAIS",
         "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6KF+1l/WpT5WOaeInMfpTYjzA4cyOwr7vxwXu0Ydl7CTNEOBEo9uorlsk/buabq+5k=",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
+    "name": "📺LPF ARG",
+    "samples": [
+      {
+        "name": "LPF 1",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZTZ1wB33A/KsQyBMimfBFXV",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF 2",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZSpH3kG2Gj5Y++YbCjHJ/k3",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF 3",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZR/F/T3AZ8bWL6mTmNiyadr",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF 4",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZR0jJ806jmX3BV42H6s5bFG",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF 5",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZRkkePLzsN7tRa+8iOUOgR4",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF 6",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZS/gX6OVQJXGw8ROlkcZ20N",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF 7",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZQhEWw9grgZG5J4UeVKUFyG",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "LPF 8",
+        "url": "B0tYcbnzVFWYO/ZMZyl/OMYhRiOuXmbH/JpCNCX/AZTpDiDUcciPJ1sbI5E+Y6HB",
+        "icono": "https://i.postimg.cc/v8Vky41q/9ac81436-28e2-4e50-9775-e69dc8192797.png",
         "type": "HLS",
         "drm_license_uri": ""
       }
