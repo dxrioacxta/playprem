@@ -896,6 +896,13 @@
     "name": "📺TIGO SPORTS",
     "samples": [
       {
+        "name": "EVENTOS EXCLUSIVOS",
+        "url": "UIUxPftSZqxBPbf+dKCqkJKFmEbbN97MWFBXakeu3HsGifly3/7x7EZQ+lvjKYpc0DILKsLMm1txIewwerA0SU5hBUiKVYHXNYWUJYxcVOctubpuSEYwe3cZzQs0ntVF",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "TIGO 24/7 HD",
         "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lWRg01YvAqlMvAv2iqvvRtBZn2P+1lXgFhH9EN20PMSQ==",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
