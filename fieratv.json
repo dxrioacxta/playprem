@@ -655,6 +655,18 @@
         }
       },
       {
+        "name": "TVA OVIEDO",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAL6OniafkcTS5gOHSXRadC9p64bmvDg68xAKnEtnJpvw==",
+        "icono": "https://mundodeportes.online/pandatv/hgtv/logos/1777090278_tvairepy.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "VISION TV VILLARICA",
         "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFYboymNKrtpcDNLDjpIoM8BwD+y/i5hFV0YdQilvfxkNnL0B/SKXOyXgZ101Kb6U/k=",
         "icono": "https://i.ibb.co/YF53Z8jk/vision.png",
@@ -847,18 +859,6 @@
         "name": "COLMENAR TV",
         "url": "Fn/aSZcsFTUnPVwN8PPZcfT/5XjHSAHRC5/joBWEGrFc3EtsbiIaAZNlDYzER8V5",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781148997_179931.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TVA OVIEDO",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAL6OniafkcTS5gOHSXRadC9p64bmvDg68xAKnEtnJpvw==",
-        "icono": "https://i.ibb.co/BVqcFpLf/Picsart-26-04-18-08-56-41-501.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
