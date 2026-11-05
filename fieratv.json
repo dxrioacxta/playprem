@@ -414,6 +414,18 @@
     "name": "📺PARAGUAY - STREAMING - MEDIA",
     "samples": [
       {
+        "name": "FARRA PLAY",
+        "url": "JzhG8B93u7TVPS36gBGmuH2HGe21fqzphlrgkaYpdGhO0LrE7PlCyb7YHX6M/0XmflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "E 40",
         "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8vuPiArRIfTGYDz80bCicFwm6fJbeU+V0j0wvBp5rwPUmXiyqJ5Tq6QqTZ2SOHC5Ta0GFtDlrbCM/9tmxLSTF8e",
         "icono": "https://i.postimg.cc/DzH7PRkw/estacion-40-2e6856af4ddd42d8bde713998d7aae8b.png",
@@ -465,18 +477,6 @@
         "name": "ROCK-POP 95.5",
         "url": "1FC1vTzY+mr2S0IHThP0Nli2PmZ+M1F2k6AabUS1IYouvXiTBOjBFQNEpKYG166/0ppNtZGQ7mg1T6bvgk/mB8F+4T/xkPi5eGZMFG0aPs9Pj/wbHQo7nG1YbbiMor8g",
         "icono": "https://i.ibb.co/MMYLRZV/rocka.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FARRA PLAY",
-        "url": "JzhG8B93u7TVPS36gBGmuH2HGe21fqzphlrgkaYpdGhO0LrE7PlCyb7YHX6M/0XmflgxnFFmNEH2w+7YqBvqHw==",
-        "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
         "type": "HLS",
         "drm_license_uri": "",
         "headers": {
