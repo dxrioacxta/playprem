@@ -2356,6 +2356,106 @@
     ]
   },
   {
+    "name": "📺NOVELAS",
+    "samples": [
+      {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwtMN94Hbv3hxfh568BNGGft5sRx4cY4ZXhwTYEP0dtbNv3yadqD2z4q9TFmxL0a4txfN+If3s2ujyN0Qy6N7rpFjM55glG1u+YB/T7/lD6OL1VlrNrO1a4rszjtDpepAFA==",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/_kgmFqamO2LVQh4NrsRpjA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO2ZCMl/aSHIv0t1pwm90r6DSfnzJ3WT8ZMB0wqWZFsVftVmesL07gRulTp6NGTyJzrdh9bU3nOT//t2ggl6OiGUqh6VlGCq3XLvnBHh1DDInFagn8cjsHWNvaaKEyjClV",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PASIONES",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwv9jZBCkBAEvmcD8vS3kEanO1zOrwnptUT2p59dNhcXfWeIb6cAh/lYcn7pdQwnpStIVzDI0qPQEB/x4E1OjxUI=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/UXOPMKA8jylVCKBQUsufyw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO06r2Pf9mvKNU3OIYDLwvr2dU5ODLmCgxxOEiortroxF3WbIVBp5DLNtWEdDyH2l7xsK7K5DtNHXpFzB5WfHUgURW5VFILf5PhRIzWU3EOcc2xBFF6ZIe9hGR7GOIGHKW",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TELEMUNDO",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwlL6vGRyaGWRlGQoIlT5hWk++cMn43c2PpRkN3tQpLQOdpKqgSij1JNFDpqYk+1SAf24DoZRYa7O6ry2FnDGfNI=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/TuOPfNE6Hir1JE4yflHx1A?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOlW87v+Hd+zR6UzSXDt2WBDBl9cyWmgIP4t2TlO+avFfJndwxQ8x0NqcwRzVF026oxoIxGKSPPhTuNmCSAvM7VVPaiFrzUMa/Ss8QmTQpu1glBfuvTVftGs5N7GWonKSr",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TLNOVELAS",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwqE3iS8p6WPTUes7Ns5gbcRyXDO0KuEj2ccmacVpNVx9EyZDMutmcY1OW6+PdzWXDVjGzDA1zqCDQjwWfIuUjdI=",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOoC0h6fwV00JVdd2inRM0ixhacd3TZ9ZZn7SDcIDBUMNq2ekZByxhrg/wBwQxjyrYslGZI6F+tB/ad3Yk7ZleOm9cutFo4SaKWWch7I10Ae4EfAcU8fMS5UdBug1CRMlJ",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TNT NOVELAS",
+        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwqE3iS8p6WPTUes7Ns5gbcQF47XkqKmzw01Ws6DLxNR5fpOWWQcytzwJHwHTIOgA1g==",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO1jOF4q8C8MKy1l7V/jIUTy2R1L22cl86pMZCkNlnuXxknCyv47uAnPOrt3KwblZRD0Ia6GxrWOqJbDllDyrVr8uvaajUGJCoJvyZgwcDtODE6QZO7uwMfR9SbF3TmKy2",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CORAZON",
+        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8gSG7GPg6eyv8JgbzH8KtaQ==",
+        "icono": "https://i.postimg.cc/1tdkvgqm/Corazon-(TV-channel)-logo-2021.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "ROMANCE",
+        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8kr+iCJsND1QkIuHP4AdnCg==",
+        "icono": "https://i.postimg.cc/L5Wn4z8C/42321ed50967db51d8ca37568d8d16d9.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "HISTORIAS DE CORAZON",
+        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8Vfz/yfrox6N8mjNEFjTnvQ==",
+        "icono": "https://i.postimg.cc/kDrj8fNN/Corazon-(TV-channel)-logo-2021-png-utm-source-es-wikipedia.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "RCN +",
+        "url": "sOKQwLTpU1IjIcNsyCBiknaPb+os07C6nlEfG+MSnRxlhGCn/7G8N49vFcxN3nc0sgE4HjOK6lliGaXt0wbt3g==",
+        "icono": "https://i.postimg.cc/XYfXgRt5/MJzu-RAN.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TODO NOVELAS",
+        "url": "CKgaWojAhybRHy4vmIwctgJkcRA6tS4A8bOPpi9Is/71x63xp/bpFYdTTTWmpkTlWObc9kFitEgzU6CvxlvKIjXGquC8cvW6PuVv23vtGtSLQcdtzV44QsDT8NcO41h3IKy5OokmihVRbqhSYEbarUlgqV2H+TCcfN7EGB1aaK+AMDch/uRM0iFafn9TBtPRlzSozECgDAMoowywsQeRBknsozCBWpbBCdv+FDutjP6HsTuhvW0PIczgfcz4FT+aA/VjMMJPSJykOU0QER33y070xa9v9f60/cb2l7r9LkPycJbyAVflxIbI6h4YbUMiyKVBVFF+WJRNYxrufV+PD1TfS6tbxO8sjiMYxL08BrqxBwRUETs/ioBX3BzPm34ppojgoTKzHoagzrsHFnUMBELJxIjf3yn7RwtA3GFQBjuPXNE1hwSgEmebBB5JLhhvJYWW0Kf8x6JKR/NFL3zMLg==",
+        "icono": "https://i.postimg.cc/m2GPFZ5W/images.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
+  },
+  {
     "name": "📺BRASIL",
     "samples": [
       {
@@ -2456,106 +2556,6 @@
         "name": "REDE TV MAIS",
         "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6KF+1l/WpT5WOaeInMfpTYjzA4cyOwr7vxwXu0Ydl7CTNEOBEo9uorlsk/buabq+5k=",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
-    "name": "📺NOVELAS",
-    "samples": [
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwtMN94Hbv3hxfh568BNGGft5sRx4cY4ZXhwTYEP0dtbNv3yadqD2z4q9TFmxL0a4txfN+If3s2ujyN0Qy6N7rpFjM55glG1u+YB/T7/lD6OL1VlrNrO1a4rszjtDpepAFA==",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/_kgmFqamO2LVQh4NrsRpjA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO2ZCMl/aSHIv0t1pwm90r6DSfnzJ3WT8ZMB0wqWZFsVftVmesL07gRulTp6NGTyJzrdh9bU3nOT//t2ggl6OiGUqh6VlGCq3XLvnBHh1DDInFagn8cjsHWNvaaKEyjClV",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "PASIONES",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwv9jZBCkBAEvmcD8vS3kEanO1zOrwnptUT2p59dNhcXfWeIb6cAh/lYcn7pdQwnpStIVzDI0qPQEB/x4E1OjxUI=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/UXOPMKA8jylVCKBQUsufyw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO06r2Pf9mvKNU3OIYDLwvr2dU5ODLmCgxxOEiortroxF3WbIVBp5DLNtWEdDyH2l7xsK7K5DtNHXpFzB5WfHUgURW5VFILf5PhRIzWU3EOcc2xBFF6ZIe9hGR7GOIGHKW",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TELEMUNDO",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwlL6vGRyaGWRlGQoIlT5hWk++cMn43c2PpRkN3tQpLQOdpKqgSij1JNFDpqYk+1SAf24DoZRYa7O6ry2FnDGfNI=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/TuOPfNE6Hir1JE4yflHx1A?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOlW87v+Hd+zR6UzSXDt2WBDBl9cyWmgIP4t2TlO+avFfJndwxQ8x0NqcwRzVF026oxoIxGKSPPhTuNmCSAvM7VVPaiFrzUMa/Ss8QmTQpu1glBfuvTVftGs5N7GWonKSr",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TLNOVELAS",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwqE3iS8p6WPTUes7Ns5gbcRyXDO0KuEj2ccmacVpNVx9EyZDMutmcY1OW6+PdzWXDVjGzDA1zqCDQjwWfIuUjdI=",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/fKkBD9R5bUMO1feOQQdzhw?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOoC0h6fwV00JVdd2inRM0ixhacd3TZ9ZZn7SDcIDBUMNq2ekZByxhrg/wBwQxjyrYslGZI6F+tB/ad3Yk7ZleOm9cutFo4SaKWWch7I10Ae4EfAcU8fMS5UdBug1CRMlJ",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TNT NOVELAS",
-        "url": "SJaDv3i2fR9rX4GKeeULb23uQTHIEIGdrqa55l+wV8wDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efcuxp2zH3uUzHjPfJYj/A0jTXpD5t7kDXeihqtJot1QvO7vrZOyc+mrZYywpGymIEQOCemdDKuGDiB/aRWV+ZtC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfueLDfu59rTRk3iB+n7qaHXfCbe1irU8QtqU3K1xvr+IRitfYNodSbZUKW3SnBudt9C/FLvk+da50FsmvIUq6JH/JCEinENhbRhTO/GY3y9m8Z2bX5x0St/0V6W3JsVTdgGk0LQtabx/uYTLpH0fqnkT/FBtOqMWxkWwxSocyreyUdU4x/yhUf0Bqhlo2o+6s8F+Yuh5siSOBWR/q3i+D61Qe88Y+AlMQ57hYk2ieRKBOZfJjJYzu5WkmCJGMabxUkLeUiEGAGM8sPYgDVC4tNLxACha0qNAd05vSx4leQcn1LwxQndwwJhCm/Rl44w2mkDRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5dkhztQKlgO29CCyZyBsvEUor1vnTVPmtuvjGoMI1+kIevFHf33o4yxikL94D8WsFGpm6W0D2jiqDa3jnT0t7gsID9/Uc5DIJo62gTqNh4WU1lnskSUXWGPEPlJXLJzViwZEDG1EZv1BulJkn7DO/48Y9yrGhTi6zJLkYNw7ZNgUfC+fBNeTqL8WGZLVan2ptwqE3iS8p6WPTUes7Ns5gbcQF47XkqKmzw01Ws6DLxNR5fpOWWQcytzwJHwHTIOgA1g==",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/NHkxUfsgs3z-DC1t0Jf2mA?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQO1jOF4q8C8MKy1l7V/jIUTy2R1L22cl86pMZCkNlnuXxknCyv47uAnPOrt3KwblZRD0Ia6GxrWOqJbDllDyrVr8uvaajUGJCoJvyZgwcDtODE6QZO7uwMfR9SbF3TmKy2",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CORAZON",
-        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8gSG7GPg6eyv8JgbzH8KtaQ==",
-        "icono": "https://i.postimg.cc/1tdkvgqm/Corazon-(TV-channel)-logo-2021.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "ROMANCE",
-        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8kr+iCJsND1QkIuHP4AdnCg==",
-        "icono": "https://i.postimg.cc/L5Wn4z8C/42321ed50967db51d8ca37568d8d16d9.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "HISTORIAS DE CORAZON",
-        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8Vfz/yfrox6N8mjNEFjTnvQ==",
-        "icono": "https://i.postimg.cc/kDrj8fNN/Corazon-(TV-channel)-logo-2021-png-utm-source-es-wikipedia.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "RCN +",
-        "url": "sOKQwLTpU1IjIcNsyCBiknaPb+os07C6nlEfG+MSnRxlhGCn/7G8N49vFcxN3nc0sgE4HjOK6lliGaXt0wbt3g==",
-        "icono": "https://i.postimg.cc/XYfXgRt5/MJzu-RAN.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TODO NOVELAS",
-        "url": "CKgaWojAhybRHy4vmIwctgJkcRA6tS4A8bOPpi9Is/71x63xp/bpFYdTTTWmpkTlWObc9kFitEgzU6CvxlvKIjXGquC8cvW6PuVv23vtGtSLQcdtzV44QsDT8NcO41h3IKy5OokmihVRbqhSYEbarUlgqV2H+TCcfN7EGB1aaK+AMDch/uRM0iFafn9TBtPRlzSozECgDAMoowywsQeRBknsozCBWpbBCdv+FDutjP6HsTuhvW0PIczgfcz4FT+aA/VjMMJPSJykOU0QER33y070xa9v9f60/cb2l7r9LkPycJbyAVflxIbI6h4YbUMiyKVBVFF+WJRNYxrufV+PD1TfS6tbxO8sjiMYxL08BrqxBwRUETs/ioBX3BzPm34ppojgoTKzHoagzrsHFnUMBELJxIjf3yn7RwtA3GFQBjuPXNE1hwSgEmebBB5JLhhvJYWW0Kf8x6JKR/NFL3zMLg==",
-        "icono": "https://i.postimg.cc/m2GPFZ5W/images.jpg",
         "type": "HLS",
         "drm_license_uri": ""
       }
