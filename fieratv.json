@@ -412,7 +412,15 @@
   },
   {
     "name": "📺PARAGUAY 2",
-    "samples": []
+    "samples": [
+      {
+        "name": "SNT HD",
+        "url": "C3MX6uw77mf7533LIlnsUF0q9hBF2FSDAytw0AOzQPQnw3xDSxhFDIkuiSJ/89UbF1p/jdJcLhLSIboR6HfY8w==",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺PARAGUAY - STREAMING - MEDIA",
