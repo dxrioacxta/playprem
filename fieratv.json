@@ -3588,13 +3588,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "TV BRASIL",
-        "url": "uzhy+1KWcXtX3XY975Ta8IP3uHpEHC7PCv6qXDkSf7usdsWkEFaddMfkLNuEKZaC",
-        "icono": "https://i.postimg.cc/52KYKWRK/TVBRASIL.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "BAND NEWS",
         "url": "hsg4Hzi6WGZKz0/eDIqJKb6UCwxlb2YVF7C6/GwWrg9fl6y70S4zm4ll4KvsPxuR",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/8/82/BandNews_2019_Logo_blue.png/revision/latest/scale-to-width-down/250?cb=20190321005538",
@@ -3605,6 +3598,13 @@
         "name": "TV CAMARA",
         "url": "TpznF+rnaWw0rhC5RJhZdpkrhx5blhFZa1lD78F3Sf72OimXPvNu2rYUIs9qoPZA",
         "icono": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "REDE TV MAIS",
+        "url": "H075GSqR3GlG67TSA6n3w9VabGe9gJZndaNYAR10m6KF+1l/WpT5WOaeInMfpTYjzA4cyOwr7vxwXu0Ydl7CTNEOBEo9uorlsk/buabq+5k=",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c4d86e44f7e8a8d736dd477176a05faf.webp",
         "type": "HLS",
         "drm_license_uri": ""
       }
