@@ -3,13 +3,6 @@
     "name": "📺TIGO SPORTS",
     "samples": [
       {
-        "name": "EVENTOS 4",
-        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+npRrclln/YbMw5xaydvYX5fS2RE812W5QTXBv3XI9aPg==",
-        "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
         "name": "EVENTOS 1",
         "url": "/j9mdr839tOe6OSl2q7OHVY1O2ABYm0mBPG2sYkGqhZMS7mqTN6lLg8B8swU1FuP5fIUOEObpCk/Y1JaU8GFj/xy1PkDKO5TI3oC2R1V72QsyeV97JKvIGIVOtka3IDm4DGR+jn0rKvmfSGMJQzWYQ==",
         "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
@@ -26,6 +19,13 @@
       {
         "name": "EVENTOS 3",
         "url": "NAHcO3RwzEHQjC13UPSh7CYHEKB0i44U3e7w32R2Ta707/0Z1+xS7207zivjNbd3",
+        "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "EVENTOS 4",
+        "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+npRrclln/YbMw5xaydvYX5fS2RE812W5QTXBv3XI9aPg==",
         "icono": "https://i.ibb.co/j9mk4qYj/LOGO-APP.png",
         "type": "HLS",
         "drm_license_uri": ""
