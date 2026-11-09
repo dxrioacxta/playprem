@@ -3,6 +3,18 @@
     "name": "📺PARAGUAY",
     "samples": [
       {
+        "name": "SNT",
+        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgAUA1ukkTDPDH10FgRcjS88a//EpzRf8BdRss3IIb7VW7QH2Jzm+ME2MP5tEKpDry/VWWs2s7VriuzOO0Ol6kAU",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wrh0Kat7F2vJY3nyxRhpbvlw9uSq+Ix206PQhSaLpeiAmIyujrxmiA2bD/D0HH8Ay50Lk7ofIyCOY7zm/E9R5GwCdW6PEGKkin3FyJTP86MWY=",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
+        }
+      },
+      {
         "name": "NANDUTI TV",
         "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgAASfsjoFcMjypGAr+T+/IV4HJgffeejFy+MB4CulhJ/zPaVrAAVLZKF9Y+C0xDDLzL03iDXBXPNbPNrocU1Ya0",
         "icono": "https://i.postimg.cc/52CR5ftw/avatars-Iwz9FWj6Gy-ABKhnn-Gvabnw-t1080x1080.jpg",
@@ -60,18 +72,6 @@
           "Origin": "https://portal.app.flow.com.ar",
           "Referer": "https://portal.app.flow.com.ar/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SNT",
-        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgAUA1ukkTDPDH10FgRcjS88a//EpzRf8BdRss3IIb7VW7QH2Jzm+ME2MP5tEKpDry/VWWs2s7VriuzOO0Ol6kAU",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/HkPBMLO5--5ekxoYmuRCVg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wrh0Kat7F2vJY3nyxRhpbvlw9uSq+Ix206PQhSaLpeiAmIyujrxmiA2bD/D0HH8Ay50Lk7ofIyCOY7zm/E9R5GwCdW6PEGKkin3FyJTP86MWY=",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0"
         }
       },
       {
