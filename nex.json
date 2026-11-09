@@ -27,6 +27,18 @@
         }
       },
       {
+        "name": "NOTICIAS PY",
+        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgAASfsjoFcMjypGAr+T+/IVMFInqamVb/KkmJNQ9MybOr34kiyvXIdl3NY1APfAmqrD6wAg8PAGhgPxBaesmz691VlrNrO1a4rszjtDpepAFA==",
+        "icono": "https://i.postimg.cc/Xqnbmpr3/NPY-Noticias-Paraguay.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wrXS6wRok/IgY2/6hoMNgID96brCmnvPwhSnJDld4DvdQE97jJLvrpCaVlbGRyAAfg2uQAheDc7kMkxWUezTQPlvUM8D2TBbogwwZ3JyparOw=",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "NANDUTI TV",
         "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgAASfsjoFcMjypGAr+T+/IV4HJgffeejFy+MB4CulhJ/zPaVrAAVLZKF9Y+C0xDDLzL03iDXBXPNbPNrocU1Ya0",
         "icono": "https://i.postimg.cc/52CR5ftw/avatars-Iwz9FWj6Gy-ABKhnn-Gvabnw-t1080x1080.jpg",
@@ -188,18 +200,6 @@
         "icono": "https://i.postimg.cc/sDXFWF7C/abc.png",
         "type": "CLEARKEY",
         "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wr5CuKEEArwfQzXAifH9PFIqid4+RY1/VwXNndk14AZRQOXWBKZWpEIXRFl9K6fqyRpNA6kmIkC76l7VLMovwcWDXsRGtM1nwvwh1DOV2jTFE=",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "NOTICIAS PY",
-        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgAASfsjoFcMjypGAr+T+/IVMFInqamVb/KkmJNQ9MybOr34kiyvXIdl3NY1APfAmqrD6wAg8PAGhgPxBaesmz691VlrNrO1a4rszjtDpepAFA==",
-        "icono": "https://i.postimg.cc/Xqnbmpr3/NPY-Noticias-Paraguay.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wrXS6wRok/IgY2/6hoMNgID96brCmnvPwhSnJDld4DvdQE97jJLvrpCaVlbGRyAAfg2uQAheDc7kMkxWUezTQPlvUM8D2TBbogwwZ3JyparOw=",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
