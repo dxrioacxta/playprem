@@ -1,0 +1,31 @@
+{
+    "version": 3,
+    "crypto": "AES-256-GCM",
+    "folders": [
+        {
+            "id": "folder_3adc2a0f9896",
+            "name": "ARGENTINA",
+            "position": 1,
+            "enabled": true
+        }
+    ],
+    "channels": [
+        {
+            "id": "channel_1b85723c57df",
+            "name": "AMERICA TV",
+            "logo": "https://cdn.bo.flow.com.ar/images/content/60/40/PKQmsFunFuubjSQPop2k-Q?tags=CH_LOGO",
+            "type": "mpd",
+            "player": "native",
+            "folderId": "folder_3adc2a0f9896",
+            "position": 1,
+            "enabled": true,
+            "locked": {
+                "alg": "A256GCM",
+                "iv": "juwo1qGCPZgOUEsA",
+                "tag": "33w82hPzQFR1qXF8DsMGRA==",
+                "data": "0LXpU9ArUOZnPoOIvy9THbbPi5Ejinb9AWWQc+HitJLgV7AEXWErgwoOsVz6GGrU/CaqM/43CjpycI0mCa6NtNHqiankyDDCHSpighg0AepqhgcZ3TKxN1xVw3N4ExbZ+RB17J8qNpWmURNcfYHdF0SXJktTYp6jRPx7WwqlF+91CDbwOjjp25kR6NiFXqvB9zlRWAp7O5i6hQi7bZK3dQXSXjASAtv2M/7S+AJ6CH4wNq9fYmPD1yU1XO+EGu3mdiiJTjDwhmXinktnpvluSZvFetv0DltgO5l6YLJDJl/2hRWCwGr8960rOQMSTZgL7+vkY2mxpiedXWZm+/5zuhFBZuzYi79mNRRokNi4ZJuqooDuLu1BsfOmOommPA0FbiNR+TjxDoj+btK3t990abo5DDa+P9JdAvYuMFnF3rPBijMO9GJmYLMA0OEH+l2bS+kop4WLRX6thXsLhHlbm6P8EuWaZVxfZ3aSbNkbgYxBPOsuWsBKJyQD/sGvcfKdDd3FkT7NkvkgZqIj8RRwViCiS4TBG/jE2a6REjM0V+a0CEVZqSJxsxZPzpJY72rmsC476ETniY1CTs6f2ckvx22yg1jCBE34Cn44IzfH5Y67azclI+p/YxQi3lpAYS/LoTRNencxTFmbf1X1CEHLfkD7ovcLWBdblPodwF//JM0NIgEgcyC9To4EF4C16d8FDctMCzHuu04jcsm3i+G8E7RmiejSzgNi0HY6A9Xl4068kIpjEyyMxJUMqUy9PB0NMoNNBW6BhOcaM41uUlYnPGI4n8FsNn0fQ5Bf4VofyERX+4WoypmaBWyZXzKdPy9MzmQHjyMnTMcvVQmgLxnBzagXwgrfNneHlcX7MgehpxWLzVUxy1qjOaL24zl2rS2pGeP6P0FvrqSHcXErxU2JQNRyuw6+G0DyLV4MjeP7M1fpsIqWifc4KRTBoH5ZKW3jaZCwk9XXjw8x2xlDjg=="
+            }
+        }
+    ],
+    "generatedAt": "2026-11-09T17:46:37+00:00"
+}
