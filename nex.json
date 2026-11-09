@@ -51,6 +51,18 @@
         }
       },
       {
+        "name": "LA TELE",
+        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgDpB38UK0NT0rVETFLba0ks/04QZiNdSaKyYPJd9kZRQWCJ5QB3nynB8M984xq1HqOZAQNl/RPxmIjVzkXP5ijo",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/IgsLLdcHrTzclBqQghGdGg?tags=CH_LOGO",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wrJLVE6kR8cCnqiqCUZ1lRpIv7JxMceWLZnHIBH2rilNZo6d/BKzoKMB0HpFI4tDcJ0KS5FpoMXbq2yB0scB2b7TW0VQ3P7A9O7C8x8BzNI0c=",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "ABC TV",
         "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgBgwO43Xqfg+npgybMwq8yVyk43AqmR6n9VRdhrmJzeY3t1A1IELyndkRF57dcjPtEdVUePZXg5grnZGVn/2dAR",
         "icono": "https://i.postimg.cc/sDXFWF7C/abc.png",
@@ -68,18 +80,6 @@
         "icono": "https://i.postimg.cc/52CR5ftw/avatars-Iwz9FWj6Gy-ABKhnn-Gvabnw-t1080x1080.jpg",
         "type": "CLEARKEY",
         "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wrq3zqZuxk6hpV/VIHwOeVaX3DE3/Yvv+cFLKxsSOI+hw42c1pUooFQKboIOvEhfykxWP7yQv9DL4vJxOUyJYqo1Mqt+RP6xQCmAYMryfP9e4=",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "LA TELE",
-        "url": "SJaDv3i2fR9rX4GKeeULb+H9HjBX+Rqw3IaWyZXUdowDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efPjfPbPWGtExodt5jNcyd54lS+jglO5+VOSyRAdUHRsI1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9O61t2LMvuOIJ9ydf/6gkMFPTB2WAaClIxUBeGeMDZ703QTV/EkdzXuobbyNgVQ4ueEunsRMaQ3kFBxrLOlLpVtd5WTB72KSiOHLBI+7lob5bgciiCprgpQ1gts4HFJCSeVwtLfVarh6YCYSo4Tg8K99+MksPymQf0AK9oiil9SMMRK2VymAT+tki6PjnYkNggC1//oacCW6mu2VkgraAEjc8umxlni2HYMB7X/sPhr2dAJNdzsOgl2wkWULf2KBUvAeKxLkYT2qPwhnWoJIHsA8h+bjWy573IFLVIMdUS5RnpPwywGhmsF5t8UXBvPZpbEv/o3dCzY/Lz2cUuV0OJy5Rh+sMSK9DjVJ/FaBKZUUYz9Hw/EDJqFXL/58TVzxq0FRH4pPjBKzC0q7DhyLZA3JrpnIyUidIUC69P4E1ueEjX/YDzyPQ4ESMz0cjCP6UBSfDENGbLrUYWH4HZTmpbzYj30DuQ4PI1GUN/z1LInBHpzsmbmNWi+iloMvwTbq5a51u91XqeSWeWoQk9QZygyRrzCCpzfW3I5DMscGKvgDpB38UK0NT0rVETFLba0ks/04QZiNdSaKyYPJd9kZRQWCJ5QB3nynB8M984xq1HqOZAQNl/RPxmIjVzkXP5ijo",
-        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/IgsLLdcHrTzclBqQghGdGg?tags=CH_LOGO",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/RF85n04LkCmZKePaRnrMgOY1lLlIFIr+SOMbd33V0wrJLVE6kR8cCnqiqCUZ1lRpIv7JxMceWLZnHIBH2rilNZo6d/BKzoKMB0HpFI4tDcJ0KS5FpoMXbq2yB0scB2b7TW0VQ3P7A9O7C8x8BzNI0c=",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
