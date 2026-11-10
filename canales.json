@@ -154,10 +154,10 @@
         }
       },
       {
-        "name": "Prueba12",
-        "url": "GeT0SPFLIDlKe5q2EMIIYUsSsSOqol2DC7eCEbGglDq0MbZIvRJiFpgrVT20z/h+szNptMpJh64y7GseX4eKHd5RkjItcBBgiNsH5VrBKSU=",
+        "name": "Prueba11",
+        "url": "sv1T9PHQxe0Vg7rs6JpQxUis34mwU6S1l/c7pZ1nWkuRkRTeIQ5bdnsgmg/hocByBysTq34YgRo2HnOZj6SAYQ0XNS+36VrIcGHYhcAB/aML23wXgbbgBW4QyFp4sK7DbzS+hCOIH78vuYg3UVjCgd5sJ18aOjFnkeN+D4KSjB7tUMrtU8CKvvqvgNm5ZVhqB9Aa+5je25DTR/+WSDs0xywUVypAzU+P2z6aYIqoeAM2JZvKPGLj7hovzbY0EXrM",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
