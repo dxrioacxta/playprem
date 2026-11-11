@@ -3531,6 +3531,13 @@
         "icono": "https://static-ottera.com/prod/est/linear_channel/thumbnails/square/en_vivo_placeholder-estrella_noticias.jpg?VersionId=NvcsewNYrbQkT3MIOP8NazbVko9qOKOK",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TV PERU",
+        "url": "xygo/c59IWqZwjPGAUM8uktDur/a/2eG84WAvrvgtxu/6QfNV8BF5REaXZ2Lui0H",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiIlmFFOvF6ocsCux5gR5Izjz9ccYRac17cGl8NWXE0Q&s=10",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
