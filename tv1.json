@@ -13,6 +13,13 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "EVENTOS 2",
+        "url": "A2rq0/JlTcSUPV//42gSJks/9JQ8lq0qD+/XSPXqzHaX/cLoDsHrwnViIURPnLxl+wHaTmYUU0IbKzCHpozYZFMOYrR1H+kYce2giDKyl1VqUBRtj28kbpO+8+hIvnaWjRkaFWjxQtGy75qBiTnxM/88pmEpAmIMFpgcURfEkrg=",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
