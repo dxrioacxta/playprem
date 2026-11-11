@@ -3503,6 +3503,13 @@
         "icono": "https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FRANCE 24 ESPAÑOL",
+        "url": "tKanXks5XQ3/H+MZUouhE3oHpKZJUUm6Vvy6AcedmCwxBLQds+QysY6RUvth8GOo0a6hAYyTriFhNMZIsuBX1hJGexva7fHYvihkuwYuwUY=",
+        "icono": "https://mxplus.tv/img/canales/app/france-24.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
