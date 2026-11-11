@@ -3419,6 +3419,13 @@
         "icono": "https://imagizer.imageshack.com/img921/2194/0f3qoF.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CGTN DOCUMENTARY",
+        "url": "ZBKDInPVceI6ZOShHACFPQNIPKz9p0oVvlxngDxK9FoHviw85Kes8a9nW74Gv1w4sgE4HjOK6lliGaXt0wbt3g==",
+        "icono": "https://imagizer.imageshack.com/img921/390/6y2uoI.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
