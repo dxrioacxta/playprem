@@ -2741,6 +2741,13 @@
         "icono": "https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest?cb=20191227152108",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TELECINE ACTION",
+        "url": "DHp7aDDZw64OMAzZ66Cad0XLWbar8JM9Q+yKHiXjkuI=",
+        "icono": "https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/telecine-brasil-logo-2019.png?resize=800%2C400",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
