@@ -3185,6 +3185,13 @@
         "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
         "type": "CLEARKEY",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AQUA PARK TARTRALANDIA",
+        "url": "i6Enp9x4HudS2UNMZl3e3h3q/rB/+3bOa+JoRUC2jBtMmSk4uvu9O8K6pQr8lwRF2yb0buLYg2tnAUqhbWtn0+WdWOLGea07mNPcLg+Ysd4=",
+        "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
