@@ -11,22 +11,6 @@
     ],
     "channels": [
         {
-            "id": "channel_1850413c85a2",
-            "name": "ESPN PRUEBA",
-            "logo": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
-            "type": "mpd",
-            "player": "native",
-            "folderId": "folder_3adc2a0f9896",
-            "position": 1,
-            "enabled": true,
-            "locked": {
-                "alg": "A256GCM",
-                "iv": "gNelwuLc+gLklygn",
-                "tag": "Yo6F8T33TDdC/NqieRLTLw==",
-                "data": "WA1DrOwr+0WtCtqSsZ1NwrVAz0OXgO2sn6Uag4cstSm8nuP7l7/aEFiFzLRcw0qf75SKvz/xo0Bh+H3mms//YDTnYor92ZjvS69FAJxUL7xUcIqgsdQTTgGDpQuX2Ae8yNun8i89U6jDUFMq+JKK6qvfaK1UE9npHxmmNlxx0x8zk90UfSHI+vdMcEXqXK1+bhECQz3lcXntYg4qBEpe1E6TRTj0c4tX0RDdoFGHi/GO6pB8j6CzZ9rdkuCC2XxcEnAYS3E2gYa1sIxLVBsiXmDWGNQy7MOZAce6BOaLv3bjhmwGSW4dA04oMm8Mjn/zn09R3yl39G+9AE2Gacb9foj9/guimTVmETg57NYGyhIBz65qoNIBhK6Vu9cc5HGDt0WNDMY16x/MHQvN0Q/kI6To1GlHXXwYc3AIhQwxR8wcDZyjHaCSLEpdD0pPmG7oZ5+7BmYs/mwT2K+Drd0PMoqjSS9u8rcnH94I6qBJF9QRLcvf68jLTtLdolh/LnSEk5rGYI7MnGv7YvygH4NUdcw/q5qlgyZzfOzlJsA06jFmk8xfb5dWEF2YUcTqaPAjASI6RptSXeuAkXuUW2PYWBftxKtkZMMWSft8ThnjOZTHv9KzUugYDjdaxBDvP19SYdfC/aPpMBjewz3PhK7OFWSSTNrlssilK9+fX4mYl2ZrPBv4SzbR+9DhUkZg/P3N++7HgVMUAnWGwDAI/5nxUUxsok0vqNJocIYsFE7TPWz36jDJQEZHGPeub0jSfecmlRH6cO0F6TBWsFLRyNwJ9p1aaGyNe+SmV9ZIO03NHdl+KsZV65SgZiIaFypkMeaJHJIQiAO9Qj5P2vcSVImReYn0BDoaIjDmd4Tu8B4j4PN1BqTLgjYxLxEtdrdXHdvBFHJ6QS8MpyBHtbQrvtEPMWP4uBKu2PYhEeAmQjqTipLu9yUfl41ZyF7vLs5v6UdfLMjGB8vitlF2F1g3Fo3sLbm3lgtFaq0FYgHhE4buaL265GxgmrN/XhMgLnPZ5J9LVBg8QBsg3D234xicwghfLg0pKnpULqFKrf7ig422Y5g9yX5I6e94hOM8PbhH4EVRBjD407YGjC9YL4Vjs/4COy5Mw18moRdLkUzBGp+Um+IApX0/+4I4v93q8L4Yu52yRpL+hYoNh9imWHRhleSVUEdTfAeyqTs="
-            }
-        },
-        {
             "id": "channel_2a8a1bacd5f6",
             "name": "Prueba m3u8",
             "logo": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
@@ -37,11 +21,11 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "2F88dwRGpLXdGjoG",
-                "tag": "Iivh3iNaBW7SIBj9CI3WRQ==",
-                "data": "9MZSCuF5V30oRCw26Ez64PvRWhYa6mQWBoP3XeyUDJw9OcqYKG4K5BAD8PgaOfcPY664nYoEE1kPi0QSiKOGqtV1/ztdYuyD3a1cThtC7EwfHqY="
+                "iv": "O1uN1p2jXTUNpVXt",
+                "tag": "cm1EP+Vp5MotREcqsAP3Cg==",
+                "data": "zpka7DTFDJwHJfDEkLjKb0CEvW3pLcmAZWsaUFFLpFrCtsdBlUHLgZbokQ06JSl7pl4/q+cc5cdoPgULDQJd5A/DSt5xHF+Cq6QyzHi931VRNak="
             }
         }
     ],
-    "generatedAt": "2026-11-11T19:43:37+00:00"
+    "generatedAt": "2026-11-11T21:00:40+00:00"
 }
