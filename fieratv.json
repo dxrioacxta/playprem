@@ -3384,7 +3384,15 @@
   },
   {
     "name": "📺INTERNACIONALES",
-    "samples": []
+    "samples": [
+      {
+        "name": "Wapp Tv",
+        "url": "bGV3SYdljhjgSr6ZBapbtnmYx4PVyF3+Z3grR5xs7nN5hOGaGSQwHocrWPQiPLvZvfwBmwc3k0jgr++eXQPatQ==",
+        "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺INFANTILES",
