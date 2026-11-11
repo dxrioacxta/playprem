@@ -9,23 +9,6 @@
             "enabled": true
         }
     ],
-    "channels": [
-        {
-            "id": "channel_1b85723c57df",
-            "name": "AMERICA TV 1",
-            "logo": "https://cdn.bo.flow.com.ar/images/content/60/40/PKQmsFunFuubjSQPop2k-Q?tags=CH_LOGO",
-            "type": "mpd",
-            "player": "native",
-            "folderId": "folder_3adc2a0f9896",
-            "position": 1,
-            "enabled": true,
-            "locked": {
-                "alg": "A256GCM",
-                "iv": "DAnHHG+9/q+YMJkc",
-                "tag": "u186aH0m1jhAV9lmfWixbg==",
-                "data": "D67ErOurEiVYyLhHDcCd/DdqkJke86ozlCsvXWdcf5x/6GsiG54nVo4MkOXT6YUFzvnL3XHdPeVYCflLSYBSnE9F4tk/QB9s/MpdjUn8Kn8YCYaZheYldzefUjGGhxDVi4MDa9uFuzss9Qtj/ohKzuh9vP1CzXvuCsv4IBdklLCb4lz3X5GV+AT5+fIsr2kAE+U3pjY7MYTYxJBua9KS3vEkMkNOXYtsCs3+S9BTR6XkieRVB5QvSohamnlrb+fc+ZC5OF9gSLx9ln3Q8mwYTLwygKiRb8dz9UI/gYTD53goEh/bXn2IpJmk2n/UbK6l+nnR2RQxsjnZJGtGhlXduC7re7dsdBRHd4sLTmX0eEtBuBesvALRMk8xCpHtyqJGfXPHLwCUsuhtsmfCCeX8sa+ZKQqUhe9FUzOJd28BzcEq18GYNhZcrLVyEkSTsD1jZN6S8A3eghhUAKGpOEyD7On164GqppBg28ud4uujqfM2WPV1fPZ8ld+p0fUjahIJcqBujBjM3L8TYhTHB30HW1rpjNdUXKPHi8EYbPqPp7OraoGweF1nsUCAgSLWv/LNCb/wlrjbm+3vVCOkb/6zvBhDPWJ0oY3pEP4M93rQphIr7md68zMpAKf3QePrSn/lcKPLKl1gnvWPBUWOcMDEHS19InvKCcmuByT76fxXTD5rYo2/JjYzi6emWywY2skXKo/DEQxIRjUgiO1WNelh0EPfDmu9vusx9zqRcIAmL/6PR+61Vb6x/MYVq55ZeWk9N1ZrGZDSB2qWgUl0LXB7RkrIqv1h7cPAK4d2QVJVEr9CxeXR3HtS/ezHzUDNfINzH55RQXclRDsbi5oUEpS/56B+k68H5xEAwPyrytJA6MyvHq/Z1Q4q+ZuXCCJK7WtX3kXhgEIh4K8oGmIU3xUJLyZ05uYZYG+rWwV5ztfrt9h8SeqUCXs4zrmdVu+a"
-            }
-        }
-    ],
-    "generatedAt": "2026-11-11T02:39:55+00:00"
+    "channels": [],
+    "generatedAt": "2026-11-11T19:26:45+00:00"
 }
