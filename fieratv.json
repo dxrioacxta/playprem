@@ -3188,6 +3188,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "TV GALICIA",
+        "url": "lVmQFVijBHh/m7jLn57iRX6OfRbPDPTaueKKCh1CiCgIYXJaqYBF4XozQnDF9L0hprsB7IbvpYSDgWDWymUsqh6EOLJOACPiLz3tTf2IUZA=",
+        "icono": "https://graph.facebook.com/CRTVG/picture?width=200&height=20",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "ODISEA",
         "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEF/yAGMjP/agOMeMOdX8QcN4=",
         "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
