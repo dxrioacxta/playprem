@@ -2636,6 +2636,13 @@
         "icono": "https://www.estadao.com.br/resizer/v2/DVUF3E4TPBJENA7CDO56JDKTRQ.jpg?quality=80&auth=497be847b3d77bc4dab53994eced1abba64bca90fba4e2edb073dfbce7b3eaa4&width=380",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CAÇADORA DE RELIQUIAS",
+        "url": "sCcK9Cztupin/gbM86S2ee7xKVXOUYWVYjVfr/68Jcm7oXW6yUoIVjFixBhXuD/UflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://cdn11.bigcommerce.com/s-ftsflnse4o/images/stencil/1280x1280/products/31500/121246/D_789749-MLA53763553097_022023-O__77415.1730713488.jpg?c=1?imbypass=on",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
