@@ -3195,6 +3195,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "RTVE",
+        "url": "5WGBMI/sBVHY40J2rW0SY/3Pt87vCsOlXQEU7eD60rvCTwzhjUIwaipp7EiqSJja/i6KjsxORktEsq5JpSJBKmKF2NXAFvvpml+Af7qKLtQ=",
+        "icono": "https://imagizer.imageshack.com/img923/4575/5zuE5Z.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "NOVA HD",
         "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEF+Iw5mB9lrnhlaL5vXQuFNc=",
         "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
