@@ -3391,6 +3391,13 @@
         "icono": "https://play-lh.googleusercontent.com/7FlrIUlAA6puQYoiHGs1qeQLcGivEU9A_ARJpzCzWmU6WMMIX5VVm4XrgTYdtnchuoparIHoAuWDNJRQmZI8F50",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "LATINA PERU",
+        "url": "YKeEpNnvPWs/z2aTXwpffcjblEx6Zab8f+4K7kSPTPuQbIBhyc4IRoSiaPOdjsTDR4CYJV+y4bdahNGBI5/osBdtgLbdGALZAL37R1pBfpoftz/T72Z3SoEnkMrpYZGruGi7ODXLv57YDyyvtNjwMn5YMZxRZjRB9sPu2Kgb6h8=",
+        "icono": "https://graph.facebook.com/Latina.pe/picture?width=200&height=200",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
