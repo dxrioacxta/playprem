@@ -3398,6 +3398,13 @@
         "icono": "https://graph.facebook.com/Latina.pe/picture?width=200&height=200",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "EXTREMADURA",
+        "url": "ofauegn5ijYn4L2rSKq97oUxrpZgRyZxSTqq43C3utQdprvJ0OMZTH752Ng1TaLk/qGEVtlpPo/p+8kJ+3WaJgLeH+jf7JTtmu6/AUJOn9fLtSWHPGUqGTWb5n34+a1VOSlt3NHlCk8buigSWcNpyF208vG4Pq6DDQmQm9zG5KpDQcM/K8kXwmhN8DHAkkxPZXKQqJgulu+k/LNERhWzgg==",
+        "icono": "https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
