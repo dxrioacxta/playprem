@@ -3158,6 +3158,13 @@
         "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CPACCI",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MOVISTAR DOCUMENTALES",
+        "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEFyXQqzG3TmXrWwVnQeWu404=",
+        "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/MDOC",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
