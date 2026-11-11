@@ -3426,6 +3426,13 @@
         "icono": "https://imagizer.imageshack.com/img921/390/6y2uoI.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "AZTECA MX",
+        "url": "oLWmLAEMFUKyHygGC6naSuWXxGb8+joENeRHcTAVr/U1FP+tfnUggBj/KcnBeLpJoOcnd0rF0KtVvdb6uHkgEg==",
+        "icono": "https://imagizer.imageshack.com/img922/2015/83eO86.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
