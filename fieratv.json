@@ -3151,6 +3151,13 @@
         "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CPCOME",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MOVISTAR ACCION",
+        "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEF/pDv0oMawv/p5jwHT7AeUQ=",
+        "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CPACCI",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
