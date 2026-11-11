@@ -2692,6 +2692,13 @@
         "icono": "https://sba1.com/arquivos/2021/noticias/logo%20canal-do-boi%20branco.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CINE PIX",
+        "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8zwWFH9wK0jL3iyWZqrtZHw==",
+        "icono": "https://imagizer.imageshack.com/img924/3461/tsCllm.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
