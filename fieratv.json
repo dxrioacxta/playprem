@@ -2706,6 +2706,13 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RUNTIME COMEDIA",
+        "url": "57H43HBCSSQH+/mgDhzFE0W0yZTknBwcpEP4x9ekZFCQSRaGkG+SUe9pBYV7dUrhtbk4Z595eKKsOgL4fkJANg==",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
