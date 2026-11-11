@@ -12,20 +12,20 @@
     "channels": [
         {
             "id": "channel_2a8a1bacd5f6",
-            "name": "Prueba m3u8",
+            "name": "TIGO PRUEBA M3U8",
             "logo": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
             "type": "hls",
             "player": "native",
             "folderId": "folder_3adc2a0f9896",
-            "position": 2,
+            "position": 1,
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "O1uN1p2jXTUNpVXt",
-                "tag": "cm1EP+Vp5MotREcqsAP3Cg==",
-                "data": "zpka7DTFDJwHJfDEkLjKb0CEvW3pLcmAZWsaUFFLpFrCtsdBlUHLgZbokQ06JSl7pl4/q+cc5cdoPgULDQJd5A/DSt5xHF+Cq6QyzHi931VRNak="
+                "iv": "gP68KbDqwEHIevDB",
+                "tag": "pwR9QMwyTlROmEwB3xd2nQ==",
+                "data": "0A1VTUOK+Yw7+tHWNrCQRHSgB9yktZZ9evR2fk1oxIloNEUsbkSAiEYYMsuVcDnoHIWzEjYdBfPMS33MkQNlXAmjKO1m3vI="
             }
         }
     ],
-    "generatedAt": "2026-11-11T21:00:40+00:00"
+    "generatedAt": "2026-11-11T21:01:07+00:00"
 }
