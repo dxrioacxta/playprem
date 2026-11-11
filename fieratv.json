@@ -3440,6 +3440,13 @@
         "icono": "https://imagizer.imageshack.com/img922/2015/83eO86.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "HISPAN TV",
+        "url": "XSOg0SzsYFFwODTVlvLN2vySpg0gfIoNMxhzJFA2lqYJ2TDop1+bVljNMvEf2ZEgndbPRPmkIzUfg6iaUg5XeO3zWUykrbIHBhcdJXs+R1uyATgeM4rqWWIZpe3TBu3e",
+        "icono": "https://imagizer.imageshack.com/img922/7859/kOuX7e.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
