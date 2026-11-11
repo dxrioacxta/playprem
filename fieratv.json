@@ -2727,6 +2727,13 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "NACION Z",
+        "url": "sCcK9Cztupin/gbM86S2efgycQWrwn3nG8JO0N+c1Y+KEuVNcMfGmRZuiwmYLAt7flgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://ih1.redbubble.net/image.399988823.7713/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
