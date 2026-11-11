@@ -12,7 +12,7 @@
     "channels": [
         {
             "id": "channel_1b85723c57df",
-            "name": "AMERICA TV",
+            "name": "AMERICA TV 1",
             "logo": "https://cdn.bo.flow.com.ar/images/content/60/40/PKQmsFunFuubjSQPop2k-Q?tags=CH_LOGO",
             "type": "mpd",
             "player": "native",
@@ -21,11 +21,11 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "S2Nb5V1uaOWLZCl4",
-                "tag": "/HQqrz3pKmbGnwBf0Z4eWg==",
-                "data": "NpFjVU5aNGsUQBZYX3BWRmJY8R7KjUYOzVdHoy35AQytS6+S/e1ktJa/3J1dsT8qwX6StYOeXVlMLoflCEXbO3bdT3vOsvEuIkE5wvY4eMZgAEHDTc7QP/i/IgwG0CJBnjtpcXc3hEuxOxRTb4ubSEywiLr1lQHAtCvp182R+0OWYWYulBIEeX8atzIQSo8lSMQwnKg+zG/35Rw3DwCaWZLoNoyX4jjY/e41gf4+PV5PLaDrTShthmpTY6G8RtiT96jz8/ripGZx+a0y0tVf5ktgkUR/QqkikrjEJtsuJP5USP2OUmaLnwHnaFpC+XYBJ7CumUlzT/sVzYgoyYm7eQ+jENkKHxz5ce13gL9WaYDquNbDSGLQ+PtHP0WQ7JsYj3biV/30YipQcGHkzTMsW/ItpqwZ2OaQ5T7m6EgFHAnrPswQ6OxIrxiHkAVDb8Ukeb6iin2/AEFNAuf6yeROXF25baFAR5qtdeQcZoG2I9Cm2w+27YbbrNCqaHYGRcGyLHAIB4y5xDBSN/6P1xGDm0NXiwyHtkYgnjfaCCYkc5yZV8MrFaT5BcRsAKnxPvqVaNu0TrnThg1UwmXCZ/oVvrjoAa6q7JVir3mCSiCGrRa7lKoxcOFBMDiiUnwysmt1Rzc1BtJQE+FgltHNW9W3hlFrb+qDaL5hd7giEKOBNBZy++EFZSqkX98VTBYn/zp2s9EHtwRHFm2/EaQG21COS/6M8QN3bvOK0y04rRugrtZ+JvGcAWPm6yFYWXq3wiDj3oVclaFTemxDDcTCJG8Flrbc+W9Lx6aa9ivQ73fuxla82GroKV/NfHgu+KvtTWO6r0aYvQsltIPxDA+mCOuveDFZwOqrr0RN5NEaXby6V3biUKuQ/p0Za2MYCspGTQlXHTH89Jc2B8nUVYdN/Hp1dUyBk7+8FpmkBxIOYC2Nu9vf3Dvb35uvP/FLRCqL"
+                "iv": "DAnHHG+9/q+YMJkc",
+                "tag": "u186aH0m1jhAV9lmfWixbg==",
+                "data": "D67ErOurEiVYyLhHDcCd/DdqkJke86ozlCsvXWdcf5x/6GsiG54nVo4MkOXT6YUFzvnL3XHdPeVYCflLSYBSnE9F4tk/QB9s/MpdjUn8Kn8YCYaZheYldzefUjGGhxDVi4MDa9uFuzss9Qtj/ohKzuh9vP1CzXvuCsv4IBdklLCb4lz3X5GV+AT5+fIsr2kAE+U3pjY7MYTYxJBua9KS3vEkMkNOXYtsCs3+S9BTR6XkieRVB5QvSohamnlrb+fc+ZC5OF9gSLx9ln3Q8mwYTLwygKiRb8dz9UI/gYTD53goEh/bXn2IpJmk2n/UbK6l+nnR2RQxsjnZJGtGhlXduC7re7dsdBRHd4sLTmX0eEtBuBesvALRMk8xCpHtyqJGfXPHLwCUsuhtsmfCCeX8sa+ZKQqUhe9FUzOJd28BzcEq18GYNhZcrLVyEkSTsD1jZN6S8A3eghhUAKGpOEyD7On164GqppBg28ud4uujqfM2WPV1fPZ8ld+p0fUjahIJcqBujBjM3L8TYhTHB30HW1rpjNdUXKPHi8EYbPqPp7OraoGweF1nsUCAgSLWv/LNCb/wlrjbm+3vVCOkb/6zvBhDPWJ0oY3pEP4M93rQphIr7md68zMpAKf3QePrSn/lcKPLKl1gnvWPBUWOcMDEHS19InvKCcmuByT76fxXTD5rYo2/JjYzi6emWywY2skXKo/DEQxIRjUgiO1WNelh0EPfDmu9vusx9zqRcIAmL/6PR+61Vb6x/MYVq55ZeWk9N1ZrGZDSB2qWgUl0LXB7RkrIqv1h7cPAK4d2QVJVEr9CxeXR3HtS/ezHzUDNfINzH55RQXclRDsbi5oUEpS/56B+k68H5xEAwPyrytJA6MyvHq/Z1Q4q+ZuXCCJK7WtX3kXhgEIh4K8oGmIU3xUJLyZ05uYZYG+rWwV5ztfrt9h8SeqUCXs4zrmdVu+a"
             }
         }
     ],
-    "generatedAt": "2026-11-11T02:39:41+00:00"
+    "generatedAt": "2026-11-11T02:39:55+00:00"
 }
