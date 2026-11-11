@@ -2713,6 +2713,13 @@
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RUNTIME FAMILIA",
+        "url": "CUIVHao0QSbYsi/oqNFzTSYIFWNuJdlXfTqlyLM95Fdt9LiPXH0Q3pARYbah/5LwqKf0UdXYR7n8CIIoTyF8ug==",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a81de2ad139464cf76f231a06ccb4b89.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
