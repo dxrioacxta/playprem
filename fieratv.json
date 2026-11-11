@@ -3144,6 +3144,13 @@
         "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CPCOLE",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "MOVISTAR COMEDIA",
+        "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEFzUiwKVVnoV6BizUp0hve7M=",
+        "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/CPCOME",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
