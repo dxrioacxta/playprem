@@ -903,6 +903,18 @@
         "drm_license_uri": ""
       },
       {
+        "name": "PLAY DEPORTE 24/7",
+        "url": "Hn/nIUf4UxHj+VX4HAs5I6rEFzAxg5AkicIeHErOCwS892CNACzR4+xnI551italzhCEv3D/JPmzIMvCulPR+2KF2NXAFvvpml+Af7qKLtQ=",
+        "icono": "https://i.postimg.cc/ncFQSqfn/1001056568.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "GoPLAY SPORT",
         "url": "LF+XZvF1z3P8JjpdMRedgr+W/yioLZaWzC3I1A165+lWRg01YvAqlMvAv2iqvvRtBZn2P+1lXgFhH9EN20PMSQ==",
         "icono": "https://i.postimg.cc/ncFQSqfn/1001056568.jpg",
@@ -915,18 +927,6 @@
         "icono": "https://i.postimg.cc/ncFQSqfn/1001056568.jpg",
         "type": "HLS",
         "drm_license_uri": ""
-      },
-      {
-        "name": "GoPLAY SPORT",
-        "url": "Hn/nIUf4UxHj+VX4HAs5I6rEFzAxg5AkicIeHErOCwS892CNACzR4+xnI551italzhCEv3D/JPmzIMvCulPR+2KF2NXAFvvpml+Af7qKLtQ=",
-        "icono": "https://i.postimg.cc/ncFQSqfn/1001056568.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "TIGO EVENTOS HD 1",
