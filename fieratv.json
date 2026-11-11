@@ -3277,6 +3277,13 @@
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH6_MLQWfog5L6AA21nUuJxjhOa77MViS7pNNhBJCOPg&s=10",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "BEMAD",
+        "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEFy0fd6f2As4Vqpc//RkUZL8=",
+        "icono": "https://www.ecured.cu/images/9/9c/Be_Mad_%28canal_de_televisi%C3%B3n%29.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
