@@ -2650,6 +2650,13 @@
         "icono": "https://i.pinimg.com/736x/e1/66/c4/e166c41390aa89a93e7f6d43a0c8cd00.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CINE DO TERROR",
+        "url": "sCcK9Cztupin/gbM86S2eWiJPGaL8L3tFDm0kPNUnEFe9y3Y1Iq4V7SI6NUm09zWflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CviaKrlEh6VqNKAYJShTqp5yTyBUXfP8qhW7z--fHA&s=10",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
