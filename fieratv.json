@@ -3442,6 +3442,13 @@
         "drm_license_uri": ""
       },
       {
+        "name": "EURONEWS",
+        "url": "sCcK9Cztupin/gbM86S2eZ4+HiigLuRYzs9V008JyspOw58GY+iVFBJKI2SnjP7mflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/34/Euronews_2022_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20230305183248&path-prefix=es",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DW ALEMANIA",
         "url": "Vf7Mf4a5qA9qllUpvCtYU79NYD61wKj8hCn1sMc9GheMa8lPPoNh5KplMDu9a7KBM4HvMkWxAa8+eyEVagvZ7NxvbQQu4DMX3sFOl3IOyMI=",
         "icono": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200",
