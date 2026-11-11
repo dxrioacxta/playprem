@@ -3524,6 +3524,13 @@
         "icono": "https://mxplus.tv/img/canales/app/france-24.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "ESTRELLA NEWS",
+        "url": "b2aR/ar7ghIcOMoq2SfHhmwhyITqZkYKJbzviXzbEul1ff7SUZAQen65iir6Jc6THoQ4sk4AI+IvPe1N/YhRkA==",
+        "icono": "https://static-ottera.com/prod/est/linear_channel/thumbnails/square/en_vivo_placeholder-estrella_noticias.jpg?VersionId=NvcsewNYrbQkT3MIOP8NazbVko9qOKOK",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
