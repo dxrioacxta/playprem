@@ -2734,6 +2734,13 @@
         "icono": "https://ih1.redbubble.net/image.399988823.7713/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "SONY CHANNEL",
+        "url": "CKoL5OEfLKnhchilvpzLu8YfCljbHQuFIu97jyvdeBp5RRA4dadminIcH3hG7kow",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/3e/SonyChannelLA.png/revision/latest?cb=20191227152108",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
