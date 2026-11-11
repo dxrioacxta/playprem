@@ -3200,6 +3200,13 @@
         "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "NEOX",
+        "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEFybvSw0UVpjSqQ99XR3kRwA=",
+        "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
