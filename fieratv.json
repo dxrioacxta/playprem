@@ -3165,6 +3165,13 @@
         "icono": "http://www.movistarplus.es/recorte/m-DPBLAN/sammos/MDOC",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TRECE HD",
+        "url": "9CIp+QKzg4u7izfe8HnijcIbFsD+ZjQDZCyTRGcY3tp+VsOg4egru1Uhz85YBERi+t5+at5JZqCH0PN12LtEF1ARp1sG3m+WrqL9g7kFcNE=",
+        "icono": "https://portal.app.flow.com.py/assets/loader-CdbRMuF2.gif",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
