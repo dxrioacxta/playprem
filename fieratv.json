@@ -2685,6 +2685,13 @@
         "icono": "https://mir-s3-cdn-cf.behance.net/projects/404/9be3d0239191925.Y3JvcCwxNDM4LDExMjUsMjc0LDA.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CANAL DO BOI",
+        "url": "CKoL5OEfLKnhchilvpzLu6tRK1MV+qlVQjqB8lXnQAF5RRA4dadminIcH3hG7kow",
+        "icono": "https://sba1.com/arquivos/2021/noticias/logo%20canal-do-boi%20branco.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
