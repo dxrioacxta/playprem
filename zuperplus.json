@@ -9,6 +9,23 @@
             "enabled": true
         }
     ],
-    "channels": [],
-    "generatedAt": "2026-11-11T19:26:45+00:00"
+    "channels": [
+        {
+            "id": "channel_1850413c85a2",
+            "name": "ESPN PRUEBA",
+            "logo": "https://cdn.bo.flow.com.ar/images/content/60/40/YzyDW9aGxP2Ofdm9nXW3lA?tags=CH_LOGO",
+            "type": "mpd",
+            "player": "native",
+            "folderId": "folder_3adc2a0f9896",
+            "position": 1,
+            "enabled": true,
+            "locked": {
+                "alg": "A256GCM",
+                "iv": "xMHeQ2A84satJaTf",
+                "tag": "hWUypDlbPVSdbarMEGkppQ==",
+                "data": "xd05YcPyOlgKc0sFhnYkS5BehiVvz9ijYCQwdq+hAsMGnBzSc21BT9g/H2jvjGBfd8xebYwJe82xL3U6eraZA5PHUOS3612vGGIw8VJRoAlxNeiFXINACZcM9Fmf0w6qjcGoXtBFr4voR/DujoXr0C7302SaTtJ19NS3hPEPJDiQu8TQ2TfA2AbwlRXvZU3R3vKxrs53CrRansy7fwj8VozRfdwZc9KToBUq5zplfu4zWUHDH49NLYQ2owLc4493sLgJWy7oEYdgZh+9mNLDRqEoS3FpgdK8EP1VTxviLNSJbB7jEvT1f2EjGHJzDZDJDeg4Ab8KJrWGsEgkqyP3o749jRNgXquz+pae6pshnNbaDQDGZ8jYslq/NuC/fondDU2mfsD+TbXYWbxkV1qDBVOLZ3FEYh65GyiubOOChtBMf1IAGmU3RZFpQqZJ7Nq+OuedqIwPjo8HKWR8ppxkFYQ1vQal7jJmbEIQkz6a2574yvOOQvNQR43KRbvsQhhrDNbfNi8S/vbeMa/o7ZZn0gFRU3Bti8Qbmg2lXTva2YdMS7ghuwJvfx9AXYOyal697f81hK9p1gRZfIoxIEfnZNvcm4mwDO867uuGGli/TAZGjRpzIryhTsuH2t2udrVdJOEL0Y1K6UQwWKBya5b3iR3x75lruyaDr3Fp+Thd7c/FbtUt3LrIUHGVUgHmqIhzeYWbdK7T9Z4yDgPq1/p3ANq2kWPMRPsjfG8XoazzSayt3dmW8RpsM8uUwg6TgdZJmYZH163q7COI9zzVYkmU+rkZyzedhFlsc0WFJcn9n7Ym10T4p9f4M0frgVe68m0RE0K0jBuuWDT8CBbCzY9LjLNBYvwb+zbnlYT3u1eeh6NaJapGA6nwn4PITF16yhfapoZWZx0+13IN0ZlmIbePRK8Skk4IV+ZG2hRiacVv75ZNqa8XPhXmPQbo/Hwqvli5t4hWJa8zW1q1eMoUJ8GUgn82k9vfzVlZNFXQeGfqg3f56/HdFB0C32MHWmQ6gVIcs1PC/nuHqoI/gKIcvS7UjFkuqXe+O31zfLGimo6f24BTSYDcP3mN/c0nuGO2f5JLGtBL0WvFTSQ0DIR/8zi1RHIuK1gqSCovmo3prlAFBpFapVTOMXZWkS+p53QTtHDPXIqtlXB8l7duJyUkf+qKb/Y5LvxjdKI="
+            }
+        }
+    ],
+    "generatedAt": "2026-11-11T19:36:42+00:00"
 }
