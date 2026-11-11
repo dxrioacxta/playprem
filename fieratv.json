@@ -2622,7 +2622,15 @@
   },
   {
     "name": "📺BRASIL CINE &VARIEDADES",
-    "samples": []
+    "samples": [
+      {
+        "name": "TOP MIX",
+        "url": "xsvQs8W1xmPmZOU+7/z0W9vnIAykuOJVV5xC6AoE/BZ1EQBcl4Ii1xC+6XwynpN/hBtRd061CZ4mE6FT4M6w6Nhczfa47HwrkYEvzTQQzRXR63s+Xc/r1xJg7FsOzQc7eBqhmJGSoqDqySM7pH5hgg==",
+        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺PACK HBO Y UNIVERSAL",
