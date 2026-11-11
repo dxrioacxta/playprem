@@ -3171,7 +3171,15 @@
   },
   {
     "name": "📺CAMARAS EN VIVO",
-    "samples": []
+    "samples": [
+      {
+        "name": "CASCAVEL CENTRO",
+        "url": "0rpymyd4s3sX7AH+i7VJJxL5ttNc+KFkjsqPiIjywKRIHkb2DQ86SKUSsRidiMgilz7kAlfwFVyJsSN0rBBVdqOmABskZJKD6C4R+wJ7MTbBp9y2usNQg6SMLPpcjZcuXbEd1Ia89u4cfJHr//SG4A==",
+        "icono": "https://imagizer.imageshack.com/img923/5030/HkOgfB.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺NOTICIAS",
