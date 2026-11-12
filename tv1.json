@@ -356,18 +356,6 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "PRUEBA 2",
-        "url": "yh+JxQiKxZWPYMIOD4iuqiBuTvmd/jhvxpczWCi2UirjZFVh85MkA0GQJKXcVWMkfbwQM2QKleSAN+2FgiQEqA1stmcZQ5F0ahiEFRBvY9LFViHeGSy3ceYei5KT2lx4Intq1roN3aL+A7o4lQqwElKrHS9UJnjHD/HTB/7SjLBicbW6mG1Zy34L6xoBkjYEiNlfKSHVHMqCS6VoF/6IJg==",
-        "icono": "",
-        "type": "WEBVIEW",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       }
     ]
   },
