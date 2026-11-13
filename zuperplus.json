@@ -14,9 +14,9 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "wytkc2n936AbjByU",
-                "tag": "aQyrMNOqacKhaAf7OCh1Cw==",
-                "data": "8p5nEdl6TrzMyXjGHACu2och7QqttIvARRcFcujCPLb46y5MoPH3Cbociu2BxXsRUQMq5FeW5eUY3ibtBWK0ppOGUcXj73Y="
+                "iv": "dBItU7ifEcInxMJ+",
+                "tag": "NeymUyhWzj6oGFVcOYlJHg==",
+                "data": "S+1LIKBQ51W7uXzidVo/wltJFVsTT5RxE1r9gcrm9Xvd4IFZHfHEAtWjsheXBKYmGnotNgR39g2ab7NZ63qSeTT0HrLCVGI="
             }
         },
         {
@@ -30,9 +30,9 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "jAV6jXrzep9nHxMC",
-                "tag": "Rs/I4VndUMqrEWrP53Bh2g==",
-                "data": "Al6Nunnen9S7D00cLAK1nOvx6Ah5UdYrT8Urj9L8K3nSSI/a1NODBRNXnai+o6Fw97xhaTe4g5S3NJdheE2luz7wM8sXWZKuwufhCpPv"
+                "iv": "hJA8DERBHW+aaFkU",
+                "tag": "90uwdsMhp0EOwNRzAB4JdA==",
+                "data": "mw3hznF3XWUeon1pZtWgzvEu3qHO+hfdUH1Va5FhGCQXuuSWqVfZVeYFtLKdn3cIuZs67Fr7uGntof1ptihSLSXHTKPMpUq0qR0+hmyz"
             }
         },
         {
@@ -46,11 +46,27 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "KKDimyxPwjU6sA6y",
-                "tag": "rNw5tClf5fzz/WtCGRzKcA==",
-                "data": "DrrHZeDpUTvcZEziI7qmTYlD8CRlvYVbon6lb53p1T3tvSZhNjn+/tjFWjE/VCHRlu7B4Xho3qH2cGxU/6Q9gVwHQ1s="
+                "iv": "LVuBKI8i56+rtZGm",
+                "tag": "/DSlXg8grOh28W1MmB6aMQ==",
+                "data": "oF5zfpn0+CGXDwjVXh9C9S+voCYAm6ZW6osMeU1/qUKlXInSY9ohqRQ3DtlyRRXbj8NhfNgsgFdlYe40/iUWmmHeK4w="
+            }
+        },
+        {
+            "id": "channel_f555aa8223ba",
+            "name": "TIGO 04",
+            "logo": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+            "type": "hls",
+            "player": "native",
+            "folderId": "",
+            "position": 4,
+            "enabled": true,
+            "locked": {
+                "alg": "A256GCM",
+                "iv": "ZGzpYBSqQLuONU25",
+                "tag": "ELYmwjAO2QZdLH7rFglF3A==",
+                "data": "TDNlfCtNm8PLax4FoXYViiZaWWrxK6YSrPuGw7fx6U+zFzspPmrOMfo/kh0rMFtSzoOMm0LkiWLEvR1bXmm4vDaTCgLCCaXjuQMV"
             }
         }
     ],
-    "generatedAt": "2026-11-13T15:03:30+00:00"
+    "generatedAt": "2026-11-13T15:05:58+00:00"
 }
