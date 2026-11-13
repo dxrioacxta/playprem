@@ -5,18 +5,18 @@
     "channels": [
         {
             "id": "channel_2a8a1bacd5f6",
-            "name": "TIGO PRUEBA M3U8",
-            "logo": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
+            "name": "TIGO 03",
+            "logo": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
             "type": "hls",
             "player": "native",
             "folderId": "",
-            "position": 1,
+            "position": 3,
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "IYixvm6zfcA4xMkc",
-                "tag": "VeR5Vve0dCtDoYcCPzg8uw==",
-                "data": "aKO6FmX1lXPK+KTCdE2j2a/++vUPNF5UaPVGy3TpiXv/GeWzf69UMHOqsTLo6eYcCGwd7rYIGE/03j7XSSwICAxAY2NftbE="
+                "iv": "wytkc2n936AbjByU",
+                "tag": "aQyrMNOqacKhaAf7OCh1Cw==",
+                "data": "8p5nEdl6TrzMyXjGHACu2och7QqttIvARRcFcujCPLb46y5MoPH3Cbociu2BxXsRUQMq5FeW5eUY3ibtBWK0ppOGUcXj73Y="
             }
         },
         {
@@ -30,9 +30,9 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "YYel3HdDRkNwiiQD",
-                "tag": "Ack6B9PHN4d1LwmJCKeoXg==",
-                "data": "n2CnXFZa+MMoJrqqW7i6k+lVZwn9TOk0YVyDxnHe1vhvHFD1kqozNB/2bDnAroqcH+G2cx6LfT/TxB2AtTZpu2T5UWuMTFynw+j9vQ9b"
+                "iv": "jAV6jXrzep9nHxMC",
+                "tag": "Rs/I4VndUMqrEWrP53Bh2g==",
+                "data": "Al6Nunnen9S7D00cLAK1nOvx6Ah5UdYrT8Urj9L8K3nSSI/a1NODBRNXnai+o6Fw97xhaTe4g5S3NJdheE2luz7wM8sXWZKuwufhCpPv"
             }
         },
         {
@@ -46,11 +46,11 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "sz3gowTjkoLSeDAx",
-                "tag": "zzdMP9FV54v1+eNuFLvRoA==",
-                "data": "UNzr42BwDtHRRkopmDDGoePsxu0m9ZzJoW5b0F4kVv7SCZyIAybWA7YvxEqXIM31hXjGodrbSDfsot9j/IlqpB1iiN0="
+                "iv": "KKDimyxPwjU6sA6y",
+                "tag": "rNw5tClf5fzz/WtCGRzKcA==",
+                "data": "DrrHZeDpUTvcZEziI7qmTYlD8CRlvYVbon6lb53p1T3tvSZhNjn+/tjFWjE/VCHRlu7B4Xho3qH2cGxU/6Q9gVwHQ1s="
             }
         }
     ],
-    "generatedAt": "2026-11-13T15:00:40+00:00"
+    "generatedAt": "2026-11-13T15:03:30+00:00"
 }
