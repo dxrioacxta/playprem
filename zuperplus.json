@@ -1,31 +1,24 @@
 {
-"version": 3,
-"crypto": "AES-256-GCM",
-"folders": [
-{
-"id": "folder_3adc2a0f9896",
-"name": "ARGENTINA",
-"position": 1,
-"enabled": true
-}
-],
-"channels": [
-{
-"id": "channel_2a8a1bacd5f6",
-"name": "TIGO PRUEBA M3U8",
-"logo": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
-"type": "hls",
-"player": "native",
-"folderId": "folder_3adc2a0f9896",
-"position": 1,
-"enabled": true,
-"locked": {
-"alg": "A256GCM",
-"iv": "gP68KbDqwEHIevDB",
-"tag": "pwR9QMwyTlROmEwB3xd2nQ==",
-"data": "0A1VTUOK+Yw7+tHWNrCQRHSgB9yktZZ9evR2fk1oxIloNEUsbkSAiEYYMsuVcDnoHIWzEjYdBfPMS33MkQNlXAmjKO1m3vI="
-}
-}
-],
-"generatedAt": "2026-11-11T21:01:07+00:00"
+    "version": 3,
+    "crypto": "AES-256-GCM",
+    "folders": [],
+    "channels": [
+        {
+            "id": "channel_2a8a1bacd5f6",
+            "name": "TIGO PRUEBA M3U8",
+            "logo": "https://i.postimg.cc/nL4YNJS0/0365c0-899f93b4209e49498c3cd8e72b083aac-mv2.png",
+            "type": "hls",
+            "player": "native",
+            "folderId": "",
+            "position": 1,
+            "enabled": true,
+            "locked": {
+                "alg": "A256GCM",
+                "iv": "ivZF4EcdO6voPA9S",
+                "tag": "twsZ4KxmFzSoq5v9+o0+5w==",
+                "data": "YyJoYNX8LUeoy+nrJd2p3/RGysPP/gDEx05UhSXQrCh0VHb8kABnkUGPJd0gXmNRfx9swhf5cFi/rSvgNi0y17Zl9khfAAQ="
+            }
+        }
+    ],
+    "generatedAt": "2026-11-13T14:55:02+00:00"
 }
