@@ -14,11 +14,27 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "ivZF4EcdO6voPA9S",
-                "tag": "twsZ4KxmFzSoq5v9+o0+5w==",
-                "data": "YyJoYNX8LUeoy+nrJd2p3/RGysPP/gDEx05UhSXQrCh0VHb8kABnkUGPJd0gXmNRfx9swhf5cFi/rSvgNi0y17Zl9khfAAQ="
+                "iv": "Jr564iQWfC+eUMTD",
+                "tag": "mznZ/ekgMwTv02AcNr5LwA==",
+                "data": "4z2/VLHdqCbQmzGJICaA79Ub/LYSg+pYaKMoYf/N4QIKL9RShDvEt8fMqn33iWGAYCFSJoxyNxf6VfSJGgTH5UES0G0dHDg="
+            }
+        },
+        {
+            "id": "channel_78125dc0ce66",
+            "name": "TIGO 01",
+            "logo": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+            "type": "hls",
+            "player": "native",
+            "folderId": "",
+            "position": 1,
+            "enabled": true,
+            "locked": {
+                "alg": "A256GCM",
+                "iv": "Vom9kWaegghKMVAC",
+                "tag": "Oy9i0tpKX3KQuHCEQBAwOA==",
+                "data": "LR7NmneY2216zLJVDuCLbWeiV0/PSCYxffQPry8BXI06zvuXst5pp7yHn+Djrk0bbp+LZxNsYxwGQyzY6NYQ1AwmnkSN13ZaM1vOc6Ey"
             }
         }
     ],
-    "generatedAt": "2026-11-13T14:55:02+00:00"
+    "generatedAt": "2026-11-13T14:58:25+00:00"
 }
