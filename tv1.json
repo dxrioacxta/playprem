@@ -918,7 +918,12 @@
         "url": "X13KAvI3ECpJzSEILNjb6SvjXxXJJOhNKweGIvtXO/Xr1luB0QjqDXXBU6coXARPm3WCFyMdXsz/EENXgweg3qQMkvcc+pG8FKUeeVLvhFI=",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "TIGO + HD",
