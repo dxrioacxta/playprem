@@ -917,7 +917,7 @@
         "name": "TIGO 2 HD",
         "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqoUfuNlZOXaMhfChyb0Vhjn",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
