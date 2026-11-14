@@ -893,7 +893,7 @@
         "name": "NORDESTE TV",
         "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOoxxAJuqGo3XYOWpiuJtwbb6jiqdYN9UJqvlqJ5KBt6oQ==",
         "icono": "https://i.postimg.cc/D0jT49zz/NORDETE-TV.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
