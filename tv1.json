@@ -2310,7 +2310,7 @@
         "name": "CORAZON",
         "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8gSG7GPg6eyv8JgbzH8KtaQ==",
         "icono": "https://i.postimg.cc/1tdkvgqm/Corazon-(TV-channel)-logo-2021.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
