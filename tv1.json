@@ -4103,7 +4103,7 @@
         "name": "FAMILIA",
         "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8a/8a7gBbVkpd/IXjZZv3/Q==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1zMtNphszTEtilM8NDfKAy_tp7f9y_0SW9rLIB5_-w&s=10",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
