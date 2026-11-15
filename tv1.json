@@ -4117,7 +4117,7 @@
         "name": "DRAMA",
         "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8PXJg83jkxE9r52hEf3FPDg==",
         "icono": "https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/drama_thumbnail_1x1_1.jpg",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
