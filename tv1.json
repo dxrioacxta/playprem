@@ -1907,7 +1907,7 @@
         "name": "RTN",
         "url": "T10NkG1Z0Vh6wHYhH8h6AJUvpZTykYTIxnAji+xQ2QZetgALzIII2/z9iIhJqJZb6wIPAUvvZvenCwoAZehkZUdfMs7tntZ1nRdY3EunuSc=",
         "icono": "https://directostv.teleame.com/wp-content/uploads/2025/03/Canal-RTN-Neuquen-en-VIVO-Online-1536x864.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
