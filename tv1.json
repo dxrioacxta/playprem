@@ -3492,23 +3492,6 @@
     ]
   },
   {
-    "name": "📺DEPORTE MOTOR",
-    "samples": [
-      {
-        "name": "EVENTOS F1",
-        "url": "RwKyEsEi3ptEu9Xc85Eay/eXm2PQE2lbYjzI2WJEYBGXcuGvRZr6uJ7sX2Dgs31PfROg5qs48KQcT+45qy5zEUb8dB7Cx+H6SIQ2TwQo8o1lZYoHwOIxcswChXOvxCnYRk3fDuCjiA2x5J+o3mNU3wbUK3lv9w4OKHxia7rRPl9ihdjVwBb76ZpfgH+6ii7U",
-        "icono": "https://i.postimg.cc/HkPHtqbm/DAZN-F1-logo-png-utm-source-es-wikipedia.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "OgTskBsQHPTrt1ZRu6AUqHe78OuwVVhzTrylE8Cf3fCkbMWlutAcQ6/+JiX+DUQOQGBonCNlibRvgopF6y6XW0of+6Cmxw8L1ZoNz2jocboUgmjqLT3ic7xxtke0DUvCoBswJdJcHnkXTpTTDPECTy3NlVYKA5D5UVNniI3qxTs8JXwI42sr6nMFC58ip3i1",
-        "headers": {
-          "Origin": "https://www.primevideo.com",
-          "Referer": "https://www.primevideo.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-        }
-      }
-    ]
-  },
-  {
     "name": "📺BRASIL DEPORTES",
     "samples": [
       {
