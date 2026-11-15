@@ -4089,7 +4089,7 @@
         "name": "BANDA",
         "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8kmDCKXG5MBE79kqr4Q4xoA==",
         "icono": "https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/banda_thumbnail_1x1_0.jpg",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
