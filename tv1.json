@@ -696,18 +696,6 @@
         "drm_license_uri": ""
       },
       {
-        "name": "RCC",
-        "url": "eIW1xS+I7tcWsW3NyXXF0nkp3FKj2ZHacxhgtvbEhL6lhM5Bx5NtM3E9DLCiGp1+CxpD+cqrxxJVQhpoC1zqYGD05yn7kD2iptWIS7ctdaKIFTZ/JKVpgX3AVu98JeSm",
-        "icono": "https://cdn.rcc.com.py/2024/07/logo-rcc-holding-100px.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TV CHAQUENA",
         "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFaIGsoeFyuxU0YIhlhf0GepUQ6BM8qjXZ3yj0qytc1nCZSsZuAIIntF1IvJhcCrJYHh6yST1v/OqiISjm3j+sh0AdrcYiwLVBeHhKDbPG7QEA==",
         "icono": "https://i.postimg.cc/59RqFxrr/tvchaquena.png",
