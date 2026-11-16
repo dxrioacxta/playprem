@@ -845,13 +845,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "PUEBA TIGO",
-        "url": "v585Yqi41y/hvL8MEUQq3p71FAozTFqctg61A+aNiQhBdWY0i6gZl+YgfUnK0WnZV6Sdb8rDkPNsPZ9ZKQXdZv88pmEpAmIMFpgcURfEkrg=",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": ""
       }
     ]
   },
