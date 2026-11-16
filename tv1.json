@@ -550,18 +550,6 @@
         }
       },
       {
-        "name": "DEL REY TV",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgDPZ05CrhYM/ijr96Ukr2QVHaajjDZZMhbEtKqrXx8dqg==",
-        "icono": "https://i.ibb.co/TDfbxZDK/images-1.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "GUAIRA TV",
         "url": "Fn/aSZcsFTUnPVwN8PPZcdpe9ZbYGtJTWwjQ//aKvKAeSwbkouT3waMgW9jH5cDZ",
         "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781149556_179935.png",
