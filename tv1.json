@@ -799,11 +799,16 @@
         "drm_license_uri": ""
       },
       {
-        "name": "EVENTOS 2",
-        "url": "jIrGq46A1v3RJFKfQ2pccpoCUKEo3tZSW5O0iIkJo6/il/5QE9oPHgaZstTomFxcyGGX6w2UXOFF1hU8sJaDDCEPAvMjIjoaB/6uBGXekokxQod+GugycsYfr5fUtUP+e8BKQOQO92sfviSU8/BY/hqmhm0DCUOe7nthoI1zLfw9duglWBJP4DQrXjqd/ajkpKBWQ68Ozk8j9AKFwlwcoK1HtKCO5FeVwZ1EkDNba72O8W39pOOU1iufR3gWRFGZgFGDfyJxkSNVPDS/iq+maP6I9oWT0pilms+78hfaqQhR9Zwy1WOoC5jt7tKDS6dDn/qzvy44R4UyWD26rfajmA==",
+        "name": "TIGO +HD",
+        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOoGJWj1rn/uhG2bFoBJjSbTfS2RE812W5QTXBv3XI9aPg==",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
         "type": "HLS",
-        "drm_license_uri": ""
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "EVENTOS FLOW 1",
