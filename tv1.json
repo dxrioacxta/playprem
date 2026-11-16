@@ -550,18 +550,6 @@
         }
       },
       {
-        "name": "GUAIRA TV",
-        "url": "Fn/aSZcsFTUnPVwN8PPZcdpe9ZbYGtJTWwjQ//aKvKAeSwbkouT3waMgW9jH5cDZ",
-        "icono": "https://mundodeportes.online/pandatv/playpre/logos/1781149556_179935.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "TVA OVIEDO",
         "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAL6OniafkcTS5gOHSXRadC9p64bmvDg68xAKnEtnJpvw==",
         "icono": "https://i.ibb.co/BVqcFpLf/Picsart-26-04-18-08-56-41-501.png",
