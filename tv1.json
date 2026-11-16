@@ -360,442 +360,6 @@
     ]
   },
   {
-    "name": "📺PARAGUAY INTERIORES",
-    "samples": [
-      {
-        "name": "TVS ENCAR",
-        "url": "pHaFhmUV7f+l52B6BcDrQnIIcs/nXk9VsOcxjm3ppL+0uRQ+wkJuLMhMk6913UNEczoluO0xio3nzGxASW/CeA==",
-        "icono": "https://i.postimg.cc/x8pKhN6j/tvs.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ORIGINAL TV 95.9",
-        "url": "SNf/g9Te796qCj6e6kVw/IGm561r8jYoEH2y/ZedtSKsdRIQFWP9hSc/H/IU7nLR4nOvFIbvqbIOrwxnf0e72Q==",
-        "icono": "https://i.postimg.cc/QMjsqsm1/ORIGINAL-TV.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "VISION TV VILLARICA",
-        "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFYboymNKrtpcDNLDjpIoM8BwD+y/i5hFV0YdQilvfxkNnL0B/SKXOyXgZ101Kb6U/k=",
-        "icono": "https://i.ibb.co/YF53Z8jk/vision.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SAN FERNANDO TV",
-        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOpl/Sx8EkKsg8Y+fhO8sHJzw59DmPka4kvdLPRKcE1wGX5YMZxRZjRB9sPu2Kgb6h8=",
-        "icono": "https://i.postimg.cc/YqVQyBKc/logo-sanfernando.webp",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "FARRA TV",
-        "url": "JzhG8B93u7TVPS36gBGmuH2HGe21fqzphlrgkaYpdGhO0LrE7PlCyb7YHX6M/0XmflgxnFFmNEH2w+7YqBvqHw==",
-        "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "5 TV MAX",
-        "url": "l6O+gEV00o4SyoRjdrSmi8bJLPkoioia/pNDovGNIsG19tJizOeqMPbldDscxGESIS4Dbqup+XvjQ7Xi31/3qv88pmEpAmIMFpgcURfEkrg=",
-        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TRIUNFO TV 93.1",
-        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOrG4NgWGv2ZmBWQMyaEqWqPRVub4taC3O4ts12tIzbRMA==",
-        "icono": "https://i.postimg.cc/02gp2HZJ/TRIUNFO-FM.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "OVIEDO TV",
-        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZ+NyjhG9ugl7hh45F1rr0shyG4BEkVcpALzpCyzZTHDQ==",
-        "icono": "https://i.ibb.co/BHRH06mS/6Olfg-SQ.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "PARANA TV",
-        "url": "67X37bBpdbv2t9vtJGFYCYrCxZtnVdIJPdWlQNuJqmzxES+iPqftO84jmSho5+pIHoQ4sk4AI+IvPe1N/YhRkA==",
-        "icono": "https://i.postimg.cc/QxVRhC4S/PARANA-TV.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "REGIONAL TV",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgCro/PVS7ROK2T26VRgfxDeOftNSVZHrs0SBBYk8XCakh6EOLJOACPiLz3tTf2IUZA=",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/regional-tv_e7b22f3b76f44038b9edb3ccf936a608.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TELE15",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAfI+CRFAzSHpCuiyMD+WE/8MW4W3pPi3e3fxTVQg6MUB6EOLJOACPiLz3tTf2IUZA=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgbzpZG7xql85dRFxRVdwbiaRUzG4U1owebGdI9yE-ExXZ6lP2WqUtEI&s=10",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CANAL 8 OBLIGADO",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgD2pshRq1pF+3E1dQRUHPT2I+e7eGpR7Q5kj4MVCosz/2KF2NXAFvvpml+Af7qKLtQ=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7XlWfGABIuSeanghFVu1VAX6ARw0sTT3LA&s",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RED DIGITAL",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgDCodYFXDPpvHKyy4ej14VpTpWTTLZzByL/GptNiw4EjIYIRyntf0aUfoQVwYvr030ehDiyTgAj4i897U39iFGQ",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkBbWlas-Rq_BWuZQiF96lYKbYCw6AFlffucR0VI-Bw&s",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TV CANINDEYÚ",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAhiwx51dVgGl0adHNbm9PaCmWR2mw3uJczpDMseie6zLIBOB4ziupZYhml7dMG7d4=",
-        "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ALCANCE TV",
-        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZLF7B8Pasp0CzzXovGaMnyoThKoJaKFX/T4bbnAg3VQ2KF2NXAFvvpml+Af7qKLtQ=",
-        "icono": "https://i.ibb.co/JJqMDjf/alcance-tv-logo-dc44471b.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "SUCESO TV",
-        "url": "67X37bBpdbv2t9vtJGFYCQu5VD1GN8VkMLgpWFMTRAjxES+iPqftO84jmSho5+pIHoQ4sk4AI+IvPe1N/YhRkA==",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/suceso-tv_6be1489757c14e7aa3d49f56491fc2e0.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TVA OVIEDO",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAL6OniafkcTS5gOHSXRadC9p64bmvDg68xAKnEtnJpvw==",
-        "icono": "https://i.ibb.co/BVqcFpLf/Picsart-26-04-18-08-56-41-501.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CAUSA COMUN TV",
-        "url": "2nl5x4lbRgSacQvzxeObq+BXw27PsglDr3QtBVsrlsNKe94f0jHs6W2bWy39Z1glZvsCfJ0A5RRAYxdRS/094s8uEHNl7SKI9izF8hUTxkc=",
-        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/causa-comun_acab05d9d04044b189b8a8d738924a5e.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FUENTE PARAGUAY",
-        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOrd0bYhldAnDAPXvM4QTeDywE8y2wjAY4swXMfQFsLucQ==",
-        "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TROVADOR TV DIGITAL",
-        "url": "AVAnneWv2+JJBoVtk1KScfBMne4saT1YDf8XFZeugLe/DTG6DvkDcB9CqTA0rbNtuwA/2cij5iB5+EWQQjVgKXHaQTlgwEgLEo1hiVZ36kc=",
-        "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "AGR TV DIGITAL",
-        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcSahO2dP1gV/yHE1bYszS7btUHGko0+nkdmSlAoqIv8TQ==",
-        "icono": "https://i.postimg.cc/HWKzZHcF/Whats-App-Image-2026-04-26-at-4-27-05-PM.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "MOTOR SUR",
-        "url": "OkqEMFL+DJeXJDFdSNAjij4e2doqJxnvhPbXTGLZm0gYrmT7jt7fiTEvOUvnw/1c",
-        "icono": "https://app.femon.net/tv/banners/6a2857797ce5e6.17407629.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "REPUBLICA TV",
-        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcRPSQ2U4EQ4F/qD+aey/BstOCYSpY6PXXkKAAjiq/VoG7VBxpKNPp5HZkpQKKiL/E0=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsCmJZ6o0vAZUV_J6awZLb3IdjruiygW-VSlO1KJme6sRon249IlZApk&s=10",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "PRODUCTIVA TV",
-        "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFYBbo4Wq1it3wnJL2V35LHsXu/rWIAH5Y2hd3l5/o7gBGAdBi2YyQD5OOI+lMWFYAX6CVhMu32huU1FYltN6uAmYoXY1cAW++maX4B/uoou1A==",
-        "icono": "https://productiva.tv/wp-content/uploads/2020/04/icotv.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "RADIO PARANA 89.7",
-        "url": "OkqEMFL+DJeXJDFdSNAjij4e2doqJxnvhPbXTGLZm0gAyEy0tzDzmSXtJyO6KUfm",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfGOJKsB8PhieDLTFi6Q4R_AH8s4VsmBGHcAWj8z9YQ&s=10",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "INVASIVA TV",
-        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZYd8L6ldPwkd7WEWth2OChhdGL3Gz98/VbJgifR7AzYQ==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Qamm1EN1D5jwAy6sbGljSjnt_dqZWMxPrLjo7rf6ng&s=10",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "4DMAS NOTICIAS",
-        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcQmYi2PHbomnAsClYqEDntF3X4gGYF+o2ji9r4K1vHmL1s4H0uWvhHaCIlKpjl/7UbYyaBqu9Fy8Zl+yy2HTg+G",
-        "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CAMBYRETA TV",
-        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOoqUlwVcrGJcDAfQR9haNZxwb+sFna55koKyDicehpdYA==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5HRDgci6pxuRTVVYqEH0rW7Ofta9VzmNHw&s",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "TV CHAQUENA",
-        "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFaIGsoeFyuxU0YIhlhf0GepUQ6BM8qjXZ3yj0qytc1nCZSsZuAIIntF1IvJhcCrJYHh6yST1v/OqiISjm3j+sh0AdrcYiwLVBeHhKDbPG7QEA==",
-        "icono": "https://i.postimg.cc/59RqFxrr/tvchaquena.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "NEX TV",
-        "url": "OkqEMFL+DJeXJDFdSNAjivrv+F6P3XSdDY+6yFsi+0z4jcf1zgVJawhQZVbhfFJKHoQ4sk4AI+IvPe1N/YhRkA==",
-        "icono": "data:image/jpeg;base64,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",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ROCK-POP 95.5",
-        "url": "1FC1vTzY+mr2S0IHThP0Nli2PmZ+M1F2k6AabUS1IYouvXiTBOjBFQNEpKYG166/0ppNtZGQ7mg1T6bvgk/mB8F+4T/xkPi5eGZMFG0aPs9Pj/wbHQo7nG1YbbiMor8g",
-        "icono": "https://i.ibb.co/MMYLRZV/rocka.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "BRUNO MASI TV",
-        "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8sVWNAP/cbNLIQwuhbFnkpVQYI1iK8K8jWOxBiXEUJNatSwxfgu4RC7VtvY/H6MSwI=",
-        "icono": "https://i.postimg.cc/QMqnK2Dd/logo-BM-2026.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "COSMOS TV",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgCOsfBfuQAeEyLyVmbf2PDXOp4HJpts0XwwoLOKKVOgMg==",
-        "icono": "https://static.wixstatic.com/media/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png/v1/fill/w_77,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "XPRESS TV",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAqegYRFscfsdGoTRe4pKz/LSQLIn0DwZmdqaSJZjbY97IBOB4ziupZYhml7dMG7d4=",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7zRWFWcmNoLUcR6LgR9nECR0z5uW7jyr8bHI1D2ZRA&s=10",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ALMAYA TV",
-        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgC3loIMUdINKRahXh3M2g1ytiXRMO95LvIkmgV7PrNUtg==",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvrhsV4-19EPXymLXYgZLtD92kpj2180ZRFNXmLDEYQ&s=10",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "STACION TV",
-        "url": "7nenFLMJn08GN12kTxOvVdcj2s4mthLoYGSsKssHE3+tlxj2Gw0369xV6vFS6gosBZn2P+1lXgFhH9EN20PMSQ==",
-        "icono": "https://teleparaguay.com.py/uploads/image/69dd1ed0b79d3_518531936_122109704858935898_8233151151228875413_n.jpg",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "NORDESTE TV",
-        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOoxxAJuqGo3XYOWpiuJtwbb6jiqdYN9UJqvlqJ5KBt6oQ==",
-        "icono": "https://i.postimg.cc/D0jT49zz/NORDETE-TV.png",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "CANAL 7",
-        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7Qa+mIrZgqbNusApJhVzpnGXx1NUTSUOSQZuBEvfZQQ6fO4x68W+2uZxJ24gvA8BF3SyATgeM4rqWWIZpe3TBu3e",
-        "icono": "https://i.postimg.cc/gJh8R95X/images-q-tbn-ANd9Gc-QRizd-Oxb-YKa-VR0h-ZNHFx-Hvp-Xn-X-9xr-Dm2CNqx-SLb-EGwqs8Fjn-o-Uf-ONx-Q-s-10.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      }
-    ]
-  },
-  {
     "name": "📺TIGO SPORTS",
     "samples": [
       {
@@ -3074,6 +2638,442 @@
   {
     "name": "📺PARAGUAY INTERIORES",
     "samples": []
+  },
+  {
+    "name": "📺PARAGUAY INTERIORES",
+    "samples": [
+      {
+        "name": "TVS ENCAR",
+        "url": "pHaFhmUV7f+l52B6BcDrQnIIcs/nXk9VsOcxjm3ppL+0uRQ+wkJuLMhMk6913UNEczoluO0xio3nzGxASW/CeA==",
+        "icono": "https://i.postimg.cc/x8pKhN6j/tvs.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ORIGINAL TV 95.9",
+        "url": "SNf/g9Te796qCj6e6kVw/IGm561r8jYoEH2y/ZedtSKsdRIQFWP9hSc/H/IU7nLR4nOvFIbvqbIOrwxnf0e72Q==",
+        "icono": "https://i.postimg.cc/QMjsqsm1/ORIGINAL-TV.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "VISION TV VILLARICA",
+        "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFYboymNKrtpcDNLDjpIoM8BwD+y/i5hFV0YdQilvfxkNnL0B/SKXOyXgZ101Kb6U/k=",
+        "icono": "https://i.ibb.co/YF53Z8jk/vision.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SAN FERNANDO TV",
+        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOpl/Sx8EkKsg8Y+fhO8sHJzw59DmPka4kvdLPRKcE1wGX5YMZxRZjRB9sPu2Kgb6h8=",
+        "icono": "https://i.postimg.cc/YqVQyBKc/logo-sanfernando.webp",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "FARRA TV",
+        "url": "JzhG8B93u7TVPS36gBGmuH2HGe21fqzphlrgkaYpdGhO0LrE7PlCyb7YHX6M/0XmflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://i.postimg.cc/5yxQ0q4w/farra-play.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "5 TV MAX",
+        "url": "l6O+gEV00o4SyoRjdrSmi8bJLPkoioia/pNDovGNIsG19tJizOeqMPbldDscxGESIS4Dbqup+XvjQ7Xi31/3qv88pmEpAmIMFpgcURfEkrg=",
+        "icono": "https://i.ibb.co/XkM2x6ts/LOGO-TVMAX-1-1536x819.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TRIUNFO TV 93.1",
+        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOrG4NgWGv2ZmBWQMyaEqWqPRVub4taC3O4ts12tIzbRMA==",
+        "icono": "https://i.postimg.cc/02gp2HZJ/TRIUNFO-FM.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "OVIEDO TV",
+        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZ+NyjhG9ugl7hh45F1rr0shyG4BEkVcpALzpCyzZTHDQ==",
+        "icono": "https://i.ibb.co/BHRH06mS/6Olfg-SQ.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PARANA TV",
+        "url": "67X37bBpdbv2t9vtJGFYCYrCxZtnVdIJPdWlQNuJqmzxES+iPqftO84jmSho5+pIHoQ4sk4AI+IvPe1N/YhRkA==",
+        "icono": "https://i.postimg.cc/QxVRhC4S/PARANA-TV.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "REGIONAL TV",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgCro/PVS7ROK2T26VRgfxDeOftNSVZHrs0SBBYk8XCakh6EOLJOACPiLz3tTf2IUZA=",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/regional-tv_e7b22f3b76f44038b9edb3ccf936a608.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TELE15",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAfI+CRFAzSHpCuiyMD+WE/8MW4W3pPi3e3fxTVQg6MUB6EOLJOACPiLz3tTf2IUZA=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEgbzpZG7xql85dRFxRVdwbiaRUzG4U1owebGdI9yE-ExXZ6lP2WqUtEI&s=10",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CANAL 8 OBLIGADO",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgD2pshRq1pF+3E1dQRUHPT2I+e7eGpR7Q5kj4MVCosz/2KF2NXAFvvpml+Af7qKLtQ=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7XlWfGABIuSeanghFVu1VAX6ARw0sTT3LA&s",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "RED DIGITAL",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgDCodYFXDPpvHKyy4ej14VpTpWTTLZzByL/GptNiw4EjIYIRyntf0aUfoQVwYvr030ehDiyTgAj4i897U39iFGQ",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkBbWlas-Rq_BWuZQiF96lYKbYCw6AFlffucR0VI-Bw&s",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TV CANINDEYÚ",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAhiwx51dVgGl0adHNbm9PaCmWR2mw3uJczpDMseie6zLIBOB4ziupZYhml7dMG7d4=",
+        "icono": "https://i.ibb.co/zhkXYgQn/1782737995262.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ALCANCE TV",
+        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZLF7B8Pasp0CzzXovGaMnyoThKoJaKFX/T4bbnAg3VQ2KF2NXAFvvpml+Af7qKLtQ=",
+        "icono": "https://i.ibb.co/JJqMDjf/alcance-tv-logo-dc44471b.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "SUCESO TV",
+        "url": "67X37bBpdbv2t9vtJGFYCQu5VD1GN8VkMLgpWFMTRAjxES+iPqftO84jmSho5+pIHoQ4sk4AI+IvPe1N/YhRkA==",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/suceso-tv_6be1489757c14e7aa3d49f56491fc2e0.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TVA OVIEDO",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAL6OniafkcTS5gOHSXRadC9p64bmvDg68xAKnEtnJpvw==",
+        "icono": "https://i.ibb.co/BVqcFpLf/Picsart-26-04-18-08-56-41-501.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CAUSA COMUN TV",
+        "url": "2nl5x4lbRgSacQvzxeObq+BXw27PsglDr3QtBVsrlsNKe94f0jHs6W2bWy39Z1glZvsCfJ0A5RRAYxdRS/094s8uEHNl7SKI9izF8hUTxkc=",
+        "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/causa-comun_acab05d9d04044b189b8a8d738924a5e.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "FUENTE PARAGUAY",
+        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOrd0bYhldAnDAPXvM4QTeDywE8y2wjAY4swXMfQFsLucQ==",
+        "icono": "https://i.postimg.cc/c4Zthb1z/Whats-App-Image-2026-04-26-at-3-22-50-PM-(2).jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TROVADOR TV DIGITAL",
+        "url": "AVAnneWv2+JJBoVtk1KScfBMne4saT1YDf8XFZeugLe/DTG6DvkDcB9CqTA0rbNtuwA/2cij5iB5+EWQQjVgKXHaQTlgwEgLEo1hiVZ36kc=",
+        "icono": "https://i.postimg.cc/bN3XD7St/Whats-App-Image-2026-04-26-at-3-19-21-PM.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "AGR TV DIGITAL",
+        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcSahO2dP1gV/yHE1bYszS7btUHGko0+nkdmSlAoqIv8TQ==",
+        "icono": "https://i.postimg.cc/HWKzZHcF/Whats-App-Image-2026-04-26-at-4-27-05-PM.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MOTOR SUR",
+        "url": "OkqEMFL+DJeXJDFdSNAjij4e2doqJxnvhPbXTGLZm0gYrmT7jt7fiTEvOUvnw/1c",
+        "icono": "https://app.femon.net/tv/banners/6a2857797ce5e6.17407629.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "REPUBLICA TV",
+        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcRPSQ2U4EQ4F/qD+aey/BstOCYSpY6PXXkKAAjiq/VoG7VBxpKNPp5HZkpQKKiL/E0=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdsCmJZ6o0vAZUV_J6awZLb3IdjruiygW-VSlO1KJme6sRon249IlZApk&s=10",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "PRODUCTIVA TV",
+        "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFYBbo4Wq1it3wnJL2V35LHsXu/rWIAH5Y2hd3l5/o7gBGAdBi2YyQD5OOI+lMWFYAX6CVhMu32huU1FYltN6uAmYoXY1cAW++maX4B/uoou1A==",
+        "icono": "https://productiva.tv/wp-content/uploads/2020/04/icotv.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "RADIO PARANA 89.7",
+        "url": "OkqEMFL+DJeXJDFdSNAjij4e2doqJxnvhPbXTGLZm0gAyEy0tzDzmSXtJyO6KUfm",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfGOJKsB8PhieDLTFi6Q4R_AH8s4VsmBGHcAWj8z9YQ&s=10",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "INVASIVA TV",
+        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7QZYd8L6ldPwkd7WEWth2OChhdGL3Gz98/VbJgifR7AzYQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Qamm1EN1D5jwAy6sbGljSjnt_dqZWMxPrLjo7rf6ng&s=10",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "4DMAS NOTICIAS",
+        "url": "DlutGN1wQ0EaMSUS7N1qmplMgADcVerupMwCtYxPmcQmYi2PHbomnAsClYqEDntF3X4gGYF+o2ji9r4K1vHmL1s4H0uWvhHaCIlKpjl/7UbYyaBqu9Fy8Zl+yy2HTg+G",
+        "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CAMBYRETA TV",
+        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOoqUlwVcrGJcDAfQR9haNZxwb+sFna55koKyDicehpdYA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT5HRDgci6pxuRTVVYqEH0rW7Ofta9VzmNHw&s",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "TV CHAQUENA",
+        "url": "DlutGN1wQ0EaMSUS7N1qmhDUAWwUCwdGrHHXFJSuCFaIGsoeFyuxU0YIhlhf0GepUQ6BM8qjXZ3yj0qytc1nCZSsZuAIIntF1IvJhcCrJYHh6yST1v/OqiISjm3j+sh0AdrcYiwLVBeHhKDbPG7QEA==",
+        "icono": "https://i.postimg.cc/59RqFxrr/tvchaquena.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "NEX TV",
+        "url": "OkqEMFL+DJeXJDFdSNAjivrv+F6P3XSdDY+6yFsi+0z4jcf1zgVJawhQZVbhfFJKHoQ4sk4AI+IvPe1N/YhRkA==",
+        "icono": "data:image/jpeg;base64,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",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ROCK-POP 95.5",
+        "url": "1FC1vTzY+mr2S0IHThP0Nli2PmZ+M1F2k6AabUS1IYouvXiTBOjBFQNEpKYG166/0ppNtZGQ7mg1T6bvgk/mB8F+4T/xkPi5eGZMFG0aPs9Pj/wbHQo7nG1YbbiMor8g",
+        "icono": "https://i.ibb.co/MMYLRZV/rocka.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "BRUNO MASI TV",
+        "url": "skL0SptDEV+upha/QLFyRpHXTdQFXWP4GGAw9thlg8sVWNAP/cbNLIQwuhbFnkpVQYI1iK8K8jWOxBiXEUJNatSwxfgu4RC7VtvY/H6MSwI=",
+        "icono": "https://i.postimg.cc/QMqnK2Dd/logo-BM-2026.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "COSMOS TV",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgCOsfBfuQAeEyLyVmbf2PDXOp4HJpts0XwwoLOKKVOgMg==",
+        "icono": "https://static.wixstatic.com/media/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png/v1/fill/w_77,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/0365c0_e28fa76bf2b14d52bdeca5be1c00a88a~mv2.png",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "XPRESS TV",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgAqegYRFscfsdGoTRe4pKz/LSQLIn0DwZmdqaSJZjbY97IBOB4ziupZYhml7dMG7d4=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD7zRWFWcmNoLUcR6LgR9nECR0z5uW7jyr8bHI1D2ZRA&s=10",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "ALMAYA TV",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgC3loIMUdINKRahXh3M2g1ytiXRMO95LvIkmgV7PrNUtg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHvrhsV4-19EPXymLXYgZLtD92kpj2180ZRFNXmLDEYQ&s=10",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "STACION TV",
+        "url": "7nenFLMJn08GN12kTxOvVdcj2s4mthLoYGSsKssHE3+tlxj2Gw0369xV6vFS6gosBZn2P+1lXgFhH9EN20PMSQ==",
+        "icono": "https://teleparaguay.com.py/uploads/image/69dd1ed0b79d3_518531936_122109704858935898_8233151151228875413_n.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "NORDESTE TV",
+        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOoxxAJuqGo3XYOWpiuJtwbb6jiqdYN9UJqvlqJ5KBt6oQ==",
+        "icono": "https://i.postimg.cc/D0jT49zz/NORDETE-TV.png",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
+        "name": "CANAL 7",
+        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7Qa+mIrZgqbNusApJhVzpnGXx1NUTSUOSQZuBEvfZQQ6fO4x68W+2uZxJ24gvA8BF3SyATgeM4rqWWIZpe3TBu3e",
+        "icono": "https://i.postimg.cc/gJh8R95X/images-q-tbn-ANd9Gc-QRizd-Oxb-YKa-VR0h-ZNHFx-Hvp-Xn-X-9xr-Dm2CNqx-SLb-EGwqs8Fjn-o-Uf-ONx-Q-s-10.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   },
   {
     "name": "📺INFANTILES",
