@@ -795,7 +795,7 @@
         "name": "TIGO 1 HD",
         "url": "sXrXnZWEBEXRVKp0hSCl/XyRl/K2UXEdJXYQQhHSUOT1QkJx7Cx22jm0+MhgzZC7Ggq2pEqnGMUj6URra1FFuesASXCAzujieTNNYc08zn4=",
         "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-        "type": "HLS",
+        "type": "WEBVIEW",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
