@@ -2866,10 +2866,6 @@
     ]
   },
   {
-    "name": "📺PARAGUAY INTERIORES",
-    "samples": []
-  },
-  {
     "name": "📺BRASIL DEPORTES",
     "samples": [
       {
@@ -3031,6 +3027,10 @@
         }
       }
     ]
+  },
+  {
+    "name": "📺PARAGUAY INTERIORES",
+    "samples": []
   },
   {
     "name": "📺DEPORTES 2026",
