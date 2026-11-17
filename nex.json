@@ -1784,6 +1784,13 @@
         }
       },
       {
+        "name": "DISNEY",
+        "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYr/lAFUpZX/wgygGTUOjVYYflgxnFFmNEH2w+7YqBvqHw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN_Plus.svg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      },
+      {
         "name": "DSPORTS-FLOW",
         "url": "SJaDv3i2fR9rX4GKeeULbwu3O+Uo+2wUfVXgsuMvBfcDs89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4ecAW+5s6VbKGIa7bGEjn3JBLQ6ckpe4owiuGteC0SLlUo1VMTfF9MSrcnj17DGbOiu35wH3nY8/kz+dcDO8PHT9MCj1DWLwXHjU+zIdvZyLBkRn5wN/Rgo+JNA6E++dQP14S6exExpDeQUHGss6UulW13lZMHvYpKI4csEj7uWhvluByKIKmuClDWC2zgcUkJK2NVhuPIilNgUO6dZYeGy29J/ro//c6dFCtK+ik8HfMQxErZXKYBP62SLo+OdiQ2CALX/+hpwJbqa7ZWSCtoASNzy6bGWeLYdgwHtf+w+GvZ0Ak13Ow6CXbCRZQt/YoFS8B4rEuRhPao/CGdagkgewDyH5uNbLnvcgUtUgx1RLlGek/DLAaGawXm3xRcG89mkcn92vgMIhPaisXdB2RWj5f5wJXPq0xKCfWN6TOI8VATNeATnJe4iOO82OiXtz01LQVEfik+MErMLSrsOHItkDcmumcjJSJ0hQLr0/gTW54SNNykYS54M1iM406pUs3+d5N6LXpQaLtXYhdJJqnMnRmpVSvuCTGbhjoXKwIls7Ju0YDtauBAkOn9rHyxxl3SGFQY/g8GND6hrNrKcEMvpFntJ8XJBAZUvSizW10qaQlVS9QGfMvWW+L2vT2QslmocNxOTUJQluqDKW/eiiiyvAHQSOjAQzr7zCcQdRU87uBRyL1Z6QxQ7fYhyQmObQerI=",
         "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/dEOhDb7vsbbZcm6GlzVAHQ?tags=CH_LOGO",
@@ -1922,13 +1929,6 @@
         "name": "BILLIARD TV",
         "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ8ylqfJS2oZhlIW2UUwAxMvQ==",
         "icono": "https://i.postimg.cc/28GWYGC2/US-STVP-Billiard-TV-Channel-Tile-1000x1000-Square.jpg",
-        "type": "HLS",
-        "drm_license_uri": ""
-      },
-      {
-        "name": "DISNEY",
-        "url": "OgTskBsQHPTrt1ZRu6AUqK34wgLJogM9962QZuJesYr/lAFUpZX/wgygGTUOjVYYflgxnFFmNEH2w+7YqBvqHw==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN_Plus.svg",
         "type": "HLS",
         "drm_license_uri": ""
       },
