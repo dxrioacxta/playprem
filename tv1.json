@@ -2575,10 +2575,6 @@
     ]
   },
   {
-    "name": "📺PARAGUAY INTERIORES",
-    "samples": []
-  },
-  {
     "name": "📺INFANTILES",
     "samples": [
       {
@@ -2868,6 +2864,10 @@
         "drm_license_uri": ""
       }
     ]
+  },
+  {
+    "name": "📺PARAGUAY INTERIORES",
+    "samples": []
   },
   {
     "name": "📺BRASIL DEPORTES",
