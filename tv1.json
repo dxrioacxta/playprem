@@ -2144,7 +2144,7 @@
         "name": "SONY CINE",
         "url": "2Ih6O3sur6px/oW+DCWwjWAP0gVykaMnI3O+eF65pb26NfZVTCHnP5mB79dUDCsP/zymYSkCYgwWmBxRF8SSuA==",
         "icono": "https://i.postimg.cc/pX47JBKH/download-19.jpg",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
