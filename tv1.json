@@ -3576,6 +3576,13 @@
         "icono": "https://i.postimg.cc/QMjsqsm1/ORIGINAL-TV.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "TRIUNFO FM Y TV",
+        "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOrG4NgWGv2ZmBWQMyaEqWqPRVub4taC3O4ts12tIzbRMA==",
+        "icono": "https://i.postimg.cc/02gp2HZJ/TRIUNFO-FM.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   }
