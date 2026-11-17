@@ -3281,7 +3281,7 @@
         "name": "BOWLING TV",
         "url": "HVW0WqBZ0V9Vv1KksH8DWPDf8CdqtPPQkQ7ME7EsedA+GkvA5p016iIkpEOWxjJ83eF99covbkyk8iKGOgFNHQ==",
         "icono": "https://i.postimg.cc/hvVbwjjV/bowlingtv-logo-rgb-vert.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       },
       {
