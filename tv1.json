@@ -438,6 +438,13 @@
         "icono": "https://i.postimg.cc/bvjs27qY/hq720.jpg",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "FARRA TV",
+        "url": "1YBEy6xw7gv8wwB2EoX2+/OpkTf0s7WRhucVwGnhl7pD2GUoIUxpeqlxqVD/A619",
+        "icono": "https://i.postimg.cc/zGQ2QTkZ/LOGO-DE-FARRA-2-1.png",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
