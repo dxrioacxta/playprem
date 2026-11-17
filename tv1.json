@@ -356,6 +356,18 @@
           "Referer": "",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "C9N PRUEBA",
+        "url": "wCp5JJeT6GsuMla110cTCUMZnhXZyzb8HTFjh+/fpEy8VGzqjYIdCv29FXCZ6sCvOdazKE9A2f07R/4DcvsamAR0+YSifraZTb0Bw+km1ex6Lby8pj512sm2awH8Ot0n",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Xv5k1u0gPL/or/yFeUqr/a7KH1/Ntqv8ngp2hNTW4fipZ6ZJufzRyt5KNn3LKwWycGmu90yjr4gjDrexv57S9TUCLNjq+yOuEsT9xPhuKzSLnS4RUOxRoOgch7tNr/1dmr6/6o2Ej0Ja4EjTY7ibqO23OHSXZxeoEv3DvbJ1fj4=",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       }
     ]
   },
