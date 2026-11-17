@@ -431,6 +431,13 @@
         "icono": "https://i.postimg.cc/KYmHjYkN/icotv.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "RADIO PARANA 89.7",
+        "url": "OkqEMFL+DJeXJDFdSNAjij4e2doqJxnvhPbXTGLZm0gAyEy0tzDzmSXtJyO6KUfm",
+        "icono": "https://i.postimg.cc/bvjs27qY/hq720.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
