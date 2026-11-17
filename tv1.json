@@ -445,6 +445,13 @@
         "icono": "https://i.postimg.cc/zGQ2QTkZ/LOGO-DE-FARRA-2-1.png",
         "type": "HLS",
         "drm_license_uri": ""
+      },
+      {
+        "name": "CANAL 7",
+        "url": "GeB8Orr77BEIfgy4o66J9Svc6XyXo+J4owVm+mix7Qa+mIrZgqbNusApJhVzpnGXx1NUTSUOSQZuBEvfZQQ6fO4x68W+2uZxJ24gvA8BF3SyATgeM4rqWWIZpe3TBu3e",
+        "icono": "https://i.postimg.cc/gJh8R95X/images-q-tbn-ANd9Gc-QRizd-Oxb-YKa-VR0h-ZNHFx-Hvp-Xn-X-9xr-Dm2CNqx-SLb-EGwqs8Fjn-o-Uf-ONx-Q-s-10.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
