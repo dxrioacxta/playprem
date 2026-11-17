@@ -3555,6 +3555,14 @@
   },
   {
     "name": "📺PARAGUAY INTERIOR",
-    "samples": []
+    "samples": [
+      {
+        "name": "NANDEPORTE TV",
+        "url": "xLw1TEGsgnEUCpDQq2JSHBigvez8RyPZcQtmBvwXdgD/kLmPtUbmKfPHkWc2nWeN1JY/y90M8xGUcnI4ukiuQwhSYF+Bj0z+5xQuKMu5hT0=",
+        "icono": "https://i.postimg.cc/J4PRyMsf/bd166c26-5fe4-4872-9db9-731cf39fa11c.jpg",
+        "type": "HLS",
+        "drm_license_uri": ""
+      }
+    ]
   }
 ]
