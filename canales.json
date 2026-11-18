@@ -27,10 +27,10 @@
         }
       },
       {
-        "name": "EVENTOS HD | 1",
-        "url": "PR6U9ku2wu9kMcFTfuVDUB+VfbmiqyaQDSnhVxx9vqoUfuNlZOXaMhfChyb0Vhjn",
+        "name": "EVENTOS HD | 1 PLAY",
+        "url": "CV4Y3YokAolz7SAaDbL79w8THr7iDkxlTEfaoMOSSEylCe0dGIecvdETcSqV0a63sgE4HjOK6lliGaXt0wbt3g==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
