@@ -30,7 +30,7 @@
         "name": "EVENTOS HD | 1 PLAY",
         "url": "CV4Y3YokAolz7SAaDbL79w8THr7iDkxlTEfaoMOSSExWdUmcLdLmMbuwSv7g/WHyZFLm4b0eP5kTGYTL+9ylzw==",
         "icono": "https://i.ibb.co/fGF5bwB8/unnamed.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
