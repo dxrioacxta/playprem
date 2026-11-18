@@ -111,10 +111,10 @@
         }
       },
       {
-        "name": "Prueba40",
-        "url": "sALuPMEqdajq1KcvlYJy8eokCtrI4tKrSw881n0Q1zE=",
+        "name": "Prueba111",
+        "url": "CV4Y3YokAolz7SAaDbL79w8THr7iDkxlTEfaoMOSSEzbzzh7erXfZrGp3vqqhx9QF1p/jdJcLhLSIboR6HfY8w==",
         "icono": "",
-        "type": "WEBVIEW",
+        "type": "HLS",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
