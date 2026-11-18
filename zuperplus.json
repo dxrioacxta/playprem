@@ -14,9 +14,9 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "odjsHLJ9g2AVq6St",
-                "tag": "qxQpHe3d/+Hq6mSla04DNQ==",
-                "data": "X/k8wRegewLw6mX1syNHkWauv8QO9NkEbLu5FEaKoLOVeq3/unxxUeII2JYnxKcU2QMLu7P11Ekep/yVDvVybgNl6amj8q0="
+                "iv": "47cYnfLrntovcA+f",
+                "tag": "Hy2gwMgtz7OUjwUjza2pcg==",
+                "data": "f/cW6Y76DPuGIsMh9JGsSd1W34MlR90GNDQ+QOUu6VGegLlBNAiOMIE7nAuNC5ymfK53wkdPn/KUm4a+r88b467VWSlYqLA="
             }
         },
         {
@@ -30,9 +30,9 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "/1MiiKb0SqldM3vn",
-                "tag": "e6oAVGGtWKZ5U1jPin46Yg==",
-                "data": "kgYkI8uAH6i7/b+rqjjkIocYypxxf6X6gfSqSDNLD6EbOMcMNFJoaIZjmcFr+XSn4wsQf+RJM+JERZOwnPqQ+dH+s98="
+                "iv": "Kx8Rq/8xALjl5NE1",
+                "tag": "rYCx9EahhuO8vgqCqb34wg==",
+                "data": "m82sEJPColpWFoam7SyaMhUTh8QCmsRZNpZ+x/6ztisJXPKf1tkgk2WIhMl+EusJo6d1U06xADsADKRjug8rUf+hRBU="
             }
         },
         {
@@ -46,27 +46,11 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "bN2xfMUpQy5UdrHy",
-                "tag": "wkjZLQVys3Erl0ZC2gWnZA==",
-                "data": "JMGNgzyiBi27gXKMvVmucOcs8kCes2Iz98RkKLXrFUmQL7Ni1HfAkYf43jPQ1cP4wnZXM1opg0vU4DYwaTuxdCJCP80="
-            }
-        },
-        {
-            "id": "channel_f555aa8223ba",
-            "name": "TIGO 04",
-            "logo": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-            "type": "hls",
-            "player": "native",
-            "folderId": "",
-            "position": 4,
-            "enabled": true,
-            "locked": {
-                "alg": "A256GCM",
-                "iv": "wy1plCCZ7EgHTgjU",
-                "tag": "tmHBpdEY/8geGynoOoEINw==",
-                "data": "4hR08OYBI8i5prQS6HK9wIIkHTMccrOKa337QTL8yL2NtkKorOfvs7XbbNipyRus6JpphXaX1JLIFHBA+mKljLG4NlG8f8IiQlJL"
+                "iv": "F0jRrHGGdMaqFI9f",
+                "tag": "KUGoh6Mm6smp0PzWW+bJUA==",
+                "data": "uYWC1/zrcRuOvdTyPEXJlEuECD1TMqwAAX/0yLIDcxRQO32C2Mbs25v6nv81xvrSR/+ztbog/ztCWRk148wVJd2dsZU="
             }
         }
     ],
-    "generatedAt": "2026-11-18T00:18:45+00:00"
+    "generatedAt": "2026-11-18T00:18:58+00:00"
 }
