@@ -4,22 +4,6 @@
     "folders": [],
     "channels": [
         {
-            "id": "channel_2a8a1bacd5f6",
-            "name": "TIGO 03",
-            "logo": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
-            "type": "hls",
-            "player": "native",
-            "folderId": "",
-            "position": 3,
-            "enabled": true,
-            "locked": {
-                "alg": "A256GCM",
-                "iv": "47cYnfLrntovcA+f",
-                "tag": "Hy2gwMgtz7OUjwUjza2pcg==",
-                "data": "f/cW6Y76DPuGIsMh9JGsSd1W34MlR90GNDQ+QOUu6VGegLlBNAiOMIE7nAuNC5ymfK53wkdPn/KUm4a+r88b467VWSlYqLA="
-            }
-        },
-        {
             "id": "channel_78125dc0ce66",
             "name": "TIGO 01",
             "logo": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
@@ -30,9 +14,9 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "Kx8Rq/8xALjl5NE1",
-                "tag": "rYCx9EahhuO8vgqCqb34wg==",
-                "data": "m82sEJPColpWFoam7SyaMhUTh8QCmsRZNpZ+x/6ztisJXPKf1tkgk2WIhMl+EusJo6d1U06xADsADKRjug8rUf+hRBU="
+                "iv": "rmP9xX62jZAUSIl8",
+                "tag": "Q7LeO1+C4RTvt5d+htt7KA==",
+                "data": "Eyeq8ZqdabxMEStHkbtlal5AFKxft2bcXesOCi9PnX38BzcNTX+O1Slk++uEYlwRP/Q053i2n9WBv5aE4c89heJk8eQ="
             }
         },
         {
@@ -46,11 +30,11 @@
             "enabled": true,
             "locked": {
                 "alg": "A256GCM",
-                "iv": "F0jRrHGGdMaqFI9f",
-                "tag": "KUGoh6Mm6smp0PzWW+bJUA==",
-                "data": "uYWC1/zrcRuOvdTyPEXJlEuECD1TMqwAAX/0yLIDcxRQO32C2Mbs25v6nv81xvrSR/+ztbog/ztCWRk148wVJd2dsZU="
+                "iv": "kn5I5wo3DLs9+YJ1",
+                "tag": "x00P4xrfVpipchzctepcDA==",
+                "data": "/qAnUUg/QxnmtFv4cLdhsltft8H0FoFs7wJF2UMdAWBOK/4vVa36WACNxL/peI53qjDEFHFDUwXhAzaMfgs2qCvnKNM="
             }
         }
     ],
-    "generatedAt": "2026-11-18T00:18:58+00:00"
+    "generatedAt": "2026-11-18T00:19:02+00:00"
 }
