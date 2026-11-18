@@ -111,10 +111,10 @@
         }
       },
       {
-        "name": "Prueba111",
-        "url": "CV4Y3YokAolz7SAaDbL79w8THr7iDkxlTEfaoMOSSEzFGoHsqQatqz/DxW+C0b1BYoXY1cAW++maX4B/uoou1A==",
+        "name": "Prueba11",
+        "url": "CV4Y3YokAolz7SAaDbL79w8THr7iDkxlTEfaoMOSSEz55SE4YG9f/dD+r80X7dfq",
         "icono": "",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": "",
         "headers": {
           "Origin": "https://www.tigosports.com.py",
