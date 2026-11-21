@@ -527,7 +527,7 @@
         "name": "EVENTOS 2",
         "url": "aTNbjKIaZufbn8axxI4liyCKSQ2lFnFBacDdi7LqhOrEu4KrtxDdPdBxI5IMj+CBJ4b+Nx2tlR8XXrSsH84X5WKF2NXAFvvpml+Af7qKLtQ=",
         "icono": "https://i.postimg.cc/3r6fsD1N/images-q-tbn-ANd9Gc-Qe-PXebdp-Jtx-Vfr-Gijm3d-XHnq2S7OBma-Iia-Icpq7f-Rb-VQ-s-10.png",
-        "type": "CLEARKEY",
+        "type": "HLS",
         "drm_license_uri": ""
       }
     ]
