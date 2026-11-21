@@ -73,6 +73,13 @@
           "Referer": "https://www.tigosports.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "11",
+        "url": "CV4Y3YokAolz7SAaDbL79+E5IVLQEvBD3i4h59shGjeNG3hEr0708bVmu0xEj8auYoXY1cAW++maX4B/uoou1A==",
+        "icono": "",
+        "type": "HLS",
+        "drm_license_uri": ""
       }
     ]
   },
