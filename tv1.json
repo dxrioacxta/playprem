@@ -515,7 +515,7 @@
         "name": "EVENTOS 1",
         "url": "CV4Y3YokAolz7SAaDbL79w8THr7iDkxlTEfaoMOSSEw/IbsearMxbvpJuvX+CFz/1VlrNrO1a4rszjtDpepAFA==",
         "icono": "https://i.postimg.cc/3r6fsD1N/images-q-tbn-ANd9Gc-Qe-PXebdp-Jtx-Vfr-Gijm3d-XHnq2S7OBma-Iia-Icpq7f-Rb-VQ-s-10.png",
-        "type": "HLS",
+        "type": "CLEARKEY",
         "drm_license_uri": "",
         "headers": {
           "Origin": "",
