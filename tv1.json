@@ -488,6 +488,18 @@
         }
       },
       {
+        "name": "TIGO SPORTS 3",
+        "url": "jIrGq46A1v3RJFKfQ2pccpoCUKEo3tZSW5O0iIkJo6/il/5QE9oPHgaZstTomFxcyGGX6w2UXOFF1hU8sJaDDCEPAvMjIjoaB/6uBGXekokxQod+GugycsYfr5fUtUP+e8BKQOQO92sfviSU8/BY/hqmhm0DCUOe7nthoI1zLfw9duglWBJP4DQrXjqd/ajkpKBWQ68Ozk8j9AKFwlwcoK1HtKCO5FeVwZ1EkDNba72O8W39pOOU1iufR3gWRFGZgFGDfyJxkSNVPDS/iq+maP6I9oWT0pilms+78hfaqQhR9Zwy1WOoC5jt7tKDS6dDVGVp3wYfSxjcmHx1Bo6D035YMZxRZjRB9sPu2Kgb6h8=",
+        "icono": "https://i.postimg.cc/TYywJByV/logo-tigo-sport-inline-2.jpg",
+        "type": "HLS",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "EVENTOS FLOW 1",
         "url": "SJaDv3i2fR9rX4GKeeULbyAavAq0DzqEKdXDL5QE7N8Ds89PK4MG+I6as5ns6VdIyUVn+TnxOWfrnN9NSRIF423BtaSIrQZwPRofbG7i4efzpnRzUQEhub9p3W50BgxRZctSela1tgExnTC4zB9gPkvyL2y55e3u5d5Um8vsKvb4Y70+jpU48M42eN4B1lnOC2mXeFp69UJA9IjTYJ0FwvGC8o/mkaJTKoZNYL3OA1chkGeL/lBtYyytbbgS+8v9C9hjthy72ju31tKWnWQygmcQ5Os6qPaysSGWjfNQfucRLf/VZesTXLje0Bnog4UbaZdsvZqsGI2GZLL+Oyc3fytfYNodSbZUKW3SnBudt9DzKQA6bkN4u+U72a+m1YX70xwWC6W85uZxedzjBdSv3c5A+mnYPvn0FL14m44N7WakDBMcmlHg29KzJU4nMzyf/FBtOqMWxkWwxSocyreyUeufJRI/WEl3nae4GscC/Pwk10XfYoDkLQdza2ZR+VsDvOlqa3FuDvMw/gcTjZl7aHJnnJk5gv44vQAnAtWEVZPPbM+SzyJtW7yyTeo9M2W+miax9/z5VyNOd+2/oFJOqi4b0/aSK/9WyugvwQsmawnRlOVg6VtS2QLVPR9xsaEHXAWui0GGY+Cvo7fj1vLn45wPG5GrSCayITqgyGmpHtz/QZMRK+GEZIuqXacMpYr2DmwFyX5PQoXwUHvIZwJ5drRR0o/+LiNIvG4g6Ex8N3IrYtTrW33HpneO9lmexqHBvFHf33o4yxikL94D8WsFGrCdvgGBv434IPY4joH6qjUMv0PSxCKkQgVYHMwAX6wrGSdyUqe1mvsoahiYGbM7PfNkkF3koeDRLpe9fynHCTviQ2Xdx8jvlsqMfBxYLuHQi75uHjDBrW2dCDEUDhTyM/IsEXQt50ulYz/O2CxjL6jl57eQH8/SsnqFVRYld9Faz7OuWLZl7WSMZtbOoQPsvuQ2/Lcn/kNSE6EtbowubSM=",
         "icono": "https://staticm11.app.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
@@ -509,18 +521,6 @@
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TIGO SPORTS 3",
-        "url": "jIrGq46A1v3RJFKfQ2pccpoCUKEo3tZSW5O0iIkJo6/il/5QE9oPHgaZstTomFxcyGGX6w2UXOFF1hU8sJaDDCEPAvMjIjoaB/6uBGXekokxQod+GugycsYfr5fUtUP+e8BKQOQO92sfviSU8/BY/hqmhm0DCUOe7nthoI1zLfw9duglWBJP4DQrXjqd/ajkpKBWQ68Ozk8j9AKFwlwcoK1HtKCO5FeVwZ1EkDNba72O8W39pOOU1iufR3gWRFGZgFGDfyJxkSNVPDS/iq+maP6I9oWT0pilms+78hfaqQhR9Zwy1WOoC5jt7tKDS6dDVGVp3wYfSxjcmHx1Bo6D035YMZxRZjRB9sPu2Kgb6h8=",
-        "icono": "",
-        "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
         }
       }
     ]
