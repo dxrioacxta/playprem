@@ -522,6 +522,18 @@
           "Referer": "",
           "User-Agent": "r9zqCbfsMaISdxsTdZMuCXh1lU5DzBPAIHVKDAEEXlOFNxUqCV4Z4xTzDYXmK7ieKCPRgHAGQgEsIdLHYdxriopy1VlrNrO1a4rszjtDpepAFA=="
         }
+      },
+      {
+        "name": "EVENTOS 2",
+        "url": "CV4Y3YokAolz7SAaDbL79w8THr7iDkxlTEfaoMOSSEzU3rUivL67AEuxoOhfvJa91VlrNrO1a4rszjtDpepAFA==",
+        "icono": "",
+        "type": "CLEARKEY",
+        "drm_license_uri": "",
+        "headers": {
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "r9zqCbfsMaISdxsTdZMuCXh1lU5DzBPAIHVKDAEEXlOFNxUqCV4Z4xTzDYXmK7mbaKCPRgHAGQgEsIdLHYdxriopy1VlrNrO1a4rszjtDpepAFA=="
+        }
       }
     ]
   },
