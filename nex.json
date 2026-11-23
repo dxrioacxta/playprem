@@ -907,12 +907,7 @@
         "url": "Hn/nIUf4UxHj+VX4HAs5I6rEFzAxg5AkicIeHErOCwS892CNACzR4+xnI551italzhCEv3D/JPmzIMvCulPR+2KF2NXAFvvpml+Af7qKLtQ=",
         "icono": "https://i.postimg.cc/fynBk5VH/1794775976738.jpg",
         "type": "HLS",
-        "drm_license_uri": "",
-        "headers": {
-          "Origin": "",
-          "Referer": "",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
+        "drm_license_uri": ""
       },
       {
         "name": "GoPLAY SPORT",
